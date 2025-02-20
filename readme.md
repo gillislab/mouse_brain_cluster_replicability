@@ -54,7 +54,7 @@ This repository contains the code and analysis for "Cluster Replicability in Sin
 
 ### /data listing
 Where possible, small data files (<100MB) have been included in the Git repository. Many of these files are supplements from other papers, and the directories are named accordingly. A tree listing of the data files used is:
-
+```
 ├── [ 4.0K]  Allen_CCFv3
 │   └── [  71K]  1-s2.0-S0092867420304025-mmc2.xlsx
 ├── [ 4.0K]  Carla_Winter_etal
@@ -131,3 +131,4 @@ Where possible, small data files (<100MB) have been included in the Git reposito
             └── [ 4.0K]  20230830
                 ├── [ 538M]  cell_metadata.csv
                 └── [  47K]  gene.csv
+```
