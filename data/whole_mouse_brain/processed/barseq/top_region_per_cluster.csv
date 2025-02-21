@@ -1,0 +1,136 @@
+cluster,barseq_region_top,n
+AON DL/PIR A,Anterior olfactory nucleus,3993
+AON UL,Anterior olfactory nucleus,668
+AONm,Anterior olfactory nucleus,961
+BLA/PA/TTd?,Posterior amygdalar nucleus,1445
+CA1,Field CA1,8093
+CA2,Field CA3,1086
+CA3,Field CA3,6829
+CA4,"Dentate gyrus, polymorph layer",384
+COAp L1,"Cortical amygdalar area, posterior part, medial zone",1532
+COAp L2/3,"Cortical amygdalar area, posterior part, medial zone",1230
+CT CTX A,"Primary motor area, Layer 6a",2247
+CT CTX A/ACA,"Secondary motor area, layer 6a",1287
+CT CTX P/RSP,"Primary visual area, layer 6a",1858
+CT CTX UL,"Primary somatosensory area, barrel field, layer 6a",1775
+CT RSP,"Retrosplenial area, ventral part, layer 6a",1018
+CT Unclear,"Supplemental somatosensory area, layer 6a",220
+Car3 CLA/EPd,Claustrum,287
+Car3 CTX DL,"Supplemental somatosensory area, layer 6a",714
+Car3 CTX P-L,"Temporal association areas, layer 6a",294
+Car3 CTX UL,"Supplemental somatosensory area, layer 6a",721
+Car3 EPd/CLA,"Agranular insular area, dorsal part, layer 6a",437
+DG,"Dentate gyrus, granule cell layer",613
+ECT P_1?,"Entorhinal area, medial part, dorsal zone, layer 5",1066
+ECT P_2?,"Entorhinal area, medial part, dorsal zone, layer 5",749
+ENT DL-D/EPv,"Entorhinal area, lateral part, layer 5",709
+ENT DL-V/BLAv,"Secondary motor area, layer 5",430
+ENT?,"Entorhinal area, medial part, dorsal zone, layer 2",1438
+ENTl L1,"Entorhinal area, lateral part, layer 2",1560
+ENTl L2/3 D,"Entorhinal area, lateral part, layer 3",243
+ENTl L2/3 V,"Entorhinal area, lateral part, layer 3",488
+EPd,"Endopiriform nucleus, dorsal part",1427
+GABA_1,middle cerebellar peduncle,242
+GABA_2,Reticular nucleus of the thalamus,1390
+GABA_3,Midbrain,4081
+GABA_4,Caudoputamen,65357
+GABA_5,Caudoputamen,16281
+IT LQ_1,"posteromedial visual area, layer 1",8
+IT LQ_2,"Primary auditory area, layer 2/3",23
+IT LQ_3,"Retrosplenial area, dorsal part, layer 2/3",13
+IT LQ_4,"Primary auditory area, layer 2/3",13
+IT LQ_5,"Retrosplenial area, dorsal part, layer 2/3",12
+IT_12_4,Main olfactory bulb,117
+IT_12_6,"Supplemental somatosensory area, layer 6a",29
+L2/3 IT DL,"Primary somatosensory area, barrel field, layer 2/3",2220
+L2/3 IT M,"Retrosplenial area, dorsal part, layer 2/3",1278
+L2/3 IT M-L/PIR,"Secondary motor area, layer 2/3",3035
+L2/3 IT ML-A,"Secondary motor area, layer 2/3",3646
+L2/3 IT ML-P,"Primary visual area, layer 2/3",4331
+L2/3 IT UL-P/ENT,"Primary visual area, layer 2/3",1801
+L2/3 IT Unclear,"Primary visual area, layer 2/3",270
+L4/5 IT DL,"Supplemental somatosensory area, layer 5",901
+L4/5 IT M,"Secondary motor area, layer 5",245
+L4/5 IT M-L,"Secondary motor area, layer 5",1935
+L4/5 IT ML-A,"Primary somatosensory area, mouth, layer 4",2692
+L4/5 IT ML-P,"Primary visual area, layer 4",4248
+L4/5 IT P-L/LA,"Visceral area, layer 5",530
+L4/5 IT UL,"Primary somatosensory area, barrel field, layer 4",2768
+L5 IT AUD?,"Temporal association areas, layer 5",60
+L5 IT DL,"Secondary motor area, layer 5",1586
+L5 IT M,"Primary visual area, layer 5",1109
+L5 IT P RSP/PT-like?,"Primary visual area, layer 5",154
+L5 IT UL,"Secondary motor area, layer 5",618
+L6 IT DL,"Secondary motor area, layer 6a",989
+L6 IT L,"Prelimbic area, layer 5",484
+L6 IT ML-A,"Primary motor area, Layer 6a",1405
+L6 IT ML-P,"Primary visual area, layer 6a",925
+L6 IT UL,"Primary somatosensory area, mouth, layer 6a",967
+L6b CTX A/L-V,"Temporal association areas, layer 6a",336
+L6b CTX P,supra-callosal cerebral white matter,517
+L6b CTX UL,supra-callosal cerebral white matter,128
+L6b CTXA A/EPd?,cingulum bundle,489
+L6b ENTl,"Entorhinal area, lateral part, layer 6a",2273
+L6b EPd,"Endopiriform nucleus, dorsal part",1162
+L6b PIR DL,Piriform area,373
+LA D,Lateral amygdalar nucleus,964
+Lamp5,Piriform area,569
+MH D,Medial habenula,95
+MH V-L,Medial habenula,382
+MH V-M,Medial habenula,365
+MOB UL,Main olfactory bulb,1197
+Meis2-like,Main olfactory bulb,3450
+NP CTX L5,"Secondary motor area, layer 5",444
+NP CTX L6/M/L,"Secondary motor area, layer 6a",182
+NP POST,Postsubiculum,165
+NP RSP,"Retrosplenial area, ventral part, layer 5",310
+NP SUBd-sp,Subiculum,1464
+NP SUBv-sp/RSP/CTX L,"Retrosplenial area, ventral part, layer 5",503
+OLF BA?,"Nucleus of the lateral olfactory tract, pyramidal layer",481
+P D?,Pontine gray,741
+P V?,Pontine gray,932
+PARA,Parasubiculum,833
+PARA?,Parasubiculum,1047
+PIR L1 DL-A-V,Piriform area,5588
+PIR L1 DL-P,Piriform area,5530
+PIR L1 UL,Piriform area,3502
+PIR L2/3,Piriform area,1694
+PIR L3 A?,Piriform area,118
+PIR L5-IT-like/BLAa,"Basolateral amygdalar nucleus, anterior part",1055
+POST,Area prostriata,262
+PRE,Postsubiculum,1799
+PT CTX A-M/L,"Prelimbic area, layer 5",502
+PT CTX M/RSPd A,"Secondary motor area, layer 5",175
+PT CTX ML,"Secondary motor area, layer 5",590
+PT CTX MOp/s DL,"Secondary motor area, layer 6a",483
+PT CTX P,"Primary visual area, layer 5",1179
+PT CTX UL,"Primary somatosensory area, barrel field, layer 5",586
+PT CTX Unclear,"Primary visual area, layer 5",34
+PT POST/RSPv,"Retrosplenial area, ventral part, layer 5",1183
+PT RSPd P/RSPagl/CTX P-L,"Temporal association areas, layer 5",517
+Pvalb,Caudoputamen,2011
+RSP DL_1,"Retrosplenial area, ventral part, layer 5",545
+RSP DL_2,"Retrosplenial area, ventral part, layer 5",459
+RSP DL_3,"Retrosplenial area, ventral part, layer 5",539
+RSP DL_4,"Retrosplenial area, ventral part, layer 5",541
+RSP DL_5,"Retrosplenial area, ventral part, layer 5",270
+RSP DL_6,"Retrosplenial area, ventral part, layer 5",1330
+RSPd UL,"Retrosplenial area, dorsal part, layer 2/3",1782
+RSPv UL,"Retrosplenial area, ventral part, layer 2/3",3997
+SUB P?,Subiculum,611
+SUBd-m,Subiculum,487
+SUBd-sp,Prosubiculum,231
+SUBd-sr,Subiculum,537
+SUBv?,Field CA1,3265
+Sst,"Secondary motor area, layer 5",753
+Sst Chodl-like,Hypothalamus,3611
+SubCTX_1,Periaqueductal gray,9702
+SubCTX_2,Subparaventricular zone,151
+SubCTX_3,Ventral posteromedial nucleus of the thalamus,4190
+SubCTX_4,Caudoputamen,474
+SubCTX_5,Caudoputamen,927
+SubCTX_6,lateral ventricle,1935
+SubCTX_7,Triangular nucleus of septum,836
+TH AD?,Anterodorsal nucleus,368
+TT/PIR A,Piriform area,2026
+Vip/Sncg,"Superior colliculus, superficial gray layer",1155
