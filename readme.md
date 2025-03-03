@@ -53,7 +53,7 @@ This repository contains the code and analysis for "Cluster Replicability in Sin
 - examine_greeedy_runs_meta_markers.R: generates Supplement Figure 1, counting the number of clusters where Metamarkers achieve a 0.95 best-vs-next AUROC threshold.  
 
 ### /data listing
-Where possible, small data files (<100MB) have been included in the Git repository. Many of these files are supplements from other papers, and the directories are named accordingly. A tree listing of the data files used is:
+Where possible, small data files (<100MB) have been included in the Git repository. Many of these files are supplements from other papers, and the directories are named accordingly. A good number of the larger files are available on [FigShare](https://figshare.com/articles/dataset/Files_for_Cluster_replicability_in_single-cell_and_single-nucleus_atlases_of_the_mouse_brain/28462349). A tree listing of the data files used is:
 ```
 ├── [ 4.0K]  Allen_CCFv3
 │   └── [  71K]  1-s2.0-S0092867420304025-mmc2.xlsx
