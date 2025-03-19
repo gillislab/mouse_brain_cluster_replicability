@@ -19,7 +19,7 @@ base_data_folder <- here()
 
 #This code is for the 109 gene pretrained models, the larger versions based on highly variable genes are at:
 #Zeng_pretrained <- here('data/whole_mouse_brain/processed/zeng/merged_Zeng_AWS.Oct2023.pretrained_Zeng.csv.gz')
-#Macosko_pretrained <- here('data/whole_mouse_brain/processed/macosko/merged_Zeng_AWS.Oct2023.pretrained_Macosko.csv.gz')
+#Macosko_pretrained <- here('data/whole_mouse_brain/processed/macosko/merged_Zeng_AWS.Oct2023.pretrained_Macosko.csv.gz') #this filename is because it's loaded from the merged file
 
 base_barseq_folder <- paste0(base_data_folder, "/data/whole_mouse_brain/processed/barseq/")
 
