@@ -1,0 +1,1205 @@
+target_study,species,target_celltype,target_size,ref_celltype,AUROC,is_recip
+Tosches_turtle,turtle,Tosches_turtle|e01,71,Macosko|Ex_Ebf2_Tnfaip8_2,0.982515941080494,FALSE
+Tosches_turtle,turtle,Tosches_turtle|e02,492,Macosko|Ex_Gabra6_Optc,0.916763858113462,TRUE
+Tosches_turtle,turtle,Tosches_turtle|e03,104,Macosko|Ex_Rorb_Dnah14,0.916886316635791,TRUE
+Tosches_turtle,turtle,Tosches_turtle|e04,73,Macosko|Ex_Slc30a3_Teddm3_1,0.960363715134511,FALSE
+Tosches_turtle,turtle,Tosches_turtle|e05,134,Macosko|Ex_Fezf2_Pirt_Stum,0.926340855218806,TRUE
+Tosches_turtle,turtle,Tosches_turtle|e06,58,Macosko|Ex_Rorb_Rxfp2,0.943307394510409,TRUE
+Tosches_turtle,turtle,Tosches_turtle|e07,48,Macosko|Ex_Fezf2_Cfap58_1,0.974209280048701,TRUE
+Tosches_turtle,turtle,Tosches_turtle|e08,39,Macosko|Ex_Fezf2_Pvalb_Pirt,0.974946793426338,TRUE
+Tosches_turtle,turtle,Tosches_turtle|e09,28,Macosko|Ex_Abi3bp_Insyn2b,0.941083022252202,TRUE
+Tosches_turtle,turtle,Tosches_turtle|e10,66,Macosko|Ex_Iqcj_Ms4a15_4,0.971786524853894,FALSE
+Tosches_turtle,turtle,Tosches_turtle|e11,123,Macosko|Ex_Iqcj_Ms4a15_5,0.939437865956699,FALSE
+Tosches_turtle,turtle,Tosches_turtle|e12,98,Macosko|Ex_Sim1_Cartpt,0.956019732177893,TRUE
+Tosches_turtle,turtle,Tosches_turtle|e13,169,Macosko|Ex_Slc30a3_Shisa8_5,0.914999053049692,FALSE
+Tosches_turtle,turtle,Tosches_turtle|e14,166,Macosko|Ex_Rspo1_Fos,0.936692116864669,FALSE
+Tosches_turtle,turtle,Tosches_turtle|e15,116,Macosko|Ex_Rorb_Col8a1,0.917006400568113,TRUE
+Tosches_turtle,turtle,Tosches_turtle|e16,105,Macosko|Ex_Fezf2_Fibcd1_Fos_Sema3e,0.945861555829228,TRUE
+Tosches_turtle,turtle,Tosches_turtle|e17,479,Macosko|Ex_Evx2_Tafa3,0.894108478223286,TRUE
+Tosches_turtle,turtle,Tosches_turtle|e18,327,Macosko|Inh_Ppp1r1b_Drd2_Pde1a_Myo3b,0.894478736521779,TRUE
+Tosches_turtle,turtle,Tosches_turtle|e19,718,Macosko|Inh_Ppp1r1b_Drd2_Sphkap_2,0.911477046388368,FALSE
+Tosches_turtle,turtle,Tosches_turtle|e20,65,Macosko|Inh_Six3_Six6_2,0.899221670802316,TRUE
+Tosches_turtle,turtle,Tosches_turtle|e21,84,Macosko|Inh_Sall3_Cytip_2,0.918802745251806,FALSE
+Tosches_turtle,turtle,Tosches_turtle|e22,66,Macosko|Ex_Ccn3_Fezf2_Col6a3,0.939158508033179,TRUE
+Tosches_turtle,turtle,Tosches_turtle|e23,53,Macosko|Ex_Lhx9_Mstn_Pld5,0.965495987575474,FALSE
+Tosches_turtle,turtle,Tosches_turtle|e24,110,Macosko|Ex_Fezf2_Lhx9_2,0.944187060581563,TRUE
+Tosches_turtle,turtle,Tosches_turtle|e25,79,Macosko|Ex_Fn1_Nts,0.942214570106532,TRUE
+Tosches_turtle,turtle,Tosches_turtle|e26,49,Macosko|Ex_Fibcd1_Slc9a4_2,0.932618857598906,FALSE
+Tosches_turtle,turtle,Tosches_turtle|e27,121,Macosko|Ex_Zic1_Slc38a4,0.934882147619421,TRUE
+Tosches_turtle,turtle,Tosches_turtle|e28,82,Macosko|Ex_Fibcd1_Apela_Ptpro,0.948629943706745,FALSE
+Tosches_turtle,turtle,Tosches_turtle|e29,68,Macosko|Ex_Dsp_Atf3_1,0.942599059304315,FALSE
+Tosches_turtle,turtle,Tosches_turtle|e30,105,Macosko|NG_Draxin_1,0.901436268472906,TRUE
+Tosches_turtle,turtle,Tosches_turtle|e31,99,Macosko|NG_Draxin_3,0.92630549815727,FALSE
+Tosches_turtle,turtle,Tosches_turtle|e32,80,Macosko|Ex_Dsp_Moxd1_2,0.979761232176486,FALSE
+Tosches_turtle,turtle,Tosches_turtle|e33,60,Macosko|Ex_Crym_Odad2_2,0.965600644987906,TRUE
+Tosches_turtle,turtle,Tosches_turtle|e34,59,Macosko|Ex_Crym_Odad2_3,0.980681464153171,TRUE
+Tosches_turtle,turtle,Tosches_turtle|e35,84,Macosko|NG_Draxin_3,0.944273592328057,FALSE
+Tosches_turtle,turtle,Tosches_turtle|e36,102,Macosko|Ex_Crym_Odad2_Fos,0.919957262655102,FALSE
+Tosches_turtle,turtle,Tosches_turtle|e37,106,Macosko|Ex_Crym_Mndal_2,0.92910269848225,FALSE
+Tosches_turtle,turtle,Tosches_turtle|e38,70,Macosko|Ex_Crym_Mndal_2,0.915671647524296,FALSE
+Tosches_turtle,turtle,Tosches_turtle|i01,33,Macosko|Inh_Frmd7_Trh_1,0.999019282563722,FALSE
+Tosches_turtle,turtle,Tosches_turtle|i02,49,Macosko|Inh_Pax6_Fbln2_1,0.96297128649483,TRUE
+Tosches_turtle,turtle,Tosches_turtle|i03,25,Macosko|Inh_Pax6_Eya4_3,0.989388412017167,TRUE
+Tosches_turtle,turtle,Tosches_turtle|i04,41,Macosko|Inh_Ppp1r1b_Drd2_Atf3,0.977001875366692,TRUE
+Tosches_turtle,turtle,Tosches_turtle|i05,67,Macosko|Inh_Ppp1r1b_Drd1_Tns3_1,0.971476631253882,TRUE
+Tosches_turtle,turtle,Tosches_turtle|i06,57,Macosko|Inh_Vwc2l_Otogl1_3,0.988063990586958,TRUE
+Tosches_turtle,turtle,Tosches_turtle|i07,8,Macosko|Inh_Lhx6_Sst_Ctsc_8,0.990385646138179,FALSE
+Tosches_turtle,turtle,Tosches_turtle|i08,34,Macosko|Inh_Lhx6_Sst_Chodl_1,0.995358779011578,TRUE
+Tosches_turtle,turtle,Tosches_turtle|i09,47,Macosko|Inh_Lhx6_Sst_Ctsc_4,0.993396918561996,FALSE
+Tosches_turtle,turtle,Tosches_turtle|i10,36,Macosko|Inh_Lhx6_Sfrp1_1,0.994019181562796,FALSE
+Tosches_turtle,turtle,Tosches_turtle|i11,26,Macosko|Inh_Lhx6_Car8_8,0.993464901963212,TRUE
+Tosches_turtle,turtle,Tosches_turtle|i12,39,Macosko|Inh_Lhx6_Sst_Ctsc_4,0.997206826960934,FALSE
+Tosches_turtle,turtle,Tosches_turtle|i13,23,Macosko|Inh_Lhx6_Pthlh,0.994027045054878,TRUE
+Tosches_turtle,turtle,Tosches_turtle|i14,31,Macosko|Inh_Vip_Crh_2,0.983358550274039,TRUE
+Tosches_turtle,turtle,Tosches_turtle|i15,35,Macosko|Inh_Htr3a_Pdzph1_1,0.979938655011119,FALSE
+Tosches_turtle,turtle,Tosches_turtle|i16,34,Macosko|Inh_Sncg_Calcb_2,0.980206928995633,FALSE
+Tosches_turtle,turtle,Tosches_turtle|i17,36,Macosko|Inh_Htr3a_Grpr_2,0.996053047518505,TRUE
+Tosches_turtle,turtle,Tosches_turtle|i18,19,Macosko|Inh_Htr3a_Cxcl14_1,0.983459130503509,TRUE
+Tosches_turtle,turtle,Tosches_turtle|tsEG,6514,Macosko|Astro_Fabp7_Hs3st3a1_3,0.997685808403098,TRUE
+Tosches_turtle,turtle,Tosches_turtle|tsExc1,103,Macosko|Inh_Plpp4_Cartpt,0.824243704907092,TRUE
+Tosches_turtle,turtle,Tosches_turtle|tsExc2,366,Macosko|NG_Draxin_3,0.801356758424197,FALSE
+Tosches_turtle,turtle,Tosches_turtle|tsExc3,326,Macosko|Ex_Irx2_Slc43a3_1,0.807919325772257,TRUE
+Tosches_turtle,turtle,Tosches_turtle|tsExc4,877,Macosko|Ex_Gabra6_Gabrd,0.834596767349082,TRUE
+Tosches_turtle,turtle,Tosches_turtle|tsExc5,528,Macosko|Ex_Sln_Niban1,0.772788569657539,TRUE
+Tosches_turtle,turtle,Tosches_turtle|tsInh1,551,Macosko|Inh_Aqp9_4930523C07Rik,0.941917663228671,TRUE
+Tosches_turtle,turtle,Tosches_turtle|tsInh2,295,Macosko|Inh_Lhx6_Sst_Crhbp,0.909379146176061,TRUE
+Tosches_turtle,turtle,Tosches_turtle|tsLeuB,36,Macosko|Pit_Six1_Pomc_1,0.870727241278532,FALSE
+Tosches_turtle,turtle,Tosches_turtle|tsLeuT,36,Macosko|Lymphocyte_Itgal_Cd3e,0.975654743798498,TRUE
+Tosches_turtle,turtle,Tosches_turtle|tsMG,589,Macosko|Macro_Mrc1_Cd209a,0.996288355785852,TRUE
+Tosches_turtle,turtle,Tosches_turtle|tsMur,114,Macosko|Fibro_Eya2_Lypd2_2,0.992465531247665,FALSE
+Tosches_turtle,turtle,Tosches_turtle|tsNPCs,717,Macosko|NG_Draxin_5,0.972628504662004,TRUE
+Tosches_turtle,turtle,Tosches_turtle|tsOlig,155,Macosko|Oligo_Opalin_Enpp6_2,0.995102908628292,FALSE
+Tosches_turtle,turtle,Tosches_turtle|tsOPC,1862,Macosko|OPC_Cspg5,0.989936327287471,TRUE
+Tosches_lizard,lizard,Tosches_lizard|e01,21,Macosko|Ex_Dsp_Moxd1_2,0.953192510801728,FALSE
+Tosches_lizard,lizard,Tosches_lizard|e02,85,Macosko|Ex_Crlf1_Ntn5_1,0.92418619324863,TRUE
+Tosches_lizard,lizard,Tosches_lizard|e03,141,Macosko|Ex_Dsp_Moxd1_4,0.932690723348163,FALSE
+Tosches_lizard,lizard,Tosches_lizard|e04,44,Macosko|Ex_Crym_Odad2_Fos,0.900220525311039,FALSE
+Tosches_lizard,lizard,Tosches_lizard|e05,134,Macosko|Ex_Dsp_Atf3_1,0.869269492655155,FALSE
+Tosches_lizard,lizard,Tosches_lizard|e06,106,Macosko|Ex_Fibcd1_Tacr3_1,0.878456538121899,TRUE
+Tosches_lizard,lizard,Tosches_lizard|e07,14,Macosko|Ex_Fezf2_Dlk1_Meis2,0.929598438944233,FALSE
+Tosches_lizard,lizard,Tosches_lizard|e08,62,Macosko|Ex_Fezf2_Plscr4,0.947616813294233,FALSE
+Tosches_lizard,lizard,Tosches_lizard|e09,19,Macosko|Ex_Plekhg1_Fign_Ppp1r3a_3,0.962786645115668,TRUE
+Tosches_lizard,lizard,Tosches_lizard|e10,38,Macosko|Ex_Crym_Plagl1_1,0.990581116565818,TRUE
+Tosches_lizard,lizard,Tosches_lizard|e11,16,Macosko|Ex_Tfap2d_Kcnk15,0.983801846080077,FALSE
+Tosches_lizard,lizard,Tosches_lizard|e12,41,Macosko|Ex_Oprk1_Col11a1,0.946525007941831,TRUE
+Tosches_lizard,lizard,Tosches_lizard|e13,21,Macosko|Ex_Lhx2_Nek11_2,0.951603685161054,FALSE
+Tosches_lizard,lizard,Tosches_lizard|e14,33,Macosko|Ex_Rorb_Endou_2,0.941144716301192,TRUE
+Tosches_lizard,lizard,Tosches_lizard|e15,48,Macosko|Ex_Rorb_Endou_2,0.96620057179673,TRUE
+Tosches_lizard,lizard,Tosches_lizard|e16,13,Macosko|Ex_Tfap2d_Casq2,0.990066713353728,TRUE
+Tosches_lizard,lizard,Tosches_lizard|e17,61,Macosko|Ex_Lmx1a_Bdnf_4,0.887017950938868,FALSE
+Tosches_lizard,lizard,Tosches_lizard|e18,73,Macosko|Ex_Ccn3_Fezf2_Col6a3,0.916286519136127,TRUE
+Tosches_lizard,lizard,Tosches_lizard|i01,34,Macosko|Inh_Lhx6_Cxcr4_3,0.994730952819365,FALSE
+Tosches_lizard,lizard,Tosches_lizard|i02,19,Macosko|Inh_Lhx6_Pvalb_Tac1,0.997752298211941,TRUE
+Tosches_lizard,lizard,Tosches_lizard|i03,24,Macosko|Inh_Lhx6_Car8_2,0.99256345584114,FALSE
+Tosches_lizard,lizard,Tosches_lizard|i04,52,Macosko|Inh_Vip_Sncg_Yjefn3,0.983685238582457,TRUE
+Tosches_lizard,lizard,Tosches_lizard|i05,21,Macosko|Inh_Ppp1r1b_Drd1_Tns3_1,0.992033010996045,TRUE
+Tosches_lizard,lizard,Tosches_lizard|pvEG,520,Macosko|Astro_Fabp7_Siah3,0.98726269639823,FALSE
+Tosches_lizard,lizard,Tosches_lizard|pvExc1,18,Macosko|Inh_Plpp4_Pdgfd,0.905293035899896,TRUE
+Tosches_lizard,lizard,Tosches_lizard|pvExc2,659,Macosko|NG_Draxin_2,0.747166823229039,TRUE
+Tosches_lizard,lizard,Tosches_lizard|pvExc3,199,Macosko|Ex_Ebf2_Tnfaip8_3,0.835308689888762,TRUE
+Tosches_lizard,lizard,Tosches_lizard|pvExc4,59,Macosko|Ex_Ebf2_Postn,0.853501510970963,TRUE
+Tosches_lizard,lizard,Tosches_lizard|pvInh1,68,Macosko|Inh_Vip_Trim55_7,0.927081101923654,TRUE
+Tosches_lizard,lizard,Tosches_lizard|pvInh2,31,Macosko|Inh_Lhx6_Sst_Ctsc_8,0.961385016610264,FALSE
+Tosches_lizard,lizard,Tosches_lizard|pvLeu,95,Macosko|Lymphocyte_Itgal_Cd3e,0.873398672634666,TRUE
+Tosches_lizard,lizard,Tosches_lizard|pvMG,278,Macosko|Macro_Mrc1_H2-Aa,0.992699010400275,FALSE
+Tosches_lizard,lizard,Tosches_lizard|pvMur,42,Macosko|Fibro_Eya2_Meox2,0.999241771497501,FALSE
+Tosches_lizard,lizard,Tosches_lizard|pvNPC,131,Macosko|Inh_Vcan_St8sia2_1,0.98867006940994,TRUE
+Tosches_lizard,lizard,Tosches_lizard|pvOlig,551,Macosko|Oligo_Klk6_2,0.994368674617008,FALSE
+Tosches_lizard,lizard,Tosches_lizard|pvOPC,398,Macosko|OPC_Cspg5,0.990786606561443,TRUE
+Tosches_lizard,lizard,Tosches_lizard|pvVend,18,Macosko|Endo_Flt1_Rgs5_Slc19a3_1,0.999200447749261,TRUE
+Franjic_pig,pig,Franjic_pig|Astro,2229,Macosko|Astro_Emid1_Cd38,0.998686577713147,TRUE
+Franjic_pig,pig,Franjic_pig|CA1 Sub,2756,Macosko|Ex_Fezf2_Fn1_Mctp2,0.99391092420627,TRUE
+Franjic_pig,pig,Franjic_pig|CA2-3,1879,Macosko|Ex_Crym_Odad2_1,0.97525630935829,TRUE
+Franjic_pig,pig,Franjic_pig|GC,2889,Macosko|Ex_Dsp_Atf3_3,0.993405483688741,TRUE
+Franjic_pig,pig,Franjic_pig|immune,4749,Macosko|Micro_Selplg_Siglech,0.999841930987534,TRUE
+Franjic_pig,pig,Franjic_pig|InN,2553,Macosko|Inh_Lhx6_Cox6a2_Rxfp3,0.997742465824012,FALSE
+Franjic_pig,pig,Franjic_pig|MC,148,Macosko|Ex_Crym_Csf2rb2,0.968784678474622,TRUE
+Franjic_pig,pig,Franjic_pig|NB,1606,Macosko|NG_Draxin_4,0.997515841343296,FALSE
+Franjic_pig,pig,Franjic_pig|nIPC,4,Macosko|Ng_Lhx1_Mab21l3_1,0.954073601650066,FALSE
+Franjic_pig,pig,Franjic_pig|Oligo,15321,Macosko|Oligo_Opalin_Enpp6_1,0.996012897912525,FALSE
+Franjic_pig,pig,Franjic_pig|OPC,1963,Macosko|OPC_Cspg5,0.995213604281828,TRUE
+Franjic_pig,pig,Franjic_pig|RGL,8,Macosko|Ependymal_Tmem212_1700012P22Rik_Sntn,0.966781342453112,FALSE
+Franjic_pig,pig,Franjic_pig|Vas,746,Macosko|Endo_Flt1_Kcnj8_Ccl19_2,0.973469991642636,FALSE
+Franjic_rhesus,rhesus,Franjic_rhesus|Astro,4196,Macosko|Astro_Ephb1_Gfap,0.998337659444214,TRUE
+Franjic_rhesus,rhesus,Franjic_rhesus|CA1 Sub,1100,Macosko|Ex_Fezf2_Tmem255b_2,0.89107282439616,TRUE
+Franjic_rhesus,rhesus,Franjic_rhesus|CA2-3,3653,Macosko|Ex_Crym_Cldn22,0.985212998562635,TRUE
+Franjic_rhesus,rhesus,Franjic_rhesus|CR,71,Macosko|Ng_Lhx1_Mab21l3_1,0.97684201557441,FALSE
+Franjic_rhesus,rhesus,Franjic_rhesus|GC,19803,Macosko|Ex_Dsp_Atf3_1,0.95628766832198,FALSE
+Franjic_rhesus,rhesus,Franjic_rhesus|immune,693,Macosko|Endo_Flt1_Exoc3l2_2,0.937842307413663,FALSE
+Franjic_rhesus,rhesus,Franjic_rhesus|InN,2554,Macosko|Inh_Lhx6_Kcnmb1_3,0.96664589205997,TRUE
+Franjic_rhesus,rhesus,Franjic_rhesus|MC,402,Macosko|Ex_Crym_Csf2rb2,0.9495923268408,TRUE
+Franjic_rhesus,rhesus,Franjic_rhesus|NB,400,Macosko|NG_Draxin_2,0.954101576721651,TRUE
+Franjic_rhesus,rhesus,Franjic_rhesus|nIPC,23,Macosko|NG_Draxin_12,0.990190762616696,TRUE
+Franjic_rhesus,rhesus,Franjic_rhesus|Oligo,1388,Macosko|Oligo_Opalin_Synpr,0.997494976755745,TRUE
+Franjic_rhesus,rhesus,Franjic_rhesus|OPC,1596,Macosko|OPC_Cspg5,0.998519595909597,TRUE
+Franjic_rhesus,rhesus,Franjic_rhesus|RGL,7,Macosko|Astro_Ephb1_Gfap,0.954673525920063,TRUE
+Franjic_rhesus,rhesus,Franjic_rhesus|Vas,221,Macosko|Endo_Flt1_Lrg1_3,0.997108616703019,FALSE
+Franjic_human,human,Franjic_human|aEndo DKK2 FBLN5,169,Macosko|Endo_Flt1_Cytl1,0.985333708222759,FALSE
+Franjic_human,human,Franjic_human|aSMC ACTA2 TAGLN,572,Macosko|Endo_Flt1_Actg2,0.988617503712292,FALSE
+Franjic_human,human,Franjic_human|Astro AQP4 CHRDL1,12538,Macosko|Astro_Ephb1_Fzd2,0.980398463742854,TRUE
+Franjic_human,human,Franjic_human|Astro AQP4 GFAP,17256,Macosko|Astro_Emid1_Cd38,0.952123026606768,TRUE
+Franjic_human,human,Franjic_human|CA1 dorsal GRIK1 GRM3,2993,Macosko|Ex_Crym_Chrna5,0.98466511416355,TRUE
+Franjic_human,human,Franjic_human|CA1 ventral ACVR1C SYT13,2204,Macosko|Ex_Fibcd1_Psrc1_1,0.993490732019939,FALSE
+Franjic_human,human,Franjic_human|CA2 CFAP299 HGF,108,Macosko|Ex_Crym_Rgs5,0.986764778023056,FALSE
+Franjic_human,human,Franjic_human|CA3 CFAP299 SYN3,4229,Macosko|Ex_Crym_Odad2_1,0.978270579304425,TRUE
+Franjic_human,human,Franjic_human|COP GPR17 ADAM33,328,Macosko|OPC_Cspg5,0.934702601380698,TRUE
+Franjic_human,human,Franjic_human|CR RELN NDNF,31,Macosko|Ng_Lhx1_Mab21l3_1,0.999932398966279,FALSE
+Franjic_human,human,Franjic_human|DG GC PROX1 PDLIM5,4470,Macosko|Ex_Dsp_Moxd1_2,0.975175931535876,FALSE
+Franjic_human,human,Franjic_human|DG GC PROX1 SGCZ,29537,Macosko|Ex_Dsp_Gsg1l,0.982906352650541,TRUE
+Franjic_human,human,Franjic_human|DG MC ARHGAP24 DLC1,444,Macosko|Ex_Crym_Csf2rb2,0.983714817354246,TRUE
+Franjic_human,human,Franjic_human|EC L2 CUX2 CALB1,4001,Macosko|Ex_Rorb_Naa11_Gsg1l,0.986317196815965,FALSE
+Franjic_human,human,Franjic_human|EC L2 CUX2 IL1RAPL2,687,Macosko|Ex_Tfap2b_Chrdl1,0.978818814664042,FALSE
+Franjic_human,human,Franjic_human|EC L2 CUX2 LAMA3,705,Macosko|Ex_Plcg2_Traf1_2,0.985183027041287,FALSE
+Franjic_human,human,Franjic_human|EC L2 CUX2 PDGFD,196,Macosko|Ex_Rspo1_Fos,0.960272095788997,FALSE
+Franjic_human,human,Franjic_human|EC L2 RELN BCL11B,197,Macosko|Ex_Iqcj_Ms4a15_7,0.968501065402821,TRUE
+Franjic_human,human,Franjic_human|EC L2 RELN BMPR1B,141,Macosko|Ex_Plekhg1_Adamtsl3_Slc17a8_2,0.987660241193131,FALSE
+Franjic_human,human,Franjic_human|EC L3 PCP4 ADARB2,554,Macosko|Ex_Slc30a3_Shisa8_5,0.983751043029588,FALSE
+Franjic_human,human,Franjic_human|EC L5 BCL11B ADRA1A,83,Macosko|Ex_Fezf2_Slc17a8_Rxfp1,0.975256734209357,FALSE
+Franjic_human,human,Franjic_human|EC L5 RORB TLL1,1443,Macosko|Ex_Fezf2_Rgs16,0.979016589296212,TRUE
+Franjic_human,human,Franjic_human|EC L5 RORB TPBG,311,Macosko|Ex_Rspo1_Fos,0.96956989043576,FALSE
+Franjic_human,human,Franjic_human|EC L56 TLE4 NXPH2,98,Macosko|Ex_Fezf2_Slc17a8_Rxfp1,0.986059283962032,FALSE
+Franjic_human,human,Franjic_human|EC L6 THEMIS CDH13,724,Macosko|Ex_Dcn_Grik3,0.983958051597869,TRUE
+Franjic_human,human,Franjic_human|EC L6 THEMIS RGS12,87,Macosko|Ex_Oprk1_Col11a1,0.995733807610172,TRUE
+Franjic_human,human,Franjic_human|EC L6 TLE4 SULF1,515,Macosko|Ex_Fezf2_Col6a1_Gp139_Fos,0.992598039736154,TRUE
+Franjic_human,human,Franjic_human|EC L6b TLE4 CCN2,232,Macosko|Ex_Nxph4_Kcnj5,0.995026181248714,FALSE
+Franjic_human,human,Franjic_human|Endo CLDN5 VWF,3458,Macosko|Endo_Flt1_Rgs5_Slc19a3_1,0.987675191350003,TRUE
+Franjic_human,human,Franjic_human|InN LAMP5 CHST9,1703,Macosko|Inh_Lhx6_Car8_4,0.996335597439957,FALSE
+Franjic_human,human,Franjic_human|InN LAMP5 KIT,1005,Macosko|Inh_Lamp5_Tnnt1_1,0.989551050085888,TRUE
+Franjic_human,human,Franjic_human|InN LAMP5 NMBR,489,Macosko|Inh_Lamp5_Ndnf_Prom1,0.995930735223548,TRUE
+Franjic_human,human,Franjic_human|InN LHX6 AC008415.1,294,Macosko|Inh_Lhx6_Pvalb_Tac1,0.991176914531697,TRUE
+Franjic_human,human,Franjic_human|InN MEIS2 SHISAL2B,90,Macosko|Inh_Frmd7_Edaradd,0.992397722244549,TRUE
+Franjic_human,human,Franjic_human|InN NR2F2 ANO2,445,Macosko|Inh_Htr3a_Grpr_3,0.991664311419538,TRUE
+Franjic_human,human,Franjic_human|InN NR2F2 DDR2,208,Macosko|Inh_Vwc2l_Otogl1_2,0.989058979631289,TRUE
+Franjic_human,human,Franjic_human|InN NR2F2 MIR4300HG,352,Macosko|Inh_Vip_Sncg_Yjefn3,0.989256644245534,TRUE
+Franjic_human,human,Franjic_human|InN NR2F2 PTPRK,246,Macosko|Inh_Vip_Crh_1,0.991549972215076,TRUE
+Franjic_human,human,Franjic_human|InN NR2F2 SLC17A8,760,Macosko|Inh_Sncg_Sln_Plch2_2,0.99196120609635,TRUE
+Franjic_human,human,Franjic_human|InN PVALB MEPE,835,Macosko|Inh_Lhx6_Sst_Th_Ephb1,0.994722780007409,TRUE
+Franjic_human,human,Franjic_human|InN PVALB PLCL1,673,Macosko|Inh_Lhx6_Pvalb_Tac1,0.996302622850623,TRUE
+Franjic_human,human,Franjic_human|InN PVALB PLEKHH2,563,Macosko|Inh_Lhx6_Vipr2,0.992150232311408,TRUE
+Franjic_human,human,Franjic_human|InN SST ADAMTS12,639,Macosko|Inh_Lhx6_Sst_Itgad,0.993985157570795,FALSE
+Franjic_human,human,Franjic_human|InN SST EPB41L4A,568,Macosko|Inh_Lhx6_Sst_AW551984,0.993212923013849,FALSE
+Franjic_human,human,Franjic_human|InN SST NPY,46,Macosko|Inh_Lhx6_Sst_Chodl_2,0.999207905224967,FALSE
+Franjic_human,human,Franjic_human|InN SST OTOF,562,Macosko|Inh_Lhx6_Sst_AW551984,0.987831768250161,FALSE
+Franjic_human,human,Franjic_human|InN VIP ABI3BP,1217,Macosko|Inh_Vip_Grpr,0.98726491946549,TRUE
+Franjic_human,human,Franjic_human|InN VIP CHRNA2,457,Macosko|Inh_Vip_Grpr,0.986500158852809,TRUE
+Franjic_human,human,Franjic_human|InN VIP NOX4,749,Macosko|Inh_Vip_Grpr,0.978433705642584,TRUE
+Franjic_human,human,Franjic_human|InN VIP PENK,445,Macosko|Inh_Vip_Glp1r_Kcnh5,0.993017294889327,TRUE
+Franjic_human,human,Franjic_human|InN VIP SCML4,496,Macosko|Inh_Vip_Crh_2,0.987345234732243,TRUE
+Franjic_human,human,Franjic_human|InN VIP SCTR,700,Macosko|Inh_Vip_Grpr,0.9786892756718,TRUE
+Franjic_human,human,Franjic_human|Macro F13A1 COLEC12,273,Macosko|Macro_Mrc1_Ms4a4a,0.973982067631084,TRUE
+Franjic_human,human,Franjic_human|Micro C1QB CD83,2223,Macosko|Macro_Mrc1_H2-Aa,0.97946421591007,FALSE
+Franjic_human,human,Franjic_human|Micro C1QB P2RY12,14233,Macosko|Micro_Selplg_Siglech,0.987763900323991,TRUE
+Franjic_human,human,Franjic_human|Myeloid LSP1 LYZ,67,Macosko|Granulocyte_Ly6g_Ltf_1,0.986194075855499,FALSE
+Franjic_human,human,Franjic_human|Oligo CPXM2 KANK4,5426,Macosko|Oligo_Klk6_1,0.932661713646509,TRUE
+Franjic_human,human,Franjic_human|Oligo OPALIN LAMA2,36017,Macosko|Oligo_Opalin_Synpr,0.856741413932229,TRUE
+Franjic_human,human,Franjic_human|Oligo OPALIN LINC01098,3405,Macosko|Oligo_Opalin_Synpr,0.833555540661521,TRUE
+Franjic_human,human,Franjic_human|Oligo OPALIN SLC5A11,30843,Macosko|Oligo_Klk6_1,0.930636330717669,TRUE
+Franjic_human,human,Franjic_human|OPC PDGFRA EGR1,2661,Macosko|OPC_Cspg5,0.95674331061497,TRUE
+Franjic_human,human,Franjic_human|OPC PDGFRA GRIA4,17438,Macosko|OPC_Cspg5,0.992441703336135,TRUE
+Franjic_human,human,Franjic_human|PC CLDN5 ABCC9,742,Macosko|Endo_Flt1_Acta2_Olfr558_1,0.995408260801907,FALSE
+Franjic_human,human,Franjic_human|SUB distal FN1 NTNG1,433,Macosko|Ex_Fezf2_Nts,0.993751435660364,TRUE
+Franjic_human,human,Franjic_human|SUB proximal ROBO1 COL5A2,1192,Macosko|Ex_Ccn3_Fezf2_Dcn_2,0.984043459815241,TRUE
+Franjic_human,human,Franjic_human|SUB proximal ROBO1 SEMA3E,304,Macosko|Ex_Fezf2_Myzap,0.996553867526272,TRUE
+Franjic_human,human,Franjic_human|T SKAP1 CD247,479,Macosko|Lymphocyte_Itgal_Cd3e,0.975807908857803,TRUE
+Franjic_human,human,Franjic_human|VLMC COL1A1 COL1A2,679,Macosko|Fibro_Eya2_Rbp4_4,0.983707683189663,FALSE
+Franjic_human,human,Franjic_human|vSMC ABCC9 P2RY14,790,Macosko|Endo_Flt1_Kcnj8_Ccl19_1,0.989115169761109,FALSE
+Sepp_human,human,Sepp_human|astroglia,1403,Macosko|Astro_Emid1_Cd38,0.999765909044636,TRUE
+Sepp_human,human,Sepp_human|erythroid,2,Macosko|Ng_Lhx1_Mab21l3_2,0.967096155893941,TRUE
+Sepp_human,human,Sepp_human|GC,23047,Macosko|Ex_Gabra6_Gabrd,0.979616919572859,TRUE
+Sepp_human,human,Sepp_human|glutamatergic_uncertain,1107,Macosko|Ex_Nkx2-4_Cdkn1c_1,0.800018771007901,FALSE
+Sepp_human,human,Sepp_human|immune,1131,Macosko|Micro_Selplg_Siglech,0.999434842543259,TRUE
+Sepp_human,human,Sepp_human|interneuron,782,Macosko|Inh_Tfap2a_Sla,0.999971215106312,TRUE
+Sepp_human,human,Sepp_human|meningeal,21,Macosko|Fibro_Eya2_Ccdc192_3,0.998106399304961,FALSE
+Sepp_human,human,Sepp_human|mural/endoth,12,Macosko|Endo_Flt1_Acta2_Olfr558_2,0.957510074381779,FALSE
+Sepp_human,human,Sepp_human|oligo,9847,Macosko|Oligo_Opalin_Enpp6_1,0.994608234367071,FALSE
+Sepp_human,human,Sepp_human|other,213,Macosko|Inh_Vcan_Cd1d1,0.637428422074941,FALSE
+Sepp_human,human,Sepp_human|Purkinje,1,Macosko|Ex_Ebf2_Nat8f6_1,1,TRUE
+Sepp_opossum,opossum,Sepp_opossum|astroglia,179,Macosko|Astro_Emid1_Gdf10,0.999959836878953,TRUE
+Sepp_opossum,opossum,Sepp_opossum|ependymal,16,Macosko|Ependymal_Tmem212_Dnase2b,0.999994597631602,FALSE
+Sepp_opossum,opossum,Sepp_opossum|GC,9368,Macosko|Ex_Gabra6_Gabrd,0.983268986987054,TRUE
+Sepp_opossum,opossum,Sepp_opossum|GC/UBC,2,Macosko|Inh_Sp8_Tgfbi,0.962315462315462,FALSE
+Sepp_opossum,opossum,Sepp_opossum|immune,66,Macosko|Lymphocyte_Itgal_Spn,0.998461040652203,FALSE
+Sepp_opossum,opossum,Sepp_opossum|interneuron,398,Macosko|Inh_Frmd7_Ltbp2_1,0.996780182309599,TRUE
+Sepp_opossum,opossum,Sepp_opossum|meningeal,9,Macosko|Fibro_Eya2_Srpx2,0.99968325270675,FALSE
+Sepp_opossum,opossum,Sepp_opossum|oligo,244,Macosko|Oligo_Opalin_Enpp6_1,0.995510269571741,FALSE
+Sepp_opossum,opossum,Sepp_opossum|other,1275,Macosko|Astro_Ephb1_Gfap,0.892275536790856,TRUE
+Sepp_opossum,opossum,Sepp_opossum|Purkinje,19,Macosko|Inh_Nrk_Drd3,1,FALSE
+Sepp_opossum,opossum,Sepp_opossum|UBC,9,Macosko|Ex_Slc12a7_Odad1_1,0.998406665130922,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|Chor1,241,Macosko|Inh_Pax2_Hrob_5,0.897102673011763,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|Chor2,137,Macosko|Inh_Pax2_Hrob_5,0.847891411258867,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|Chor3,89,Macosko|Inh_Six3_Lrrc38_2,0.933439197744998,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|Chor4,195,Macosko|Inh_Six3_Cela1_2,0.921574341633894,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DeAstro1,331,Macosko|Inh_Frmd7_Olfr142_10,0.765132344031774,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DeAstroepen1,175,Macosko|Tanycyte_Rax_Ccdc170,0.843377082026999,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DeAstroepen2,391,Macosko|Ependymal_Tmem212_1700012P22Rik_Sntn,0.795300544424169,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DeChol1,63,Macosko|Ex_Fezf2_Dlk1_A730049H05Rik,0.926522657181491,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DeChol2,203,Macosko|Ex_Fibcd1_Psrc1_3,0.91790766996773,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DeChol3,1730,Macosko|Ex_Fezf2_Cdc25c_1,0.905426766235939,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DeChol4,58,Macosko|Ex_Oprk1_Col11a1,0.941255165468625,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DeEpen1,108,Macosko|Tanycyte_Rax_Ccdc170,0.827230901319596,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DeEpen2,115,Macosko|Tanycyte_Rax_Fndc3c1_1,0.733129100990556,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DeEpen3,292,Macosko|Tanycyte_Rax_Ccdc170,0.734413959187103,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DeEpen4,871,Macosko|Tanycyte_Rax_Fndc3c1_1,0.783424321978933,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DeEpen5,245,Macosko|Tanycyte_Rax_Ccdc170,0.715267345804855,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DeExc1,NA,Macosko|Inh_Sncg_Sln_Plch2_1,0.94749825031953,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DeExc2,NA,Macosko|Ex_Oprk1_Col11a1,0.926270787127453,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DeExc3,NA,Macosko|Inh_Prox1_Draxin,0.946379996065995,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DeExc4,96,Macosko|Inh_Frmd7_Calb1_2,0.938350765006214,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DeExc5,370,Macosko|Ex_Evx2_Pth2r,0.940316455349863,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DeHypen1,1578,Macosko|Inh_Tfap2b_Postn_2,0.804125392332655,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DeInh1,139,Macosko|DopEx_Calb1_Trpv1,0.863559522976083,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DeInh2,152,Macosko|Ex_Pou4f2_Sult3a2_6,0.91379605904618,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DeInh3,138,Macosko|Ex_Skor1_Slc5a7_2,0.889849592010717,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DeInh4,164,Macosko|Ex_Pou4f2_Sult3a2_9,0.912117162080253,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DeInh5,192,Macosko|Ex_Lhx2_Nek11_7,0.901146015571555,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DeInh6,58,Macosko|Ex_Irx2_Col2a1_2,0.893818800569504,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DeInh7,179,Macosko|Inh_Sox1_Sostdc1,0.922683965787983,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DeInh8,154,Macosko|Inh_Pax5_Gdf10_2,0.918220069218657,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DeInh9,121,Macosko|Inh_Lamp5_Ndnf_Tac2,0.881996351622295,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DeMono1,179,Macosko|DopEx_Calb1_Lpl_2,0.867988466960145,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DeMono2,102,Macosko|Ex_Ebf2_Gask1b_1,0.888689855141196,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DeMono3,183,Macosko|DopEx_Calb1_Trpv1,0.88612565962318,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DeNeb1,187,Macosko|Inh_Lhx6_Vmn1r209_1,0.894975748238989,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DeNeb2,118,Macosko|Ex_Dsp_Moxd1_4,0.835805654273738,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DeNeb3,158,Macosko|Ex_Tfap2d_Snorc_1,0.837648331957131,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DeNeb4,96,Macosko|Ex_Dsp_Moxd1_3,0.854312921971046,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DeNeb5,216,Macosko|Ex_Pou4f2_Hpse2_6,0.89622701780236,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DePep1,200,Macosko|Ex_Tfap2d_Crhr2_1,0.937497055755577,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DePep10,54,Macosko|CholInh_Ecel1_Ghrh_2,0.864829795222182,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DePep2,203,Macosko|Ex_Irx2_Slc43a3_1,0.89675553166704,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DePep3,135,Macosko|DopEx_Calb1_Trpv1,0.890583294586454,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DePep4,234,Macosko|Inh_Ppp1r1b_Drd2_Pax6,0.896440180436208,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DePep5,120,Macosko|Ex_Irx2_Slc43a3_1,0.875425641542615,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DePep6,91,Macosko|Ex_Tfap2d_St14_3,0.864386373530411,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DePep7,37,Macosko|Ex_Pax6_Avpr1a_6,0.950465641561429,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DePep8,173,Macosko|Ex_Evx2_Clec9a,0.876750641194194,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DePep9,104,Macosko|Ex_Skor1_Pon2_1,0.901553830907226,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DePigm1,151,Macosko|Oligo_Opalin_Enpp6_2,0.775780606303097,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DePigm2,214,Macosko|Endo_Flt1_Ssu2_3,0.773889778005929,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DeProl1,21,Macosko|Oligo_Klk6_1,0.791384208882573,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DMAstro1,640,Macosko|Inh_Frmd7_Olfr142_10,0.771324901903454,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DMEpen1,634,Macosko|OPC_Cspg5,0.72157287844678,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|Erythro1,4888,Macosko|Inh_Frmd7_Edaradd,0.819914105179771,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|Erythro2,67,Macosko|Inh_Frmd7_Edaradd,0.809673994934428,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|Fibro1,13555,Macosko|Fibro_Eya2_Rbp4_5,0.958983523170504,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|Fibro2,4838,Macosko|Ependymal_Tmem212_Ttr,0.876875205565429,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|Fibro3,558,Macosko|Fibro_Eya2_Lypd2_2,0.861782850784915,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|Fibro4,22,Macosko|Endo_Flt1_Acta2_Olfr558_1,0.888070774166789,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|Imm1,45,Macosko|Inh_Nrk_Tox2,0.798308153269306,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|Imm2,36,Macosko|Granulocyte_Ly6g_Ltf_2,0.816443985846858,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|Imm3,40,Macosko|Macro_Mrc1_H2-Aa,0.917804708211685,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|Lympho1,65,Macosko|Granulocyte_Ly6g_Retnlg,0.821605554400613,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|Lympho2,33,Macosko|Myeloid_Sell_Cd300c,0.878173226264829,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|Lympho3,20,Macosko|Granulocyte_Ly6g_Retnlg,0.928056962662283,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|MeAstro1,60,Macosko|Inh_Pax2_Tmem215_2,0.723785905311804,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|MeDopa1,161,Macosko|Inh_Frmd7_Crhbp_3,0.856858807679402,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|MeDopa2,161,Macosko|Inh_Ppp1r1b_Drd2_Ddit4l_2,0.818833669928467,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|MeEpen1,27,Macosko|Tanycyte_Rax_Ccdc170,0.793792097779617,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|MeExc1,309,Macosko|Ex_Tfap2d_Defb1,0.920975683780985,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|MeExc2,241,Macosko|Ex_Samd3_Prokr2,0.869118038779359,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|MeExc3,236,Macosko|Ex_Phox2b_Prok1,0.917810006397091,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|MeExc4,124,Macosko|Ex_Lmx1b_Pi15,0.933155738904481,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|MeExc5,186,Macosko|Ex_Hoxc6_Epsti1_3,0.937047615533702,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|MeExc6,246,Macosko|Ex_Iqcj_Ms4a15_7,0.896292662667333,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|MeExc7,157,Macosko|Ex_Nkx2-4_Mettl11b_1,0.948284186878923,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|MeExc8,43,Macosko|Ex_Ebf2_Postn,0.939252746738157,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|MeInh1,117,Macosko|Inh_Pax2_Cdh3_2,0.937292835093611,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|MeInh10,260,Macosko|Inh_Lhx8_Pde11a_1,0.895826542853219,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|MeInh11,137,Macosko|Inh_Lhx8_Efhb_2,0.910711185986324,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|MeInh2,65,Macosko|Inh_Otx2_Samsn1_1,0.885524030633392,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|MeInh3,331,Macosko|Inh_Bhlhe22_Cdh23_1,0.960451115723973,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|Meinh4,307,Macosko|Inh_Gata3_Qrfprl_3,0.927755878698959,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|MeInh5,199,Macosko|Inh_Otx2_Samsn1_1,0.933669592938531,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|MeInh6,214,Macosko|Inh_Tfap2b_Tspo2_2,0.898331458638443,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|MeInh7,578,Macosko|Inh_Sox6_Chrna2,0.910897574105039,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|MeInh8,560,Macosko|Inh_Pax2_Olfr48,0.892548561707766,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|MeInh9,114,Macosko|Ex_Onecut3_Pirt_3,0.927660905169314,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|MeMono1,106,Macosko|Ex_Ebf2_Slco1a5,0.889018621981012,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|MeNeb1,143,Macosko|Ex_Tfap2d_Snorc_1,0.806319976351071,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|MeSero1,14,Macosko|Inh_Lhx6_Sst_Chodl_2,0.928449234248912,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|MeSero2,187,Macosko|DopEx_Calb1_Trpv1,0.849363206314606,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|MeSero3,77,Macosko|Inh_Frmd7_Crhbp_3,0.863496705440259,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|Micro1,3450,Macosko|Macro_Mrc1_H2-Aa,0.895592673870227,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|MRAstro1,974,Macosko|Micro_Selplg_Siglech,0.808555950555154,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|MRAstro2,973,Macosko|OPC_Cspg5,0.79758890188503,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|MREpen1,243,Macosko|Tanycyte_Rax_Ccdc170,0.793507926461505,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|NCGlia1,53,Macosko|Endo_Flt1_Lrg1_4,0.809109865247205,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|PeAstro1,1259,Macosko|Inh_Frmd7_Olfr142_10,0.779975474822087,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|PeAstro2,1132,Macosko|OPC_Cspg5,0.800249248091374,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|PeAstroepen1,314,Macosko|Micro_Selplg_Siglech,0.790893858491445,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|Photo1,30,Macosko|Inh_Six6_Vipr2_1,0.940886570035342,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|Photo2,31,Macosko|Inh_Usp43_Pvalb,0.92356223587076,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|Photo3,95,Macosko|Inh_Six6_Vipr2_4,0.900533449068652,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|Photo4,66,Macosko|Inh_Pax2_Fmod_1,0.846457762341063,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|ReAstro1,100,Macosko|OPC_Cspg5,0.733337868252209,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|ReEpen1,167,Macosko|Tanycyte_Rax_Ccdc170,0.841705266301484,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|ReEpen2,106,Macosko|Tanycyte_Rax_Ccdc170,0.81630538958594,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|ReEpen3,63,Macosko|Tanycyte_Rax_Ccdc170,0.840500103244543,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|ReExc1,41,Macosko|Ser_Fev_Wfdc12,0.926110620235018,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|ReExc2,51,Macosko|Ex_Samd3_Prokr2,0.91213177502528,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|ReInh1,37,Macosko|CholEx_Irx2_Slc43a3_4,0.931030542295454,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|ReInh2,88,Macosko|Inh_Pax5_Gdf10_2,0.889787993282956,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|ReInh3,20,Macosko|Ng_Lhx1_Gcgr,0.915968331711899,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|ReInh4,82,Macosko|Inh_Nkx2-2_Trh_1,0.915294111383588,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|ReInh5,132,Macosko|Inh_Pax2_Mgam,0.934505076646205,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|ReInh6,155,Macosko|Inh_Pax2_Has2_2,0.961103551950056,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|ReInh7,25,Macosko|Inh_Nkx2-2_Trh_1,0.933582943317733,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|ReInh8,21,Macosko|Inh_Fbxl7_Pkhd1l1,0.940398911464212,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|ReProl1,29,Macosko|Endo_Flt1_Lrg1_2,0.941705169492457,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|TeAstro1,40,Macosko|Inh_Frmd7_Olfr142_3,0.770927296217994,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|TeAstroepen1,148,Macosko|Micro_Selplg_Siglech,0.791688587225652,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|TeAstroepen2,44,Macosko|Inh_Frmd7_Olfr142_10,0.798403286480945,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|TeDopa1,386,Macosko|Inh_Lamp5_Ndnf_Tac2,0.859445552481733,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|TeEpen1,326,Macosko|Tanycyte_Rax_Ccdc170,0.776430110254021,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|TeEpen2,84,Macosko|Inh_Frmd7_Olfr142_10,0.779641365899216,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|TeExc1,416,Macosko|Ex_Plekhg1_Col27a1_Npsr1_1,0.925293160286068,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|TeExc2,420,Macosko|Ex_Tfap2b_Ppp1r1c_1,0.88146606003001,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|TeExc3,267,Macosko|Ex_Phox2a_Cyp26b1_2,0.936127090635619,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|TeExc4,462,Macosko|Ex_Ebf2_Olfr25,0.960021451893157,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|TeExc5,193,Macosko|Ex_Lmx1a_Bdnf_3,0.976628023378601,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|TeExc6,84,Macosko|Ex_Nkx2-4_Grpr_1,0.97874538034309,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|TeExc7,649,Macosko|Ex_Lhx2_Nek11_5,0.962136002949128,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|TeExc8,155,Macosko|Ex_Irx2_Rspo3_1,0.916685222614431,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|TeInh1,251,Macosko|Ex_Neurod6_Dnah11_8,0.869665561238301,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|TeInh2,65,Macosko|Inh_Lhx6_Sst_Chodl_1,0.916694578984543,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|TeInh3,66,Macosko|Inh_Vip_Crh_2,0.931582663402982,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|TeInh4,88,Macosko|DopEx_Calb1_Trpv1,0.922782421189222,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|TeInh5,217,Macosko|Inh_Pax6_Eya4_1,0.885852315086359,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|TeInh6,40,Macosko|Inh_Ppp1r1b_Drd1_Pkib,0.888088945937783,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|TeInh7,194,Macosko|Inh_Hoxc4_Ttc6_1,0.918859697804466,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|TeInh8,1055,Macosko|Inh_Hoxc4_Ttc6_2,0.874053995412835,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|TeMono1,50,Macosko|Inh_Pax7_Vmn1r207_2,0.858577230314828,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|TeNeb1,29,Macosko|Ex_Irx2_Col2a1_2,0.895174357494037,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|TeProl1,34,Macosko|NG_Draxin_12,0.893424049708468,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|Vasc1,185,Macosko|Endo_Flt1_Lrg1_5,0.893335412347069,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|Vasc2,27,Macosko|Endo_Flt1_Lrg1_5,0.962880328450441,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|Vasc3,588,Macosko|Endo_Flt1_Lrg1_2,0.925470545542519,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|Vasc4,354,Macosko|Endo_Flt1_Lrg1_2,0.929938223249421,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|Vasc5,97,Macosko|Endo_Flt1_Actg2,0.917754498892472,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|endothelial_11,139,Macosko|Endo_Flt1_Lrg1_3,0.977289947528195,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|endothelial_12,134,Macosko|Fibro_Eya2_Srpx2,0.985490187908837,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|endothelial_14,50,Macosko|OlfactoryEnsheathing_Alx4_Prss56,0.983759930125192,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|epen_clus_0,560,Macosko|Astro_Emid1_Cd38,0.97472851707944,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|epen_clus_1,400,Macosko|Astro_Fabp7_Hs3st3a1_3,0.925450131975867,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|epen_clus_10,179,Macosko|Astro_Fabp7_Hs3st3a1_5,0.96115444666853,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|epen_clus_11,108,Macosko|Astro_Fabp7_Hs3st3a1_1,0.992925423132802,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|epen_clus_12,85,Macosko|Ependymal_Tmem212_1700012P22Rik_Sntn,0.963401630865245,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|epen_clus_13,65,Macosko|Inh_Frmd7_Olfr142_9,0.966381138156221,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|epen_clus_14,55,Macosko|OPC_Cspg5,0.961542170314866,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|epen_clus_2,379,Macosko|Astro_Emid1_Cd38,0.967770103519339,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|epen_clus_3,314,Macosko|NG_Draxin_10,0.973557462426349,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|epen_clus_4,280,Macosko|NG_Draxin_9,0.983274749844772,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|epen_clus_5,262,Macosko|Astro_Emid1_Gdf10,0.988217799458949,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|epen_clus_6,256,Macosko|Astro_Fabp7_Hs3st3a1_3,0.973968939275272,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|epen_clus_7,236,Macosko|Astro_Fabp7_Hs3st3a1_1,0.842132974770886,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|epen_clus_8,227,Macosko|Astro_Fabp7_Hs3st3a1_2,0.972777042526383,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|epen_clus_9,184,Macosko|Astro_Fabp7_Hs3st3a1_1,0.980251311093702,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|GABA_SUBSET_0,1245,Macosko|Inh_Sall3_Ecrg4,0.898264221930052,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|GABA_SUBSET_1,1220,Macosko|Inh_Frmd7_Olfr142_8,0.975944502836601,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|GABA_SUBSET_10,566,Macosko|Inh_Frmd7_Olfr142_4,0.95282217539189,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|GABA_SUBSET_11,538,Macosko|Inh_Ppp1r1b_Drd2_Cyp26b1_1,0.970835908728163,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|GABA_SUBSET_12,534,Macosko|Inh_Frmd7_Aox3_4,0.90400648825538,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|GABA_SUBSET_13,515,Macosko|Ex_Ebf2_Grp_2,0.939729494391701,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|GABA_SUBSET_14,479,Macosko|Inh_Ppp1r1b_Drd1_Tns3_2,0.941247746214326,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|GABA_SUBSET_15,442,Macosko|Ex_Lmx1b_Cd36_1,0.919762571992227,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|GABA_SUBSET_16,417,Macosko|Inh_Lhx6_Sst_Ctsc_1,0.854779601788508,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|GABA_SUBSET_17,380,Macosko|Inh_Lhx6_Sst_Ctsc_1,0.947214734108913,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|GABA_SUBSET_18,364,Macosko|Inh_Lhx6_Tent5a_Arhgap28,0.874079820999565,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|GABA_SUBSET_19,359,Macosko|Inh_Ppp1r1b_Drd1_Zp3r_3,0.936023691310075,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|GABA_SUBSET_2,1126,Macosko|Inh_Lhx6_Sst_Ctsc_1,0.974007193208958,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|GABA_SUBSET_20,279,Macosko|Inh_Vip_Sncg_Slit1,0.962761596431663,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|GABA_SUBSET_21,278,Macosko|Inh_Pax6_Fbln2_2,0.79753766463197,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|GABA_SUBSET_22,263,Macosko|Inh_Aqp9_4930523C07Rik,0.982237143760992,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|GABA_SUBSET_23,249,Macosko|Inh_Lhx6_Car8_6,0.931546596937586,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|GABA_SUBSET_24,215,Macosko|Inh_Sall3_Trhr_5,0.916399908182217,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|GABA_SUBSET_25,144,Macosko|Inh_Frmd7_Olfr142_7,0.962729899427682,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|GABA_SUBSET_26,86,Macosko|Inh_Six6_Vipr2_8,0.897534544926554,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|GABA_SUBSET_27,83,Macosko|Inh_Htr3a_Tcim_2,0.864573228505974,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|GABA_SUBSET_28,69,Macosko|Inh_Vip_Trim55_1,0.973725684227601,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|GABA_SUBSET_29,38,Macosko|Inh_Tmem200a_Esr2,0.951207075028834,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|GABA_SUBSET_3,1122,Macosko|Inh_Frmd7_Crhbp_3,0.981803122019178,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|GABA_SUBSET_4,1063,Macosko|Inh_Foxp2_Sox2_3,0.907277939576206,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|GABA_SUBSET_5,903,Macosko|Inh_Sall3_Ecrg4,0.893127280537738,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|GABA_SUBSET_6,769,Macosko|Inh_Lhx6_Sst_A730009L09Rik_Igf1,0.97277101090088,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|GABA_SUBSET_7,700,Macosko|Inh_Sp8_Abcb5_Krt73,0.858111681302928,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|GABA_SUBSET_8,650,Macosko|Inh_Sall3_Ecrg4,0.841115405674223,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|GABA_SUBSET_9,569,Macosko|Inh_Ppp1r1b_Drd1_Rbp1_5,0.942370031534098,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|glut_SUBSET_0,2110,Macosko|Ex_Dsp_Atf3_1,0.944135058218691,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|glut_SUBSET_1,1922,Macosko|Ng_Lhx1_Mab21l3_1,0.916959104923226,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|glut_SUBSET_10,1122,Macosko|Ex_Iqcj_Ms4a15_5,0.9916568637688,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|glut_SUBSET_11,1081,Macosko|Ex_Rorb_Endou_2,0.877594575835882,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|glut_SUBSET_12,937,Macosko|Ex_Crym_Mndal_2,0.750163248714886,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|glut_SUBSET_13,932,Macosko|Ex_Slc30a3_Tnfaip6_Fos,0.859466313322542,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|glut_SUBSET_14,896,Macosko|Ex_Crym_Rgs5,0.9103092018719,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|glut_SUBSET_15,834,Macosko|Ex_Crym_Mndal_2,0.814361127900352,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|glut_SUBSET_16,698,Macosko|Ex_Dsp_Atf3_1,0.861298916359656,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|glut_SUBSET_17,556,Macosko|Ex_Crym_Mndal_3,0.881956969103154,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|glut_SUBSET_18,420,Macosko|Ex_Neurod6_Hgf,0.823673800142909,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|glut_SUBSET_19,393,Macosko|NorEx_Phox2b_Pmnt_1,0.798245205896989,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|glut_SUBSET_2,1798,Macosko|Ex_Trabd2b_Slc30a3_Trh_1,0.856432718510614,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|glut_SUBSET_20,347,Macosko|Ex_Neurod6_Hgf,0.88945655261846,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|glut_SUBSET_21,337,Macosko|Ex_Trabd2b_Slc30a3_Trh_1,0.833308284077557,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|glut_SUBSET_22,295,Macosko|Ex_Iqcj_Ms4a15_5,0.984254481387676,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|glut_SUBSET_23,286,Macosko|Ependymal_Tmem212_Rspo2,0.798470453266692,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|glut_SUBSET_24,278,Macosko|Ex_Fezf2_Fibcd1_Fos_Tnn,0.748028114346669,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|glut_SUBSET_25,218,Macosko|Ex_Neurod6_Slc5a7,0.838257998852014,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|glut_SUBSET_26,212,Macosko|Ex_Neurod6_Dnah11_6,0.781792870157624,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|glut_SUBSET_27,183,Macosko|Ex_Sln_Sost_1,0.885704228377536,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|glut_SUBSET_28,65,Macosko|Ex_Sln_Sost_1,0.918548045119159,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|glut_SUBSET_3,1740,Macosko|Ex_Dsp_Moxd1_4,0.880015270836864,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|glut_SUBSET_4,1648,Macosko|Ex_Crym_Odad2_3,0.877773734906847,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|glut_SUBSET_5,1552,Macosko|Ex_Crym_Mndal_1,0.816783194884842,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|glut_SUBSET_6,1539,Macosko|Ex_Fibcd1_Slc9a4_2,0.894787628029999,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|glut_SUBSET_7,1495,Macosko|Ex_Crym_Odad2_3,0.923367278663561,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|glut_SUBSET_8,1437,Macosko|Ex_Slc30a3_Best3_2,0.864086816794382,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|glut_SUBSET_9,1253,Macosko|Ex_Lhx2_Gng8_2,0.896127714235361,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|microglia_8,249,Macosko|Micro_Selplg_Siglech,0.975291648352552,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|npc_SUBSET_0,150,Macosko|NG_Draxin_4,0.928447047055391,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|npc_SUBSET_1,149,Macosko|NG_Draxin_5,0.954008656986659,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|npc_SUBSET_10,81,Macosko|Inh_Vcan_Cd1d1,0.980581663757192,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|npc_SUBSET_11,80,Macosko|NG_Draxin_5,0.994439039870151,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|npc_SUBSET_12,71,Macosko|Inh_Vcan_Cd1d1,0.950299110799197,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|npc_SUBSET_13,51,Macosko|NG_Draxin_4,0.958388229993047,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|npc_SUBSET_14,31,Macosko|CholEx_Tcf24_Oxtr,0.938500792956268,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|npc_SUBSET_2,145,Macosko|NG_Draxin_4,0.918777586889496,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|npc_SUBSET_3,132,Macosko|NG_Draxin_4,0.945410641284943,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|npc_SUBSET_4,117,Macosko|NG_Draxin_5,0.99322472603882,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|npc_SUBSET_5,113,Macosko|Inh_Prox1_Draxin,0.975355282378521,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|npc_SUBSET_6,102,Macosko|Inh_Vcan_St8sia2_1,0.993273351310795,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|npc_SUBSET_7,99,Macosko|NG_Draxin_7,0.977737488968415,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|npc_SUBSET_8,95,Macosko|Inh_Prox1_Draxin,0.997343278055258,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|npc_SUBSET_9,85,Macosko|NG_Draxin_4,0.861494466051389,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|oligodendrocyte_10,182,Macosko|OPC_Cspg5,0.994931956311612,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|oligodendrocyte_15,42,Macosko|Oligo_Opalin_Synpr,0.988777928936785,TRUE
+Colquitt_zebrafinch,zebrafinch,Colquitt_zebrafinch|Astro,4357,Macosko|Astro_Agt_Sntg1,0.993504470482898,TRUE
+Colquitt_zebrafinch,zebrafinch,Colquitt_zebrafinch|Endo,1255,Macosko|Endo_Flt1_Lrg1_4,0.989265987795101,FALSE
+Colquitt_zebrafinch,zebrafinch,Colquitt_zebrafinch|Epen,431,Macosko|Ependymal_Tmem212_1700012P22Rik_Sntn,0.913178154208268,FALSE
+Colquitt_zebrafinch,zebrafinch,Colquitt_zebrafinch|GABA-1-1,737,Macosko|Inh_Ppp1r1b_Drd1_Shisa8_3,0.963362571739668,TRUE
+Colquitt_zebrafinch,zebrafinch,Colquitt_zebrafinch|GABA-1-2,448,Macosko|Inh_Ppp1r1b_Drd1_Ccn1,0.931773422466325,TRUE
+Colquitt_zebrafinch,zebrafinch,Colquitt_zebrafinch|GABA-2,795,Macosko|Inh_Lhx6_Sst_Chodl_2,0.971052306578268,FALSE
+Colquitt_zebrafinch,zebrafinch,Colquitt_zebrafinch|GABA-3,598,Macosko|Inh_Lamp5_Ndnf_Adam12,0.978540093446926,FALSE
+Colquitt_zebrafinch,zebrafinch,Colquitt_zebrafinch|GABA-4,608,Macosko|Inh_Lhx6_Cox6a2_Nxph2_1,0.966050691129252,TRUE
+Colquitt_zebrafinch,zebrafinch,Colquitt_zebrafinch|GABA-5-1,167,Macosko|Inh_Vip_Grpr,0.963605158365133,TRUE
+Colquitt_zebrafinch,zebrafinch,Colquitt_zebrafinch|GABA-5-2,150,Macosko|Inh_Vip_Grpr,0.969957478276946,TRUE
+Colquitt_zebrafinch,zebrafinch,Colquitt_zebrafinch|GABA-5-3,106,Macosko|Inh_Vip_Sncg_Slit1,0.946257456210387,TRUE
+Colquitt_zebrafinch,zebrafinch,Colquitt_zebrafinch|GABA-6,177,Macosko|Inh_Lamp5_Tnnt1_2,0.977204851833553,FALSE
+Colquitt_zebrafinch,zebrafinch,Colquitt_zebrafinch|GABA-7,73,Macosko|Inh_Nkx2-2_Moxd1,0.979172606851642,TRUE
+Colquitt_zebrafinch,zebrafinch,Colquitt_zebrafinch|GABA-8,64,Macosko|Inh_Lhx6_Vmn1r209_1,0.969378627408402,FALSE
+Colquitt_zebrafinch,zebrafinch,Colquitt_zebrafinch|GABA-Pre,105,Macosko|Inh_Vcan_St8sia2_6,0.966294745841549,TRUE
+Colquitt_zebrafinch,zebrafinch,Colquitt_zebrafinch|HVC_Glut-1,4672,Macosko|Ex_Pou4f1_Lpar1,0.880759564909822,FALSE
+Colquitt_zebrafinch,zebrafinch,Colquitt_zebrafinch|HVC_Glut-2,2472,Macosko|Ex_Slc30a3_Shisa8_2,0.898236902522916,FALSE
+Colquitt_zebrafinch,zebrafinch,Colquitt_zebrafinch|HVC_Glut-3,1340,Macosko|Ex_Nxph4_Olfr110_Cplx3,0.950576114935054,FALSE
+Colquitt_zebrafinch,zebrafinch,Colquitt_zebrafinch|HVC_Glut-4,730,Macosko|Ex_Fezf2_Col6a1_Gp139_Fos,0.881077315997214,TRUE
+Colquitt_zebrafinch,zebrafinch,Colquitt_zebrafinch|HVC_Glut-5,219,Macosko|Ex_Neurod6_Bfsp2,0.97006976562371,FALSE
+Colquitt_zebrafinch,zebrafinch,Colquitt_zebrafinch|Micro,478,Macosko|Macro_Mrc1_H2-Aa,0.916976323238132,FALSE
+Colquitt_zebrafinch,zebrafinch,Colquitt_zebrafinch|Mural,165,Macosko|Endo_Flt1_Kcnj8_Ccl19_2,0.958697451383859,FALSE
+Colquitt_zebrafinch,zebrafinch,Colquitt_zebrafinch|Oligo,1397,Macosko|Oligo_Opalin_Enpp6_1,0.997244832830987,FALSE
+Colquitt_zebrafinch,zebrafinch,Colquitt_zebrafinch|OPC,709,Macosko|OPC_Cspg5,0.997666090084329,TRUE
+Colquitt_zebrafinch,zebrafinch,Colquitt_zebrafinch|Pre-1,775,Macosko|NG_Draxin_7,0.851134555585112,TRUE
+Colquitt_zebrafinch,zebrafinch,Colquitt_zebrafinch|Pre-2,599,Macosko|NG_Draxin_5,0.971689259859618,TRUE
+Colquitt_zebrafinch,zebrafinch,Colquitt_zebrafinch|Pre-3,469,Macosko|NG_Draxin_3,0.956794603284299,FALSE
+Colquitt_zebrafinch,zebrafinch,Colquitt_zebrafinch|Pre-4,429,Macosko|Ex_Trabd2b_Slc30a3_Bfsp2,0.964821408878614,FALSE
+Colquitt_zebrafinch,zebrafinch,Colquitt_zebrafinch|RA_Glut-1,464,Macosko|Ex_Fezf2_Hmga2_Ttc6,0.962553360575008,TRUE
+Colquitt_zebrafinch,zebrafinch,Colquitt_zebrafinch|RA_Glut-2,202,Macosko|Ex_Lhx9_Frk_3,0.962825693049654,FALSE
+Colquitt_zebrafinch,zebrafinch,Colquitt_zebrafinch|RA_Glut-3,115,Macosko|Ex_Lhx9_Frk_3,0.959893424336611,FALSE
+Colquitt_zebrafinch,zebrafinch,Colquitt_zebrafinch|RBC,72,Macosko|Endo_Flt1_Rgs5_Slc19a3_1,0.746917237142356,TRUE
+Colquitt_zebrafinch,zebrafinch,Colquitt_zebrafinch|VLMC,14,Macosko|Fibro_Eya2_Rbp4_4,0.9774439052948,FALSE
+Colquitt_Bengalese_finch,Bengalese_finch,Colquitt_Bengalese_finch|Astro,319,Macosko|Astro_Fabp7_Hs3st3a1_3,0.966455361859482,TRUE
+Colquitt_Bengalese_finch,Bengalese_finch,Colquitt_Bengalese_finch|Endo,496,Macosko|Endo_Flt1_Rgs5_Slc19a3_1,0.991884647699747,TRUE
+Colquitt_Bengalese_finch,Bengalese_finch,Colquitt_Bengalese_finch|GABA-1-1,90,Macosko|Inh_Frmd7_Crhbp_2,0.958500069185001,TRUE
+Colquitt_Bengalese_finch,Bengalese_finch,Colquitt_Bengalese_finch|GABA-1-2,8,Macosko|Inh_Ppp1r1b_Drd1_Ccn1,0.974554552111301,TRUE
+Colquitt_Bengalese_finch,Bengalese_finch,Colquitt_Bengalese_finch|GABA-2,66,Macosko|Inh_Lhx6_Sst_Ffar4,0.968571578623572,TRUE
+Colquitt_Bengalese_finch,Bengalese_finch,Colquitt_Bengalese_finch|GABA-3,22,Macosko|Inh_Plpp4_Aox3_6,0.982466101128849,FALSE
+Colquitt_Bengalese_finch,Bengalese_finch,Colquitt_Bengalese_finch|GABA-4,3,Macosko|Inh_Htr3a_Bmp3_5,0.888915975946693,FALSE
+Colquitt_Bengalese_finch,Bengalese_finch,Colquitt_Bengalese_finch|GABA-5-1,20,Macosko|Inh_Lhx6_Nmu_3,0.959804161566708,FALSE
+Colquitt_Bengalese_finch,Bengalese_finch,Colquitt_Bengalese_finch|GABA-5-2,17,Macosko|Inh_Htr3a_Cxcl14_1,0.950241740531829,TRUE
+Colquitt_Bengalese_finch,Bengalese_finch,Colquitt_Bengalese_finch|GABA-5-3,4,Macosko|Inh_Otx2_Prdm16_7,0.980126798341868,TRUE
+Colquitt_Bengalese_finch,Bengalese_finch,Colquitt_Bengalese_finch|GABA-6,10,Macosko|Inh_Pax8_Bmp4_1,0.98979242979243,FALSE
+Colquitt_Bengalese_finch,Bengalese_finch,Colquitt_Bengalese_finch|GABA-7,5,Macosko|Inh_Sox1_Chrna5,0.975560975609756,TRUE
+Colquitt_Bengalese_finch,Bengalese_finch,Colquitt_Bengalese_finch|GABA-8,2,Macosko|Inh_Lhx6_Iqca_4,0.99719717280039,TRUE
+Colquitt_Bengalese_finch,Bengalese_finch,Colquitt_Bengalese_finch|GABA-Pre,44,Macosko|Inh_Vcan_St8sia2_6,0.985589084641042,TRUE
+Colquitt_Bengalese_finch,Bengalese_finch,Colquitt_Bengalese_finch|HVC_Glut-1,297,Macosko|Ex_Lhx2_Tlx1_2,0.946469244263362,FALSE
+Colquitt_Bengalese_finch,Bengalese_finch,Colquitt_Bengalese_finch|HVC_Glut-2,249,Macosko|Ex_Slc30a3_Otof,0.951479153127031,TRUE
+Colquitt_Bengalese_finch,Bengalese_finch,Colquitt_Bengalese_finch|HVC_Glut-3,53,Macosko|Ex_Nxph4_Olfr110_Crhr1,0.945244835999925,TRUE
+Colquitt_Bengalese_finch,Bengalese_finch,Colquitt_Bengalese_finch|HVC_Glut-4,26,Macosko|Ex_Fezf2_Cnksr3_Areg,0.933656439172497,FALSE
+Colquitt_Bengalese_finch,Bengalese_finch,Colquitt_Bengalese_finch|HVC_Glut-5,4,Macosko|Ex_Sim1_Ucn3_2,0.980004876859303,TRUE
+Colquitt_Bengalese_finch,Bengalese_finch,Colquitt_Bengalese_finch|Micro,840,Macosko|Micro_Selplg_Siglech,0.996436957631445,TRUE
+Colquitt_Bengalese_finch,Bengalese_finch,Colquitt_Bengalese_finch|Mural,113,Macosko|Endo_Flt1_Acta2_Olfr558_2,0.990729246102825,FALSE
+Colquitt_Bengalese_finch,Bengalese_finch,Colquitt_Bengalese_finch|Oligo,354,Macosko|Oligo_Opalin_Enpp6_1,0.997919198948077,FALSE
+Colquitt_Bengalese_finch,Bengalese_finch,Colquitt_Bengalese_finch|OPC,609,Macosko|OPC_Cspg5,0.996658155884464,TRUE
+Colquitt_Bengalese_finch,Bengalese_finch,Colquitt_Bengalese_finch|Pre-1,10,Macosko|Oligo_Klk6_2,0.728058608058608,FALSE
+Colquitt_Bengalese_finch,Bengalese_finch,Colquitt_Bengalese_finch|Pre-2,89,Macosko|Inh_Vcan_St8sia2_5,0.921513384663593,TRUE
+Colquitt_Bengalese_finch,Bengalese_finch,Colquitt_Bengalese_finch|Pre-3,46,Macosko|NG_Draxin_2,0.970162922973103,TRUE
+Colquitt_Bengalese_finch,Bengalese_finch,Colquitt_Bengalese_finch|Pre-4,19,Macosko|Ex_Ccn3_Fezf2_Vgll3_1,0.990480974830615,TRUE
+Colquitt_Bengalese_finch,Bengalese_finch,Colquitt_Bengalese_finch|RA_Glut-1,15,Macosko|Inh_Pax2_Cd44_3,0.957929910350448,FALSE
+Colquitt_Bengalese_finch,Bengalese_finch,Colquitt_Bengalese_finch|RA_Glut-2,2,Macosko|Ex_Lhx9_Mcoln2,0.996953448696076,FALSE
+Colquitt_Bengalese_finch,Bengalese_finch,Colquitt_Bengalese_finch|RA_Glut-3,1,Macosko|CholEx_Irx2_Slc43a3_4,0.9432261208577,TRUE
+Colquitt_Bengalese_finch,Bengalese_finch,Colquitt_Bengalese_finch|RBC,257,Macosko|Pit_Pou1f1_Epcam,0.819274452542935,FALSE
+Colquitt_Bengalese_finch,Bengalese_finch,Colquitt_Bengalese_finch|VLMC,15,Macosko|Fibro_Eya2_Meox2,0.995762021189894,FALSE
+Anneser_zebrafish,zebrafish,Anneser_zebrafish|0,2038,Macosko|Ex_Nkx2-1_Nppb,0.801404759544156,TRUE
+Anneser_zebrafish,zebrafish,Anneser_zebrafish|1,1833,Macosko|Astro_Ephb1_Gfap,0.989830438524589,TRUE
+Anneser_zebrafish,zebrafish,Anneser_zebrafish|10,547,Macosko|Ex_Sln_Niban1,0.823429154355546,TRUE
+Anneser_zebrafish,zebrafish,Anneser_zebrafish|11,485,Macosko|Oligo_Opalin_Enpp6_1,0.975233254258209,FALSE
+Anneser_zebrafish,zebrafish,Anneser_zebrafish|12,468,Macosko|NG_Draxin_5,0.981562577333094,TRUE
+Anneser_zebrafish,zebrafish,Anneser_zebrafish|13,444,Macosko|Lymphocyte_Itgal_Cd3e,0.963053246608074,TRUE
+Anneser_zebrafish,zebrafish,Anneser_zebrafish|14,357,Macosko|Inh_Hoxc4_Sgo2b_1,0.888231890100064,FALSE
+Anneser_zebrafish,zebrafish,Anneser_zebrafish|15,334,Macosko|Micro_Selplg_Siglech,0.993641914894175,TRUE
+Anneser_zebrafish,zebrafish,Anneser_zebrafish|16,311,Macosko|Ng_Lhx1_Mab21l3_2,0.792864186571496,TRUE
+Anneser_zebrafish,zebrafish,Anneser_zebrafish|17,285,Macosko|NG_Draxin_9,0.970234078586339,FALSE
+Anneser_zebrafish,zebrafish,Anneser_zebrafish|18,180,Macosko|Ex_Irx2_Slc43a3_1,0.917315118848481,TRUE
+Anneser_zebrafish,zebrafish,Anneser_zebrafish|19,162,Macosko|OPC_Cspg5,0.94303484126493,TRUE
+Anneser_zebrafish,zebrafish,Anneser_zebrafish|2,1563,Macosko|Inh_Lhx6_Trh_1,0.89123138001992,TRUE
+Anneser_zebrafish,zebrafish,Anneser_zebrafish|20,115,Macosko|DC_Slamf7_Gcsam,0.979447225665213,TRUE
+Anneser_zebrafish,zebrafish,Anneser_zebrafish|21,98,Macosko|Fibro_Eya2_Rbp4_5,0.985238267161639,FALSE
+Anneser_zebrafish,zebrafish,Anneser_zebrafish|22,57,Macosko|Endo_Flt1_Cysltr1_Slc19a3,0.992658416824156,FALSE
+Anneser_zebrafish,zebrafish,Anneser_zebrafish|23,56,Macosko|Endo_Flt1_Acta2_Olfr558_2,0.923863686267621,FALSE
+Anneser_zebrafish,zebrafish,Anneser_zebrafish|24,41,Macosko|Pit_Six1_Tshb,0.922126505663091,FALSE
+Anneser_zebrafish,zebrafish,Anneser_zebrafish|25,32,Macosko|Fibro_Eya2_Syt9_1,0.98031455276567,FALSE
+Anneser_zebrafish,zebrafish,Anneser_zebrafish|26,19,Macosko|CholEx_Irx2_Slc43a3_3,0.99746237142359,FALSE
+Anneser_zebrafish,zebrafish,Anneser_zebrafish|3,1483,Macosko|Ex_Slc30a3_Tnfaip6_Fos,0.777306122122519,FALSE
+Anneser_zebrafish,zebrafish,Anneser_zebrafish|4,1390,Macosko|Inh_Otx2_Cav1,0.829854597334791,TRUE
+Anneser_zebrafish,zebrafish,Anneser_zebrafish|5,1125,Macosko|Ex_Slc30a3_Galr1,0.863065719048873,FALSE
+Anneser_zebrafish,zebrafish,Anneser_zebrafish|6,888,Macosko|Ex_Fezf2_Myzap,0.919398761166402,TRUE
+Anneser_zebrafish,zebrafish,Anneser_zebrafish|7,759,Macosko|Inh_Lamp5_Ndnf_Fmo1_2,0.861053300504472,FALSE
+Anneser_zebrafish,zebrafish,Anneser_zebrafish|8,640,Macosko|OPC_Cspg5,0.995763384031631,TRUE
+Anneser_zebrafish,zebrafish,Anneser_zebrafish|9,611,Macosko|Inh_Lhx6_Gpr174_1,0.905382854749703,TRUE
+Ma_human,human,Ma_human|Astro AQP4 OSMR,435,Macosko|Astro_Fabp7_Wt1,0.935103776998707,TRUE
+Ma_human,human,Ma_human|Astro AQP4 SLC1A2,16144,Macosko|Astro_Ephb1_Fzd2,0.987496089396081,TRUE
+Ma_human,human,Ma_human|Astro GFAP AQP1,3714,Macosko|Astro_Fabp7_Wt1,0.934852611586517,TRUE
+Ma_human,human,Ma_human|Astro GFAP FABP7,3066,Macosko|Astro_Ephb1_Gfap,0.93332817551143,TRUE
+Ma_human,human,Ma_human|B EBF1 IGKC,53,Macosko|Lymphocyte_Pou2af1_Ms4a4c,0.98556189882594,TRUE
+Ma_human,human,Ma_human|COP GPR17 SOX4,185,Macosko|OPC_Cspg5,0.958475350914354,TRUE
+Ma_human,human,Ma_human|Endo CLDN5 DKK2,285,Macosko|Endo_Flt1_Cytl1,0.965972865646818,FALSE
+Ma_human,human,Ma_human|Endo CLDN5 IL1R1,1289,Macosko|Endo_Flt1_Lrg1_4,0.974808152576527,FALSE
+Ma_human,human,Ma_human|Endo CLDN5 SLC7A5,5292,Macosko|Endo_Flt1_Rgs5_Slc19a3_1,0.977657544730261,TRUE
+Ma_human,human,Ma_human|InN ADARB2 CADPS2,149,Macosko|Inh_Htr3a_Grpr_3,0.995335759552717,TRUE
+Ma_human,human,Ma_human|InN ADARB2 CALCR,93,Macosko|Inh_Htr3a_Cxcl14_1,0.994283655522692,TRUE
+Ma_human,human,Ma_human|InN ADARB2 COL5A2,477,Macosko|Inh_Lamp5_Ndnf_Tac2,0.988855568058958,TRUE
+Ma_human,human,Ma_human|InN ADARB2 FAM19A1,737,Macosko|Inh_Sncg_Np2yr_Fos_1,0.985418465442652,FALSE
+Ma_human,human,Ma_human|InN ADARB2 PALMD,107,Macosko|ExInh_Lmx1b_Nmu_1,0.978161452804779,FALSE
+Ma_human,human,Ma_human|InN ADARB2 RGS10,262,Macosko|Inh_Sncg_Abcb5,0.99128199128359,FALSE
+Ma_human,human,Ma_human|InN ADARB2 SFRP2,340,Macosko|Inh_Frmd7_Slc26a7_2,0.99353917116969,FALSE
+Ma_human,human,Ma_human|InN LAMP5 ADAMTS20,429,Macosko|Inh_Lamp5_Tnnt1_1,0.989509328700084,TRUE
+Ma_human,human,Ma_human|InN LAMP5 BMP7,1088,Macosko|Inh_Lamp5_Tnnt1_1,0.991402489308846,TRUE
+Ma_human,human,Ma_human|InN LAMP5 LHX6 PROX1,361,Macosko|Inh_Lhx6_Car8_2,0.995747423526287,FALSE
+Ma_human,human,Ma_human|InN LAMP5 LHX6 TAC1,510,Macosko|Inh_Lhx6_Car8_2,0.995345430987499,FALSE
+Ma_human,human,Ma_human|InN LAMP5 MEIS2,89,Macosko|Inh_Plpp4_Aox3_4,0.966655082220287,FALSE
+Ma_human,human,Ma_human|InN LAMP5 RELN,759,Macosko|Inh_Lamp5_Ndnf_Prom1,0.997498312337085,TRUE
+Ma_human,human,Ma_human|InN LHX6 HGF STON2,162,Macosko|Inh_Six6_Vipr2_9,0.987977648575973,TRUE
+Ma_human,human,Ma_human|InN PVALB ANOS1,1705,Macosko|Inh_Lhx6_Cox6a2_Nxph2_2,0.988804587180355,TRUE
+Ma_human,human,Ma_human|InN PVALB GRIN2C,437,Macosko|Inh_Lhx6_Vipr2,0.992718366273235,TRUE
+Ma_human,human,Ma_human|InN PVALB HPSE,1018,Macosko|Inh_Lhx6_Pvalb_Tac1,0.98768452526818,TRUE
+Ma_human,human,Ma_human|InN PVALB PDE3A,571,Macosko|Inh_Lhx6_Vipr2,0.987105296124336,TRUE
+Ma_human,human,Ma_human|InN PVALB PIEZO2,887,Macosko|Inh_Lhx6_Sst_Th_Ephb1,0.985603738798228,TRUE
+Ma_human,human,Ma_human|InN PVALB PRKCH,206,Macosko|Inh_Lhx6_Sst_Th_Ephb1,0.985761762118359,TRUE
+Ma_human,human,Ma_human|InN PVALB SNTB1,349,Macosko|Inh_Six3_Pvalb_Npy_1,0.988268531507073,TRUE
+Ma_human,human,Ma_human|InN PVALB SYT2,424,Macosko|Inh_Six3_Cela1_2,0.996176505139404,TRUE
+Ma_human,human,Ma_human|InN SST ADAMTSL1,593,Macosko|Inh_Lhx6_Sst_Itgad,0.983722148335862,FALSE
+Ma_human,human,Ma_human|InN SST ADRA1D,214,Macosko|Inh_Lhx6_Crhbp_1,0.981527532271223,TRUE
+Ma_human,human,Ma_human|InN SST ANKRD33B,146,Macosko|Inh_Pax8_Psd4,0.986970633184277,FALSE
+Ma_human,human,Ma_human|InN SST FREM1,1174,Macosko|Inh_Lhx6_Sst_AW551984,0.989126167560889,FALSE
+Ma_human,human,Ma_human|InN SST HGF GABRQ,151,Macosko|Inh_Lhx6_Sst_Ffar4,0.98603868192939,TRUE
+Ma_human,human,Ma_human|InN SST HS3ST5,683,Macosko|Inh_Lhx6_Sst_Etv1_Ldb2,0.97979522351376,TRUE
+Ma_human,human,Ma_human|InN SST HTR2C,718,Macosko|Inh_Lhx6_Arhgap28_2,0.972969351335808,TRUE
+Ma_human,human,Ma_human|InN SST KLHL14,295,Macosko|Inh_Lhx6_Sst_AW551984,0.99198457239949,FALSE
+Ma_human,human,Ma_human|InN SST NPY,100,Macosko|Inh_Lhx6_Sst_Chodl_1,0.99431339379142,TRUE
+Ma_human,human,Ma_human|InN SST PLPP4,577,Macosko|Inh_Lhx6_Sst_A730009L09Rik_Igf1,0.981925617509931,TRUE
+Ma_human,human,Ma_human|InN SST STK32A,938,Macosko|Inh_Lhx6_Sst_AW551984,0.986341405383101,FALSE
+Ma_human,human,Ma_human|InN SST THSD7B,452,Macosko|Inh_Lhx6_Sst_Crh_Baiap3,0.991380615103737,TRUE
+Ma_human,human,Ma_human|InN SST TRPC7,1244,Macosko|Inh_Lhx6_Sst_Hpse,0.987266696807049,TRUE
+Ma_human,human,Ma_human|InN VIP ADAM12,650,Macosko|Inh_Vip_Grpr,0.968852851586508,TRUE
+Ma_human,human,Ma_human|InN VIP CLSTN2,861,Macosko|Inh_Vip_Grpr,0.986757198765426,TRUE
+Ma_human,human,Ma_human|InN VIP EGF,397,Macosko|Inh_Vip_Crh_1,0.985799783498206,TRUE
+Ma_human,human,Ma_human|InN VIP EXPH5,975,Macosko|Inh_Vip_Grpr,0.965826722130207,TRUE
+Ma_human,human,Ma_human|InN VIP FREM2,522,Macosko|Inh_Vip_Crh_Sema5b,0.979784023865098,TRUE
+Ma_human,human,Ma_human|InN VIP HS3ST3B1,1261,Macosko|Inh_Vip_Grpr,0.982757754272193,TRUE
+Ma_human,human,Ma_human|InN VIP MDGA1,94,Macosko|Inh_Sncg_Edn3,0.988741434681695,TRUE
+Ma_human,human,Ma_human|InN VIP MEGF11 LHFP,696,Macosko|Inh_Vip_Grpr,0.968239620010557,TRUE
+Ma_human,human,Ma_human|InN VIP PENK,140,Macosko|Inh_Htr3a_Nr2e1_1,0.994020484109448,TRUE
+Ma_human,human,Ma_human|InN VIP SCML4,685,Macosko|Inh_Vip_Sncg_Yjefn3,0.974918186310106,TRUE
+Ma_human,human,Ma_human|L2-3 CUX2 ACVR1C INHBA,1057,Macosko|Ex_Slc30a3_Teddm3_1,0.937423398664761,FALSE
+Ma_human,human,Ma_human|L2-3 CUX2 ACVR1C THSD7A,11647,Macosko|Ex_Dsp_Atf3_1,0.972602944014945,FALSE
+Ma_human,human,Ma_human|L2-3 CUX2 ARHGAP18,139,Macosko|Ex_Crlf1_Ntn5_2,0.983169296892801,FALSE
+Ma_human,human,Ma_human|L2-3 CUX2 NTNG1 COL5A2,4276,Macosko|Ex_Rorb_Naa11_Gsg1l,0.945932860581552,FALSE
+Ma_human,human,Ma_human|L2-3 CUX2 NTNG1 PALMD,4492,Macosko|Ex_Slc30a3_Otof,0.93873930626738,TRUE
+Ma_human,human,Ma_human|L2-3 CUX2 NTNG1 PLCH1,1212,Macosko|Ex_Rorb_Col8a1,0.947578970748434,TRUE
+Ma_human,human,Ma_human|L2-3 CUX2 PLCXD3,83,Macosko|Ex_Dsp_Atf3_1,0.951374917878061,FALSE
+Ma_human,human,Ma_human|L2-4 CUX2 RORB CLMN,1158,Macosko|Ex_Plekhg1_Col27a1_Calca,0.952246112161114,TRUE
+Ma_human,human,Ma_human|L3-5 RORB GABRG1 KCNH7,1368,Macosko|Ex_Fezf2_Pirt_Cadps2,0.939493657776375,FALSE
+Ma_human,human,Ma_human|L3-5 RORB GABRG1 PLCH1,596,Macosko|Ex_Slc30a3_Shisa8_5,0.93160836357023,FALSE
+Ma_human,human,Ma_human|L3-5 RORB GABRG1 PTPRO,1163,Macosko|Ex_Fezf2_Pirt_Cadps2,0.941274633575953,FALSE
+Ma_human,human,Ma_human|L3-5 RORB MKX DCC,1889,Macosko|Ex_Fezf2_Pirt_Cadps2,0.963122921076455,FALSE
+Ma_human,human,Ma_human|L3-5 RORB MKX GALR1,604,Macosko|Ex_Hoxb3_Ldlrap1_10,0.948210998483489,FALSE
+Ma_human,human,Ma_human|L3-5 RORB MKX GRIN3A,2397,Macosko|Ex_Rorb_Scn5a,0.975850935654607,TRUE
+Ma_human,human,Ma_human|L3-5 RORB MKX SCN5A,428,Macosko|Ex_Iqcj_Ms4a15_7,0.939266189771251,TRUE
+Ma_human,human,Ma_human|L3-5 RORB PCBP3 ARHGAP15,406,Macosko|Ex_Phox2b_Ghsr_2,0.953146947114663,TRUE
+Ma_human,human,Ma_human|L3-5 RORB PCBP3 IL1RAPL2,786,Macosko|Ex_Sln_Niban1,0.926816499451646,TRUE
+Ma_human,human,Ma_human|L3-5 RORB PCBP3 LINGO2,1004,Macosko|Ex_Rspo1_Fos,0.937291385895209,FALSE
+Ma_human,human,Ma_human|L3-5 RORB TNNT2 PRRX1,268,Macosko|CholEx_Hoxc4_Olfr681,0.95384643711128,FALSE
+Ma_human,human,Ma_human|L3-5 RORB TNNT2 TSHZ2,1020,Macosko|Ex_Fezf2_Pirt_Cadps2,0.941680985778297,FALSE
+Ma_human,human,Ma_human|L5 FEZF2 BCL11B POU3F1,256,Macosko|Ex_Fezf2_Lipm,0.98422426308011,TRUE
+Ma_human,human,Ma_human|L5-6 FEZF2 NXPH2 CDH8,605,Macosko|Ex_Fezf2_Pvalb_Chn2,0.988197027800137,FALSE
+Ma_human,human,Ma_human|L5-6 FEZF2 NXPH2 GPC5,260,Macosko|Ex_Fezf2_Myzap,0.992118114923596,TRUE
+Ma_human,human,Ma_human|L5-6 FEZF2 NXPH2 GRIK1,177,Macosko|Ex_Fezf2_Myzap,0.99305511539414,TRUE
+Ma_human,human,Ma_human|L5-6 FEZF2 NXPH2 SORCS3,173,Macosko|Ex_Fezf2_Pvalb_Chn2,0.986150995378298,FALSE
+Ma_human,human,Ma_human|L6 FEZF2 AMOTL1 CDH6,252,Macosko|Ex_Nxph4_Megf6,0.997142440617957,TRUE
+Ma_human,human,Ma_human|L6 FEZF2 DCBLD1 MITF,229,Macosko|Ex_Nxph4_Megf6,0.992342410350989,TRUE
+Ma_human,human,Ma_human|L6 FEZF2 EYA1,16,Macosko|Ex_Nxph4_Olfr110_Cplx3,0.994614811393111,FALSE
+Ma_human,human,Ma_human|L6 FEZF2 HCRTR2 THSD7B,107,Macosko|Ex_Nxph4_Megf6,0.994105531363066,TRUE
+Ma_human,human,Ma_human|L6 FEZF2 NPFFR2 KCNK2,476,Macosko|Ex_Nxph4_Moxd1_Htr2c,0.993655681027509,FALSE
+Ma_human,human,Ma_human|L6 FEZF2 NPFFR2 TPD52L1,659,Macosko|Ex_Nxph4_Moxd1_Htr2c,0.991842550957606,FALSE
+Ma_human,human,Ma_human|L6 FEZF2 SYT6 CDH9,633,Macosko|Ex_Fezf2_Cnksr3_Fos,0.988272629253692,FALSE
+Ma_human,human,Ma_human|L6 FEZF2 SYT6 ERBB4,546,Macosko|Ex_Fezf2_Cnksr3_Fos,0.986418135196505,FALSE
+Ma_human,human,Ma_human|L6 FEZF2 SYT6 PTPRT,782,Macosko|Ex_Fezf2_Slc9a4,0.986959399644961,FALSE
+Ma_human,human,Ma_human|L6 FEZF2 SYT6 SULF1,189,Macosko|Ex_Fezf2_Slc9a4,0.987096552422177,FALSE
+Ma_human,human,Ma_human|L6 OPRK1 SMYD1 ADAMTS17,175,Macosko|Ex_Oprk1_Col11a1,0.970172920742929,TRUE
+Ma_human,human,Ma_human|L6 OPRK1 SMYD1 KCND2,476,Macosko|Ex_Oprk1_Col11a1,0.963112458285265,TRUE
+Ma_human,human,Ma_human|L6 OPRK1 SMYD1 SNTB1,342,Macosko|Ex_Oprk1_Col11a1,0.977285400801892,TRUE
+Ma_human,human,Ma_human|L6 OPRK1 SMYD1 TSHZ2,214,Macosko|Ex_Oprk1_Col11a1,0.986799159201437,TRUE
+Ma_human,human,Ma_human|L6 OPRK1 THEMIS RGS6,2999,Macosko|Ex_Dcn_Grik3,0.981685871252401,TRUE
+Ma_human,human,Ma_human|Macro F13A1 COLEC12,760,Macosko|Macro_Mrc1_Ms4a4a,0.982360757899651,TRUE
+Ma_human,human,Ma_human|Micro P2RY12 APBB1IP,6811,Macosko|Micro_Selplg_Siglech,0.993936106089579,TRUE
+Ma_human,human,Ma_human|Micro P2RY12 CCL3,310,Macosko|Micro_Selplg_Siglech,0.978502959946377,TRUE
+Ma_human,human,Ma_human|Micro P2RY12 GLDN,435,Macosko|Macro_Mrc1_H2-Aa,0.977416432593908,FALSE
+Ma_human,human,Ma_human|Myeloid LSP1 LYZ,81,Macosko|Granulocyte_Ly6g_Ltf_1,0.984408286981153,FALSE
+Ma_human,human,Ma_human|Oligo MOG CDH7,7,Macosko|OPC_Cspg5,0.897318290060268,TRUE
+Ma_human,human,Ma_human|Oligo MOG FRY,938,Macosko|Oligo_Opalin_Synpr,0.853342957540994,TRUE
+Ma_human,human,Ma_human|Oligo MOG GSN,2916,Macosko|Oligo_Klk6_1,0.936056297851549,TRUE
+Ma_human,human,Ma_human|Oligo MOG OPALIN,42057,Macosko|Oligo_Opalin_Synpr,0.987437479088333,TRUE
+Ma_human,human,Ma_human|OPC PDGFRA PCDH15,9117,Macosko|OPC_Cspg5,0.999737989077413,TRUE
+Ma_human,human,Ma_human|PC P2RY14 GRM8,4030,Macosko|Endo_Flt1_Kcnj8,0.993728194469848,TRUE
+Ma_human,human,Ma_human|RB HBA1 HBB,239,Macosko|Endo_Flt1_Ssu2_1,0.97219329934871,FALSE
+Ma_human,human,Ma_human|SMC ACTA2 CNN1,1208,Macosko|Endo_Flt1_Actg2,0.977387485957686,FALSE
+Ma_human,human,Ma_human|SMC ACTA2 CRISPLD2,410,Macosko|Endo_Flt1_Kcnj8_Ccl19_2,0.944160986120956,FALSE
+Ma_human,human,Ma_human|SMC ACTA2 CYP1B1,488,Macosko|Endo_Flt1_Actg2,0.988731311043682,FALSE
+Ma_human,human,Ma_human|T SKAP1 CD247,885,Macosko|Lymphocyte_Itgal_Cd3e,0.984744683809988,TRUE
+Ma_human,human,Ma_human|VLMC COL1A2 SLC13A3,274,Macosko|Fibro_Eya2_Rbp4_4,0.98533823485312,FALSE
+Ma_human,human,Ma_human|VLMC COL1A2 VLMCA8,283,Macosko|Fibro_Eya2_Rbp4_4,0.988640315332113,FALSE
+Ma_human,human,Ma_human|VLMC SLC47A1 SLC4A4,123,Macosko|Ng_Lhx1_Mab21l3_2,0.929889540992656,TRUE
+Ma_chimp,chimp,Ma_chimp|Astro AQP4 OSMR,90,Macosko|Astro_Fabp7_Hs3st3a1_4,0.95103253612136,FALSE
+Ma_chimp,chimp,Ma_chimp|Astro AQP4 SLC1A2,11912,Macosko|Astro_Fabp7_Hs3st3a1_1,0.997150451768486,TRUE
+Ma_chimp,chimp,Ma_chimp|Astro GFAP AQP1,330,Macosko|Astro_Ephb1_Gfap,0.926569877671171,TRUE
+Ma_chimp,chimp,Ma_chimp|Astro GFAP FABP7,2345,Macosko|Astro_Ephb1_Gfap,0.940529695931584,TRUE
+Ma_chimp,chimp,Ma_chimp|B EBF1 IGKC,1,Macosko|CholEx_Irx2_Slc43a3_4,0.998874116054599,TRUE
+Ma_chimp,chimp,Ma_chimp|COP GPR17 SOX4,119,Macosko|OPC_Cspg5,0.973359727483853,TRUE
+Ma_chimp,chimp,Ma_chimp|Endo CLDN5 DKK2,507,Macosko|Endo_Flt1_Ssu2_1,0.959494384570628,FALSE
+Ma_chimp,chimp,Ma_chimp|Endo CLDN5 IL1R1,643,Macosko|Endo_Flt1_Lrg1_1,0.973670967923419,FALSE
+Ma_chimp,chimp,Ma_chimp|Endo CLDN5 SLC7A5,4122,Macosko|Endo_Flt1_Rgs5_Slc19a3_1,0.982509387047248,TRUE
+Ma_chimp,chimp,Ma_chimp|InN ADARB2 CADPS2,154,Macosko|Inh_Vip_Sncg_Tac2,0.996522790894249,TRUE
+Ma_chimp,chimp,Ma_chimp|InN ADARB2 CALCR,114,Macosko|Inh_Htr3a_Cxcl14_1,0.994976649459837,TRUE
+Ma_chimp,chimp,Ma_chimp|InN ADARB2 COL5A2,364,Macosko|Inh_Vip_Glp1r_Egfr,0.987536753986813,FALSE
+Ma_chimp,chimp,Ma_chimp|InN ADARB2 FAM19A1,692,Macosko|Inh_Sncg_Np2yr_Fos_1,0.986136552013408,FALSE
+Ma_chimp,chimp,Ma_chimp|InN ADARB2 PALMD,91,Macosko|Inh_Frmd7_Zim1,0.978363246039566,TRUE
+Ma_chimp,chimp,Ma_chimp|InN ADARB2 RGS10,258,Macosko|Inh_Vip_Sncg_Tac2,0.991126778596595,TRUE
+Ma_chimp,chimp,Ma_chimp|InN ADARB2 SFRP2,389,Macosko|Inh_Sp8_Tgfbi,0.987454243487159,FALSE
+Ma_chimp,chimp,Ma_chimp|InN LAMP5 ADAMTS20,491,Macosko|Inh_Lamp5_Tnnt1_1,0.987222572158453,TRUE
+Ma_chimp,chimp,Ma_chimp|InN LAMP5 BMP7,1329,Macosko|Inh_Lamp5_Tnnt1_1,0.987961098421564,TRUE
+Ma_chimp,chimp,Ma_chimp|InN LAMP5 LHX6 PROX1,469,Macosko|Inh_Lhx6_Car8_4,0.987394031014033,FALSE
+Ma_chimp,chimp,Ma_chimp|InN LAMP5 LHX6 TAC1,694,Macosko|Inh_Lhx6_Car8_4,0.994313051182146,FALSE
+Ma_chimp,chimp,Ma_chimp|InN LAMP5 MEIS2,130,Macosko|Inh_Frmd7_Edaradd,0.978255616851797,TRUE
+Ma_chimp,chimp,Ma_chimp|InN LAMP5 RELN,717,Macosko|Inh_Lamp5_Ndnf_Adam12,0.993221336560191,FALSE
+Ma_chimp,chimp,Ma_chimp|InN LHX6 HGF STON2,95,Macosko|Inh_Six6_Vipr2_6,0.970336993467187,TRUE
+Ma_chimp,chimp,Ma_chimp|InN PVALB ANOS1,2206,Macosko|Inh_Lhx6_Pvalb_Tac1,0.984871434616459,TRUE
+Ma_chimp,chimp,Ma_chimp|InN PVALB GRIN2C,362,Macosko|Inh_Lhx6_Vipr2,0.986037672260739,TRUE
+Ma_chimp,chimp,Ma_chimp|InN PVALB HPSE,1216,Macosko|Inh_Tfap2a_Cdh1,0.985713194495932,TRUE
+Ma_chimp,chimp,Ma_chimp|InN PVALB PDE3A,417,Macosko|Inh_Lhx6_Vipr2,0.97911776234699,TRUE
+Ma_chimp,chimp,Ma_chimp|InN PVALB PIEZO2,1259,Macosko|Inh_Lhx6_Sst_Th_Ephb1,0.976624503523623,TRUE
+Ma_chimp,chimp,Ma_chimp|InN PVALB PRKCH,322,Macosko|Inh_Vip_Trim55_3,0.97415551952266,FALSE
+Ma_chimp,chimp,Ma_chimp|InN PVALB SNTB1,605,Macosko|Inh_Otx2_Tnni3_1,0.981405751046846,FALSE
+Ma_chimp,chimp,Ma_chimp|InN PVALB SYT2,574,Macosko|Inh_Six3_Sox2_4,0.987526342536194,FALSE
+Ma_chimp,chimp,Ma_chimp|InN SST ADAMTSL1,1046,Macosko|Inh_Lhx6_Cxcr4_3,0.984295938435563,FALSE
+Ma_chimp,chimp,Ma_chimp|InN SST ADRA1D,372,Macosko|Inh_Lhx6_Crhbp_1,0.979780379341984,TRUE
+Ma_chimp,chimp,Ma_chimp|InN SST ANKRD33B,161,Macosko|Inh_Pax8_Psd4,0.980649101318081,FALSE
+Ma_chimp,chimp,Ma_chimp|InN SST FREM1,1248,Macosko|Inh_Lhx6_Sst_Myh13,0.980142385456784,TRUE
+Ma_chimp,chimp,Ma_chimp|InN SST HGF GABRQ,111,Macosko|Inh_Six6_Vipr2_6,0.982414903446881,TRUE
+Ma_chimp,chimp,Ma_chimp|InN SST HS3ST5,661,Macosko|Inh_Lhx6_Sst_Itgad,0.974821671269908,FALSE
+Ma_chimp,chimp,Ma_chimp|InN SST HTR2C,857,Macosko|Inh_Lhx6_Tent5a_Arhgap28,0.963279679330095,TRUE
+Ma_chimp,chimp,Ma_chimp|InN SST KLHL14,355,Macosko|Inh_Lhx6_Sst_AW551984,0.987417034410541,FALSE
+Ma_chimp,chimp,Ma_chimp|InN SST NPY,150,Macosko|Inh_Lhx6_Sst_Chodl_2,0.994591207710506,FALSE
+Ma_chimp,chimp,Ma_chimp|InN SST PLPP4,647,Macosko|Inh_Lhx6_Sst_Hpse,0.966141443916315,TRUE
+Ma_chimp,chimp,Ma_chimp|InN SST STK32A,1020,Macosko|Inh_Lhx6_Sst_AW551984,0.969238271388108,FALSE
+Ma_chimp,chimp,Ma_chimp|InN SST THSD7B,527,Macosko|Inh_Lhx6_Sst_Crh_Baiap3,0.971962011667471,TRUE
+Ma_chimp,chimp,Ma_chimp|InN SST TRPC7,1249,Macosko|Inh_Lhx6_Sst_Hpse,0.978197167871371,TRUE
+Ma_chimp,chimp,Ma_chimp|InN VIP ADAM12,644,Macosko|Inh_Vip_Grpr,0.972754317461501,TRUE
+Ma_chimp,chimp,Ma_chimp|InN VIP CLSTN2,735,Macosko|Inh_Vip_Grpr,0.98309531331406,TRUE
+Ma_chimp,chimp,Ma_chimp|InN VIP EGF,263,Macosko|Inh_Vip_Crh_1,0.986873558028225,TRUE
+Ma_chimp,chimp,Ma_chimp|InN VIP EXPH5,730,Macosko|Inh_Vip_Grpr,0.958032734685087,TRUE
+Ma_chimp,chimp,Ma_chimp|InN VIP FREM2,498,Macosko|Inh_Vip_Crh_Sema5b,0.973313868286517,TRUE
+Ma_chimp,chimp,Ma_chimp|InN VIP HS3ST3B1,964,Macosko|Inh_Vip_Grpr,0.978525231429433,TRUE
+Ma_chimp,chimp,Ma_chimp|InN VIP MDGA1,129,Macosko|Inh_Sncg_Edn3,0.987820570385997,TRUE
+Ma_chimp,chimp,Ma_chimp|InN VIP MEGF11 LHFP,546,Macosko|Inh_Vip_Grpr,0.959271487896776,TRUE
+Ma_chimp,chimp,Ma_chimp|InN VIP PENK,205,Macosko|Inh_Htr3a_Nr2e1_1,0.9959756576425,TRUE
+Ma_chimp,chimp,Ma_chimp|InN VIP SCML4,666,Macosko|Inh_Vip_Sncg_Slit1,0.971018931376671,TRUE
+Ma_chimp,chimp,Ma_chimp|L2-3 CUX2 ACVR1C INHBA,2621,Macosko|Ex_Dsp_Atf3_1,0.93108606416547,FALSE
+Ma_chimp,chimp,Ma_chimp|L2-3 CUX2 ACVR1C THSD7A,9956,Macosko|Ex_Dsp_Gsg1l,0.963678578379012,TRUE
+Ma_chimp,chimp,Ma_chimp|L2-3 CUX2 ARHGAP18,117,Macosko|Ex_Crlf1_Ntn5_2,0.966434940602884,FALSE
+Ma_chimp,chimp,Ma_chimp|L2-3 CUX2 NTNG1 COL5A2,4004,Macosko|Ex_Rspo1_Fos,0.945759641247814,FALSE
+Ma_chimp,chimp,Ma_chimp|L2-3 CUX2 NTNG1 PALMD,4280,Macosko|Ex_Slc30a3_Otof,0.933713118823416,TRUE
+Ma_chimp,chimp,Ma_chimp|L2-3 CUX2 NTNG1 PLCH1,1431,Macosko|Ex_Rorb_Col8a1,0.949045364295664,TRUE
+Ma_chimp,chimp,Ma_chimp|L2-3 CUX2 PLCXD3,62,Macosko|Ex_Crym_Odad2_Fos,0.951809978349292,FALSE
+Ma_chimp,chimp,Ma_chimp|L2-4 CUX2 RORB CLMN,1787,Macosko|Ex_Plekhg1_Fign_Tnnt1_2,0.955212711047851,TRUE
+Ma_chimp,chimp,Ma_chimp|L3-5 RORB GABRG1 KCNH7,907,Macosko|Ex_Fezf2_Pirt_Cadps2,0.881365118805264,FALSE
+Ma_chimp,chimp,Ma_chimp|L3-5 RORB GABRG1 PLCH1,926,Macosko|Ex_Fezf2_Tmem255b_2,0.857883670274102,TRUE
+Ma_chimp,chimp,Ma_chimp|L3-5 RORB GABRG1 PTPRO,792,Macosko|Ex_Fezf2_Pirt_Cadps2,0.869569929301855,FALSE
+Ma_chimp,chimp,Ma_chimp|L3-5 RORB MKX DCC,2362,Macosko|Ex_Fezf2_Pirt_Cadps2,0.936754555435321,FALSE
+Ma_chimp,chimp,Ma_chimp|L3-5 RORB MKX GALR1,694,Macosko|Ex_Gabra6_Gabrd,0.923498634691782,TRUE
+Ma_chimp,chimp,Ma_chimp|L3-5 RORB MKX GRIN3A,2730,Macosko|Ex_Rorb_Scn5a,0.947813546184521,TRUE
+Ma_chimp,chimp,Ma_chimp|L3-5 RORB MKX SCN5A,376,Macosko|Ex_Gabra6_Gabrd,0.904651027029477,TRUE
+Ma_chimp,chimp,Ma_chimp|L3-5 RORB PCBP3 ARHGAP15,357,Macosko|Ex_Neurod6_E130114P18Rik,0.933398940588268,TRUE
+Ma_chimp,chimp,Ma_chimp|L3-5 RORB PCBP3 IL1RAPL2,683,Macosko|Ex_Sln_Niban1,0.879934766017299,TRUE
+Ma_chimp,chimp,Ma_chimp|L3-5 RORB PCBP3 LINGO2,1101,Macosko|Ex_Rspo1_Fos,0.923711524628897,FALSE
+Ma_chimp,chimp,Ma_chimp|L3-5 RORB TNNT2 PRRX1,347,Macosko|Ex_Fezf2_Pirt_Cadps2,0.934931793134461,FALSE
+Ma_chimp,chimp,Ma_chimp|L3-5 RORB TNNT2 TSHZ2,824,Macosko|Ex_Fezf2_Pirt_Cadps2,0.908892330390309,FALSE
+Ma_chimp,chimp,Ma_chimp|L5 FEZF2 BCL11B POU3F1,364,Macosko|Ex_Fezf2_Lipm,0.966209827513596,TRUE
+Ma_chimp,chimp,Ma_chimp|L5-6 FEZF2 NXPH2 CDH8,730,Macosko|Ex_Fezf2_Myzap,0.985773990578117,TRUE
+Ma_chimp,chimp,Ma_chimp|L5-6 FEZF2 NXPH2 GPC5,334,Macosko|Ex_Fezf2_Myzap,0.988357655430432,TRUE
+Ma_chimp,chimp,Ma_chimp|L5-6 FEZF2 NXPH2 GRIK1,295,Macosko|Ex_Fezf2_Myzap,0.987828733262331,TRUE
+Ma_chimp,chimp,Ma_chimp|L5-6 FEZF2 NXPH2 SORCS3,195,Macosko|Ex_Fezf2_Myzap,0.979300340875728,TRUE
+Ma_chimp,chimp,Ma_chimp|L6 FEZF2 AMOTL1 CDH6,235,Macosko|Ex_Nxph4_Megf6,0.974740848842688,TRUE
+Ma_chimp,chimp,Ma_chimp|L6 FEZF2 DCBLD1 MITF,309,Macosko|Ex_Nxph4_Megf6,0.969194277511526,TRUE
+Ma_chimp,chimp,Ma_chimp|L6 FEZF2 EYA1,57,Macosko|Ex_Nxph4_Olfr110_Cplx3,0.985214789672832,FALSE
+Ma_chimp,chimp,Ma_chimp|L6 FEZF2 HCRTR2 THSD7B,66,Macosko|Ex_Nxph4_Megf6,0.961669110536752,TRUE
+Ma_chimp,chimp,Ma_chimp|L6 FEZF2 NPFFR2 KCNK2,602,Macosko|Ex_Ccn2_Nmbr_4,0.97518584807933,FALSE
+Ma_chimp,chimp,Ma_chimp|L6 FEZF2 NPFFR2 TPD52L1,892,Macosko|Ex_Nxph4_Moxd1_Htr2c,0.976203007425501,FALSE
+Ma_chimp,chimp,Ma_chimp|L6 FEZF2 SYT6 CDH9,812,Macosko|Ex_Nxph4_Olfr110_Crhr1,0.9827797846621,TRUE
+Ma_chimp,chimp,Ma_chimp|L6 FEZF2 SYT6 ERBB4,506,Macosko|Ex_Fezf2_Col6a1_Tg,0.973939222887877,FALSE
+Ma_chimp,chimp,Ma_chimp|L6 FEZF2 SYT6 PTPRT,651,Macosko|Ex_Fezf2_Slc9a4,0.966918051445908,FALSE
+Ma_chimp,chimp,Ma_chimp|L6 FEZF2 SYT6 SULF1,129,Macosko|Ex_Fezf2_Col6a1_Tg,0.973335384551968,FALSE
+Ma_chimp,chimp,Ma_chimp|L6 OPRK1 SMYD1 ADAMTS17,144,Macosko|Ex_Oprk1_Col11a1,0.940829402889009,TRUE
+Ma_chimp,chimp,Ma_chimp|L6 OPRK1 SMYD1 KCND2,476,Macosko|Ex_Oprk1_Col11a1,0.971471419119026,TRUE
+Ma_chimp,chimp,Ma_chimp|L6 OPRK1 SMYD1 SNTB1,414,Macosko|Ex_Oprk1_Col11a1,0.942525511403751,TRUE
+Ma_chimp,chimp,Ma_chimp|L6 OPRK1 SMYD1 TSHZ2,302,Macosko|Ex_Oprk1_Col11a1,0.983089283922377,TRUE
+Ma_chimp,chimp,Ma_chimp|L6 OPRK1 THEMIS RGS6,2358,Macosko|Ex_Dcn_Grik3,0.926449155306069,TRUE
+Ma_chimp,chimp,Ma_chimp|Macro F13A1 COLEC12,167,Macosko|Macro_Mrc1_Ms4a4a,0.962557902203343,TRUE
+Ma_chimp,chimp,Ma_chimp|Micro P2RY12 APBB1IP,5679,Macosko|Micro_Selplg_Siglech,0.9971500976937,TRUE
+Ma_chimp,chimp,Ma_chimp|Micro P2RY12 GLDN,69,Macosko|Micro_Selplg_Siglech,0.980031401119032,TRUE
+Ma_chimp,chimp,Ma_chimp|Myeloid LSP1 LYZ,242,Macosko|Granulocyte_Ly6g_Ltf_1,0.988831611746943,FALSE
+Ma_chimp,chimp,Ma_chimp|Oligo MOG CDH7,4,Macosko|OPC_Cspg5,0.912291660077801,TRUE
+Ma_chimp,chimp,Ma_chimp|Oligo MOG FRY,255,Macosko|Oligo_Opalin_Synpr,0.844084355315325,TRUE
+Ma_chimp,chimp,Ma_chimp|Oligo MOG GSN,2351,Macosko|Oligo_Klk6_1,0.90647077736968,TRUE
+Ma_chimp,chimp,Ma_chimp|Oligo MOG OPALIN,43451,Macosko|Oligo_Opalin_Synpr,0.990299508870842,TRUE
+Ma_chimp,chimp,Ma_chimp|OPC PDGFRA PCDH15,5250,Macosko|OPC_Cspg5,0.999791074228565,TRUE
+Ma_chimp,chimp,Ma_chimp|PC P2RY14 GRM8,4192,Macosko|Endo_Flt1_Kcnj8,0.99410657345516,TRUE
+Ma_chimp,chimp,Ma_chimp|RB HBA1 HBB,134,Macosko|Endo_Flt1_Rgs5_Slc19a3_1,0.970327358554299,TRUE
+Ma_chimp,chimp,Ma_chimp|SMC ACTA2 CNN1,906,Macosko|Endo_Flt1_Actg2,0.985196752479963,FALSE
+Ma_chimp,chimp,Ma_chimp|SMC ACTA2 CRISPLD2,114,Macosko|Endo_Flt1_Kcnj8_Ccl19_2,0.964956366610421,FALSE
+Ma_chimp,chimp,Ma_chimp|SMC ACTA2 CYP1B1,812,Macosko|Endo_Flt1_Kcnj8_Ccl19_2,0.988179831346551,FALSE
+Ma_chimp,chimp,Ma_chimp|T SKAP1 CD247,233,Macosko|Lymphocyte_Itgal_Cd3e,0.976015759331718,TRUE
+Ma_chimp,chimp,Ma_chimp|VLMC COL1A2 SLC13A3,350,Macosko|Fibro_Eya2_Rbp4_4,0.982116780455027,FALSE
+Ma_chimp,chimp,Ma_chimp|VLMC COL1A2 VLMCA8,521,Macosko|Fibro_Eya2_Srpx2,0.965858019825005,FALSE
+Ma_chimp,chimp,Ma_chimp|VLMC SLC47A1 SLC4A4,340,Macosko|Fibro_Eya2_Slc47a1_2,0.931760992101504,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|Astro AQP4 SLC1A2,8903,Macosko|Astro_Fabp7_Hs3st3a1_1,0.996240587200049,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|Astro GFAP AQP1,595,Macosko|Astro_Ephb1_Gfap,0.938244877288066,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|Astro GFAP FABP7,1435,Macosko|Astro_Ephb1_Gfap,0.962521769777922,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|B EBF1 IGKC,6,Macosko|Lymphocyte_Pou2af1_Fcrl5,0.993156574522105,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|COP GPR17 SOX4,110,Macosko|OPC_Cspg5,0.957637927371051,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|Endo CLDN5 DKK2,187,Macosko|Endo_Flt1_Cytl1,0.97620603878165,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|Endo CLDN5 IL1R1,423,Macosko|Endo_Flt1_Lrg1_4,0.97712590519984,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|Endo CLDN5 SLC7A5,3846,Macosko|Endo_Flt1_Rgs5_Slc19a3_1,0.981287040074687,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|InN ADARB2 CADPS2,125,Macosko|Inh_Sncg_Np2yr_Whrn_2,0.9965644006814,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|InN ADARB2 CALCR,118,Macosko|Inh_Htr3a_Cxcl14_1,0.992424836799317,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|InN ADARB2 COL5A2,455,Macosko|Inh_Lamp5_Ndnf_Tac2,0.989318752347463,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|InN ADARB2 FAM19A1,576,Macosko|Inh_Sncg_Np2yr_Fos_2,0.983039939392081,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|InN ADARB2 PALMD,54,Macosko|Inh_Frmd7_Slc26a7_1,0.987374611399257,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|InN ADARB2 RGS10,274,Macosko|Inh_Sncg_Ror1,0.995743125178144,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|InN ADARB2 SFRP2,226,Macosko|Inh_Sp8_Tgfbi,0.995082327554188,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|InN LAMP5 ADAMTS20,246,Macosko|Inh_Lamp5_Ndnf_Prom1,0.9904118799419,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|InN LAMP5 BMP7,1032,Macosko|Inh_Lamp5_Tnnt1_1,0.992062895050686,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|InN LAMP5 LHX6 PROX1,513,Macosko|Inh_Lhx6_Car8_4,0.994351833967038,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|InN LAMP5 LHX6 TAC1,483,Macosko|Inh_Lhx6_Car8_4,0.993199780122698,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|InN LAMP5 MEIS2,115,Macosko|Inh_Creb5_Ror1_2,0.989581849236705,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|InN LAMP5 RELN,585,Macosko|Inh_Lamp5_Ndnf_Adam12,0.994944942436261,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|InN LHX6 HGF STON2,209,Macosko|Inh_Lhx6_Sst_Th_Ephb1,0.979202185121231,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|InN PVALB ANOS1,1632,Macosko|Inh_Lhx6_Cox6a2_Nxph2_2,0.991699335356245,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|InN PVALB GRIN2C,447,Macosko|Inh_Lhx6_Vipr2,0.991297790128555,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|InN PVALB HPSE,1002,Macosko|Inh_Tfap2a_Cdh1,0.986512915874012,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|InN PVALB PDE3A,700,Macosko|Inh_Lhx6_Vipr2,0.989682590833958,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|InN PVALB PIEZO2,1127,Macosko|Inh_Lhx6_Sst_Th_Ephb1,0.985061740736277,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|InN PVALB PRKCH,298,Macosko|Inh_Lhx6_Sst_Th_Ephb1,0.976300614711998,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|InN PVALB SNTB1,403,Macosko|Inh_Pax2_Nkx6-1_Npy2r_2,0.985325706103017,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|InN PVALB SYT2,247,Macosko|Inh_Nkx6-1_Cox8b,0.993641633617246,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|InN SST ADAMTSL1,542,Macosko|Inh_Lhx6_Cxcr4_3,0.986115249956239,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|InN SST ADRA1D,192,Macosko|Inh_Lhx6_Kcnmb1_1,0.985763742930297,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|InN SST ANKRD33B,80,Macosko|Inh_Lhx6_Sst_Th_Ephb1,0.992379650558983,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|InN SST FREM1,853,Macosko|Inh_Lhx6_Sst_Myh13,0.993484847858554,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|InN SST HGF GABRQ,99,Macosko|Ex_Pou4f1_Gpr151_Col5a3,0.986149288937738,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|InN SST HS3ST5,491,Macosko|Inh_Lhx6_Arhgap28_3,0.985172905154799,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|InN SST HTR2C,571,Macosko|Inh_Lhx6_Nr2e1_1,0.977259759346457,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|InN SST KLHL14,438,Macosko|Inh_Lhx6_Sst_AW551984,0.991705864101248,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|InN SST NPY,88,Macosko|Inh_Lhx6_Sst_Chodl_2,0.999146234615214,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|InN SST PLPP4,356,Macosko|Inh_Lhx6_Sst_Hpse,0.980813920594757,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|InN SST STK32A,961,Macosko|Inh_Lhx6_Sst_AW551984,0.981120756820951,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|InN SST THSD7B,542,Macosko|Inh_Lhx6_Sst_Crh_Baiap3,0.989352706616192,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|InN SST TRPC7,795,Macosko|Inh_Lhx6_Sst_Hpse,0.988035899525794,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|InN VIP ADAM12,425,Macosko|Inh_Vip_Grpr,0.978313422530726,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|InN VIP CLSTN2,871,Macosko|Inh_Vip_Grpr,0.990854847953869,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|InN VIP EGF,298,Macosko|NG_Draxin_3,0.981437486209767,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|InN VIP EXPH5,666,Macosko|Inh_Vip_Grpr,0.963722509309549,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|InN VIP FREM2,450,Macosko|Inh_Vip_Grpr,0.980179418977262,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|InN VIP HS3ST3B1,1040,Macosko|Inh_Vip_Grpr,0.978477358961735,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|InN VIP MDGA1,133,Macosko|Inh_Sncg_Edn3,0.994166081212703,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|InN VIP MEGF11 LHFP,461,Macosko|Inh_Vip_Grpr,0.971350831790372,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|InN VIP PENK,104,Macosko|Inh_Htr3a_Nr2e1_1,0.99357184864964,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|InN VIP SCML4,516,Macosko|Inh_Vip_Sncg_Yjefn3,0.981387369180552,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|L2-3 CUX2 ACVR1C INHBA,1668,Macosko|Inh_Ppp1r1b_Drd2_Stard8_1,0.895400937528942,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|L2-3 CUX2 ACVR1C THSD7A,9907,Macosko|Ex_Dsp_Gsg1l,0.965693791893089,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|L2-3 CUX2 ARHGAP18,62,Macosko|Inh_Sidt1_Drd1_Pax6_2,0.981206727962818,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|L2-3 CUX2 NTNG1 COL5A2,3343,Macosko|Ex_Rorb_Naa11_Gsg1l,0.938818776018264,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|L2-3 CUX2 NTNG1 PALMD,3889,Macosko|Ex_Slc30a3_Otof,0.924258556562148,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|L2-3 CUX2 NTNG1 PLCH1,1502,Macosko|Ex_Rorb_Col8a1_Scn7a,0.939545008724053,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|L2-3 CUX2 PLCXD3,84,Macosko|Ex_Dsp_Atf3_1,0.942708719709896,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|L2-4 CUX2 RORB CLMN,1382,Macosko|Ex_Plekhg1_Nox4_Kcp_3,0.956159642765254,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|L3-5 RORB GABRG1 KCNH7,1249,Macosko|Ex_Sln_Niban1,0.906712335804089,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|L3-5 RORB GABRG1 PLCH1,469,Macosko|Ex_Sln_Niban1,0.921721032091836,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|L3-5 RORB GABRG1 PTPRO,1187,Macosko|Ex_Slc30a3_Shisa8_3,0.889937341207453,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|L3-5 RORB MKX DCC,2607,Macosko|Ex_Fezf2_Pirt_Cadps2,0.917511878405864,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|L3-5 RORB MKX GALR1,886,Macosko|Ex_Gabra6_Gabrd,0.917450583975163,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|L3-5 RORB MKX GRIN3A,2810,Macosko|Ex_Rorb_Scn5a,0.961232897836054,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|L3-5 RORB MKX SCN5A,576,Macosko|Ex_Fezf2_Rgs16,0.898100327994794,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|L3-5 RORB PCBP3 ARHGAP15,606,Macosko|Ex_Phox2b_Ghsr_2,0.927569856260311,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|L3-5 RORB PCBP3 IL1RAPL2,981,Macosko|Ex_Sln_Niban1,0.916571481315912,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|L3-5 RORB PCBP3 LINGO2,1508,Macosko|Ex_Plekhg1_Nox4_Ros1,0.922903860304824,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|L3-5 RORB TNNT2 PRRX1,390,Macosko|Ex_Tfap2d_Npr1_2,0.918340569785741,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|L3-5 RORB TNNT2 TSHZ2,1234,Macosko|Ex_Fezf2_Pirt_Cadps2,0.891372931978609,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|L5 FEZF2 BCL11B POU3F1,384,Macosko|Ex_Fezf2_Lipm,0.955914700186761,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|L5-6 FEZF2 NXPH2 CDH8,750,Macosko|Ex_Fezf2_Myzap,0.984805053652845,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|L5-6 FEZF2 NXPH2 GPC5,375,Macosko|Ex_Fezf2_Myzap,0.990195560385845,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|L5-6 FEZF2 NXPH2 GRIK1,294,Macosko|Ex_Fezf2_Myzap,0.985066175348048,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|L5-6 FEZF2 NXPH2 SORCS3,248,Macosko|Ex_Fezf2_Slc17a8_Rxfp1,0.964073426659668,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|L6 FEZF2 AMOTL1 CDH6,355,Macosko|Ex_Nxph4_Megf6,0.987134022636396,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|L6 FEZF2 DCBLD1 MITF,458,Macosko|Ex_Nxph4_Megf6,0.988520956478158,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|L6 FEZF2 EYA1,37,Macosko|Ex_Nxph4_Olfr110_Cplx3,0.984293190476633,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|L6 FEZF2 HCRTR2 THSD7B,186,Macosko|Ex_Nxph4_Megf6,0.992683387628467,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|L6 FEZF2 NPFFR2 KCNK2,718,Macosko|Ex_Nxph4_Moxd1_Htr2c,0.990233905993422,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|L6 FEZF2 NPFFR2 TPD52L1,1194,Macosko|Ex_Nxph4_Moxd1_Htr2c,0.989072060498119,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|L6 FEZF2 SYT6 CDH9,957,Macosko|Ex_Fezf2_Cknsr3,0.977078146580092,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|L6 FEZF2 SYT6 ERBB4,661,Macosko|Ex_Fezf2_Cknsr3,0.972017597492718,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|L6 FEZF2 SYT6 PTPRT,1284,Macosko|Ex_Fezf2_Col6a1_Tg,0.973741820593133,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|L6 FEZF2 SYT6 SULF1,268,Macosko|Ex_Fezf2_Col6a1_Tg,0.97600376798215,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|L6 OPRK1 SMYD1 ADAMTS17,72,Macosko|Ex_Oprk1_Col11a1,0.987383870392995,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|L6 OPRK1 SMYD1 KCND2,373,Macosko|Ex_Oprk1_Col11a1,0.98800758546996,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|L6 OPRK1 SMYD1 SNTB1,328,Macosko|Ex_Oprk1_Col11a1,0.990752214461871,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|L6 OPRK1 SMYD1 TSHZ2,254,Macosko|Ex_Oprk1_Col11a1,0.986303861939263,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|L6 OPRK1 THEMIS RGS6,4141,Macosko|Ex_Dcn_Grik3,0.970748835689992,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|Macro F13A1 COLEC12,688,Macosko|Macro_Mrc1_Ms4a4a,0.969536893608184,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|Micro P2RY12 APBB1IP,8058,Macosko|Micro_Selplg_Siglech,0.997033217945732,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|Myeloid LSP1 LYZ,126,Macosko|Granulocyte_Ly6g_Ltf_1,0.977195741328019,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|Oligo MOG CDH7,31,Macosko|Oligo_Opalin_Synpr,0.88037692891288,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|Oligo MOG FRY,5139,Macosko|Oligo_Opalin_Synpr,0.921583115844072,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|Oligo MOG GSN,1492,Macosko|Oligo_Klk6_1,0.977796728452627,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|Oligo MOG OPALIN,14829,Macosko|Oligo_Klk6_1,0.976078541613011,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|OPC PDGFRA PCDH15,6176,Macosko|OPC_Cspg5,0.999790560539213,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|PC P2RY14 GRM8,3415,Macosko|Endo_Flt1_Kcnj8,0.995535235940181,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|RB HBA1 HBB,111,Macosko|Endo_Flt1_Rgs5_Slc19a3_1,0.965100540997456,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|SMC ACTA2 CNN1,640,Macosko|Endo_Flt1_Actg2,0.962376478234861,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|SMC ACTA2 CRISPLD2,72,Macosko|Endo_Flt1_Kcnj8_Ccl19_2,0.968794330754089,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|SMC ACTA2 CYP1B1,471,Macosko|Endo_Flt1_Actg2,0.99366756858867,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|T SKAP1 CD247,185,Macosko|Lymphocyte_Itgal_Cd3e,0.978882577733144,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|VLMC COL1A2 SLC13A3,887,Macosko|Fibro_Eya2_Unc5c_3,0.969329829537543,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|VLMC COL1A2 VLMCA8,770,Macosko|Fibro_Eya2_Sh3gl3,0.968441275295922,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|VLMC SLC47A1 SLC4A4,921,Macosko|Fibro_Eya2_Slc47a1_1,0.96355609034768,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|Astro AQP4 SLC1A2,14663,Macosko|Astro_Agt_Sntg1,0.996613651121592,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|Astro GFAP AQP1,480,Macosko|Astro_Fabp7_Hs3st3a1_5,0.945457645917792,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|Astro GFAP FABP7,1003,Macosko|Astro_Ephb1_Gfap,0.946379921965824,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|B EBF1 IGKC,6,Macosko|Lymphocyte_Pou2af1_Spib,0.991209582814807,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|COP GPR17 SOX4,30,Macosko|OPC_Cspg5,0.972251368460499,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|Endo CLDN5 DKK2,93,Macosko|Endo_Flt1_Ssu2_1,0.968726755747514,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|Endo CLDN5 IL1R1,554,Macosko|Endo_Flt1_Lrg1_4,0.984624008749944,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|Endo CLDN5 SLC7A5,3628,Macosko|Endo_Flt1_Rgs5_Slc19a3_1,0.98402304129036,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|InN ADARB2 CADPS2,215,Macosko|Inh_Htr3a_Grpr_3,0.996700779182655,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|InN ADARB2 CALCR,168,Macosko|Inh_Htr3a_Cxcl14_1,0.995329194973368,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|InN ADARB2 COL5A2,383,Macosko|Inh_Htr3a_Cxcl14_2,0.981823360970151,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|InN ADARB2 FAM19A1,670,Macosko|Inh_Sncg_Np2yr_Fos_1,0.980148505446531,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|InN ADARB2 PALMD,64,Macosko|Inh_Frmd7_Slc26a7_2,0.980290646502102,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|InN ADARB2 RGS10,427,Macosko|Inh_Vip_Sncg_Tac2,0.993611333108958,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|InN ADARB2 SFRP2,382,Macosko|Inh_Sp8_Tgfbi,0.991997749217167,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|InN LAMP5 ADAMTS20,273,Macosko|Inh_Lamp5_Tnnt1_1,0.991847579568348,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|InN LAMP5 BMP7,1312,Macosko|Inh_Lamp5_Tnnt1_1,0.99330922675275,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|InN LAMP5 LHX6 PROX1,362,Macosko|Inh_Lhx6_Car8_4,0.98249611885734,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|InN LAMP5 LHX6 TAC1,695,Macosko|Inh_Lhx6_Car8_4,0.986805121046032,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|InN LAMP5 MEIS2,80,Macosko|Inh_Sp8_Abcb5_Runx1t1,0.960588952927946,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|InN LAMP5 RELN,595,Macosko|Inh_Lamp5_Ndnf_Adam12,0.995329570571318,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|InN LAMP5 SYT10,225,Macosko|Inh_Vip_Drd2,0.980547518699928,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|InN LHX6 HGF STON2,126,Macosko|Inh_Lhx6_Sst_Th_Ephb1,0.985855625300658,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|InN PVALB ANOS1,1875,Macosko|Inh_Lhx6_Cox6a2_Nxph2_2,0.983729425288914,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|InN PVALB GRIN2C,604,Macosko|Inh_Lhx6_Vipr2,0.98347942056895,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|InN PVALB HPSE,1368,Macosko|Inh_Lhx6_Pvalb_Tac1,0.9848974880652,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|InN PVALB PDE3A,1010,Macosko|Inh_Lhx6_Vipr2,0.973031956632999,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|InN PVALB PIEZO2,1398,Macosko|Inh_Lhx6_Sst_Th_Ephb1,0.986130641531434,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|InN PVALB PRKCH,370,Macosko|Inh_Lhx6_Sst_Th_Ephb1,0.982968956024933,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|InN PVALB SNTB1,434,Macosko|Inh_Six3_Sox2_6,0.98722638616036,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|InN PVALB SYT2,387,Macosko|Inh_Pax5_Krt25_1,0.993327075874522,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|InN SST ADAMTSL1,803,Macosko|Inh_Lhx6_Sst_Col6a5_4,0.986269245014544,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|InN SST ADRA1D,198,Macosko|Inh_Lhx6_Crhbp_1,0.986733449589348,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|InN SST ANKRD33B,55,Macosko|Inh_Pax2_Hmcn1,0.989158908528709,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|InN SST FREM1,1295,Macosko|Inh_Lhx6_Sst_Myh13,0.988944379869852,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|InN SST HGF GABRQ,200,Macosko|Inh_Lhx6_Sst_Ffar4,0.981966295522148,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|InN SST HS3ST5,519,Macosko|Inh_Lhx6_Sst_Col6a5_6,0.984598354267229,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|InN SST HTR2C,822,Macosko|Inh_Lhx6_Arhgap28_2,0.971498484634357,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|InN SST KLHL14,440,Macosko|Inh_Lhx6_Sst_Ffar4,0.992031317482743,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|InN SST NPY,120,Macosko|Inh_Lhx6_Sst_Chodl_1,0.994341682959709,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|InN SST PLPP4,550,Macosko|Inh_Lhx6_Sst_A730009L09Rik_Kcnh8,0.975506618041167,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|InN SST STK32A,1417,Macosko|Inh_Lhx6_Sst_AW551984,0.98130475523686,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|InN SST THSD7B,751,Macosko|Inh_Lhx6_Sst_Crh_Baiap3,0.974480587697344,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|InN SST TRPC7,1254,Macosko|Inh_Lhx6_Sst_Ccna1_3,0.985911928415762,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|InN VIP ADAM12,576,Macosko|Inh_Vip_Grpr,0.97001410604853,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|InN VIP CLSTN2,1376,Macosko|Inh_Vip_Grpr,0.987417106446715,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|InN VIP EGF,382,Macosko|Inh_Vip_Crh_1,0.978868393399979,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|InN VIP EXPH5,849,Macosko|Inh_Vip_Grpr,0.955328884981907,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|InN VIP FREM2,772,Macosko|Inh_Vip_Grpr,0.975159772374195,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|InN VIP HS3ST3B1,1300,Macosko|Inh_Vip_Grpr,0.983418043136066,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|InN VIP MDGA1,65,Macosko|Inh_Sncg_Calcb_5,0.99351140616577,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|InN VIP MEGF11 LHFP,682,Macosko|Inh_Vip_Grpr,0.956566947123529,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|InN VIP PENK,97,Macosko|Inh_Vip_Glp1r_Kcnh5,0.995501341812233,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|InN VIP SCML4,602,Macosko|Inh_Vip_Sncg_Yjefn3,0.971086017155699,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|L2-3 CUX2 ACVR1C INHBA,1455,Macosko|Ex_Dsp_Gsg1l,0.894595489580731,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|L2-3 CUX2 ACVR1C THSD7A,8323,Macosko|Ex_Dsp_Gsg1l,0.966120334888151,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|L2-3 CUX2 NTNG1 COL5A2,5218,Macosko|Ex_Slc30a3_Otof,0.898630960818869,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|L2-3 CUX2 NTNG1 PALMD,6000,Macosko|Ex_Slc30a3_Otof,0.923613406241578,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|L2-3 CUX2 NTNG1 PLCH1,2733,Macosko|Ex_Rorb_Adam33,0.921898562603385,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|L2-3 CUX2 PLCXD3,16,Macosko|Ex_Dsp_Atf3_1,0.924618355726253,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|L2-4 CUX2 RORB CLMN,1965,Macosko|Ex_Rorb_Col8a1_Scn7a,0.92293837504905,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|L3-5 RORB GABRG1 KCNH7,1718,Macosko|Ex_Slc30a3_Shisa8_3,0.904606895437775,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|L3-5 RORB GABRG1 PLCH1,1255,Macosko|Ex_Sln_Niban1,0.875254470502948,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|L3-5 RORB GABRG1 PTPRO,1983,Macosko|Ex_Slc30a3_Shisa8_3,0.896087147917348,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|L3-5 RORB MKX DCC,4058,Macosko|Ex_Iqcj_Ms4a15_7,0.874815925561037,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|L3-5 RORB MKX GALR1,1674,Macosko|Ex_Gabra6_Gabrd,0.893418640647565,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|L3-5 RORB MKX GRIN3A,5006,Macosko|Ex_Rorb_Scn5a,0.956458265504136,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|L3-5 RORB MKX SCN5A,1026,Macosko|Ex_Gabra6_Gabrd,0.915373330682801,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|L3-5 RORB PCBP3 ARHGAP15,999,Macosko|Ex_Sln_Niban1,0.896080954564544,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|L3-5 RORB PCBP3 IL1RAPL2,2010,Macosko|Ex_Sln_Niban1,0.908657454633005,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|L3-5 RORB PCBP3 LINGO2,2402,Macosko|Ex_Sln_Niban1,0.899048958550706,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|L3-5 RORB TNNT2 PRRX1,519,Macosko|Ex_Tfap2d_Npr1_2,0.887763719826461,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|L3-5 RORB TNNT2 TSHZ2,1865,Macosko|Ex_Fezf2_Pirt_Cadps2,0.857402086050003,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|L5 FEZF2 BCL11B POU3F1,1361,Macosko|Ex_Fezf2_Nts,0.987281024615388,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|L5-6 FEZF2 NXPH2 CDH8,1294,Macosko|Ex_Fezf2_Pvalb_Chn2,0.98908935522127,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|L5-6 FEZF2 NXPH2 GPC5,741,Macosko|Ex_Fezf2_Pvalb_Chn2,0.986132295922788,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|L5-6 FEZF2 NXPH2 GRIK1,522,Macosko|Ex_Fezf2_Myzap,0.989811885332919,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|L5-6 FEZF2 NXPH2 SORCS3,322,Macosko|Ex_Fezf2_Pvalb_Chn2,0.965247088329723,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|L6 FEZF2 AMOTL1 CDH6,345,Macosko|Ex_Nxph4_Megf6,0.987382752901092,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|L6 FEZF2 DCBLD1 MITF,525,Macosko|Ex_Nxph4_Megf6,0.983867283201659,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|L6 FEZF2 EYA1,7,Macosko|Ex_Nxph4_Olfr110_Crhr1,0.987638437929818,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|L6 FEZF2 HCRTR2 THSD7B,116,Macosko|Ex_Nxph4_Megf6,0.987847732087676,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|L6 FEZF2 NPFFR2 KCNK2,589,Macosko|Ex_Nxph4_Megf6,0.975552610601576,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|L6 FEZF2 NPFFR2 TPD52L1,1072,Macosko|Ex_Nxph4_Moxd1_Igfbp4,0.972264459395253,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|L6 FEZF2 SYT6 CDH9,1515,Macosko|Ex_Fezf2_Kit_Sostdc1,0.976044189753507,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|L6 FEZF2 SYT6 ERBB4,1401,Macosko|Ex_Fezf2_Cnksr3_Fos,0.973671525044653,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|L6 FEZF2 SYT6 PTPRT,1610,Macosko|Ex_Fezf2_Col6a1_Tg,0.974339464026632,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|L6 FEZF2 SYT6 SULF1,431,Macosko|Ex_Fezf2_Col6a1_Tg,0.984721572199632,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|L6 OPRK1 SMYD1 ADAMTS17,7,Macosko|Ex_Oprk1_Col11a1,0.985665634704514,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|L6 OPRK1 SMYD1 KCND2,355,Macosko|Ex_Oprk1_Col11a1,0.989762542312414,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|L6 OPRK1 SMYD1 SNTB1,258,Macosko|Ex_Oprk1_Col11a1,0.986686756971731,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|L6 OPRK1 SMYD1 TSHZ2,109,Macosko|Ex_Oprk1_Col11a1,0.99217825704228,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|L6 OPRK1 THEMIS RGS6,5555,Macosko|Ex_Slc30a3_Col6a1,0.966255167552569,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|Macro F13A1 COLEC12,254,Macosko|Macro_Mrc1_Ms4a4a,0.986156541643039,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|Micro P2RY12 APBB1IP,4626,Macosko|Micro_Selplg_Siglech,0.995665930488724,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|Myeloid LSP1 LYZ,44,Macosko|Macro_Mrc1_Cd209a,0.985415206514227,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|Oligo MOG CDH7,3,Macosko|OPC_Cspg5,0.926754312603843,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|Oligo MOG FRY,933,Macosko|Oligo_Opalin_Synpr,0.919726484795356,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|Oligo MOG GSN,1874,Macosko|Oligo_Klk6_1,0.96775377734782,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|Oligo MOG OPALIN,14734,Macosko|Oligo_Opalin_Synpr,0.990353759775011,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|OPC PDGFRA PCDH15,4556,Macosko|OPC_Cspg5,0.999950751195506,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|PC P2RY14 GRM8,2521,Macosko|Endo_Flt1_Kcnj8,0.994017757489149,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|RB HBA1 HBB,233,Macosko|Endo_Flt1_Ssu2_2,0.981282739395811,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|SMC ACTA2 CNN1,282,Macosko|Endo_Flt1_Actg2,0.965729058485038,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|SMC ACTA2 CRISPLD2,30,Macosko|Endo_Flt1_Kcnj8_Ccl19_2,0.979673621613423,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|SMC ACTA2 CYP1B1,336,Macosko|Endo_Flt1_Actg2,0.99478348439797,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|T SKAP1 CD247,113,Macosko|Lymphocyte_Itgal_Cd3e,0.985219037732456,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|VLMC COL1A2 SLC13A3,924,Macosko|Fibro_Eya2_Rbp4_4,0.991073993147453,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|VLMC COL1A2 VLMCA8,381,Macosko|Fibro_Eya2_Srpx2,0.981696836212899,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|VLMC SLC47A1 SLC4A4,259,Macosko|Fibro_Eya2_Slc47a1_2,0.986615027906103,FALSE
+Jin_spider,spider,Jin_spider|Fat_Body_24,247,Macosko|Astro_Ephb1_Gfap,0.826651783531004,TRUE
+Jin_spider,spider,Jin_spider|Glia_21,350,Macosko|Astro_Agt_Sntg1,0.739082685585126,TRUE
+Jin_spider,spider,Jin_spider|Glia_28,213,Macosko|Astro_Agt_Sntg1,0.856680893255874,TRUE
+Jin_spider,spider,Jin_spider|Glia_34,143,Macosko|Inh_Frmd7_Zim1,0.620753262485546,TRUE
+Jin_spider,spider,Jin_spider|Glia_41,28,Macosko|NG_Draxin_9,0.920736027562829,FALSE
+Jin_spider,spider,Jin_spider|Hemocytes_16,611,Macosko|Macro_Mrc1_H2-Aa,0.885538622468342,FALSE
+Jin_spider,spider,Jin_spider|Hemocytes_25,242,Macosko|Lymphocyte_Itgal_Ly6c2,0.918905211588862,FALSE
+Jin_spider,spider,Jin_spider|Hemocytes_27,218,Macosko|Macro_Mrc1_H2-Aa,0.796796127631828,FALSE
+Jin_spider,spider,Jin_spider|Hemocytes_36,118,Macosko|Lymphocyte_Itgal_Ly6c2,0.852817778012884,FALSE
+Jin_spider,spider,Jin_spider|Neuron_0,3433,Macosko|Ex_Ebf2_C1ql2_5,0.723592619589873,FALSE
+Jin_spider,spider,Jin_spider|Neuron_1,2785,Macosko|Tanycyte_Rax_Ccdc170,0.610951615504941,FALSE
+Jin_spider,spider,Jin_spider|Neuron_10,845,Macosko|Ex_Tcf7l2_Fbln1_Slc38a11_2,0.555174874611066,TRUE
+Jin_spider,spider,Jin_spider|Neuron_11,806,Macosko|Inh_Frmd7_Crhbp_4,0.550565068791288,FALSE
+Jin_spider,spider,Jin_spider|Neuron_12,699,Macosko|Ex_Hoxc6_Hpse_2,0.624038857286538,TRUE
+Jin_spider,spider,Jin_spider|Neuron_13,691,Macosko|Inh_Pax2_Olfr920_5,0.553159125433887,FALSE
+Jin_spider,spider,Jin_spider|Neuron_14,660,Macosko|Inh_Frmd7_Ltbp2_3,0.596856976957583,TRUE
+Jin_spider,spider,Jin_spider|Neuron_15,620,Macosko|Inh_Pax7_Vmn1r207_4,0.598918352138188,TRUE
+Jin_spider,spider,Jin_spider|Neuron_17,559,Macosko|OPC_Cspg5,0.547922728676506,TRUE
+Jin_spider,spider,Jin_spider|Neuron_18,539,Macosko|Ex_Sim1_Ucn3_2,0.620228541976844,TRUE
+Jin_spider,spider,Jin_spider|Neuron_19,520,Macosko|Ex_Vsx2_Igfbp4_3,0.576216928803647,TRUE
+Jin_spider,spider,Jin_spider|Neuron_2,2367,Macosko|Ex_Plcg2_Traf1_2,0.638318191039336,FALSE
+Jin_spider,spider,Jin_spider|Neuron_20,500,Macosko|Inh_Dmbx1_Tacr3_2,0.607000822991079,TRUE
+Jin_spider,spider,Jin_spider|Neuron_22,280,Macosko|Ex_Ebf2_Nr5a2_3,0.601995176931445,FALSE
+Jin_spider,spider,Jin_spider|Neuron_23,259,Macosko|Ex_Ebf2_Crhr2_1,0.583220408617234,TRUE
+Jin_spider,spider,Jin_spider|Neuron_26,237,Macosko|Endo_Flt1_Ssu2_1,0.731177771534962,FALSE
+Jin_spider,spider,Jin_spider|Neuron_3,2152,Macosko|Ex_Ebf2_C1ql2_5,0.636881577968235,FALSE
+Jin_spider,spider,Jin_spider|Neuron_30,160,Macosko|Ex_Lmx1b_Vmn1r196,0.747827546635414,TRUE
+Jin_spider,spider,Jin_spider|Neuron_31,148,Macosko|Ependymal_Tmem212_Ttr,0.732660098348861,FALSE
+Jin_spider,spider,Jin_spider|Neuron_32,148,Macosko|Inh_Six3_Ccdc68_2,0.679144095770084,TRUE
+Jin_spider,spider,Jin_spider|Neuron_33,143,Macosko|Ex_Defb1_Gsta2_2,0.721727059301082,FALSE
+Jin_spider,spider,Jin_spider|Neuron_37,116,Macosko|Inh_Vip_Trim55_6,0.59265650975429,TRUE
+Jin_spider,spider,Jin_spider|Neuron_38,76,Macosko|Ex_Sim1_Pitx2_2,0.769153513471025,TRUE
+Jin_spider,spider,Jin_spider|Neuron_39,70,Macosko|Ex_Lmx1a_Tinag,0.799736145310203,TRUE
+Jin_spider,spider,Jin_spider|Neuron_4,2146,Macosko|Ex_Slc30a3_Shisa8_6,0.673942482771466,FALSE
+Jin_spider,spider,Jin_spider|Neuron_40,38,Macosko|Ex_Gbx2_Adam18_2,0.886076413836888,TRUE
+Jin_spider,spider,Jin_spider|Neuron_5,2059,Macosko|Ex_Fezf2_Cknsr3,0.628155393408503,TRUE
+Jin_spider,spider,Jin_spider|Neuron_6,1497,Macosko|Fibro_Vdr_Bglap,0.617891671702834,FALSE
+Jin_spider,spider,Jin_spider|Neuron_7,1357,Macosko|CholEx_Irx2_Slc43a3_4,0.70080896405869,TRUE
+Jin_spider,spider,Jin_spider|Neuron_8,1254,Macosko|Ex_Slc30a3_Cdc14a,0.589151840666933,TRUE
+Jin_spider,spider,Jin_spider|Neuron_9,1233,Macosko|Ex_Plcg2_Traf1_1,0.746832348354844,TRUE
+Jin_spider,spider,Jin_spider|Others_29,182,Macosko|Macro_Mrc1_H2-Aa,0.842958279706936,FALSE
+Jin_spider,spider,Jin_spider|Others_35,128,Macosko|Astro_Fabp7_Hs3st3a1_4,0.800671617369671,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|0,555,Macosko|Ex_Sim1_Bfsp2_2,0.653191709327797,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|1,363,Macosko|Ex_Plekhg1_Fign_C6,0.631373129058231,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|13,111,Macosko|Ex_Ebf2_Grp,0.722438525648308,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|15,141,Macosko|NorEx_Phox2b_Ppara_1,0.70353231570576,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|16,131,Macosko|SerEx_Nkx6-1_Trh_1,0.688407103886394,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|18,110,Macosko|Ex_Nxph4_Olfr110_Crhr1,0.620904922891678,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|19,151,Macosko|Inh_Lhx6_Sst_A730009L09Rik_Igf1,0.648055340532667,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|2,333,Macosko|NorEx_Phox2b_Gfral_4,0.755185385936467,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|21,122,Macosko|Ex_Crym_Odad2_2,0.605970851455336,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|25,146,Macosko|Inh_Tfap2b_Acsm2,0.600377168015031,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|29,40,Macosko|Ex_Irx2_Slc25a21_2,0.646670663973744,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|3,357,Macosko|Ex_Phox2b_Adora2a,0.625601983068046,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|30,48,Macosko|Inh_Pax6_Eya4_2,0.672860858394406,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|32,35,Macosko|Inh_Prox1_Dcn_2,0.852060768801024,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|34,62,Macosko|Inh_Six3_Tmem215_2,0.651284197631686,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|4,254,Macosko|Inh_Frmd7_Hgf_3,0.66761856992837,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|40,70,Macosko|NG_Draxin_7,0.640145536166823,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|44,27,Macosko|NorEx_Phox2b_Gfral_3,0.652785362552218,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|47,52,Macosko|Ex_Sim1_Bfsp2_2,0.727088398327336,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|49,63,Macosko|Ex_Lmx1b_Pamr1_3,0.804238832723451,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|5,207,Macosko|Inh_Frmd7_Hgf_2,0.717864429057769,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|50,49,Macosko|Ex_Sim1_Bsx_3,0.646445915659326,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|51,45,Macosko|Ex_Lmx1a_Smd3,0.691723857241099,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|54,45,Macosko|Ex_Ebf2_Sp5_2,0.690730214868146,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|56,19,Macosko|Ex_Lhx9_Qrfprl_2,0.772451082383032,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|59,21,Macosko|Ex_Foxp2_Col5a1,0.687067120010074,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|6,332,Macosko|Ex_Nxph4_Olfr110_Crhr1,0.593103870264807,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|62,35,Macosko|SerEx_Fev_Tecrl,0.682697471570942,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|67,33,Macosko|Astro_Ephb1_Gfap,0.722694214181161,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|68,36,Macosko|OlfactoryEnsheathing_Alx4_Olfr1271_1,0.667350071494659,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|69,29,Macosko|NG_Myoz1_6,0.679040411724051,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|7,727,Macosko|Ex_Irx2_Kcng4_Slc43a3,0.617575232730242,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|71,36,Macosko|Inh_Vip_Trim55_6,0.611755964897524,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|75,22,Macosko|Ex_Dsp_Moxd1_1,0.692975727043737,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|76,31,Macosko|Inh_Plpp4_Aox3_5,0.72829362932714,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|78,23,Macosko|Inh_Tfap2a_Cdh1,0.880255425883229,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|79,11,Macosko|Fibro_Eya2_Lypd2_2,0.718788945930186,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|81,49,Macosko|Fibro_Eya2_Slc47a1_2,0.773642959016034,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|83,8,Macosko|Inh_Frmd7_Olfr142_3,0.794663062610008,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|84,11,Macosko|Ex_Irx2_Col2a1_2,0.803626759355599,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|9,216,Macosko|Ex_Lhx9_A1bg_2,0.616878125866636,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|A/B-KC,61,Macosko|Ex_Phox2b_Npb,0.780104614273769,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|A/B*-KC,93,Macosko|CholEx_Fbxl7_Defa24,0.724951729735713,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|adPN,10,Macosko|Inh_Plpp4_Pdgfd,0.834129778672032,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|adPN/C15,6,Macosko|Ex_Tfap2d_Atp6ap1l_2,0.919306184012066,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|adPN/C15&kn,14,Macosko|Inh_Pax8_Sox6_1,0.926783018189661,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|adPN/kn,8,Macosko|Inh_Plpp4_Fbln5,0.887352275584611,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|adPN/kn&CG31676,2,Macosko|Ex_Dmrta2_Adgrv1,0.99070351758794,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|AstA/NPF,3,Macosko|Ex_Fezf2_Cdc25c_3,0.838086861833564,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|AstA/Nplp1,17,Macosko|Ex_Pou4f3_Wfdc10_2,0.846733054455262,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|Astrocyte-like,98,Macosko|Astro_Ephb1_Gfap,0.986196462308219,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|C2,24,Macosko|Ex_Skor1_Cnga3,0.704013395481649,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|C3,26,Macosko|Endo_Flt1_Lrg1_4,0.745303776364764,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|Capa,11,Macosko|Ex_Pax6_Vgll3_1,0.914316095173849,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|CCAP,2,Macosko|Ex_Lmx1a_Csf2rb2_1,0.991834170854271,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|CCHa1,2,Macosko|Fibro_Eya2_Slc47a1_1,0.999748743718593,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|Chiasm_glia,3,Macosko|Inh_Pax2_6430628N08Rik_5,0.936759224358169,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|Clock,52,Macosko|Ex_Irx2_Popdc3_2,0.702915005348634,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|Cortex_glia,21,Macosko|Ependymal_Tmem212_Cuzd1,0.923753155713866,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|DCN,8,Macosko|Ex_Tfap2b_Klk12,0.930538094040734,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|Dm8/Dm11,59,Macosko|Inh_Six6_Vipr2_4,0.787278806374752,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|Dm9,13,Macosko|Ex_Tfap2d_Npr1_2,0.746528348994068,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|DN1,6,Macosko|Ex_Sim1_Bsx_3,0.956971677559913,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|Dopaminergic,14,Macosko|NorEx_Phox2b_Gfral_4,0.829498885613631,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|dorsal_Fan-shaped_Body,51,Macosko|Ex_Slc30a3_Left1_Cd36,0.731475904734287,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|Ensheathing_glia,70,Macosko|Astro_Agt_Sntg1,0.976920570559699,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|FMRFa,9,Macosko|Ex_Ebf2_Adgrd1_3,0.883663746734286,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|G-KC,233,Macosko|Ex_Ccn3_Fezf2_Dcn_3,0.810310313367469,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|Gr43a,7,Macosko|Ex_Phox2b_Slc39a12_4,0.915273412947832,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|Hsp,3,Macosko|NG_Myoz1_6,0.780374418896846,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|Hug,1,Macosko|Ex_Foxp2_C130074G19Rik_2,0.999623162919231,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|IPC,9,Macosko|NG_Draxin_11,0.981823770205513,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|ITP,1,Macosko|Oligo_Opalin_Synpr,0.912699409621907,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|L1,16,Macosko|Inh_Hmx2_Gldn_2,0.773046186760634,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|L2,9,Macosko|Inh_Dmbx1_Mab21l3_2,0.924221467789933,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|L3,22,Macosko|Inh_Gbx1_Htr1a_5,0.770408747423861,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|L4/L5,14,Macosko|Ng_Lhx1_Mab21l3_1,0.904971601121576,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|Lamina_monopolar,54,Macosko|Inh_Dlx1_Foxd1_2,0.738197605800034,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|Lawf1,49,Macosko|Oligo_Opalin_Synpr,0.640091092673642,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|Lawf2,28,Macosko|Inh_Pax3_Galnt15,0.666440095070042,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|LNv,5,Macosko|Ex_Prox1_Bhlhe23_2,0.994042981022999,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|lPN,2,Macosko|Inh_Tfap2b_Cyp26b1_1,0.980841708542714,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|lPN/CG31676,6,Macosko|Ex_Dmrta2_Tll2_1,0.878707893413776,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|lPN/unpg,8,Macosko|Inh_Usp43_Pvalb,0.869766784008046,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|MBON,26,Macosko|Inh_Frmd7_Col12a1,0.646843013337469,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|Mi1,123,Macosko|Ng_Lhx1_Mab21l3_2,0.786113211304329,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|Mip,95,Macosko|Inh_Lhx6_Myo1h_2,0.707187251209249,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|Mip/ITP,1,Macosko|Ex_Phox2a_Npy4r_1,0.996734078633338,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|Mip/OCT,2,Macosko|Ex_Tfap2d_Npffr1_2,0.984547738693467,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|Octopaminergic,9,Macosko|Inh_Pax8_Pdzk1ip1_1,0.904019447587912,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|Olfactory_projection_neurons,6,Macosko|Inh_Gata3_Gsc2_2,0.831070889894419,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|PAM,32,Macosko|Ser_Fev_Wfdc12,0.755229350567465,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|Peptidergic,14,Macosko|Inh_Sncg_Calcb_2,0.807301028111295,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|Perineurial_glia,36,Macosko|Endo_Flt1_Exoc3l2_1,0.959805282193624,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|Photoreceptors,27,Macosko|Endo_Flt1_Lrg1_5,0.722565287404607,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|Plasmatocytes,57,Macosko|Astro_Fabp7_Siah3,0.793699302018487,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|Pm1/Pm2,154,Macosko|Inh_Sp8_Fbxw13,0.649830510166064,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|Pm1/Pm2/Pm3,43,Macosko|Ex_Crym_Prrx1,0.685495878326192,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|Pm3,11,Macosko|Ser_Fev_Samd9l,0.77479104972502,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|Pm4,32,Macosko|Ex_Ccn3_Fezf2_Dcn_3,0.657581967213115,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|Poxn,14,Macosko|Inh_Dmbx1_Gpx6,0.836230138759077,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|Proc/Gpb5,2,Macosko|Inh_Vip_Trim55_5,0.993278894472362,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|Proc/Ms,10,Macosko|Ex_Tfap2b_Ghrh_3,0.954917002012072,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|Serotonergic,41,Macosko|Ser_Fev_Oas1e,0.738758656365758,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|Subperineurial_glia,26,Macosko|Fibro_Vdr_Mmp13_w,0.836712934243176,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|T1,82,Macosko|OlfactoryEnsheathing_Alx4_Olfr1271_4,0.725461186083942,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|T2,125,Macosko|NG_Draxin_11,0.696248054102335,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|T3,128,Macosko|Oligo_Klk6_1,0.681569321227981,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|T4/T5,153,Macosko|Oligo_Opalin_Enpp6_2,0.721310336573268,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|Tm1/TmY8,37,Macosko|Ng_Lhx1_Trp73,0.805391764003751,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|Tm5ab,78,Macosko|NG_Draxin_9,0.826090491615606,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|Tm5c,38,Macosko|Endo_Flt1_Acta2_Olfr558_2,0.818682085071336,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|Tm9,47,Macosko|Endo_Flt1_Cysltr1_Slc19a3,0.755928011720273,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|TmY14,192,Macosko|Inh_Sox6_Chrna5_2,0.626282979407979,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|Tyraminergic,15,Macosko|Ex_Dmrta2_Tgm6_1,0.760328845266558,TRUE
+Liao_frog,frog,Liao_frog|Antigen-presenting cell,89,Macosko|Macro_Mrc1_Cd209a,0.805697866956968,TRUE
+Liao_frog,frog,Liao_frog|Astrocyte_adcyap1r1 high,992,Macosko|Astro_Fabp7_Hs3st3a1_3,0.931166461075719,TRUE
+Liao_frog,frog,Liao_frog|Astrocyte_slc1a3 high,626,Macosko|Astro_Fabp7_Hs3st3a1_3,0.949137802992054,TRUE
+Liao_frog,frog,Liao_frog|Capillary endothelial cell,237,Macosko|Fibro_Eya2_Slc47a1_2,0.884254843547699,FALSE
+Liao_frog,frog,Liao_frog|CD8+ T cell,471,Macosko|Lymphocyte_Itgal_Cd3e,0.829874584268195,TRUE
+Liao_frog,frog,Liao_frog|Endocrine progenitor cell_chgb high,131,Macosko|Ex_Phox2b_Cyp26b1,0.714453266635386,TRUE
+Liao_frog,frog,Liao_frog|Endocrine progenitor cell_st6galnac2 high,556,Macosko|Ependymal_Tmem212_Dnase2b,0.700580479756017,FALSE
+Liao_frog,frog,Liao_frog|Endothelial cell,58,Macosko|Endo_Flt1_Exoc3l2_1,0.884230667989552,FALSE
+Liao_frog,frog,Liao_frog|Eosinophil,190,Macosko|Granulocyte_Ly6g_Ltf_1,0.844147261870408,FALSE
+Liao_frog,frog,Liao_frog|Erythrocyte,55,Macosko|Lymphocyte_Pou2af1_Il7r,0.757921198057909,FALSE
+Liao_frog,frog,Liao_frog|Excitatory neuron_mex3a high,153,Macosko|Inh_Vwc2l_Otogl1_3,0.887097124893107,TRUE
+Liao_frog,frog,Liao_frog|Excitatory neuron_tac1 high,91,Macosko|Inh_Ppp1r1b_Drd1_Prima1,0.926906391940623,TRUE
+Liao_frog,frog,Liao_frog|Excitatory neuron_zbtb18 high,316,Macosko|Ex_Iqcj_Ms4a15_7,0.863918414973464,TRUE
+Liao_frog,frog,Liao_frog|Fibrous astrocyte,696,Macosko|Astro_Emid1_Cd38,0.877023655255634,TRUE
+Liao_frog,frog,Liao_frog|GABAergic neuron_scgn high,1696,Macosko|Inh_Sidt1_Drd1_Npffr2_2,0.880866777148771,TRUE
+Liao_frog,frog,Liao_frog|GABAergic neuron_sst high,167,Macosko|Inh_Ecel1_Cd36_2,0.885482227303704,FALSE
+Liao_frog,frog,Liao_frog|GABAergic neuron_tac1 high,922,Macosko|Inh_Pax6_Pou6f2_Pdgfd_2,0.880140609833531,FALSE
+Liao_frog,frog,Liao_frog|Gonadotroph cell_cga high,4304,Macosko|Inh_Lhx6_Sst_Ctsc_2,0.849777826215956,FALSE
+Liao_frog,frog,Liao_frog|Gonadotroph cell_cyp21a2.1 high,188,Macosko|Inh_Gata3_Pou6f2_Olfr48_2,0.728307509260057,FALSE
+Liao_frog,frog,Liao_frog|Growth hormone cell_hnrnpk high,898,Macosko|Ex_Phox2b_Pdyn_6,0.702318709964022,TRUE
+Liao_frog,frog,Liao_frog|Growth hormone cell_rasd1 high,1041,Macosko|Ex_Nkx2-1_Pmch_1,0.679844390405047,FALSE
+Liao_frog,frog,Liao_frog|Growth hormone cell_Rp high,474,Macosko|Ex_Nkx2-1_Pmch_1,0.688718163778246,FALSE
+Liao_frog,frog,Liao_frog|Growth hormone progenitor cell,225,Macosko|Chol_Ecel1_Gm7271,0.756192138918221,TRUE
+Liao_frog,frog,Liao_frog|Macrophage,553,Macosko|Macro_Mrc1_H2-Aa,0.868326748324341,FALSE
+Liao_frog,frog,Liao_frog|Mast cell,207,Macosko|Lymphocyte_Pou2af1_Ms4a4c,0.745697734568049,TRUE
+Liao_frog,frog,Liao_frog|Melanotrope cell,292,Macosko|Inh_Ecel1_Sytl4_1,0.743099042349238,FALSE
+Liao_frog,frog,Liao_frog|Microglia,2143,Macosko|Macro_Mrc1_H2-Aa,0.877866780813684,FALSE
+Liao_frog,frog,Liao_frog|Myelinating oligodendrocyte progenitor cell,1834,Macosko|Oligo_Opalin_Enpp6_1,0.942011923978239,FALSE
+Liao_frog,frog,Liao_frog|Oligodendrocyte precursor cell,416,Macosko|Ex_Iqcj_Ms4a15_3,0.751887434816504,TRUE
+Liao_frog,frog,Liao_frog|Plasma B cell,292,Macosko|Lymphocyte_Itgal_Il1rl1,0.821670039875037,TRUE
+Liao_frog,frog,Liao_frog|Prolactin progenitor cell,1363,Macosko|Ex_Slc30a3_Crlf1_2,0.714394348380005,FALSE
+Liao_frog,frog,Liao_frog|Proliferating cell,78,Macosko|NG_Draxin_12,0.779992745339903,TRUE
+Liao_frog,frog,Liao_frog|Proliferating myeloid cell,371,Macosko|Lymphocyte_Itgal_Il1rl1,0.766370631295775,TRUE
+Liao_frog,frog,Liao_frog|Radial glia,134,Macosko|Astro_Fabp7_Hs3st3a1_5,0.84688524054808,TRUE
+Liao_frog,frog,Liao_frog|Rod photoreceptor,49,Macosko|Inh_Lhx6_Sst_Crhr2_Stac,0.906451532858332,TRUE
+Liao_frog,frog,Liao_frog|Rp_high,133,Macosko|Ex_Sim1_Pla2r1,0.662105573185288,TRUE
+Liao_frog,frog,Liao_frog|T progenitor cell,840,Macosko|Lymphocyte_Itgal_Il1rl1,0.821067350183786,TRUE
+Liao_frog,frog,Liao_frog|Thyrotroph cell,625,Macosko|Chol_Ecel1_Gm7271,0.789926221267454,TRUE

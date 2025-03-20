@@ -1,0 +1,1205 @@
+target_study,species,target_celltype,target_size,ref_celltype,AUROC,is_recip
+Tosches_turtle,turtle,Tosches_turtle|e01,71,Zeng|4341,0.989049170791123,TRUE
+Tosches_turtle,turtle,Tosches_turtle|e02,492,Zeng|184,0.94411234570718,FALSE
+Tosches_turtle,turtle,Tosches_turtle|e03,104,Zeng|193,0.954815307530678,FALSE
+Tosches_turtle,turtle,Tosches_turtle|e04,73,Zeng|112,0.979325324782496,FALSE
+Tosches_turtle,turtle,Tosches_turtle|e05,134,Zeng|193,0.944427530471328,FALSE
+Tosches_turtle,turtle,Tosches_turtle|e06,58,Zeng|123,0.950541416559953,FALSE
+Tosches_turtle,turtle,Tosches_turtle|e07,48,Zeng|326,0.979773191169361,TRUE
+Tosches_turtle,turtle,Tosches_turtle|e08,39,Zeng|403,0.984836470662735,FALSE
+Tosches_turtle,turtle,Tosches_turtle|e09,28,Zeng|291,0.958517618562154,FALSE
+Tosches_turtle,turtle,Tosches_turtle|e10,66,Zeng|2693,0.96684002235376,TRUE
+Tosches_turtle,turtle,Tosches_turtle|e11,123,Zeng|2587,0.935855579028231,FALSE
+Tosches_turtle,turtle,Tosches_turtle|e12,98,Zeng|2208,0.95095258979339,TRUE
+Tosches_turtle,turtle,Tosches_turtle|e13,169,Zeng|201,0.93017329190639,FALSE
+Tosches_turtle,turtle,Tosches_turtle|e14,166,Zeng|188,0.953503510772644,TRUE
+Tosches_turtle,turtle,Tosches_turtle|e15,116,Zeng|188,0.937814753467517,TRUE
+Tosches_turtle,turtle,Tosches_turtle|e16,105,Zeng|405,0.949211309523809,FALSE
+Tosches_turtle,turtle,Tosches_turtle|e17,479,Zeng|274,0.899805696046903,FALSE
+Tosches_turtle,turtle,Tosches_turtle|e18,327,Zeng|1015,0.904499038276495,TRUE
+Tosches_turtle,turtle,Tosches_turtle|e19,718,Zeng|225,0.916558861879446,FALSE
+Tosches_turtle,turtle,Tosches_turtle|e20,65,Zeng|1047,0.916293631100083,FALSE
+Tosches_turtle,turtle,Tosches_turtle|e21,84,Zeng|465,0.934957239986571,TRUE
+Tosches_turtle,turtle,Tosches_turtle|e22,66,Zeng|437,0.948860886948956,FALSE
+Tosches_turtle,turtle,Tosches_turtle|e23,53,Zeng|476,0.95321845512532,FALSE
+Tosches_turtle,turtle,Tosches_turtle|e24,110,Zeng|324,0.965166458440509,TRUE
+Tosches_turtle,turtle,Tosches_turtle|e25,79,Zeng|2190,0.941963939102115,TRUE
+Tosches_turtle,turtle,Tosches_turtle|e26,49,Zeng|308,0.947972119660069,FALSE
+Tosches_turtle,turtle,Tosches_turtle|e27,121,Zeng|308,0.942580166715393,FALSE
+Tosches_turtle,turtle,Tosches_turtle|e28,82,Zeng|345,0.955016583475849,FALSE
+Tosches_turtle,turtle,Tosches_turtle|e29,68,Zeng|426,0.94777778832133,TRUE
+Tosches_turtle,turtle,Tosches_turtle|e30,105,Zeng|1399,0.925951354679803,FALSE
+Tosches_turtle,turtle,Tosches_turtle|e31,99,Zeng|1399,0.952697828222982,FALSE
+Tosches_turtle,turtle,Tosches_turtle|e32,80,Zeng|1405,0.987205407586764,TRUE
+Tosches_turtle,turtle,Tosches_turtle|e33,60,Zeng|426,0.974773806324465,TRUE
+Tosches_turtle,turtle,Tosches_turtle|e34,59,Zeng|426,0.988994802114135,TRUE
+Tosches_turtle,turtle,Tosches_turtle|e35,84,Zeng|414,0.967293138664432,TRUE
+Tosches_turtle,turtle,Tosches_turtle|e36,102,Zeng|426,0.940176695577223,TRUE
+Tosches_turtle,turtle,Tosches_turtle|e37,106,Zeng|414,0.968030056108667,TRUE
+Tosches_turtle,turtle,Tosches_turtle|e38,70,Zeng|414,0.959824069450313,TRUE
+Tosches_turtle,turtle,Tosches_turtle|i01,33,Zeng|1395,0.998493956308469,TRUE
+Tosches_turtle,turtle,Tosches_turtle|i02,49,Zeng|912,0.989036203222157,TRUE
+Tosches_turtle,turtle,Tosches_turtle|i03,25,Zeng|990,0.996755364806867,TRUE
+Tosches_turtle,turtle,Tosches_turtle|i04,41,Zeng|1016,0.989447133517727,FALSE
+Tosches_turtle,turtle,Tosches_turtle|i05,67,Zeng|1260,0.990359258658851,TRUE
+Tosches_turtle,turtle,Tosches_turtle|i06,57,Zeng|1254,0.994430805086663,FALSE
+Tosches_turtle,turtle,Tosches_turtle|i07,8,Zeng|524,0.991015436565364,FALSE
+Tosches_turtle,turtle,Tosches_turtle|i08,34,Zeng|761,0.996656426512422,TRUE
+Tosches_turtle,turtle,Tosches_turtle|i09,47,Zeng|510,0.994993406060938,FALSE
+Tosches_turtle,turtle,Tosches_turtle|i10,36,Zeng|764,0.994931737255533,FALSE
+Tosches_turtle,turtle,Tosches_turtle|i11,26,Zeng|726,0.996011258444865,TRUE
+Tosches_turtle,turtle,Tosches_turtle|i12,39,Zeng|607,0.99832189357584,FALSE
+Tosches_turtle,turtle,Tosches_turtle|i13,23,Zeng|572,0.995279476451025,TRUE
+Tosches_turtle,turtle,Tosches_turtle|i14,31,Zeng|652,0.994512285901249,FALSE
+Tosches_turtle,turtle,Tosches_turtle|i15,35,Zeng|646,0.989638831377962,FALSE
+Tosches_turtle,turtle,Tosches_turtle|i16,34,Zeng|4157,0.990049790513597,FALSE
+Tosches_turtle,turtle,Tosches_turtle|i17,36,Zeng|625,0.996543620758554,TRUE
+Tosches_turtle,turtle,Tosches_turtle|i18,19,Zeng|707,0.991069059541485,TRUE
+Tosches_turtle,turtle,Tosches_turtle|tsEG,6514,Zeng|14932,0.997239058195326,FALSE
+Tosches_turtle,turtle,Tosches_turtle|tsExc1,103,Zeng|316,0.850820603320491,FALSE
+Tosches_turtle,turtle,Tosches_turtle|tsExc2,366,Zeng|414,0.876597365498488,TRUE
+Tosches_turtle,turtle,Tosches_turtle|tsExc3,326,Zeng|2694,0.809642663712086,TRUE
+Tosches_turtle,turtle,Tosches_turtle|tsExc4,877,Zeng|1404,0.838214826645716,FALSE
+Tosches_turtle,turtle,Tosches_turtle|tsExc5,528,Zeng|315,0.814707733730312,FALSE
+Tosches_turtle,turtle,Tosches_turtle|tsInh1,551,Zeng|1256,0.969486356523626,FALSE
+Tosches_turtle,turtle,Tosches_turtle|tsInh2,295,Zeng|640,0.974521834605058,FALSE
+Tosches_turtle,turtle,Tosches_turtle|tsLeuB,36,Zeng|5277,0.834257817858655,TRUE
+Tosches_turtle,turtle,Tosches_turtle|tsLeuT,36,Zeng|5273,0.975244690178396,FALSE
+Tosches_turtle,turtle,Tosches_turtle|tsMG,589,Zeng|5279,0.993866211367135,TRUE
+Tosches_turtle,turtle,Tosches_turtle|tsMur,114,Zeng|5263,0.990662535806931,TRUE
+Tosches_turtle,turtle,Tosches_turtle|tsNPCs,717,Zeng|1339,0.981650461475721,FALSE
+Tosches_turtle,turtle,Tosches_turtle|tsOlig,155,Zeng|5233,0.992495773862428,FALSE
+Tosches_turtle,turtle,Tosches_turtle|tsOPC,1862,Zeng|5207,0.982451569789626,FALSE
+Tosches_lizard,lizard,Tosches_lizard|e01,21,Zeng|1405,0.952963902795876,TRUE
+Tosches_lizard,lizard,Tosches_lizard|e02,85,Zeng|1407,0.931158401927324,TRUE
+Tosches_lizard,lizard,Tosches_lizard|e03,141,Zeng|297,0.93034710755391,TRUE
+Tosches_lizard,lizard,Tosches_lizard|e04,44,Zeng|346,0.906468742457157,TRUE
+Tosches_lizard,lizard,Tosches_lizard|e05,134,Zeng|1402,0.873622266167313,TRUE
+Tosches_lizard,lizard,Tosches_lizard|e06,106,Zeng|435,0.894016449908226,FALSE
+Tosches_lizard,lizard,Tosches_lizard|e07,14,Zeng|346,0.934083050905481,TRUE
+Tosches_lizard,lizard,Tosches_lizard|e08,62,Zeng|326,0.951112414467253,TRUE
+Tosches_lizard,lizard,Tosches_lizard|e09,19,Zeng|425,0.970716739064552,TRUE
+Tosches_lizard,lizard,Tosches_lizard|e10,38,Zeng|419,0.993390924889954,FALSE
+Tosches_lizard,lizard,Tosches_lizard|e11,16,Zeng|3827,0.986588947494606,TRUE
+Tosches_lizard,lizard,Tosches_lizard|e12,41,Zeng|130,0.965250079418305,FALSE
+Tosches_lizard,lizard,Tosches_lizard|e13,21,Zeng|4559,0.95839334293487,TRUE
+Tosches_lizard,lizard,Tosches_lizard|e14,33,Zeng|243,0.950547847273894,FALSE
+Tosches_lizard,lizard,Tosches_lizard|e15,48,Zeng|184,0.97946867198196,FALSE
+Tosches_lizard,lizard,Tosches_lizard|e16,13,Zeng|251,0.989495411153293,TRUE
+Tosches_lizard,lizard,Tosches_lizard|e17,61,Zeng|55,0.882687157807745,FALSE
+Tosches_lizard,lizard,Tosches_lizard|e18,73,Zeng|2569,0.938492684518617,FALSE
+Tosches_lizard,lizard,Tosches_lizard|i01,34,Zeng|549,0.994915086188581,TRUE
+Tosches_lizard,lizard,Tosches_lizard|i02,19,Zeng|604,0.998711991110213,FALSE
+Tosches_lizard,lizard,Tosches_lizard|i03,24,Zeng|726,0.994915525662583,TRUE
+Tosches_lizard,lizard,Tosches_lizard|i04,52,Zeng|663,0.990875267416984,FALSE
+Tosches_lizard,lizard,Tosches_lizard|i05,21,Zeng|1261,0.995473561484123,TRUE
+Tosches_lizard,lizard,Tosches_lizard|pvEG,520,Zeng|1368,0.982825512366009,FALSE
+Tosches_lizard,lizard,Tosches_lizard|pvExc1,18,Zeng|130,0.900135923882626,FALSE
+Tosches_lizard,lizard,Tosches_lizard|pvExc2,659,Zeng|315,0.782510348600745,FALSE
+Tosches_lizard,lizard,Tosches_lizard|pvExc3,199,Zeng|4914,0.852262818606573,FALSE
+Tosches_lizard,lizard,Tosches_lizard|pvExc4,59,Zeng|8178,0.866086092497701,TRUE
+Tosches_lizard,lizard,Tosches_lizard|pvInh1,68,Zeng|654,0.963826171400825,FALSE
+Tosches_lizard,lizard,Tosches_lizard|pvInh2,31,Zeng|530,0.978686081530007,TRUE
+Tosches_lizard,lizard,Tosches_lizard|pvLeu,95,Zeng|5273,0.872590934815044,FALSE
+Tosches_lizard,lizard,Tosches_lizard|pvMG,278,Zeng|5283,0.988695152856993,TRUE
+Tosches_lizard,lizard,Tosches_lizard|pvMur,42,Zeng|5265,0.999034981905911,TRUE
+Tosches_lizard,lizard,Tosches_lizard|pvNPC,131,Zeng|1339,0.995656232591054,FALSE
+Tosches_lizard,lizard,Tosches_lizard|pvOlig,551,Zeng|5233,0.992717012173087,FALSE
+Tosches_lizard,lizard,Tosches_lizard|pvOPC,398,Zeng|5203,0.976481112344515,TRUE
+Tosches_lizard,lizard,Tosches_lizard|pvVend,18,Zeng|5254,0.998480850723595,FALSE
+Franjic_pig,pig,Franjic_pig|Astro,2229,Zeng|14932,0.997421372122519,FALSE
+Franjic_pig,pig,Franjic_pig|CA1 Sub,2756,Zeng|379,0.995993851806966,FALSE
+Franjic_pig,pig,Franjic_pig|CA2-3,1879,Zeng|421,0.977179690989163,TRUE
+Franjic_pig,pig,Franjic_pig|GC,2889,Zeng|1403,0.999087255890764,TRUE
+Franjic_pig,pig,Franjic_pig|immune,4749,Zeng|5283,0.999683015809302,TRUE
+Franjic_pig,pig,Franjic_pig|InN,2553,Zeng|727,0.999697542771419,TRUE
+Franjic_pig,pig,Franjic_pig|MC,148,Zeng|417,0.970034852442285,TRUE
+Franjic_pig,pig,Franjic_pig|NB,1606,Zeng|1408,0.996593406729305,TRUE
+Franjic_pig,pig,Franjic_pig|nIPC,4,Zeng|5157,0.961367275490542,FALSE
+Franjic_pig,pig,Franjic_pig|Oligo,15321,Zeng|5237,0.99647873637006,FALSE
+Franjic_pig,pig,Franjic_pig|OPC,1963,Zeng|5205,0.990849796563179,FALSE
+Franjic_pig,pig,Franjic_pig|RGL,8,Zeng|14997,0.963432673777923,FALSE
+Franjic_pig,pig,Franjic_pig|Vas,746,Zeng|5248,0.968005292873444,FALSE
+Franjic_rhesus,rhesus,Franjic_rhesus|Astro,4196,Zeng|14851,0.997854017185966,FALSE
+Franjic_rhesus,rhesus,Franjic_rhesus|CA1 Sub,1100,Zeng|40,0.90689797105514,FALSE
+Franjic_rhesus,rhesus,Franjic_rhesus|CA2-3,3653,Zeng|420,0.983708314580349,FALSE
+Franjic_rhesus,rhesus,Franjic_rhesus|CR,71,Zeng|2872,0.987466367748058,TRUE
+Franjic_rhesus,rhesus,Franjic_rhesus|GC,19803,Zeng|1404,0.989545811820524,FALSE
+Franjic_rhesus,rhesus,Franjic_rhesus|immune,693,Zeng|5283,0.941842730852727,TRUE
+Franjic_rhesus,rhesus,Franjic_rhesus|InN,2554,Zeng|713,0.992992164408669,TRUE
+Franjic_rhesus,rhesus,Franjic_rhesus|MC,402,Zeng|418,0.951210269894053,TRUE
+Franjic_rhesus,rhesus,Franjic_rhesus|NB,400,Zeng|1408,0.958483420617806,TRUE
+Franjic_rhesus,rhesus,Franjic_rhesus|nIPC,23,Zeng|1360,0.987071229932091,FALSE
+Franjic_rhesus,rhesus,Franjic_rhesus|Oligo,1388,Zeng|5233,0.996488813066752,FALSE
+Franjic_rhesus,rhesus,Franjic_rhesus|OPC,1596,Zeng|5203,0.994588536625095,TRUE
+Franjic_rhesus,rhesus,Franjic_rhesus|RGL,7,Zeng|14930,0.958076770874555,FALSE
+Franjic_rhesus,rhesus,Franjic_rhesus|Vas,221,Zeng|5252,0.996442101849421,FALSE
+Franjic_human,human,Franjic_human|aEndo DKK2 FBLN5,169,Zeng|5252,0.979088209335574,FALSE
+Franjic_human,human,Franjic_human|aSMC ACTA2 TAGLN,572,Zeng|5249,0.982046752575528,TRUE
+Franjic_human,human,Franjic_human|Astro AQP4 CHRDL1,12538,Zeng|14945,0.979023407423652,FALSE
+Franjic_human,human,Franjic_human|Astro AQP4 GFAP,17256,Zeng|14932,0.945175363404102,FALSE
+Franjic_human,human,Franjic_human|CA1 dorsal GRIK1 GRM3,2993,Zeng|361,0.986424066850297,FALSE
+Franjic_human,human,Franjic_human|CA1 ventral ACVR1C SYT13,2204,Zeng|352,0.992653478817374,TRUE
+Franjic_human,human,Franjic_human|CA2 CFAP299 HGF,108,Zeng|414,0.993878527991339,TRUE
+Franjic_human,human,Franjic_human|CA3 CFAP299 SYN3,4229,Zeng|417,0.980343524218305,TRUE
+Franjic_human,human,Franjic_human|COP GPR17 ADAM33,328,Zeng|5211,0.986853097649067,FALSE
+Franjic_human,human,Franjic_human|CR RELN NDNF,31,Zeng|2872,0.999835636702324,TRUE
+Franjic_human,human,Franjic_human|DG GC PROX1 PDLIM5,4470,Zeng|1405,0.977200859675577,TRUE
+Franjic_human,human,Franjic_human|DG GC PROX1 SGCZ,29537,Zeng|1403,0.986590257173986,TRUE
+Franjic_human,human,Franjic_human|DG MC ARHGAP24 DLC1,444,Zeng|417,0.9883968736867,TRUE
+Franjic_human,human,Franjic_human|EC L2 CUX2 CALB1,4001,Zeng|234,0.991502088440932,FALSE
+Franjic_human,human,Franjic_human|EC L2 CUX2 IL1RAPL2,687,Zeng|314,0.983307403275612,TRUE
+Franjic_human,human,Franjic_human|EC L2 CUX2 LAMA3,705,Zeng|11,0.996642875079013,TRUE
+Franjic_human,human,Franjic_human|EC L2 CUX2 PDGFD,196,Zeng|234,0.979310488073838,FALSE
+Franjic_human,human,Franjic_human|EC L2 RELN BCL11B,197,Zeng|261,0.981399152886992,TRUE
+Franjic_human,human,Franjic_human|EC L2 RELN BMPR1B,141,Zeng|255,0.990885402113441,FALSE
+Franjic_human,human,Franjic_human|EC L3 PCP4 ADARB2,554,Zeng|313,0.992916948475759,FALSE
+Franjic_human,human,Franjic_human|EC L5 BCL11B ADRA1A,83,Zeng|326,0.987577830444967,TRUE
+Franjic_human,human,Franjic_human|EC L5 RORB TLL1,1443,Zeng|193,0.990006714414499,FALSE
+Franjic_human,human,Franjic_human|EC L5 RORB TPBG,311,Zeng|316,0.993154096283279,FALSE
+Franjic_human,human,Franjic_human|EC L56 TLE4 NXPH2,98,Zeng|78,0.996921019960779,FALSE
+Franjic_human,human,Franjic_human|EC L6 THEMIS CDH13,724,Zeng|135,0.984986109274416,FALSE
+Franjic_human,human,Franjic_human|EC L6 THEMIS RGS12,87,Zeng|143,0.997722734186656,FALSE
+Franjic_human,human,Franjic_human|EC L6 TLE4 SULF1,515,Zeng|57,0.995867308155437,FALSE
+Franjic_human,human,Franjic_human|EC L6b TLE4 CCN2,232,Zeng|25,0.996819371051224,FALSE
+Franjic_human,human,Franjic_human|Endo CLDN5 VWF,3458,Zeng|5254,0.982255467411214,FALSE
+Franjic_human,human,Franjic_human|InN LAMP5 CHST9,1703,Zeng|724,0.995736916720407,FALSE
+Franjic_human,human,Franjic_human|InN LAMP5 KIT,1005,Zeng|702,0.996734647537537,FALSE
+Franjic_human,human,Franjic_human|InN LAMP5 NMBR,489,Zeng|714,0.998431777488226,FALSE
+Franjic_human,human,Franjic_human|InN LHX6 AC008415.1,294,Zeng|607,0.995163784736436,FALSE
+Franjic_human,human,Franjic_human|InN MEIS2 SHISAL2B,90,Zeng|1354,0.991938598841434,TRUE
+Franjic_human,human,Franjic_human|InN NR2F2 ANO2,445,Zeng|645,0.994816328500464,TRUE
+Franjic_human,human,Franjic_human|InN NR2F2 DDR2,208,Zeng|1325,0.991873868649057,TRUE
+Franjic_human,human,Franjic_human|InN NR2F2 MIR4300HG,352,Zeng|706,0.993313135504451,FALSE
+Franjic_human,human,Franjic_human|InN NR2F2 PTPRK,246,Zeng|667,0.995114007361853,TRUE
+Franjic_human,human,Franjic_human|InN NR2F2 SLC17A8,760,Zeng|661,0.99321619022958,FALSE
+Franjic_human,human,Franjic_human|InN PVALB MEPE,835,Zeng|593,0.997084721416517,FALSE
+Franjic_human,human,Franjic_human|InN PVALB PLCL1,673,Zeng|604,0.99817965334542,FALSE
+Franjic_human,human,Franjic_human|InN PVALB PLEKHH2,563,Zeng|614,0.995059997267762,TRUE
+Franjic_human,human,Franjic_human|InN SST ADAMTS12,639,Zeng|524,0.994955826420857,FALSE
+Franjic_human,human,Franjic_human|InN SST EPB41L4A,568,Zeng|529,0.996911024709288,FALSE
+Franjic_human,human,Franjic_human|InN SST NPY,46,Zeng|767,0.999211577844851,TRUE
+Franjic_human,human,Franjic_human|InN SST OTOF,562,Zeng|522,0.996643781649561,FALSE
+Franjic_human,human,Franjic_human|InN VIP ABI3BP,1217,Zeng|631,0.99475061335943,FALSE
+Franjic_human,human,Franjic_human|InN VIP CHRNA2,457,Zeng|629,0.996668340229234,FALSE
+Franjic_human,human,Franjic_human|InN VIP NOX4,749,Zeng|638,0.990534741422266,FALSE
+Franjic_human,human,Franjic_human|InN VIP PENK,445,Zeng|667,0.995838832122251,TRUE
+Franjic_human,human,Franjic_human|InN VIP SCML4,496,Zeng|634,0.993061345477817,FALSE
+Franjic_human,human,Franjic_human|InN VIP SCTR,700,Zeng|631,0.9920573880639,FALSE
+Franjic_human,human,Franjic_human|Macro F13A1 COLEC12,273,Zeng|5267,0.971567015002351,FALSE
+Franjic_human,human,Franjic_human|Micro C1QB CD83,2223,Zeng|5276,0.981143214581932,TRUE
+Franjic_human,human,Franjic_human|Micro C1QB P2RY12,14233,Zeng|5283,0.981538655767452,TRUE
+Franjic_human,human,Franjic_human|Myeloid LSP1 LYZ,67,Zeng|5276,0.977581100075196,TRUE
+Franjic_human,human,Franjic_human|Oligo CPXM2 KANK4,5426,Zeng|5232,0.928557252384443,TRUE
+Franjic_human,human,Franjic_human|Oligo OPALIN LAMA2,36017,Zeng|5233,0.852981059707244,FALSE
+Franjic_human,human,Franjic_human|Oligo OPALIN LINC01098,3405,Zeng|5233,0.830967132690384,FALSE
+Franjic_human,human,Franjic_human|Oligo OPALIN SLC5A11,30843,Zeng|5232,0.928387272180675,TRUE
+Franjic_human,human,Franjic_human|OPC PDGFRA EGR1,2661,Zeng|5207,0.956790320820024,FALSE
+Franjic_human,human,Franjic_human|OPC PDGFRA GRIA4,17438,Zeng|5203,0.988293697356038,TRUE
+Franjic_human,human,Franjic_human|PC CLDN5 ABCC9,742,Zeng|5244,0.994184818475003,FALSE
+Franjic_human,human,Franjic_human|SUB distal FN1 NTNG1,433,Zeng|337,0.99753954552717,FALSE
+Franjic_human,human,Franjic_human|SUB proximal ROBO1 COL5A2,1192,Zeng|369,0.98295326318739,TRUE
+Franjic_human,human,Franjic_human|SUB proximal ROBO1 SEMA3E,304,Zeng|78,0.999194480894906,FALSE
+Franjic_human,human,Franjic_human|T SKAP1 CD247,479,Zeng|5273,0.972795005462355,FALSE
+Franjic_human,human,Franjic_human|VLMC COL1A1 COL1A2,679,Zeng|5263,0.978763737559368,TRUE
+Franjic_human,human,Franjic_human|vSMC ABCC9 P2RY14,790,Zeng|5248,0.988809367557199,FALSE
+Sepp_human,human,Sepp_human|astroglia,1403,Zeng|14862,0.99929993460945,TRUE
+Sepp_human,human,Sepp_human|erythroid,2,Zeng|2887,0.989564476626557,FALSE
+Sepp_human,human,Sepp_human|GC,23047,Zeng|5150,0.976499682431735,TRUE
+Sepp_human,human,Sepp_human|glutamatergic_uncertain,1107,Zeng|2763,0.775342898569189,FALSE
+Sepp_human,human,Sepp_human|immune,1131,Zeng|5283,0.998633590067556,TRUE
+Sepp_human,human,Sepp_human|interneuron,782,Zeng|4167,0.999106555836019,TRUE
+Sepp_human,human,Sepp_human|meningeal,21,Zeng|5263,0.993244931479051,TRUE
+Sepp_human,human,Sepp_human|mural/endoth,12,Zeng|2762,0.930746391862385,TRUE
+Sepp_human,human,Sepp_human|oligo,9847,Zeng|5217,0.999791931820756,FALSE
+Sepp_human,human,Sepp_human|other,213,Zeng|1326,0.723982801313543,FALSE
+Sepp_human,human,Sepp_human|Purkinje,1,Zeng|2575,1,FALSE
+Sepp_opossum,opossum,Sepp_opossum|astroglia,179,Zeng|14956,0.99990693910977,FALSE
+Sepp_opossum,opossum,Sepp_opossum|ependymal,16,Zeng|14991,0.999994597631602,FALSE
+Sepp_opossum,opossum,Sepp_opossum|GC,9368,Zeng|5158,0.99132263231061,TRUE
+Sepp_opossum,opossum,Sepp_opossum|GC/UBC,2,Zeng|713,0.991064491064491,TRUE
+Sepp_opossum,opossum,Sepp_opossum|immune,66,Zeng|5283,0.997124645184373,TRUE
+Sepp_opossum,opossum,Sepp_opossum|interneuron,398,Zeng|1681,0.99537263505334,TRUE
+Sepp_opossum,opossum,Sepp_opossum|meningeal,9,Zeng|5266,0.999654457498272,FALSE
+Sepp_opossum,opossum,Sepp_opossum|oligo,244,Zeng|5217,0.999821480454639,FALSE
+Sepp_opossum,opossum,Sepp_opossum|other,1275,Zeng|14851,0.895672048838934,FALSE
+Sepp_opossum,opossum,Sepp_opossum|Purkinje,19,Zeng|9390,1,FALSE
+Sepp_opossum,opossum,Sepp_opossum|UBC,9,Zeng|2717,0.998828994855256,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|Chor1,241,Zeng|8803,0.92771132733208,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|Chor2,137,Zeng|3974,0.870909977959028,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|Chor3,89,Zeng|4198,0.95702604275848,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|Chor4,195,Zeng|3330,0.943347322170733,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DeAstro1,331,Zeng|5205,0.868305514798643,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DeAstroepen1,175,Zeng|14879,0.854414918280515,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DeAstroepen2,391,Zeng|14877,0.812266364010704,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DeChol1,63,Zeng|2910,0.926080637318573,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DeChol2,203,Zeng|318,0.920596039635964,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DeChol3,1730,Zeng|369,0.926580911080402,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DeChol4,58,Zeng|130,0.960670671713489,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DeEpen1,108,Zeng|5204,0.851439050338765,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DeEpen2,115,Zeng|5205,0.820371518791786,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DeEpen3,292,Zeng|5205,0.778216521269047,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DeEpen4,871,Zeng|8215,0.77868031522725,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DeEpen5,245,Zeng|1356,0.780844440886149,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DeExc1,NA,Zeng|689,0.94997260789874,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DeExc2,NA,Zeng|143,0.939633253410372,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DeExc3,NA,Zeng|2132,0.927485979111395,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DeExc4,96,Zeng|5028,0.959450891807464,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DeExc5,370,Zeng|4675,0.93698417996859,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DeHypen1,1578,Zeng|1360,0.828520439281596,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DeInh1,139,Zeng|1216,0.879782877676077,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DeInh2,152,Zeng|1972,0.92838407798739,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DeInh3,138,Zeng|1512,0.902738886859092,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DeInh4,164,Zeng|1946,0.917821027757979,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DeInh5,192,Zeng|1946,0.897740351187072,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DeInh6,58,Zeng|2705,0.896059485363059,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DeInh7,179,Zeng|1502,0.923957177759502,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DeInh8,154,Zeng|746,0.919677298358961,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DeInh9,121,Zeng|708,0.883559069240166,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DeMono1,179,Zeng|992,0.853498786685647,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DeMono2,102,Zeng|987,0.895851776614973,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DeMono3,183,Zeng|2529,0.872246769724818,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DeNeb1,187,Zeng|3858,0.911184216148166,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DeNeb2,118,Zeng|524,0.894129448013486,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DeNeb3,158,Zeng|290,0.845401390106663,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DeNeb4,96,Zeng|524,0.869924975927357,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DeNeb5,216,Zeng|4992,0.890326659162275,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DePep1,200,Zeng|114,0.94087763720179,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DePep10,54,Zeng|1844,0.901303668397183,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DePep2,203,Zeng|5088,0.915902167413091,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DePep3,135,Zeng|5127,0.878756066454166,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DePep4,234,Zeng|1002,0.89371647251588,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DePep5,120,Zeng|5141,0.896091098491213,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DePep6,91,Zeng|1897,0.893019402717624,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DePep7,37,Zeng|1891,0.951935324865309,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DePep8,173,Zeng|5141,0.883393204046291,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DePep9,104,Zeng|2746,0.90515196875218,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DePigm1,151,Zeng|4452,0.781133548350538,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DePigm2,214,Zeng|8176,0.776543839551281,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DeProl1,21,Zeng|1357,0.84843489033569,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DMAstro1,640,Zeng|5204,0.856872584663887,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|DMEpen1,634,Zeng|5204,0.806389857117103,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|Erythro1,4888,Zeng|1331,0.850123646391498,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|Erythro2,67,Zeng|1370,0.825922510126509,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|Fibro1,13555,Zeng|5264,0.949051600181934,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|Fibro2,4838,Zeng|14985,0.890407487258715,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|Fibro3,558,Zeng|5260,0.861202809870827,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|Fibro4,22,Zeng|5248,0.869428737861709,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|Imm1,45,Zeng|5205,0.838130503769085,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|Imm2,36,Zeng|5276,0.733232292726941,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|Imm3,40,Zeng|5276,0.921571193664217,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|Lympho1,65,Zeng|5273,0.816127336984101,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|Lympho2,33,Zeng|5273,0.845808135884472,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|Lympho3,20,Zeng|1405,0.904270522325472,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|MeAstro1,60,Zeng|5205,0.80518424026766,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|MeDopa1,161,Zeng|2905,0.86774970271404,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|MeDopa2,161,Zeng|2495,0.841836350540848,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|MeEpen1,27,Zeng|14998,0.768225725179979,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|MeExc1,309,Zeng|2211,0.922601088843567,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|MeExc2,241,Zeng|24467,0.882405799306544,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|MeExc3,236,Zeng|2457,0.918596089614057,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|MeExc4,124,Zeng|4810,0.943378868837584,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|MeExc5,186,Zeng|2580,0.936385293928272,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|MeExc6,246,Zeng|2448,0.893997316438008,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|MeExc7,157,Zeng|4543,0.951793202282547,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|MeExc8,43,Zeng|5009,0.938482040595727,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|MeInh1,117,Zeng|4450,0.918316985587361,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|MeInh10,260,Zeng|1753,0.903171013869421,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|MeInh11,137,Zeng|3576,0.917090272788153,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|MeInh2,65,Zeng|561,0.882109473961488,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|MeInh3,331,Zeng|558,0.963088577399274,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|Meinh4,307,Zeng|3576,0.93128623017437,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|MeInh5,199,Zeng|3576,0.950019956272894,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|MeInh6,214,Zeng|2125,0.895391474667713,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|MeInh7,578,Zeng|3398,0.91181474003916,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|MeInh8,560,Zeng|1688,0.89692658132348,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|MeInh9,114,Zeng|3489,0.948644480127137,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|MeMono1,106,Zeng|799,0.898042942498659,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|MeNeb1,143,Zeng|2834,0.84119003947561,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|MeSero1,14,Zeng|2881,0.937650945927814,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|MeSero2,187,Zeng|2495,0.865123005626257,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|MeSero3,77,Zeng|2495,0.892605572765409,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|Micro1,3450,Zeng|5279,0.886630370299295,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|MRAstro1,974,Zeng|5283,0.789053524040154,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|MRAstro2,973,Zeng|5204,0.851037064931099,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|MREpen1,243,Zeng|5204,0.817303281337852,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|NCGlia1,53,Zeng|5249,0.784975957922803,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|PeAstro1,1259,Zeng|5204,0.865077493877787,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|PeAstro2,1132,Zeng|5205,0.879008890876343,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|PeAstroepen1,314,Zeng|5204,0.817553405309158,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|Photo1,30,Zeng|1427,0.920250078289268,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|Photo2,31,Zeng|1429,0.919982335913134,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|Photo3,95,Zeng|1427,0.881138708248882,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|Photo4,66,Zeng|8172,0.844060357825214,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|ReAstro1,100,Zeng|5205,0.796732003090463,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|ReEpen1,167,Zeng|14998,0.854140552779863,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|ReEpen2,106,Zeng|14998,0.830432245730535,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|ReEpen3,63,Zeng|14883,0.840878178100167,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|ReExc1,41,Zeng|409,0.93101919928037,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|ReExc2,51,Zeng|2125,0.917954205697584,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|ReInh1,37,Zeng|3710,0.940897508975226,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|ReInh2,88,Zeng|3857,0.904670063353942,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|ReInh3,20,Zeng|51,0.924438927840585,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|ReInh4,82,Zeng|1490,0.915542289364058,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|ReInh5,132,Zeng|34236,0.93406534507852,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|ReInh6,155,Zeng|4201,0.954116247906016,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|ReInh7,25,Zeng|3409,0.946525086809924,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|ReInh8,21,Zeng|689,0.934156684295068,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|ReProl1,29,Zeng|1367,0.976520555505099,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|TeAstro1,40,Zeng|5283,0.776486627068023,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|TeAstroepen1,148,Zeng|5283,0.81276855524208,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|TeAstroepen2,44,Zeng|5204,0.803492267372859,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|TeDopa1,386,Zeng|708,0.867189109551931,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|TeEpen1,326,Zeng|5205,0.794055424491221,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|TeEpen2,84,Zeng|1346,0.818118450321997,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|TeExc1,416,Zeng|5075,0.949979647960867,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|TeExc2,420,Zeng|5124,0.884361375000201,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|TeExc3,267,Zeng|4600,0.934745061792296,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|TeExc4,462,Zeng|2431,0.947723885663253,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|TeExc5,193,Zeng|190,0.977831556753162,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|TeExc6,84,Zeng|246,0.980424328780442,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|TeExc7,649,Zeng|2231,0.960092870465703,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|TeExc8,155,Zeng|5139,0.916714832592451,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|TeInh1,251,Zeng|2516,0.876281091472593,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|TeInh2,65,Zeng|1761,0.920504513531556,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|TeInh3,66,Zeng|1904,0.942438638042277,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|TeInh4,88,Zeng|1502,0.922016258300893,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|TeInh5,217,Zeng|1224,0.900294058866216,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|TeInh6,40,Zeng|5339,0.883375700526863,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|TeInh7,194,Zeng|304,0.927380408971937,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|TeInh8,1055,Zeng|708,0.883524109229559,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|TeMono1,50,Zeng|4193,0.86393032154125,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|TeNeb1,29,Zeng|2910,0.92553542886662,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|TeProl1,34,Zeng|1369,0.937055645692946,TRUE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|Vasc1,185,Zeng|5257,0.822926854326447,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|Vasc2,27,Zeng|5250,0.863182099749176,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|Vasc3,588,Zeng|5257,0.890595137292851,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|Vasc4,354,Zeng|5257,0.875348985654422,FALSE
+Lamanna_lamprey,lamprey,Lamanna_lamprey|Vasc5,97,Zeng|5250,0.887061449643034,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|endothelial_11,139,Zeng|5254,0.971953432940878,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|endothelial_12,134,Zeng|5263,0.982474766287723,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|endothelial_14,50,Zeng|5241,0.983334442457264,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|epen_clus_0,560,Zeng|5203,0.974975302673617,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|epen_clus_1,400,Zeng|5207,0.925879210658622,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|epen_clus_10,179,Zeng|14984,0.961956375491406,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|epen_clus_11,108,Zeng|14951,0.992972849171317,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|epen_clus_12,85,Zeng|14876,0.963410445029607,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|epen_clus_13,65,Zeng|5203,0.927276480462393,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|epen_clus_14,55,Zeng|5203,0.93899952920356,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|epen_clus_2,379,Zeng|14885,0.966009652095926,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|epen_clus_3,314,Zeng|1367,0.977982244134099,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|epen_clus_4,280,Zeng|1360,0.984144770621388,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|epen_clus_5,262,Zeng|14947,0.988161752207688,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|epen_clus_6,256,Zeng|14951,0.972146267361111,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|epen_clus_7,236,Zeng|14939,0.842791479423941,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|epen_clus_8,227,Zeng|14951,0.971087164791032,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|epen_clus_9,184,Zeng|14947,0.980752491622057,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|GABA_SUBSET_0,1245,Zeng|893,0.927114107835663,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|GABA_SUBSET_1,1220,Zeng|1318,0.983245483032808,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|GABA_SUBSET_10,566,Zeng|1303,0.97147436064093,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|GABA_SUBSET_11,538,Zeng|1062,0.964579163692955,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|GABA_SUBSET_12,534,Zeng|1303,0.876876219439368,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|GABA_SUBSET_13,515,Zeng|1823,0.954599209005246,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|GABA_SUBSET_14,479,Zeng|1257,0.940329914052237,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|GABA_SUBSET_15,442,Zeng|1043,0.908437736649572,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|GABA_SUBSET_16,417,Zeng|722,0.922645324298829,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|GABA_SUBSET_17,380,Zeng|524,0.963604738561371,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|GABA_SUBSET_18,364,Zeng|1136,0.858811785008093,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|GABA_SUBSET_19,359,Zeng|4595,0.93837485350785,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|GABA_SUBSET_2,1126,Zeng|538,0.977075018617784,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|GABA_SUBSET_20,279,Zeng|722,0.970845042163021,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|GABA_SUBSET_21,278,Zeng|1961,0.878637973068409,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|GABA_SUBSET_22,263,Zeng|1258,0.990994153653849,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|GABA_SUBSET_23,249,Zeng|722,0.95072821618296,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|GABA_SUBSET_24,215,Zeng|877,0.893237464955646,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|GABA_SUBSET_25,144,Zeng|1325,0.959480515271064,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|GABA_SUBSET_26,86,Zeng|1790,0.874671974445224,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|GABA_SUBSET_27,83,Zeng|3857,0.894626640915315,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|GABA_SUBSET_28,69,Zeng|1374,0.989553832316787,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|GABA_SUBSET_29,38,Zeng|1287,0.967977659646643,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|GABA_SUBSET_3,1122,Zeng|1300,0.986439451001321,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|GABA_SUBSET_4,1063,Zeng|1502,0.914188584696386,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|GABA_SUBSET_5,903,Zeng|935,0.912434900435505,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|GABA_SUBSET_6,769,Zeng|524,0.978366886044871,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|GABA_SUBSET_7,700,Zeng|713,0.903946520424512,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|GABA_SUBSET_8,650,Zeng|909,0.88843798496075,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|GABA_SUBSET_9,569,Zeng|1029,0.938235783451207,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|glut_SUBSET_0,2110,Zeng|1405,0.932863168417274,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|glut_SUBSET_1,1922,Zeng|82,0.912407011456948,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|glut_SUBSET_10,1122,Zeng|2872,0.995097754853923,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|glut_SUBSET_11,1081,Zeng|188,0.88357503977818,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|glut_SUBSET_12,937,Zeng|414,0.819925819657332,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|glut_SUBSET_13,932,Zeng|136,0.867330953803653,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|glut_SUBSET_14,896,Zeng|337,0.944603355207451,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|glut_SUBSET_15,834,Zeng|414,0.901185803714223,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|glut_SUBSET_16,698,Zeng|1403,0.887929181820916,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|glut_SUBSET_17,556,Zeng|414,0.914059546813999,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|glut_SUBSET_18,420,Zeng|290,0.850740143068712,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|glut_SUBSET_19,393,Zeng|2139,0.864565467386104,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|glut_SUBSET_2,1798,Zeng|452,0.864591802622996,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|glut_SUBSET_20,347,Zeng|485,0.88052910057377,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|glut_SUBSET_21,337,Zeng|229,0.852315485536833,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|glut_SUBSET_22,295,Zeng|2694,0.985478805322291,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|glut_SUBSET_23,286,Zeng|315,0.841027687046496,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|glut_SUBSET_24,278,Zeng|259,0.841963530600569,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|glut_SUBSET_25,218,Zeng|2327,0.854306247944214,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|glut_SUBSET_26,212,Zeng|1398,0.791033326351629,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|glut_SUBSET_27,183,Zeng|2905,0.916335656076721,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|glut_SUBSET_28,65,Zeng|2695,0.977891036175657,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|glut_SUBSET_3,1740,Zeng|1405,0.892224892058669,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|glut_SUBSET_4,1648,Zeng|429,0.899512941955581,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|glut_SUBSET_5,1552,Zeng|414,0.896933192184919,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|glut_SUBSET_6,1539,Zeng|132,0.914447051929361,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|glut_SUBSET_7,1495,Zeng|297,0.938118134108973,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|glut_SUBSET_8,1437,Zeng|321,0.885063380556952,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|glut_SUBSET_9,1253,Zeng|2754,0.890706022883986,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|microglia_8,249,Zeng|5283,0.972894774118086,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|npc_SUBSET_0,150,Zeng|1339,0.950822184248184,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|npc_SUBSET_1,149,Zeng|1408,0.924958283584354,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|npc_SUBSET_10,81,Zeng|1341,0.988638789658455,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|npc_SUBSET_11,80,Zeng|1408,0.989953127601132,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|npc_SUBSET_12,71,Zeng|1341,0.950049741913459,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|npc_SUBSET_13,51,Zeng|1339,0.947946345014038,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|npc_SUBSET_14,31,Zeng|2670,0.94489808919333,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|npc_SUBSET_2,145,Zeng|1339,0.939044605346261,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|npc_SUBSET_3,132,Zeng|1406,0.939029070809756,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|npc_SUBSET_4,117,Zeng|1371,0.985210626206899,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|npc_SUBSET_5,113,Zeng|1341,0.962225143225066,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|npc_SUBSET_6,102,Zeng|1350,0.991539285489772,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|npc_SUBSET_7,99,Zeng|1372,0.971580408451987,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|npc_SUBSET_8,95,Zeng|1342,0.996029487970254,TRUE
+Lust_axolotl,axolotl,Lust_axolotl|npc_SUBSET_9,85,Zeng|1340,0.864325771514824,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|oligodendrocyte_10,182,Zeng|5217,0.985993216026164,FALSE
+Lust_axolotl,axolotl,Lust_axolotl|oligodendrocyte_15,42,Zeng|5233,0.984127809230733,FALSE
+Colquitt_zebrafinch,zebrafinch,Colquitt_zebrafinch|Astro,4357,Zeng|14951,0.993016229931218,TRUE
+Colquitt_zebrafinch,zebrafinch,Colquitt_zebrafinch|Endo,1255,Zeng|5254,0.98658877354649,FALSE
+Colquitt_zebrafinch,zebrafinch,Colquitt_zebrafinch|Epen,431,Zeng|14877,0.894406875654095,FALSE
+Colquitt_zebrafinch,zebrafinch,Colquitt_zebrafinch|GABA-1-1,737,Zeng|1278,0.967157850246564,FALSE
+Colquitt_zebrafinch,zebrafinch,Colquitt_zebrafinch|GABA-1-2,448,Zeng|1278,0.936822947688537,FALSE
+Colquitt_zebrafinch,zebrafinch,Colquitt_zebrafinch|GABA-2,795,Zeng|524,0.981574272876249,FALSE
+Colquitt_zebrafinch,zebrafinch,Colquitt_zebrafinch|GABA-3,598,Zeng|719,0.983293171856499,FALSE
+Colquitt_zebrafinch,zebrafinch,Colquitt_zebrafinch|GABA-4,608,Zeng|598,0.974831358728891,FALSE
+Colquitt_zebrafinch,zebrafinch,Colquitt_zebrafinch|GABA-5-1,167,Zeng|652,0.985388984172389,FALSE
+Colquitt_zebrafinch,zebrafinch,Colquitt_zebrafinch|GABA-5-2,150,Zeng|636,0.991704302353221,FALSE
+Colquitt_zebrafinch,zebrafinch,Colquitt_zebrafinch|GABA-5-3,106,Zeng|628,0.972532343201324,TRUE
+Colquitt_zebrafinch,zebrafinch,Colquitt_zebrafinch|GABA-6,177,Zeng|705,0.977885775550604,TRUE
+Colquitt_zebrafinch,zebrafinch,Colquitt_zebrafinch|GABA-7,73,Zeng|1748,0.979141767485245,FALSE
+Colquitt_zebrafinch,zebrafinch,Colquitt_zebrafinch|GABA-8,64,Zeng|1631,0.982724775939672,FALSE
+Colquitt_zebrafinch,zebrafinch,Colquitt_zebrafinch|GABA-Pre,105,Zeng|1343,0.953341355524295,TRUE
+Colquitt_zebrafinch,zebrafinch,Colquitt_zebrafinch|HVC_Glut-1,4672,Zeng|69,0.879689720986275,FALSE
+Colquitt_zebrafinch,zebrafinch,Colquitt_zebrafinch|HVC_Glut-2,2472,Zeng|274,0.929087878479812,FALSE
+Colquitt_zebrafinch,zebrafinch,Colquitt_zebrafinch|HVC_Glut-3,1340,Zeng|54,0.953790077965403,TRUE
+Colquitt_zebrafinch,zebrafinch,Colquitt_zebrafinch|HVC_Glut-4,730,Zeng|282,0.868283466438856,FALSE
+Colquitt_zebrafinch,zebrafinch,Colquitt_zebrafinch|HVC_Glut-5,219,Zeng|485,0.974768574070174,TRUE
+Colquitt_zebrafinch,zebrafinch,Colquitt_zebrafinch|Micro,478,Zeng|5279,0.904066222113694,TRUE
+Colquitt_zebrafinch,zebrafinch,Colquitt_zebrafinch|Mural,165,Zeng|5244,0.951671549602338,FALSE
+Colquitt_zebrafinch,zebrafinch,Colquitt_zebrafinch|Oligo,1397,Zeng|5230,0.994453181086551,FALSE
+Colquitt_zebrafinch,zebrafinch,Colquitt_zebrafinch|OPC,709,Zeng|5207,0.992599590165784,FALSE
+Colquitt_zebrafinch,zebrafinch,Colquitt_zebrafinch|Pre-1,775,Zeng|1362,0.82974393515103,FALSE
+Colquitt_zebrafinch,zebrafinch,Colquitt_zebrafinch|Pre-2,599,Zeng|1339,0.984380183781477,FALSE
+Colquitt_zebrafinch,zebrafinch,Colquitt_zebrafinch|Pre-3,469,Zeng|1340,0.973118227595151,FALSE
+Colquitt_zebrafinch,zebrafinch,Colquitt_zebrafinch|Pre-4,429,Zeng|229,0.971987445848761,FALSE
+Colquitt_zebrafinch,zebrafinch,Colquitt_zebrafinch|RA_Glut-1,464,Zeng|326,0.96689292749325,TRUE
+Colquitt_zebrafinch,zebrafinch,Colquitt_zebrafinch|RA_Glut-2,202,Zeng|326,0.961109626246467,TRUE
+Colquitt_zebrafinch,zebrafinch,Colquitt_zebrafinch|RA_Glut-3,115,Zeng|326,0.958728591553414,TRUE
+Colquitt_zebrafinch,zebrafinch,Colquitt_zebrafinch|RBC,72,Zeng|5277,0.743451048797613,TRUE
+Colquitt_zebrafinch,zebrafinch,Colquitt_zebrafinch|VLMC,14,Zeng|5263,0.970351147788298,TRUE
+Colquitt_Bengalese_finch,Bengalese_finch,Colquitt_Bengalese_finch|Astro,319,Zeng|14920,0.961604956058205,FALSE
+Colquitt_Bengalese_finch,Bengalese_finch,Colquitt_Bengalese_finch|Endo,496,Zeng|5254,0.989081954611679,FALSE
+Colquitt_Bengalese_finch,Bengalese_finch,Colquitt_Bengalese_finch|GABA-1-1,90,Zeng|1257,0.966229417462294,TRUE
+Colquitt_Bengalese_finch,Bengalese_finch,Colquitt_Bengalese_finch|GABA-1-2,8,Zeng|4365,0.974737612887479,TRUE
+Colquitt_Bengalese_finch,Bengalese_finch,Colquitt_Bengalese_finch|GABA-2,66,Zeng|504,0.976340528333596,FALSE
+Colquitt_Bengalese_finch,Bengalese_finch,Colquitt_Bengalese_finch|GABA-3,22,Zeng|602,0.988845100527687,FALSE
+Colquitt_Bengalese_finch,Bengalese_finch,Colquitt_Bengalese_finch|GABA-4,3,Zeng|609,0.964976434259711,TRUE
+Colquitt_Bengalese_finch,Bengalese_finch,Colquitt_Bengalese_finch|GABA-5-1,20,Zeng|633,0.986609547123623,FALSE
+Colquitt_Bengalese_finch,Bengalese_finch,Colquitt_Bengalese_finch|GABA-5-2,17,Zeng|628,0.973638770576724,TRUE
+Colquitt_Bengalese_finch,Bengalese_finch,Colquitt_Bengalese_finch|GABA-5-3,4,Zeng|3243,0.986527676176542,TRUE
+Colquitt_Bengalese_finch,Bengalese_finch,Colquitt_Bengalese_finch|GABA-6,10,Zeng|705,0.993919413919414,TRUE
+Colquitt_Bengalese_finch,Bengalese_finch,Colquitt_Bengalese_finch|GABA-7,5,Zeng|3227,0.986487804878049,FALSE
+Colquitt_Bengalese_finch,Bengalese_finch,Colquitt_Bengalese_finch|GABA-8,2,Zeng|4327,0.999390689739215,FALSE
+Colquitt_Bengalese_finch,Bengalese_finch,Colquitt_Bengalese_finch|GABA-Pre,44,Zeng|1355,0.98083208345459,FALSE
+Colquitt_Bengalese_finch,Bengalese_finch,Colquitt_Bengalese_finch|HVC_Glut-1,297,Zeng|4341,0.941683996831056,TRUE
+Colquitt_Bengalese_finch,Bengalese_finch,Colquitt_Bengalese_finch|HVC_Glut-2,249,Zeng|161,0.958933243346831,FALSE
+Colquitt_Bengalese_finch,Bengalese_finch,Colquitt_Bengalese_finch|HVC_Glut-3,53,Zeng|60,0.94896999385349,TRUE
+Colquitt_Bengalese_finch,Bengalese_finch,Colquitt_Bengalese_finch|HVC_Glut-4,26,Zeng|238,0.941162049521942,FALSE
+Colquitt_Bengalese_finch,Bengalese_finch,Colquitt_Bengalese_finch|HVC_Glut-5,4,Zeng|297,0.995062179956108,TRUE
+Colquitt_Bengalese_finch,Bengalese_finch,Colquitt_Bengalese_finch|Micro,840,Zeng|5283,0.995694231750893,TRUE
+Colquitt_Bengalese_finch,Bengalese_finch,Colquitt_Bengalese_finch|Mural,113,Zeng|5248,0.992972671005728,FALSE
+Colquitt_Bengalese_finch,Bengalese_finch,Colquitt_Bengalese_finch|Oligo,354,Zeng|5233,0.996919842091073,FALSE
+Colquitt_Bengalese_finch,Bengalese_finch,Colquitt_Bengalese_finch|OPC,609,Zeng|5203,0.991982392262515,TRUE
+Colquitt_Bengalese_finch,Bengalese_finch,Colquitt_Bengalese_finch|Pre-1,10,Zeng|5216,0.757948717948718,FALSE
+Colquitt_Bengalese_finch,Bengalese_finch,Colquitt_Bengalese_finch|Pre-2,89,Zeng|1406,0.9272041049286,TRUE
+Colquitt_Bengalese_finch,Bengalese_finch,Colquitt_Bengalese_finch|Pre-3,46,Zeng|1340,0.967822445022869,FALSE
+Colquitt_Bengalese_finch,Bengalese_finch,Colquitt_Bengalese_finch|Pre-4,19,Zeng|1064,0.99514388025865,FALSE
+Colquitt_Bengalese_finch,Bengalese_finch,Colquitt_Bengalese_finch|RA_Glut-1,15,Zeng|340,0.947644661776691,FALSE
+Colquitt_Bengalese_finch,Bengalese_finch,Colquitt_Bengalese_finch|RA_Glut-2,2,Zeng|8799,0.994516207652937,FALSE
+Colquitt_Bengalese_finch,Bengalese_finch,Colquitt_Bengalese_finch|RA_Glut-3,1,Zeng|2896,0.990009746588694,FALSE
+Colquitt_Bengalese_finch,Bengalese_finch,Colquitt_Bengalese_finch|RBC,257,Zeng|1470,0.851328094032374,FALSE
+Colquitt_Bengalese_finch,Bengalese_finch,Colquitt_Bengalese_finch|VLMC,15,Zeng|5261,0.990643846780766,FALSE
+Anneser_zebrafish,zebrafish,Anneser_zebrafish|0,2038,Zeng|1405,0.801019205425282,TRUE
+Anneser_zebrafish,zebrafish,Anneser_zebrafish|1,1833,Zeng|14933,0.9887972076445,TRUE
+Anneser_zebrafish,zebrafish,Anneser_zebrafish|10,547,Zeng|2866,0.866261654276157,TRUE
+Anneser_zebrafish,zebrafish,Anneser_zebrafish|11,485,Zeng|5236,0.979761498660237,FALSE
+Anneser_zebrafish,zebrafish,Anneser_zebrafish|12,468,Zeng|1339,0.986580366303447,FALSE
+Anneser_zebrafish,zebrafish,Anneser_zebrafish|13,444,Zeng|5275,0.959895809395085,TRUE
+Anneser_zebrafish,zebrafish,Anneser_zebrafish|14,357,Zeng|564,0.920046645568776,FALSE
+Anneser_zebrafish,zebrafish,Anneser_zebrafish|15,334,Zeng|5267,0.992116910858336,FALSE
+Anneser_zebrafish,zebrafish,Anneser_zebrafish|16,311,Zeng|4007,0.854916641729144,FALSE
+Anneser_zebrafish,zebrafish,Anneser_zebrafish|17,285,Zeng|1367,0.97826359988272,FALSE
+Anneser_zebrafish,zebrafish,Anneser_zebrafish|18,180,Zeng|2897,0.932080140979837,FALSE
+Anneser_zebrafish,zebrafish,Anneser_zebrafish|19,162,Zeng|5211,0.975475578720416,FALSE
+Anneser_zebrafish,zebrafish,Anneser_zebrafish|2,1563,Zeng|1691,0.924719837043392,TRUE
+Anneser_zebrafish,zebrafish,Anneser_zebrafish|20,115,Zeng|5279,0.974878332769935,TRUE
+Anneser_zebrafish,zebrafish,Anneser_zebrafish|21,98,Zeng|5263,0.981822230217366,TRUE
+Anneser_zebrafish,zebrafish,Anneser_zebrafish|22,57,Zeng|5254,0.99147616951873,FALSE
+Anneser_zebrafish,zebrafish,Anneser_zebrafish|23,56,Zeng|5249,0.911188573185192,TRUE
+Anneser_zebrafish,zebrafish,Anneser_zebrafish|24,41,Zeng|8173,0.957348534787559,TRUE
+Anneser_zebrafish,zebrafish,Anneser_zebrafish|25,32,Zeng|14985,0.974783596291976,FALSE
+Anneser_zebrafish,zebrafish,Anneser_zebrafish|26,19,Zeng|2885,0.997288030529028,TRUE
+Anneser_zebrafish,zebrafish,Anneser_zebrafish|3,1483,Zeng|112,0.836112687285666,FALSE
+Anneser_zebrafish,zebrafish,Anneser_zebrafish|4,1390,Zeng|3609,0.882785176319463,TRUE
+Anneser_zebrafish,zebrafish,Anneser_zebrafish|5,1125,Zeng|257,0.879478693223363,TRUE
+Anneser_zebrafish,zebrafish,Anneser_zebrafish|6,888,Zeng|88,0.922815156243524,FALSE
+Anneser_zebrafish,zebrafish,Anneser_zebrafish|7,759,Zeng|1811,0.887217503397943,FALSE
+Anneser_zebrafish,zebrafish,Anneser_zebrafish|8,640,Zeng|5203,0.985181708755819,TRUE
+Anneser_zebrafish,zebrafish,Anneser_zebrafish|9,611,Zeng|596,0.928566040998832,FALSE
+Ma_human,human,Ma_human|Astro AQP4 OSMR,435,Zeng|14884,0.93833211652321,FALSE
+Ma_human,human,Ma_human|Astro AQP4 SLC1A2,16144,Zeng|14945,0.986705023689701,FALSE
+Ma_human,human,Ma_human|Astro GFAP AQP1,3714,Zeng|14980,0.938331331894021,FALSE
+Ma_human,human,Ma_human|Astro GFAP FABP7,3066,Zeng|14872,0.937454324992448,FALSE
+Ma_human,human,Ma_human|B EBF1 IGKC,53,Zeng|5275,0.976672974360251,TRUE
+Ma_human,human,Ma_human|COP GPR17 SOX4,185,Zeng|5211,0.990776149692019,FALSE
+Ma_human,human,Ma_human|Endo CLDN5 DKK2,285,Zeng|5252,0.946629809604175,FALSE
+Ma_human,human,Ma_human|Endo CLDN5 IL1R1,1289,Zeng|5255,0.968857684350335,TRUE
+Ma_human,human,Ma_human|Endo CLDN5 SLC7A5,5292,Zeng|5254,0.970713902230623,FALSE
+Ma_human,human,Ma_human|InN ADARB2 CADPS2,149,Zeng|645,0.996495194932781,TRUE
+Ma_human,human,Ma_human|InN ADARB2 CALCR,93,Zeng|657,0.994995659283542,TRUE
+Ma_human,human,Ma_human|InN ADARB2 COL5A2,477,Zeng|706,0.992148077909892,FALSE
+Ma_human,human,Ma_human|InN ADARB2 FAM19A1,737,Zeng|706,0.988844864760561,FALSE
+Ma_human,human,Ma_human|InN ADARB2 PALMD,107,Zeng|4737,0.983260773976494,TRUE
+Ma_human,human,Ma_human|InN ADARB2 RGS10,262,Zeng|661,0.99332695135581,FALSE
+Ma_human,human,Ma_human|InN ADARB2 SFRP2,340,Zeng|713,0.994241951059152,TRUE
+Ma_human,human,Ma_human|InN LAMP5 ADAMTS20,429,Zeng|702,0.993014242980753,FALSE
+Ma_human,human,Ma_human|InN LAMP5 BMP7,1088,Zeng|704,0.993773621740548,TRUE
+Ma_human,human,Ma_human|InN LAMP5 LHX6 PROX1,361,Zeng|726,0.995984968889363,TRUE
+Ma_human,human,Ma_human|InN LAMP5 LHX6 TAC1,510,Zeng|724,0.996251646745756,FALSE
+Ma_human,human,Ma_human|InN LAMP5 MEIS2,89,Zeng|719,0.977544940783145,FALSE
+Ma_human,human,Ma_human|InN LAMP5 RELN,759,Zeng|720,0.999047976742409,FALSE
+Ma_human,human,Ma_human|InN LHX6 HGF STON2,162,Zeng|558,0.99373709399898,FALSE
+Ma_human,human,Ma_human|InN PVALB ANOS1,1705,Zeng|607,0.992788455093625,FALSE
+Ma_human,human,Ma_human|InN PVALB GRIN2C,437,Zeng|614,0.995758533791811,TRUE
+Ma_human,human,Ma_human|InN PVALB HPSE,1018,Zeng|599,0.992435095241504,FALSE
+Ma_human,human,Ma_human|InN PVALB PDE3A,571,Zeng|614,0.992569579181775,TRUE
+Ma_human,human,Ma_human|InN PVALB PIEZO2,887,Zeng|592,0.985877856481359,FALSE
+Ma_human,human,Ma_human|InN PVALB PRKCH,206,Zeng|610,0.989196506132949,TRUE
+Ma_human,human,Ma_human|InN PVALB SNTB1,349,Zeng|593,0.988893505661791,FALSE
+Ma_human,human,Ma_human|InN PVALB SYT2,424,Zeng|3740,0.995512939280132,TRUE
+Ma_human,human,Ma_human|InN SST ADAMTSL1,593,Zeng|524,0.989838629429881,FALSE
+Ma_human,human,Ma_human|InN SST ADRA1D,214,Zeng|607,0.985694801038298,FALSE
+Ma_human,human,Ma_human|InN SST ANKRD33B,146,Zeng|597,0.989971246051689,FALSE
+Ma_human,human,Ma_human|InN SST FREM1,1174,Zeng|497,0.991783596405938,FALSE
+Ma_human,human,Ma_human|InN SST HGF GABRQ,151,Zeng|559,0.993568184686297,FALSE
+Ma_human,human,Ma_human|InN SST HS3ST5,683,Zeng|512,0.982380057382659,FALSE
+Ma_human,human,Ma_human|InN SST HTR2C,718,Zeng|524,0.97866611061019,FALSE
+Ma_human,human,Ma_human|InN SST KLHL14,295,Zeng|502,0.992650760652714,FALSE
+Ma_human,human,Ma_human|InN SST NPY,100,Zeng|767,0.996367631670736,TRUE
+Ma_human,human,Ma_human|InN SST PLPP4,577,Zeng|527,0.987627468658893,FALSE
+Ma_human,human,Ma_human|InN SST STK32A,938,Zeng|509,0.99198324535397,FALSE
+Ma_human,human,Ma_human|InN SST THSD7B,452,Zeng|556,0.991744045565623,TRUE
+Ma_human,human,Ma_human|InN SST TRPC7,1244,Zeng|506,0.990648984363457,FALSE
+Ma_human,human,Ma_human|InN VIP ADAM12,650,Zeng|663,0.984491577355985,FALSE
+Ma_human,human,Ma_human|InN VIP CLSTN2,861,Zeng|629,0.995525601174099,FALSE
+Ma_human,human,Ma_human|InN VIP EGF,397,Zeng|649,0.988368958262128,TRUE
+Ma_human,human,Ma_human|InN VIP EXPH5,975,Zeng|5150,0.982774959904295,TRUE
+Ma_human,human,Ma_human|InN VIP FREM2,522,Zeng|663,0.992980899535353,FALSE
+Ma_human,human,Ma_human|InN VIP HS3ST3B1,1261,Zeng|631,0.991766174704141,FALSE
+Ma_human,human,Ma_human|InN VIP MDGA1,94,Zeng|685,0.991430043603008,FALSE
+Ma_human,human,Ma_human|InN VIP MEGF11 LHFP,696,Zeng|638,0.980460787622919,FALSE
+Ma_human,human,Ma_human|InN VIP PENK,140,Zeng|686,0.995953599255727,TRUE
+Ma_human,human,Ma_human|InN VIP SCML4,685,Zeng|647,0.988148362927874,FALSE
+Ma_human,human,Ma_human|L2-3 CUX2 ACVR1C INHBA,1057,Zeng|10,0.949801146308742,FALSE
+Ma_human,human,Ma_human|L2-3 CUX2 ACVR1C THSD7A,11647,Zeng|238,0.981091409275172,FALSE
+Ma_human,human,Ma_human|L2-3 CUX2 ARHGAP18,139,Zeng|1399,0.997063043479079,FALSE
+Ma_human,human,Ma_human|L2-3 CUX2 NTNG1 COL5A2,4276,Zeng|210,0.94092373243416,FALSE
+Ma_human,human,Ma_human|L2-3 CUX2 NTNG1 PALMD,4492,Zeng|233,0.947767284536099,FALSE
+Ma_human,human,Ma_human|L2-3 CUX2 NTNG1 PLCH1,1212,Zeng|184,0.941555580710785,FALSE
+Ma_human,human,Ma_human|L2-3 CUX2 PLCXD3,83,Zeng|414,0.9646654183595,TRUE
+Ma_human,human,Ma_human|L2-4 CUX2 RORB CLMN,1158,Zeng|187,0.952353868737387,FALSE
+Ma_human,human,Ma_human|L3-5 RORB GABRG1 KCNH7,1368,Zeng|316,0.967582936019655,FALSE
+Ma_human,human,Ma_human|L3-5 RORB GABRG1 PLCH1,596,Zeng|316,0.972089999654108,FALSE
+Ma_human,human,Ma_human|L3-5 RORB GABRG1 PTPRO,1163,Zeng|315,0.964421524068109,FALSE
+Ma_human,human,Ma_human|L3-5 RORB MKX DCC,1889,Zeng|193,0.979142398412391,FALSE
+Ma_human,human,Ma_human|L3-5 RORB MKX GALR1,604,Zeng|193,0.978734824268321,FALSE
+Ma_human,human,Ma_human|L3-5 RORB MKX GRIN3A,2397,Zeng|115,0.97668125617065,TRUE
+Ma_human,human,Ma_human|L3-5 RORB MKX SCN5A,428,Zeng|167,0.969468678535635,FALSE
+Ma_human,human,Ma_human|L3-5 RORB PCBP3 ARHGAP15,406,Zeng|414,0.976085951947479,TRUE
+Ma_human,human,Ma_human|L3-5 RORB PCBP3 IL1RAPL2,786,Zeng|201,0.95705218392384,FALSE
+Ma_human,human,Ma_human|L3-5 RORB PCBP3 LINGO2,1004,Zeng|201,0.965823421757464,FALSE
+Ma_human,human,Ma_human|L3-5 RORB TNNT2 PRRX1,268,Zeng|193,0.9569871993291,FALSE
+Ma_human,human,Ma_human|L3-5 RORB TNNT2 TSHZ2,1020,Zeng|90,0.955509093409427,FALSE
+Ma_human,human,Ma_human|L5 FEZF2 BCL11B POU3F1,256,Zeng|326,0.995762524256098,TRUE
+Ma_human,human,Ma_human|L5-6 FEZF2 NXPH2 CDH8,605,Zeng|78,0.996993174343472,FALSE
+Ma_human,human,Ma_human|L5-6 FEZF2 NXPH2 GPC5,260,Zeng|78,0.997660148242308,FALSE
+Ma_human,human,Ma_human|L5-6 FEZF2 NXPH2 GRIK1,177,Zeng|78,0.997730327856975,FALSE
+Ma_human,human,Ma_human|L5-6 FEZF2 NXPH2 SORCS3,173,Zeng|78,0.995587866149507,FALSE
+Ma_human,human,Ma_human|L6 FEZF2 AMOTL1 CDH6,252,Zeng|51,0.997783367154047,FALSE
+Ma_human,human,Ma_human|L6 FEZF2 DCBLD1 MITF,229,Zeng|43,0.995948381932604,TRUE
+Ma_human,human,Ma_human|L6 FEZF2 EYA1,16,Zeng|25,0.997374770487612,FALSE
+Ma_human,human,Ma_human|L6 FEZF2 HCRTR2 THSD7B,107,Zeng|51,0.996867113553849,FALSE
+Ma_human,human,Ma_human|L6 FEZF2 NPFFR2 KCNK2,476,Zeng|49,0.993970383590504,FALSE
+Ma_human,human,Ma_human|L6 FEZF2 NPFFR2 TPD52L1,659,Zeng|29,0.993449971975648,FALSE
+Ma_human,human,Ma_human|L6 FEZF2 SYT6 CDH9,633,Zeng|58,0.993492448374925,FALSE
+Ma_human,human,Ma_human|L6 FEZF2 SYT6 ERBB4,546,Zeng|63,0.992628988117815,FALSE
+Ma_human,human,Ma_human|L6 FEZF2 SYT6 PTPRT,782,Zeng|55,0.99243750384181,FALSE
+Ma_human,human,Ma_human|L6 FEZF2 SYT6 SULF1,189,Zeng|55,0.992167554358201,FALSE
+Ma_human,human,Ma_human|L6 OPRK1 SMYD1 ADAMTS17,175,Zeng|143,0.990590379814143,FALSE
+Ma_human,human,Ma_human|L6 OPRK1 SMYD1 KCND2,476,Zeng|143,0.985026353646956,FALSE
+Ma_human,human,Ma_human|L6 OPRK1 SMYD1 SNTB1,342,Zeng|143,0.992488162505952,FALSE
+Ma_human,human,Ma_human|L6 OPRK1 SMYD1 TSHZ2,214,Zeng|130,0.993526428429534,FALSE
+Ma_human,human,Ma_human|L6 OPRK1 THEMIS RGS6,2999,Zeng|116,0.985675990383945,FALSE
+Ma_human,human,Ma_human|Macro F13A1 COLEC12,760,Zeng|5267,0.976735627364981,FALSE
+Ma_human,human,Ma_human|Micro P2RY12 APBB1IP,6811,Zeng|5283,0.990778488082789,TRUE
+Ma_human,human,Ma_human|Micro P2RY12 CCL3,310,Zeng|5283,0.978338919023452,TRUE
+Ma_human,human,Ma_human|Micro P2RY12 GLDN,435,Zeng|5283,0.975757861815226,TRUE
+Ma_human,human,Ma_human|Myeloid LSP1 LYZ,81,Zeng|5276,0.979794202563458,TRUE
+Ma_human,human,Ma_human|Oligo MOG CDH7,7,Zeng|5220,0.999952688889608,FALSE
+Ma_human,human,Ma_human|Oligo MOG FRY,938,Zeng|5216,0.89126369423045,FALSE
+Ma_human,human,Ma_human|Oligo MOG GSN,2916,Zeng|5232,0.929090225874537,TRUE
+Ma_human,human,Ma_human|Oligo MOG OPALIN,42057,Zeng|5233,0.986117537709289,FALSE
+Ma_human,human,Ma_human|OPC PDGFRA PCDH15,9117,Zeng|5203,0.999298689754081,TRUE
+Ma_human,human,Ma_human|PC P2RY14 GRM8,4030,Zeng|5248,0.99195912269024,FALSE
+Ma_human,human,Ma_human|RB HBA1 HBB,239,Zeng|5254,0.966165021391783,FALSE
+Ma_human,human,Ma_human|SMC ACTA2 CNN1,1208,Zeng|5250,0.963121711448113,FALSE
+Ma_human,human,Ma_human|SMC ACTA2 CRISPLD2,410,Zeng|5250,0.916249916549599,FALSE
+Ma_human,human,Ma_human|SMC ACTA2 CYP1B1,488,Zeng|5250,0.985519497395877,FALSE
+Ma_human,human,Ma_human|T SKAP1 CD247,885,Zeng|5273,0.980384409109033,FALSE
+Ma_human,human,Ma_human|VLMC COL1A2 SLC13A3,274,Zeng|5260,0.9671101718896,TRUE
+Ma_human,human,Ma_human|VLMC COL1A2 VLMCA8,283,Zeng|5261,0.981945870265623,FALSE
+Ma_human,human,Ma_human|VLMC SLC47A1 SLC4A4,123,Zeng|5256,0.876524174580281,TRUE
+Ma_chimp,chimp,Ma_chimp|Astro AQP4 OSMR,90,Zeng|14953,0.950535025782638,TRUE
+Ma_chimp,chimp,Ma_chimp|Astro AQP4 SLC1A2,11912,Zeng|14965,0.997032123170502,TRUE
+Ma_chimp,chimp,Ma_chimp|Astro GFAP AQP1,330,Zeng|14932,0.927400858600904,FALSE
+Ma_chimp,chimp,Ma_chimp|Astro GFAP FABP7,2345,Zeng|14872,0.939265620136373,FALSE
+Ma_chimp,chimp,Ma_chimp|B EBF1 IGKC,1,Zeng|2878,0.999797593897456,TRUE
+Ma_chimp,chimp,Ma_chimp|COP GPR17 SOX4,119,Zeng|5211,0.986950906454492,FALSE
+Ma_chimp,chimp,Ma_chimp|Endo CLDN5 DKK2,507,Zeng|5252,0.942446542355948,FALSE
+Ma_chimp,chimp,Ma_chimp|Endo CLDN5 IL1R1,643,Zeng|5255,0.970782476761535,TRUE
+Ma_chimp,chimp,Ma_chimp|Endo CLDN5 SLC7A5,4122,Zeng|5254,0.980838133896864,FALSE
+Ma_chimp,chimp,Ma_chimp|InN ADARB2 CADPS2,154,Zeng|645,0.997626660275051,TRUE
+Ma_chimp,chimp,Ma_chimp|InN ADARB2 CALCR,114,Zeng|657,0.995838101440898,TRUE
+Ma_chimp,chimp,Ma_chimp|InN ADARB2 COL5A2,364,Zeng|706,0.991534504421625,FALSE
+Ma_chimp,chimp,Ma_chimp|InN ADARB2 FAM19A1,692,Zeng|706,0.991136072603803,FALSE
+Ma_chimp,chimp,Ma_chimp|InN ADARB2 PALMD,91,Zeng|4737,0.985387024498968,TRUE
+Ma_chimp,chimp,Ma_chimp|InN ADARB2 RGS10,258,Zeng|661,0.994306113860337,FALSE
+Ma_chimp,chimp,Ma_chimp|InN ADARB2 SFRP2,389,Zeng|1325,0.991956095915855,TRUE
+Ma_chimp,chimp,Ma_chimp|InN LAMP5 ADAMTS20,491,Zeng|702,0.991032289654986,FALSE
+Ma_chimp,chimp,Ma_chimp|InN LAMP5 BMP7,1329,Zeng|704,0.991398737867195,TRUE
+Ma_chimp,chimp,Ma_chimp|InN LAMP5 LHX6 PROX1,469,Zeng|719,0.987184855847821,FALSE
+Ma_chimp,chimp,Ma_chimp|InN LAMP5 LHX6 TAC1,694,Zeng|724,0.9949722109498,FALSE
+Ma_chimp,chimp,Ma_chimp|InN LAMP5 MEIS2,130,Zeng|664,0.983796918285331,FALSE
+Ma_chimp,chimp,Ma_chimp|InN LAMP5 RELN,717,Zeng|720,0.99625061016248,FALSE
+Ma_chimp,chimp,Ma_chimp|InN LHX6 HGF STON2,95,Zeng|558,0.983246593357397,FALSE
+Ma_chimp,chimp,Ma_chimp|InN PVALB ANOS1,2206,Zeng|607,0.989584776279618,FALSE
+Ma_chimp,chimp,Ma_chimp|InN PVALB GRIN2C,362,Zeng|614,0.9900705233626,TRUE
+Ma_chimp,chimp,Ma_chimp|InN PVALB HPSE,1216,Zeng|599,0.987885630365841,FALSE
+Ma_chimp,chimp,Ma_chimp|InN PVALB PDE3A,417,Zeng|614,0.9853223241982,TRUE
+Ma_chimp,chimp,Ma_chimp|InN PVALB PIEZO2,1259,Zeng|592,0.979379292860848,FALSE
+Ma_chimp,chimp,Ma_chimp|InN PVALB PRKCH,322,Zeng|593,0.979218192104376,FALSE
+Ma_chimp,chimp,Ma_chimp|InN PVALB SNTB1,605,Zeng|593,0.983576118392336,FALSE
+Ma_chimp,chimp,Ma_chimp|InN PVALB SYT2,574,Zeng|3740,0.989267739703946,TRUE
+Ma_chimp,chimp,Ma_chimp|InN SST ADAMTSL1,1046,Zeng|524,0.988048766623692,FALSE
+Ma_chimp,chimp,Ma_chimp|InN SST ADRA1D,372,Zeng|1126,0.983757357802999,FALSE
+Ma_chimp,chimp,Ma_chimp|InN SST ANKRD33B,161,Zeng|598,0.979991126323727,FALSE
+Ma_chimp,chimp,Ma_chimp|InN SST FREM1,1248,Zeng|497,0.98705197763221,FALSE
+Ma_chimp,chimp,Ma_chimp|InN SST HGF GABRQ,111,Zeng|559,0.985966832467833,FALSE
+Ma_chimp,chimp,Ma_chimp|InN SST HS3ST5,661,Zeng|521,0.978259347545384,TRUE
+Ma_chimp,chimp,Ma_chimp|InN SST HTR2C,857,Zeng|524,0.971912501606417,FALSE
+Ma_chimp,chimp,Ma_chimp|InN SST KLHL14,355,Zeng|529,0.989357993482755,FALSE
+Ma_chimp,chimp,Ma_chimp|InN SST NPY,150,Zeng|764,0.994295627069497,FALSE
+Ma_chimp,chimp,Ma_chimp|InN SST PLPP4,647,Zeng|512,0.975003740989477,FALSE
+Ma_chimp,chimp,Ma_chimp|InN SST STK32A,1020,Zeng|525,0.979803543340063,FALSE
+Ma_chimp,chimp,Ma_chimp|InN SST THSD7B,527,Zeng|529,0.978358135946383,FALSE
+Ma_chimp,chimp,Ma_chimp|InN SST TRPC7,1249,Zeng|522,0.987376540697014,FALSE
+Ma_chimp,chimp,Ma_chimp|InN VIP ADAM12,644,Zeng|638,0.986148393773554,FALSE
+Ma_chimp,chimp,Ma_chimp|InN VIP CLSTN2,735,Zeng|629,0.993744638497477,FALSE
+Ma_chimp,chimp,Ma_chimp|InN VIP EGF,263,Zeng|649,0.989140048818059,TRUE
+Ma_chimp,chimp,Ma_chimp|InN VIP EXPH5,730,Zeng|633,0.980784017182545,FALSE
+Ma_chimp,chimp,Ma_chimp|InN VIP FREM2,498,Zeng|663,0.991480034897746,FALSE
+Ma_chimp,chimp,Ma_chimp|InN VIP HS3ST3B1,964,Zeng|631,0.992158426291741,FALSE
+Ma_chimp,chimp,Ma_chimp|InN VIP MDGA1,129,Zeng|685,0.990092613993531,FALSE
+Ma_chimp,chimp,Ma_chimp|InN VIP MEGF11 LHFP,546,Zeng|638,0.977152859474999,FALSE
+Ma_chimp,chimp,Ma_chimp|InN VIP PENK,205,Zeng|686,0.99697388831717,TRUE
+Ma_chimp,chimp,Ma_chimp|InN VIP SCML4,666,Zeng|635,0.986387679022006,FALSE
+Ma_chimp,chimp,Ma_chimp|L2-3 CUX2 ACVR1C INHBA,2621,Zeng|314,0.942513380564719,TRUE
+Ma_chimp,chimp,Ma_chimp|L2-3 CUX2 ACVR1C THSD7A,9956,Zeng|1403,0.986201440472937,TRUE
+Ma_chimp,chimp,Ma_chimp|L2-3 CUX2 ARHGAP18,117,Zeng|1399,0.993754725059557,FALSE
+Ma_chimp,chimp,Ma_chimp|L2-3 CUX2 NTNG1 COL5A2,4004,Zeng|179,0.946507770434569,FALSE
+Ma_chimp,chimp,Ma_chimp|L2-3 CUX2 NTNG1 PALMD,4280,Zeng|234,0.948689555505612,FALSE
+Ma_chimp,chimp,Ma_chimp|L2-3 CUX2 NTNG1 PLCH1,1431,Zeng|184,0.955260963299353,FALSE
+Ma_chimp,chimp,Ma_chimp|L2-3 CUX2 PLCXD3,62,Zeng|1402,0.961436450059572,TRUE
+Ma_chimp,chimp,Ma_chimp|L2-4 CUX2 RORB CLMN,1787,Zeng|5059,0.967309072040013,FALSE
+Ma_chimp,chimp,Ma_chimp|L3-5 RORB GABRG1 KCNH7,907,Zeng|316,0.969636792185771,FALSE
+Ma_chimp,chimp,Ma_chimp|L3-5 RORB GABRG1 PLCH1,926,Zeng|316,0.945744580551133,FALSE
+Ma_chimp,chimp,Ma_chimp|L3-5 RORB GABRG1 PTPRO,792,Zeng|315,0.963348216730933,FALSE
+Ma_chimp,chimp,Ma_chimp|L3-5 RORB MKX DCC,2362,Zeng|193,0.95665379208071,FALSE
+Ma_chimp,chimp,Ma_chimp|L3-5 RORB MKX GALR1,694,Zeng|193,0.947047480356616,FALSE
+Ma_chimp,chimp,Ma_chimp|L3-5 RORB MKX GRIN3A,2730,Zeng|193,0.961890884979789,FALSE
+Ma_chimp,chimp,Ma_chimp|L3-5 RORB MKX SCN5A,376,Zeng|40,0.913163881035173,FALSE
+Ma_chimp,chimp,Ma_chimp|L3-5 RORB PCBP3 ARHGAP15,357,Zeng|414,0.954890759285799,TRUE
+Ma_chimp,chimp,Ma_chimp|L3-5 RORB PCBP3 IL1RAPL2,683,Zeng|316,0.935474057195002,FALSE
+Ma_chimp,chimp,Ma_chimp|L3-5 RORB PCBP3 LINGO2,1101,Zeng|201,0.951677661848877,FALSE
+Ma_chimp,chimp,Ma_chimp|L3-5 RORB TNNT2 PRRX1,347,Zeng|93,0.949461402444986,TRUE
+Ma_chimp,chimp,Ma_chimp|L3-5 RORB TNNT2 TSHZ2,824,Zeng|83,0.936531869383447,FALSE
+Ma_chimp,chimp,Ma_chimp|L5 FEZF2 BCL11B POU3F1,364,Zeng|326,0.989524247268248,TRUE
+Ma_chimp,chimp,Ma_chimp|L5-6 FEZF2 NXPH2 CDH8,730,Zeng|78,0.996691007271366,FALSE
+Ma_chimp,chimp,Ma_chimp|L5-6 FEZF2 NXPH2 GPC5,334,Zeng|78,0.997012022922747,FALSE
+Ma_chimp,chimp,Ma_chimp|L5-6 FEZF2 NXPH2 GRIK1,295,Zeng|78,0.996138934846875,FALSE
+Ma_chimp,chimp,Ma_chimp|L5-6 FEZF2 NXPH2 SORCS3,195,Zeng|78,0.993521834753216,FALSE
+Ma_chimp,chimp,Ma_chimp|L6 FEZF2 AMOTL1 CDH6,235,Zeng|51,0.988457584282081,FALSE
+Ma_chimp,chimp,Ma_chimp|L6 FEZF2 DCBLD1 MITF,309,Zeng|51,0.984302576588317,FALSE
+Ma_chimp,chimp,Ma_chimp|L6 FEZF2 EYA1,57,Zeng|25,0.994076968658342,FALSE
+Ma_chimp,chimp,Ma_chimp|L6 FEZF2 HCRTR2 THSD7B,66,Zeng|51,0.983926640561647,FALSE
+Ma_chimp,chimp,Ma_chimp|L6 FEZF2 NPFFR2 KCNK2,602,Zeng|51,0.982942669350428,FALSE
+Ma_chimp,chimp,Ma_chimp|L6 FEZF2 NPFFR2 TPD52L1,892,Zeng|45,0.98663206783915,FALSE
+Ma_chimp,chimp,Ma_chimp|L6 FEZF2 SYT6 CDH9,812,Zeng|58,0.992834378471835,FALSE
+Ma_chimp,chimp,Ma_chimp|L6 FEZF2 SYT6 ERBB4,506,Zeng|63,0.989321256293636,FALSE
+Ma_chimp,chimp,Ma_chimp|L6 FEZF2 SYT6 PTPRT,651,Zeng|55,0.982940018877127,FALSE
+Ma_chimp,chimp,Ma_chimp|L6 FEZF2 SYT6 SULF1,129,Zeng|55,0.983884438856755,FALSE
+Ma_chimp,chimp,Ma_chimp|L6 OPRK1 SMYD1 ADAMTS17,144,Zeng|143,0.981225093996532,FALSE
+Ma_chimp,chimp,Ma_chimp|L6 OPRK1 SMYD1 KCND2,476,Zeng|130,0.991212558185186,FALSE
+Ma_chimp,chimp,Ma_chimp|L6 OPRK1 SMYD1 SNTB1,414,Zeng|130,0.979508219698693,FALSE
+Ma_chimp,chimp,Ma_chimp|L6 OPRK1 SMYD1 TSHZ2,302,Zeng|130,0.994450305357118,FALSE
+Ma_chimp,chimp,Ma_chimp|L6 OPRK1 THEMIS RGS6,2358,Zeng|155,0.95518661098452,FALSE
+Ma_chimp,chimp,Ma_chimp|Macro F13A1 COLEC12,167,Zeng|5268,0.944271626945941,TRUE
+Ma_chimp,chimp,Ma_chimp|Micro P2RY12 APBB1IP,5679,Zeng|5283,0.993818683968836,TRUE
+Ma_chimp,chimp,Ma_chimp|Micro P2RY12 GLDN,69,Zeng|5283,0.97907368533034,TRUE
+Ma_chimp,chimp,Ma_chimp|Myeloid LSP1 LYZ,242,Zeng|5276,0.984230784876594,TRUE
+Ma_chimp,chimp,Ma_chimp|Oligo MOG CDH7,4,Zeng|5216,0.999870331130017,FALSE
+Ma_chimp,chimp,Ma_chimp|Oligo MOG FRY,255,Zeng|5217,0.876661568557886,FALSE
+Ma_chimp,chimp,Ma_chimp|Oligo MOG GSN,2351,Zeng|5232,0.896151568861245,TRUE
+Ma_chimp,chimp,Ma_chimp|Oligo MOG OPALIN,43451,Zeng|5233,0.989463593729091,FALSE
+Ma_chimp,chimp,Ma_chimp|OPC PDGFRA PCDH15,5250,Zeng|5203,0.998583063459144,TRUE
+Ma_chimp,chimp,Ma_chimp|PC P2RY14 GRM8,4192,Zeng|5248,0.992665958938622,FALSE
+Ma_chimp,chimp,Ma_chimp|RB HBA1 HBB,134,Zeng|5254,0.968508232741902,FALSE
+Ma_chimp,chimp,Ma_chimp|SMC ACTA2 CNN1,906,Zeng|5250,0.976531240423799,FALSE
+Ma_chimp,chimp,Ma_chimp|SMC ACTA2 CRISPLD2,114,Zeng|5248,0.9544590897759,FALSE
+Ma_chimp,chimp,Ma_chimp|SMC ACTA2 CYP1B1,812,Zeng|5249,0.988657504475284,TRUE
+Ma_chimp,chimp,Ma_chimp|T SKAP1 CD247,233,Zeng|5273,0.970287290427058,FALSE
+Ma_chimp,chimp,Ma_chimp|VLMC COL1A2 SLC13A3,350,Zeng|5260,0.969632825383543,TRUE
+Ma_chimp,chimp,Ma_chimp|VLMC COL1A2 VLMCA8,521,Zeng|5265,0.955076873972465,TRUE
+Ma_chimp,chimp,Ma_chimp|VLMC SLC47A1 SLC4A4,340,Zeng|5256,0.915951807354703,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|Astro AQP4 SLC1A2,8903,Zeng|14965,0.996086897534365,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|Astro GFAP AQP1,595,Zeng|14980,0.937861795285054,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|Astro GFAP FABP7,1435,Zeng|14872,0.967228233307225,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|B EBF1 IGKC,6,Zeng|5275,0.990491709024672,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|COP GPR17 SOX4,110,Zeng|5211,0.995017019155055,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|Endo CLDN5 DKK2,187,Zeng|5252,0.957653491711526,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|Endo CLDN5 IL1R1,423,Zeng|5255,0.971811448774605,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|Endo CLDN5 SLC7A5,3846,Zeng|5254,0.978348041034059,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|InN ADARB2 CADPS2,125,Zeng|645,0.997115570595919,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|InN ADARB2 CALCR,118,Zeng|1442,0.994482792818057,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|InN ADARB2 COL5A2,455,Zeng|706,0.992862987583344,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|InN ADARB2 FAM19A1,576,Zeng|706,0.988101205791821,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|InN ADARB2 PALMD,54,Zeng|990,0.993234374107498,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|InN ADARB2 RGS10,274,Zeng|625,0.996381765255769,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|InN ADARB2 SFRP2,226,Zeng|713,0.995065177248912,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|InN LAMP5 ADAMTS20,246,Zeng|702,0.993975822727352,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|InN LAMP5 BMP7,1032,Zeng|704,0.993595714072749,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|InN LAMP5 LHX6 PROX1,513,Zeng|726,0.991771626626564,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|InN LAMP5 LHX6 TAC1,483,Zeng|724,0.992924497369105,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|InN LAMP5 MEIS2,115,Zeng|664,0.985943566634154,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|InN LAMP5 RELN,585,Zeng|720,0.998111437863981,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|InN LHX6 HGF STON2,209,Zeng|558,0.986728443160738,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|InN PVALB ANOS1,1632,Zeng|607,0.993214851918356,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|InN PVALB GRIN2C,447,Zeng|614,0.993611213829627,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|InN PVALB HPSE,1002,Zeng|599,0.989732954302116,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|InN PVALB PDE3A,700,Zeng|614,0.99332329304063,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|InN PVALB PIEZO2,1127,Zeng|610,0.986685594793574,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|InN PVALB PRKCH,298,Zeng|593,0.984249718394326,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|InN PVALB SNTB1,403,Zeng|594,0.987737191497212,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|InN PVALB SYT2,247,Zeng|8166,0.9926590895618,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|InN SST ADAMTSL1,542,Zeng|524,0.990043446798174,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|InN SST ADRA1D,192,Zeng|1126,0.985750566850097,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|InN SST ANKRD33B,80,Zeng|598,0.994098123739996,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|InN SST FREM1,853,Zeng|496,0.994087210803896,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|InN SST HGF GABRQ,99,Zeng|559,0.9897723926502,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|InN SST HS3ST5,491,Zeng|512,0.98523348650706,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|InN SST HTR2C,571,Zeng|524,0.972695089571293,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|InN SST KLHL14,438,Zeng|503,0.992414026307473,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|InN SST NPY,88,Zeng|767,0.998886928763441,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|InN SST PLPP4,356,Zeng|507,0.982899101852734,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|InN SST STK32A,961,Zeng|509,0.989257623973894,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|InN SST THSD7B,542,Zeng|556,0.988496637284558,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|InN SST TRPC7,795,Zeng|506,0.992074110850548,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|InN VIP ADAM12,425,Zeng|618,0.987684850690374,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|InN VIP CLSTN2,871,Zeng|629,0.996594211755642,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|InN VIP EGF,298,Zeng|649,0.982534878188541,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|InN VIP EXPH5,666,Zeng|633,0.980340703067488,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|InN VIP FREM2,450,Zeng|663,0.98998946596349,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|InN VIP HS3ST3B1,1040,Zeng|631,0.990339753156407,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|InN VIP MDGA1,133,Zeng|685,0.995915406741592,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|InN VIP MEGF11 LHFP,461,Zeng|638,0.977301268310385,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|InN VIP PENK,104,Zeng|686,0.994115159594469,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|InN VIP SCML4,516,Zeng|635,0.992358817986853,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|L2-3 CUX2 ACVR1C INHBA,1668,Zeng|10,0.908833931278032,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|L2-3 CUX2 ACVR1C THSD7A,9907,Zeng|238,0.982161803430313,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|L2-3 CUX2 ARHGAP18,62,Zeng|1399,0.993401591598174,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|L2-3 CUX2 NTNG1 COL5A2,3343,Zeng|194,0.921274604424839,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|L2-3 CUX2 NTNG1 PALMD,3889,Zeng|233,0.937798913356897,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|L2-3 CUX2 NTNG1 PLCH1,1502,Zeng|187,0.924549644453578,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|L2-3 CUX2 PLCXD3,84,Zeng|1402,0.955314414154946,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|L2-4 CUX2 RORB CLMN,1382,Zeng|5068,0.950449356304377,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|L3-5 RORB GABRG1 KCNH7,1249,Zeng|316,0.96611378158875,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|L3-5 RORB GABRG1 PLCH1,469,Zeng|316,0.960976007350943,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|L3-5 RORB GABRG1 PTPRO,1187,Zeng|316,0.961740612056959,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|L3-5 RORB MKX DCC,2607,Zeng|193,0.962898546828782,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|L3-5 RORB MKX GALR1,886,Zeng|193,0.965181793227602,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|L3-5 RORB MKX GRIN3A,2810,Zeng|204,0.962441880299798,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|L3-5 RORB MKX SCN5A,576,Zeng|167,0.955153395163461,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|L3-5 RORB PCBP3 ARHGAP15,606,Zeng|486,0.930722725869262,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|L3-5 RORB PCBP3 IL1RAPL2,981,Zeng|316,0.934834676439293,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|L3-5 RORB PCBP3 LINGO2,1508,Zeng|178,0.929837762623512,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|L3-5 RORB TNNT2 PRRX1,390,Zeng|93,0.924055129716402,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|L3-5 RORB TNNT2 TSHZ2,1234,Zeng|316,0.922322050697752,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|L5 FEZF2 BCL11B POU3F1,384,Zeng|326,0.982233610700763,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|L5-6 FEZF2 NXPH2 CDH8,750,Zeng|78,0.995717320888534,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|L5-6 FEZF2 NXPH2 GPC5,375,Zeng|78,0.996194922583558,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|L5-6 FEZF2 NXPH2 GRIK1,294,Zeng|77,0.994603919372213,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|L5-6 FEZF2 NXPH2 SORCS3,248,Zeng|78,0.990658014297892,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|L6 FEZF2 AMOTL1 CDH6,355,Zeng|25,0.992768623033224,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|L6 FEZF2 DCBLD1 MITF,458,Zeng|43,0.992373027712439,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|L6 FEZF2 EYA1,37,Zeng|25,0.990346444004981,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|L6 FEZF2 HCRTR2 THSD7B,186,Zeng|51,0.996573210335585,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|L6 FEZF2 NPFFR2 KCNK2,718,Zeng|29,0.987523503867646,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|L6 FEZF2 NPFFR2 TPD52L1,1194,Zeng|45,0.987680886087064,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|L6 FEZF2 SYT6 CDH9,957,Zeng|63,0.987066307497624,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|L6 FEZF2 SYT6 ERBB4,661,Zeng|63,0.984314750487875,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|L6 FEZF2 SYT6 PTPRT,1284,Zeng|62,0.98515899188045,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|L6 FEZF2 SYT6 SULF1,268,Zeng|62,0.985034249921358,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|L6 OPRK1 SMYD1 ADAMTS17,72,Zeng|143,0.995674675897645,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|L6 OPRK1 SMYD1 KCND2,373,Zeng|130,0.996022041863388,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|L6 OPRK1 SMYD1 SNTB1,328,Zeng|130,0.996732469792105,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|L6 OPRK1 SMYD1 TSHZ2,254,Zeng|130,0.995205826355007,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|L6 OPRK1 THEMIS RGS6,4141,Zeng|103,0.978339920007442,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|Macro F13A1 COLEC12,688,Zeng|5268,0.962727999094346,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|Micro P2RY12 APBB1IP,8058,Zeng|5283,0.994970166707717,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|Myeloid LSP1 LYZ,126,Zeng|5276,0.972297460991638,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|Oligo MOG CDH7,31,Zeng|5216,0.998499642085963,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|Oligo MOG FRY,5139,Zeng|5233,0.922628164513363,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|Oligo MOG GSN,1492,Zeng|5232,0.97405608461535,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|Oligo MOG OPALIN,14829,Zeng|5230,0.975541600569392,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|OPC PDGFRA PCDH15,6176,Zeng|5203,0.999431744333202,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|PC P2RY14 GRM8,3415,Zeng|5248,0.993331386852069,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|RB HBA1 HBB,111,Zeng|5254,0.963176060165848,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|SMC ACTA2 CNN1,640,Zeng|5250,0.941267294005767,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|SMC ACTA2 CRISPLD2,72,Zeng|5248,0.958698478755175,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|SMC ACTA2 CYP1B1,471,Zeng|5250,0.993341489220347,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|T SKAP1 CD247,185,Zeng|5273,0.975708910282878,FALSE
+Ma_rhesus,rhesus,Ma_rhesus|VLMC COL1A2 SLC13A3,887,Zeng|5260,0.951818739336053,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|VLMC COL1A2 VLMCA8,770,Zeng|5263,0.961062789140049,TRUE
+Ma_rhesus,rhesus,Ma_rhesus|VLMC SLC47A1 SLC4A4,921,Zeng|5256,0.954220571926096,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|Astro AQP4 SLC1A2,14663,Zeng|14951,0.996369741453642,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|Astro GFAP AQP1,480,Zeng|14872,0.943529931940828,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|Astro GFAP FABP7,1003,Zeng|14872,0.949580679038559,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|B EBF1 IGKC,6,Zeng|5275,0.987436048404723,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|COP GPR17 SOX4,30,Zeng|5211,0.992489415900463,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|Endo CLDN5 DKK2,93,Zeng|5252,0.957758473928106,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|Endo CLDN5 IL1R1,554,Zeng|5255,0.982941126729847,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|Endo CLDN5 SLC7A5,3628,Zeng|5254,0.982008628416394,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|InN ADARB2 CADPS2,215,Zeng|645,0.99770304176816,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|InN ADARB2 CALCR,168,Zeng|657,0.995202293241476,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|InN ADARB2 COL5A2,383,Zeng|706,0.989549042895343,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|InN ADARB2 FAM19A1,670,Zeng|5339,0.984698077108644,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|InN ADARB2 PALMD,64,Zeng|713,0.979468839522369,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|InN ADARB2 RGS10,427,Zeng|692,0.995655000045804,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|InN ADARB2 SFRP2,382,Zeng|713,0.992050162831629,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|InN LAMP5 ADAMTS20,273,Zeng|702,0.99596083842875,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|InN LAMP5 BMP7,1312,Zeng|704,0.995500962153274,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|InN LAMP5 LHX6 PROX1,362,Zeng|719,0.983694569171859,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|InN LAMP5 LHX6 TAC1,695,Zeng|726,0.987845854872231,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|InN LAMP5 MEIS2,80,Zeng|701,0.969947971055239,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|InN LAMP5 RELN,595,Zeng|720,0.997334053891854,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|InN LAMP5 SYT10,225,Zeng|642,0.988537024256489,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|InN LHX6 HGF STON2,126,Zeng|610,0.988940267709803,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|InN PVALB ANOS1,1875,Zeng|607,0.990342519405844,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|InN PVALB GRIN2C,604,Zeng|614,0.98996424978148,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|InN PVALB HPSE,1368,Zeng|599,0.990661241219186,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|InN PVALB PDE3A,1010,Zeng|614,0.983511214759677,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|InN PVALB PIEZO2,1398,Zeng|592,0.985021690143267,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|InN PVALB PRKCH,370,Zeng|610,0.987290891207778,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|InN PVALB SNTB1,434,Zeng|4162,0.987163198896438,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|InN PVALB SYT2,387,Zeng|3740,0.992540430347535,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|InN SST ADAMTSL1,803,Zeng|524,0.989997092847807,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|InN SST ADRA1D,198,Zeng|1126,0.983209295338323,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|InN SST ANKRD33B,55,Zeng|558,0.990585704176891,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|InN SST FREM1,1295,Zeng|499,0.989354570326812,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|InN SST HGF GABRQ,200,Zeng|559,0.986509801163009,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|InN SST HS3ST5,519,Zeng|521,0.982271504887598,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|InN SST HTR2C,822,Zeng|512,0.975317884031733,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|InN SST KLHL14,440,Zeng|502,0.991981525131336,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|InN SST NPY,120,Zeng|767,0.99521135201007,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|InN SST PLPP4,550,Zeng|530,0.979220767011497,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|InN SST STK32A,1417,Zeng|509,0.988673203540025,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|InN SST THSD7B,751,Zeng|556,0.97440662170825,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|InN SST TRPC7,1254,Zeng|531,0.989436359413839,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|InN VIP ADAM12,576,Zeng|618,0.979895954133048,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|InN VIP CLSTN2,1376,Zeng|629,0.993920709211873,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|InN VIP EGF,382,Zeng|649,0.984727901875814,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|InN VIP EXPH5,849,Zeng|633,0.979800833161017,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|InN VIP FREM2,772,Zeng|660,0.98538538551793,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|InN VIP HS3ST3B1,1300,Zeng|652,0.990353450137682,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|InN VIP MDGA1,65,Zeng|693,0.992251314076177,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|InN VIP MEGF11 LHFP,682,Zeng|626,0.969888871469752,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|InN VIP PENK,97,Zeng|686,0.996167364909638,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|InN VIP SCML4,602,Zeng|635,0.981535848445031,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|L2-3 CUX2 ACVR1C INHBA,1455,Zeng|10,0.90559733735657,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|L2-3 CUX2 ACVR1C THSD7A,8323,Zeng|238,0.98293569370878,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|L2-3 CUX2 NTNG1 COL5A2,5218,Zeng|179,0.896429244722142,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|L2-3 CUX2 NTNG1 PALMD,6000,Zeng|233,0.940045859239226,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|L2-3 CUX2 NTNG1 PLCH1,2733,Zeng|184,0.926385874179392,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|L2-3 CUX2 PLCXD3,16,Zeng|449,0.929555559644568,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|L2-4 CUX2 RORB CLMN,1965,Zeng|187,0.936140911542939,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|L3-5 RORB GABRG1 KCNH7,1718,Zeng|316,0.944219584020297,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|L3-5 RORB GABRG1 PLCH1,1255,Zeng|316,0.927182525052845,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|L3-5 RORB GABRG1 PTPRO,1983,Zeng|316,0.932529501064161,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|L3-5 RORB MKX DCC,4058,Zeng|193,0.92731651963929,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|L3-5 RORB MKX GALR1,1674,Zeng|167,0.951505319433849,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|L3-5 RORB MKX GRIN3A,5006,Zeng|170,0.965909430509198,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|L3-5 RORB MKX SCN5A,1026,Zeng|167,0.938289212557419,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|L3-5 RORB PCBP3 ARHGAP15,999,Zeng|414,0.91984092209055,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|L3-5 RORB PCBP3 IL1RAPL2,2010,Zeng|313,0.910376875000548,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|L3-5 RORB PCBP3 LINGO2,2402,Zeng|201,0.936599777860899,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|L3-5 RORB TNNT2 PRRX1,519,Zeng|4594,0.889295428233049,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|L3-5 RORB TNNT2 TSHZ2,1865,Zeng|93,0.878395098626907,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|L5 FEZF2 BCL11B POU3F1,1361,Zeng|399,0.996783522677796,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|L5-6 FEZF2 NXPH2 CDH8,1294,Zeng|78,0.995148102645269,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|L5-6 FEZF2 NXPH2 GPC5,741,Zeng|82,0.993061620106297,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|L5-6 FEZF2 NXPH2 GRIK1,522,Zeng|86,0.994483060614989,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|L5-6 FEZF2 NXPH2 SORCS3,322,Zeng|78,0.985247478959506,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|L6 FEZF2 AMOTL1 CDH6,345,Zeng|24,0.991876776752816,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|L6 FEZF2 DCBLD1 MITF,525,Zeng|51,0.992118109740287,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|L6 FEZF2 EYA1,7,Zeng|38,0.98481591471067,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|L6 FEZF2 HCRTR2 THSD7B,116,Zeng|24,0.992754561775837,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|L6 FEZF2 NPFFR2 KCNK2,589,Zeng|43,0.985512568170611,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|L6 FEZF2 NPFFR2 TPD52L1,1072,Zeng|30,0.984304903418968,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|L6 FEZF2 SYT6 CDH9,1515,Zeng|58,0.987158213364475,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|L6 FEZF2 SYT6 ERBB4,1401,Zeng|63,0.985579931171753,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|L6 FEZF2 SYT6 PTPRT,1610,Zeng|15,0.985371263128153,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|L6 FEZF2 SYT6 SULF1,431,Zeng|15,0.989309635454358,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|L6 OPRK1 SMYD1 ADAMTS17,7,Zeng|143,0.996172914673393,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|L6 OPRK1 SMYD1 KCND2,355,Zeng|130,0.997984702592976,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|L6 OPRK1 SMYD1 SNTB1,258,Zeng|143,0.998037493590273,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|L6 OPRK1 SMYD1 TSHZ2,109,Zeng|129,0.996606415513487,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|L6 OPRK1 THEMIS RGS6,5555,Zeng|113,0.982150720961071,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|Macro F13A1 COLEC12,254,Zeng|5267,0.983569943248026,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|Micro P2RY12 APBB1IP,4626,Zeng|5283,0.992708613484898,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|Myeloid LSP1 LYZ,44,Zeng|5279,0.984060002530931,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|Oligo MOG CDH7,3,Zeng|5216,0.999964317175704,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|Oligo MOG FRY,933,Zeng|5217,0.928026469017825,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|Oligo MOG GSN,1874,Zeng|5232,0.964899875540489,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|Oligo MOG OPALIN,14734,Zeng|5233,0.990005511143042,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|OPC PDGFRA PCDH15,4556,Zeng|5203,0.9996715211523,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|PC P2RY14 GRM8,2521,Zeng|5248,0.992641120055409,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|RB HBA1 HBB,233,Zeng|5254,0.979707955494337,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|SMC ACTA2 CNN1,282,Zeng|5249,0.948378068293633,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|SMC ACTA2 CRISPLD2,30,Zeng|5248,0.974522990582493,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|SMC ACTA2 CYP1B1,336,Zeng|5249,0.994548673243135,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|T SKAP1 CD247,113,Zeng|5273,0.982659180790082,FALSE
+Ma_marmoset,marmoset,Ma_marmoset|VLMC COL1A2 SLC13A3,924,Zeng|5260,0.986172906221848,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|VLMC COL1A2 VLMCA8,381,Zeng|5265,0.978085863550193,TRUE
+Ma_marmoset,marmoset,Ma_marmoset|VLMC SLC47A1 SLC4A4,259,Zeng|5256,0.983317639678851,TRUE
+Jin_spider,spider,Jin_spider|Fat_Body_24,247,Zeng|14930,0.832672844621914,FALSE
+Jin_spider,spider,Jin_spider|Glia_21,350,Zeng|14857,0.758177351197301,TRUE
+Jin_spider,spider,Jin_spider|Glia_28,213,Zeng|14965,0.863769537828764,TRUE
+Jin_spider,spider,Jin_spider|Glia_34,143,Zeng|1284,0.596939859775807,TRUE
+Jin_spider,spider,Jin_spider|Glia_41,28,Zeng|5275,0.931911430331152,TRUE
+Jin_spider,spider,Jin_spider|Hemocytes_16,611,Zeng|5283,0.906913257821025,TRUE
+Jin_spider,spider,Jin_spider|Hemocytes_25,242,Zeng|5275,0.922857909780176,TRUE
+Jin_spider,spider,Jin_spider|Hemocytes_27,218,Zeng|5283,0.83655516990536,TRUE
+Jin_spider,spider,Jin_spider|Hemocytes_36,118,Zeng|5276,0.875264563602991,TRUE
+Jin_spider,spider,Jin_spider|Neuron_0,3433,Zeng|8215,0.719268245442893,FALSE
+Jin_spider,spider,Jin_spider|Neuron_1,2785,Zeng|5213,0.602234425436198,FALSE
+Jin_spider,spider,Jin_spider|Neuron_10,845,Zeng|3104,0.562577865661243,FALSE
+Jin_spider,spider,Jin_spider|Neuron_11,806,Zeng|3158,0.541553311422685,TRUE
+Jin_spider,spider,Jin_spider|Neuron_12,699,Zeng|5034,0.596483752908707,FALSE
+Jin_spider,spider,Jin_spider|Neuron_13,691,Zeng|5206,0.559869091420937,FALSE
+Jin_spider,spider,Jin_spider|Neuron_14,660,Zeng|1255,0.598013911494733,TRUE
+Jin_spider,spider,Jin_spider|Neuron_15,620,Zeng|169,0.608904151212143,FALSE
+Jin_spider,spider,Jin_spider|Neuron_17,559,Zeng|3919,0.537593577252265,TRUE
+Jin_spider,spider,Jin_spider|Neuron_18,539,Zeng|4176,0.630739493970896,TRUE
+Jin_spider,spider,Jin_spider|Neuron_19,520,Zeng|1104,0.568920677273775,FALSE
+Jin_spider,spider,Jin_spider|Neuron_2,2367,Zeng|232,0.635760708929352,TRUE
+Jin_spider,spider,Jin_spider|Neuron_20,500,Zeng|644,0.607549132567403,FALSE
+Jin_spider,spider,Jin_spider|Neuron_22,280,Zeng|451,0.587708995746548,FALSE
+Jin_spider,spider,Jin_spider|Neuron_23,259,Zeng|3881,0.589764493644564,TRUE
+Jin_spider,spider,Jin_spider|Neuron_26,237,Zeng|5277,0.759545724956208,TRUE
+Jin_spider,spider,Jin_spider|Neuron_3,2152,Zeng|8957,0.657639922868115,TRUE
+Jin_spider,spider,Jin_spider|Neuron_30,160,Zeng|3580,0.74952469316665,TRUE
+Jin_spider,spider,Jin_spider|Neuron_31,148,Zeng|5213,0.713156117163732,FALSE
+Jin_spider,spider,Jin_spider|Neuron_32,148,Zeng|710,0.668553255002537,TRUE
+Jin_spider,spider,Jin_spider|Neuron_33,143,Zeng|5277,0.703154430004173,TRUE
+Jin_spider,spider,Jin_spider|Neuron_37,116,Zeng|2703,0.583222822449833,FALSE
+Jin_spider,spider,Jin_spider|Neuron_38,76,Zeng|2134,0.772033631854058,TRUE
+Jin_spider,spider,Jin_spider|Neuron_39,70,Zeng|5279,0.763725776609212,TRUE
+Jin_spider,spider,Jin_spider|Neuron_4,2146,Zeng|317,0.682891611857561,TRUE
+Jin_spider,spider,Jin_spider|Neuron_40,38,Zeng|2134,0.828407638311707,TRUE
+Jin_spider,spider,Jin_spider|Neuron_5,2059,Zeng|57,0.64090044971151,FALSE
+Jin_spider,spider,Jin_spider|Neuron_6,1497,Zeng|14998,0.615531539593823,FALSE
+Jin_spider,spider,Jin_spider|Neuron_7,1357,Zeng|5265,0.697062081987806,TRUE
+Jin_spider,spider,Jin_spider|Neuron_8,1254,Zeng|139,0.608430876241095,FALSE
+Jin_spider,spider,Jin_spider|Neuron_9,1233,Zeng|167,0.740174373093283,FALSE
+Jin_spider,spider,Jin_spider|Others_29,182,Zeng|5283,0.851467737344916,TRUE
+Jin_spider,spider,Jin_spider|Others_35,128,Zeng|14857,0.819551296383622,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|0,555,Zeng|2489,0.643004365240088,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|1,363,Zeng|5026,0.63104069442224,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|13,111,Zeng|4455,0.692465870532359,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|15,141,Zeng|2399,0.71732678250319,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|16,131,Zeng|1932,0.685241957731116,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|18,110,Zeng|4205,0.633819987959061,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|19,151,Zeng|1375,0.650406414455416,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|2,333,Zeng|2396,0.760588744466055,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|21,122,Zeng|4,0.639562771830044,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|25,146,Zeng|3783,0.613974145062464,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|29,40,Zeng|3932,0.665744130270134,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|3,357,Zeng|1889,0.633817129744732,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|30,48,Zeng|990,0.702828847611827,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|32,35,Zeng|4098,0.922889221287102,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|34,62,Zeng|1733,0.636551653736219,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|4,254,Zeng|1769,0.655505681794965,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|40,70,Zeng|5216,0.685116935775831,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|44,27,Zeng|2405,0.673331933067283,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|47,52,Zeng|2394,0.719503063308373,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|49,63,Zeng|259,0.831234413839807,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|5,207,Zeng|3130,0.728864967902896,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|50,49,Zeng|767,0.636611930251691,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|51,45,Zeng|5153,0.714959370131784,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|54,45,Zeng|4128,0.673066397204328,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|56,19,Zeng|4565,0.765599634236037,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|59,21,Zeng|1028,0.687265008005469,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|6,332,Zeng|80,0.623096448704385,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|62,35,Zeng|2754,0.708068265782407,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|67,33,Zeng|1288,0.764206575784328,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|68,36,Zeng|5248,0.65793310342894,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|69,29,Zeng|5218,0.685434479281222,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|7,727,Zeng|3915,0.620393376610908,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|71,36,Zeng|3827,0.63992626237138,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|75,22,Zeng|1407,0.677690634302725,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|76,31,Zeng|1390,0.712788933584424,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|78,23,Zeng|298,0.84827790160846,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|79,11,Zeng|9283,0.755090840488904,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|81,49,Zeng|5258,0.756004714535884,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|83,8,Zeng|1278,0.751194367613779,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|84,11,Zeng|2903,0.843244417511805,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|9,216,Zeng|8958,0.619283190368267,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|A/B-KC,61,Zeng|3007,0.86519863640419,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|A/B*-KC,93,Zeng|2961,0.772369321838656,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|adPN,10,Zeng|4031,0.856161971830986,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|adPN/C15,6,Zeng|5100,0.944528238645886,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|adPN/C15&kn,14,Zeng|2382,0.962452368969732,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|adPN/kn,8,Zeng|675,0.898400176012069,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|adPN/kn&CG31676,2,Zeng|2989,0.988442211055276,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|AstA/NPF,3,Zeng|407,0.935460903798635,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|AstA/Nplp1,17,Zeng|437,0.8459038240847,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|Astrocyte-like,98,Zeng|14930,0.984950796188262,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|C2,24,Zeng|1288,0.732237339380197,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|C3,26,Zeng|5233,0.720843672456576,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|Capa,11,Zeng|4098,0.910897428568162,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|CCAP,2,Zeng|413,0.99893216080402,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|CCHa1,2,Zeng|1367,0.999434673366834,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|Chiasm_glia,3,Zeng|2600,0.944423503790258,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|Clock,52,Zeng|24554,0.686511718370125,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|Cortex_glia,21,Zeng|14991,0.926169787900049,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|DCN,8,Zeng|1715,0.942843223535328,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|Dm8/Dm11,59,Zeng|1432,0.775607632373032,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|Dm9,13,Zeng|24,0.786068881426788,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|DN1,6,Zeng|3870,0.941302161890397,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|Dopaminergic,14,Zeng|2840,0.853287439787188,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|dorsal_Fan-shaped_Body,51,Zeng|345,0.737320335794538,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|Ensheathing_glia,70,Zeng|14965,0.978404894649193,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|FMRFa,9,Zeng|2423,0.933065090741439,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|G-KC,233,Zeng|3240,0.835213456704225,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|Gr43a,7,Zeng|3968,0.944168088354135,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|Hsp,3,Zeng|5019,0.868660216945177,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|Hug,1,Zeng|17,1,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|IPC,9,Zeng|5213,0.978959721698311,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|ITP,1,Zeng|2190,0.979148348197463,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|L1,16,Zeng|3074,0.773179901837402,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|L2,9,Zeng|1707,0.92321555807033,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|L3,22,Zeng|818,0.80562743302038,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|L4/L5,14,Zeng|2762,0.907874397871882,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|Lamina_monopolar,54,Zeng|530,0.752931864590944,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|Lawf1,49,Zeng|5149,0.656873086654098,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|Lawf2,28,Zeng|1378,0.707222982462458,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|LNv,5,Zeng|4057,0.995953248711826,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|lPN,2,Zeng|3130,0.992587939698492,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|lPN/CG31676,6,Zeng|5009,0.907533098709569,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|lPN/unpg,8,Zeng|402,0.930380940407342,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|MBON,26,Zeng|2874,0.637910980148883,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|Mi1,123,Zeng|5154,0.783641724668299,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|Mip,95,Zeng|5207,0.713568336756471,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|Mip/ITP,1,Zeng|3755,0.999623162919231,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|Mip/OCT,2,Zeng|2588,0.991708542713568,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|Octopaminergic,9,Zeng|1902,0.874889978624418,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|Olfactory_projection_neurons,6,Zeng|4549,0.832662979721803,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|PAM,32,Zeng|2840,0.822123266078184,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|Peptidergic,14,Zeng|2466,0.836742397009131,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|Perineurial_glia,36,Zeng|14984,0.967504976589004,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|Photoreceptors,27,Zeng|5254,0.704963943149198,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|Plasmatocytes,57,Zeng|14872,0.797401156274621,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|Pm1/Pm2,154,Zeng|454,0.671198038641686,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|Pm1/Pm2/Pm3,43,Zeng|417,0.730677176176226,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|Pm3,11,Zeng|1513,0.791609974731595,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|Pm4,32,Zeng|324,0.667000315258512,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|Poxn,14,Zeng|3737,0.862741749946078,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|Proc/Gpb5,2,Zeng|413,0.990138190954774,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|Proc/Ms,10,Zeng|588,0.957809356136821,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|Serotonergic,41,Zeng|2840,0.741228164711896,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|Subperineurial_glia,26,Zeng|5283,0.812398224255583,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|T1,82,Zeng|588,0.755775659279435,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|T2,125,Zeng|1339,0.729641444430267,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|T3,128,Zeng|1339,0.663536946323717,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|T4/T5,153,Zeng|2762,0.711596389953941,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|Tm1/TmY8,37,Zeng|5154,0.783388183135817,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|Tm5ab,78,Zeng|14930,0.777512716439657,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|Tm5c,38,Zeng|594,0.861606312601291,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|Tm9,47,Zeng|5256,0.774024542680878,TRUE
+Davie_fruitfly,fruitfly,Davie_fruitfly|TmY14,192,Zeng|259,0.628092824967825,FALSE
+Davie_fruitfly,fruitfly,Davie_fruitfly|Tyraminergic,15,Zeng|2639,0.795486766494694,FALSE
+Liao_frog,frog,Liao_frog|Antigen-presenting cell,89,Zeng|5275,0.767063093773579,TRUE
+Liao_frog,frog,Liao_frog|Astrocyte_adcyap1r1 high,992,Zeng|14947,0.932345000619589,FALSE
+Liao_frog,frog,Liao_frog|Astrocyte_slc1a3 high,626,Zeng|14947,0.953482900333601,FALSE
+Liao_frog,frog,Liao_frog|Capillary endothelial cell,237,Zeng|5254,0.842210889866874,FALSE
+Liao_frog,frog,Liao_frog|CD8+ T cell,471,Zeng|5275,0.782633060684134,TRUE
+Liao_frog,frog,Liao_frog|Endocrine progenitor cell_chgb high,131,Zeng|4915,0.734413834942492,TRUE
+Liao_frog,frog,Liao_frog|Endocrine progenitor cell_st6galnac2 high,556,Zeng|14851,0.718057433765119,FALSE
+Liao_frog,frog,Liao_frog|Endothelial cell,58,Zeng|5255,0.871941430509475,TRUE
+Liao_frog,frog,Liao_frog|Eosinophil,190,Zeng|5276,0.773969011520788,TRUE
+Liao_frog,frog,Liao_frog|Erythrocyte,55,Zeng|44,0.726248831234993,FALSE
+Liao_frog,frog,Liao_frog|Excitatory neuron_mex3a high,153,Zeng|486,0.857685497803507,TRUE
+Liao_frog,frog,Liao_frog|Excitatory neuron_tac1 high,91,Zeng|2695,0.951601089070113,FALSE
+Liao_frog,frog,Liao_frog|Excitatory neuron_zbtb18 high,316,Zeng|119,0.88536156244096,TRUE
+Liao_frog,frog,Liao_frog|Fibrous astrocyte,696,Zeng|14862,0.892581131968923,TRUE
+Liao_frog,frog,Liao_frog|GABAergic neuron_scgn high,1696,Zeng|709,0.883607948848244,TRUE
+Liao_frog,frog,Liao_frog|GABAergic neuron_sst high,167,Zeng|1763,0.896394797309691,TRUE
+Liao_frog,frog,Liao_frog|GABAergic neuron_tac1 high,922,Zeng|1763,0.889558795180677,TRUE
+Liao_frog,frog,Liao_frog|Gonadotroph cell_cga high,4304,Zeng|2868,0.815823453462546,FALSE
+Liao_frog,frog,Liao_frog|Gonadotroph cell_cyp21a2.1 high,188,Zeng|2268,0.705528173184598,FALSE
+Liao_frog,frog,Liao_frog|Growth hormone cell_hnrnpk high,898,Zeng|3956,0.717576993885881,TRUE
+Liao_frog,frog,Liao_frog|Growth hormone cell_rasd1 high,1041,Zeng|3092,0.675859765788842,TRUE
+Liao_frog,frog,Liao_frog|Growth hormone cell_Rp high,474,Zeng|465,0.679253650244189,TRUE
+Liao_frog,frog,Liao_frog|Growth hormone progenitor cell,225,Zeng|3967,0.77950674645078,TRUE
+Liao_frog,frog,Liao_frog|Macrophage,553,Zeng|5283,0.828222002648771,TRUE
+Liao_frog,frog,Liao_frog|Mast cell,207,Zeng|4339,0.701934834296438,TRUE
+Liao_frog,frog,Liao_frog|Melanotrope cell,292,Zeng|3588,0.713078019756479,FALSE
+Liao_frog,frog,Liao_frog|Microglia,2143,Zeng|5283,0.833421443672228,TRUE
+Liao_frog,frog,Liao_frog|Myelinating oligodendrocyte progenitor cell,1834,Zeng|5233,0.941884765056471,FALSE
+Liao_frog,frog,Liao_frog|Oligodendrocyte precursor cell,416,Zeng|5207,0.799788706386017,FALSE
+Liao_frog,frog,Liao_frog|Plasma B cell,292,Zeng|5275,0.779497633725275,TRUE
+Liao_frog,frog,Liao_frog|Prolactin progenitor cell,1363,Zeng|4335,0.695623537549049,TRUE
+Liao_frog,frog,Liao_frog|Proliferating cell,78,Zeng|1357,0.820108109504466,TRUE
+Liao_frog,frog,Liao_frog|Proliferating myeloid cell,371,Zeng|2884,0.732101269132135,TRUE
+Liao_frog,frog,Liao_frog|Radial glia,134,Zeng|14858,0.844294370108558,TRUE
+Liao_frog,frog,Liao_frog|Rod photoreceptor,49,Zeng|561,0.956293279963446,FALSE
+Liao_frog,frog,Liao_frog|Rp_high,133,Zeng|4914,0.667095748796825,FALSE
+Liao_frog,frog,Liao_frog|T progenitor cell,840,Zeng|5275,0.771119388345104,TRUE
+Liao_frog,frog,Liao_frog|Thyrotroph cell,625,Zeng|1470,0.797980322234157,FALSE
