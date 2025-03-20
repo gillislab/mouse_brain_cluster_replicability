@@ -1,0 +1,2118 @@
+target_study,region,region_name,target_celltype,target_size,ref_celltype,AUROC,is_recip
+Steuernagel,HY,Hypothalamus,Steuernagel|a1_tanycytes1,255,Zeng|14913,0.985543127,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|a1_tanycytes2,58,Zeng|14913,0.985869996,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|a2_tanycytes,891,Zeng|14998,0.98896245,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|ACMB_Astrocytes,23,Zeng|14872,0.972553827,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|ACNT1_Astrocytes,69,Zeng|14857,0.96181041,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|ACNT2_Astrocytes,161,Zeng|14857,0.974012625,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|ACTE1_Astrocytes,3,Zeng|14930,0.997098979,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|ACTE2_Astrocytes,13,Zeng|14954,0.975670963,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Agrp/Gm8773,1162,Zeng|1983,0.988078297,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Agrp/Sst,365,Zeng|1984,0.974347292,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Astro,5263,Zeng|14962,0.915927029,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Astro_1,6500,Zeng|14962,0.98927463,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Astro_12,86,Zeng|1426,0.768187023,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Astro_2,306,Zeng|14962,0.934615356,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Astro_22,1366,Zeng|14956,0.902703291,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Astro_23,33,Zeng|14932,0.868483926,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Astrocytes,63,Zeng|5240,0.982345682,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Astrocytes_1,604,Zeng|14851,0.949053371,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Astrocytes_10,957,Zeng|14930,0.949292396,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Astrocytes_11,86,Zeng|14872,0.985909632,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Astrocytes_2,62,Zeng|14851,0.96458874,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|b1_tanycytes,1452,Zeng|14914,0.992468926,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|b2_tanycytes1,429,Zeng|14917,0.996429467,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|b2_tanycytes2,367,Zeng|14917,0.996592847,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|C0-Slc32a1/Gad1,1495,Zeng|3419,0.984920197,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|C1-Slc1a3/Slc1a2,1464,Zeng|9390,0.989233921,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|C10-Qrfpr/Nos1,849,Zeng|2094,0.991781907,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|C11-Ebf3/Sim1,827,Zeng|2455,0.992219718,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|C12-Epha3/Pou6f2,800,Zeng|1996,0.998228796,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|C13-Pdgfra/Xylt1,729,Zeng|5207,0.999341114,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|C14-Agrp/Npy,701,Zeng|1984,0.99741808,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|C15-Dlx1/Dlx6os1,688,Zeng|653,0.978267573,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|C16-Ntng2/Lef1,624,Zeng|1951,0.995614987,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|C17-Gpr149/Cnr1,652,Zeng|2082,0.9924505,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|C18-Esr1/Npy5r,629,Zeng|1981,0.99526125,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|C19-Sst/Epha3,627,Zeng|1991,0.999349202,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|C2-Plp1/Mbp,1225,Zeng|9390,0.978975279,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|C20-Lmo7,614,Zeng|1973,0.983512009,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|C21-Crabp1/Vgll3,621,Zeng|1977,0.984790376,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|C22-Npffr1/Lncenc1,615,Zeng|1942,0.989449181,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|C23-Pmch/Sst,438,Zeng|8163,0.903378537,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|C24-Ppp1r17/Tafa4,614,Zeng|2110,0.998091152,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|C25-Reln/Nfia,611,Zeng|2073,0.99472898,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|C26-Unc13c/Lef1,608,Zeng|2025,0.997238094,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|C27-Npsr1/Lef1,595,Zeng|2035,0.994702727,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|C28-Sst/Otp,559,Zeng|2000,0.987695724,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|C29-Reln/Nfib,531,Zeng|654,0.981624178,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|C3-Trh/Sim1,1156,Zeng|2698,0.985612763,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|C30-Nts/Pnoc,509,Zeng|1903,0.988337005,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|C31-Penk/Onecut2,498,Zeng|1415,0.983199535,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|C32-C1ql3/Rgs16,486,Zeng|1465,0.997985601,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|C33-Ebf1/Lepr,487,Zeng|2047,0.996337399,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|C34-Nts/Pou6f2,444,Zeng|3434,0.983954309,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|C35-Tac1/Ddc,465,Zeng|2189,0.998809373,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|C36-Lmx1a/Ttc6,455,Zeng|2197,0.989648339,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|C37-Pomc/Cpne4,467,Zeng|1969,0.990586007,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|C38-Col23a1/Ccdc114,435,Zeng|9390,0.953534513,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|C39-Cdh7/Ust,424,Zeng|2071,0.99086044,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|C4-Slit3/Nr5a1,1126,Zeng|2075,0.988448545,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|C40-Vip,399,Zeng|1464,0.988412509,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|C41-Slc17a6/Unassigned,340,Zeng|3574,0.982935288,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|C42-Tac2/Kiss1,374,Zeng|2003,0.998355989,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|C43-Foxp2/Tac1,349,Zeng|2095,0.998885037,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|C44-Foxp2/Tac1,348,Zeng|2194,0.998003957,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|C45-Adamtsl1/Ebf1,322,Zeng|2367,0.996953203,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|C46-Avp/Oxt,323,Zeng|2466,0.998821563,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|C47-Hdc/Slc16a10,315,Zeng|5361,0.999554899,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|C48-Kcnmb2/Ddc,312,Zeng|1630,0.99570759,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|C49-Ghrh/Gal,310,Zeng|2052,0.998770182,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|C5-Adamtsl1/Sim1,1106,Zeng|2832,0.998826088,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|C50-Gal,301,Zeng|2064,0.993322019,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|C51-Inpp5d/Tgfbr1,271,Zeng|1344,0.970292456,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|C52-Chrm2/Fign,267,Zeng|1677,0.989814708,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|C53-Prlr/Th,261,Zeng|1472,0.995693679,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|C54-Npsr1/Epha3,249,Zeng|2008,0.995205802,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|C55-Qrfp/C1ql3,241,Zeng|1943,0.992403055,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|C56-Lmo3/Nrgn/Mc4r,212,Zeng|2096,0.99789538,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|C57-Gal/Foxp2,204,Zeng|1897,0.994292541,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|C58-Slc6a20a/Cped1,184,Zeng|9390,0.979625622,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|C59-Col23a1/Scn7a,202,Zeng|9390,0.984499211,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|C6-Megf11/Nr5a1,1017,Zeng|2074,0.995255839,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|C60-Calca/Tac1,174,Zeng|2185,0.999562443,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|C61-Btg2/Mei4,175,Zeng|1945,0.985597134,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|C62-Htr1f/Tac2,158,Zeng|2826,0.999148424,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|C63-Sst/Pnoc,138,Zeng|1985,0.997306377,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|C64-Mbp/Mobp,129,Zeng|9390,0.99075878,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|C65-Bcas1/Gjc3,106,Zeng|5217,0.994618323,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|C66-Tac2/Gal,101,Zeng|1886,0.998118646,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|C67-Cga/Timeless,59,Zeng|9392,0.992969774,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|C68-Mmc/Vcan,59,Zeng|1990,0.989058882,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|C69-Pmch/Cartpt,39,Zeng|2888,0.98739307,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|C7-Fezf1/Nr5a1,940,Zeng|2082,0.99105333,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|C70-Trh/Sim1,26,Zeng|2498,0.999273436,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|C71-Gulp1/Th,22,Zeng|1642,0.999957486,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|C8-Ebf3/Sim1,928,Zeng|2321,0.994510332,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|C9-Rgs6/Rprm,916,Zeng|2827,0.997814442,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|CHOR_Choroid epithelial cells,5,Zeng|14985,0.999388444,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|COP1_Oligodendrocytes,70,Zeng|5213,0.994481744,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|DECHO1_Cholinergic and monoaminergic neurons,79,Zeng|589,0.994325792,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|DEGLU2_Di- and mesencephalon excitatory neurons,6,Zeng|5069,0.998270632,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|DEGLU3_Di- and mesencephalon excitatory neurons,16,Zeng|5088,0.98352484,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|DEGLU5_Di- and mesencephalon excitatory neurons,23,Zeng|5100,0.965019216,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|DEINH1_Telencephalon inhibitory interneurons,17,Zeng|1791,0.998784278,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|DEINH2_Telencephalon inhibitory interneurons,4,Zeng|1790,0.999628495,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|DEINH3_Di- and mesencephalon inhibitory neurons,77,Zeng|594,0.983522893,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|DEINH4_Peptidergic neurons,42,Zeng|593,0.907950567,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|DEINH5_Peptidergic neurons,186,Zeng|629,0.885185103,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|DEINH6_Peptidergic neurons,7,Zeng|497,0.958518067,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|DEINH7_Peptidergic neurons,89,Zeng|1430,0.945727501,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|DEINH8_Peptidergic neurons,66,Zeng|1427,0.940579498,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Dlk1_1,505,Zeng|2092,0.988574929,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Dlk1_2,1044,Zeng|2091,0.994847723,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Dlk1_3,96,Zeng|2557,0.943951188,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Dlk1_4,635,Zeng|2090,0.988542581,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Dlk1_5,395,Zeng|2557,0.988472971,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Dlk1_6,327,Zeng|259,0.952409222,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Doublets,8,Zeng|1355,0.903029419,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|e1:Glut,518,Zeng|3973,0.864969519,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|e10:Glut/Meis2,146,Zeng|2749,0.950705363,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|e11:Glut/Shox2,126,Zeng|5088,0.971437015,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|e12:Nos1/Foxp2,123,Zeng|38,0.915867111,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|e13:Ghrh/C1ql1,112,Zeng|2271,0.993356003,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|e15:Ucn3/Brs3,108,Zeng|2257,0.936113861,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|e16:Sst/Cartpt,79,Zeng|2463,0.976797097,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|e17:Th/Adcyap1,76,Zeng|2492,0.975960872,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|e19:Ghrh/Trh,55,Zeng|2494,0.962395945,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|e2:Tac1/Fezf1,360,Zeng|5058,0.907947948,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|e20:Crh,46,Zeng|2466,0.971018221,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|e21:Glut/Rxpf3,42,Zeng|2483,0.93986744,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|e22:Gal/Ucn3,23,Zeng|2475,0.994525202,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|e23:Reln/Etv1,20,Zeng|2261,0.998892454,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|e24:Gal/Rxfp1,18,Zeng|2262,0.99985884,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|e3:Cartpt/Isl1,263,Zeng|1928,0.934389379,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|e4:Trh/Angpt1,209,Zeng|2498,0.949217943,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|e5:Adcyap1/Nkx2.1,208,Zeng|4773,0.918626136,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|e6:Nos1/Trp73,195,Zeng|2907,0.932863433,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|e7:Reln/C1ql1,156,Zeng|2260,0.917439008,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|e8:Cck/Ebf3,144,Zeng|2869,0.997813078,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|e9:Glut/Tcf7l2,160,Zeng|2713,0.961198459,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Endo_1,1193,Zeng|5255,0.98987046,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Endo_2,433,Zeng|5248,0.991562082,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Endothelial,1300,Zeng|14998,0.902918327,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Endothelial_1,325,Zeng|5254,0.986518869,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Endothelial_2,1,Zeng|5218,0.967830013,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Endothelial_20,351,Zeng|5255,0.99087304,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Endothelial_3,16,Zeng|5243,0.994087401,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|EPEN_Ependymal cells,9,Zeng|14993,0.982896413,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Ependy,420,Zeng|14993,0.992813314,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Ependymal_1,42,Zeng|1364,0.987318781,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Ependymo,239,Zeng|14991,0.97050017,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Ependymo_25,433,Zeng|14991,0.94983584,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Ependymo_26,28,Zeng|14991,0.820876568,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Ependymocy1,30,Zeng|14915,0.998888008,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Ependymocy2,253,Zeng|14990,0.996337417,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Epith1,414,Zeng|5254,0.989551953,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Epith2,237,Zeng|5250,0.990447648,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|EPMB_Ependymal cells,5,Zeng|14914,0.972678998,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Esr1_1,248,Zeng|2088,0.98410035,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Esr1_2,471,Zeng|2088,0.997395098,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Esr1_3,480,Zeng|2088,0.984310592,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Esr1_4,245,Zeng|2088,0.994864855,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Fam19a2,124,Zeng|1955,0.92316592,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Fibroblast_1,6,Zeng|2765,0.763608274,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Fibroblasts_13,38,Zeng|5260,0.999374458,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Fibroblasts1,12,Zeng|5265,0.998979423,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Fibroblasts2,22,Zeng|5263,0.999294746,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Fibroblasts3,89,Zeng|5265,0.999311132,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|GABA_VMH-out_1,392,Zeng|638,0.990760765,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|GABA_VMH-out_10,217,Zeng|1996,0.996222355,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|GABA_VMH-out_11,182,Zeng|1975,0.985378394,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|GABA_VMH-out_12,191,Zeng|1978,0.973556667,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|GABA_VMH-out_13,242,Zeng|641,0.976619044,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|GABA_VMH-out_14,313,Zeng|618,0.982391524,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|GABA_VMH-out_15,290,Zeng|640,0.985372079,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|GABA_VMH-out_16,345,Zeng|1963,0.984799401,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|GABA_VMH-out_17,117,Zeng|1885,0.99735006,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|GABA_VMH-out_18,261,Zeng|1483,0.996750371,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|GABA_VMH-out_19,479,Zeng|1985,0.984552046,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|GABA_VMH-out_2,31,Zeng|1788,0.999978545,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|GABA_VMH-out_20,175,Zeng|1983,0.991883605,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|GABA_VMH-out_21,484,Zeng|2052,0.995134317,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|GABA_VMH-out_22,245,Zeng|2047,0.994341971,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|GABA_VMH-out_3,158,Zeng|1481,0.99681183,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|GABA_VMH-out_4,646,Zeng|643,0.971008737,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|GABA_VMH-out_5,152,Zeng|1990,0.967483716,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|GABA_VMH-out_6,508,Zeng|1992,0.994477121,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|GABA_VMH-out_7,430,Zeng|2000,0.99022126,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|GABA_VMH-out_8,174,Zeng|1965,0.977319187,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|GABA_VMH-out_9,650,Zeng|1994,0.985062953,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|GABA1,16,Zeng|1796,0.99869953,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|GABA10,25,Zeng|1878,0.925835386,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|GABA11,50,Zeng|2052,0.969466502,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|GABA12,67,Zeng|1470,0.887402975,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|GABA13,209,Zeng|1470,0.874954922,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|GABA14,83,Zeng|973,0.849524884,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|GABA15,129,Zeng|1983,0.961398191,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|GABA16,83,Zeng|2047,0.963549178,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|GABA17,50,Zeng|1484,0.95446267,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|GABA18,38,Zeng|4007,0.941733479,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|GABA2,23,Zeng|1216,0.966502032,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|GABA3,72,Zeng|1089,0.973499297,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|GABA4,17,Zeng|1374,0.926457904,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|GABA5,67,Zeng|1374,0.926584863,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|GABA6,44,Zeng|1375,0.905776602,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|GABA7,18,Zeng|2023,0.972571729,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|GABA8,448,Zeng|1426,0.958553327,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|GABA9,84,Zeng|1466,0.948444385,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Ghrh,371,Zeng|2052,0.989044865,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Glu1,12,Zeng|2467,0.965080204,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Glu10,16,Zeng|2467,0.937659453,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Glu11,57,Zeng|2003,0.975272269,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Glu12,32,Zeng|1912,0.956298244,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Glu13,34,Zeng|1968,0.957055985,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Glu14,60,Zeng|2467,0.955792377,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Glu15,28,Zeng|2463,0.97282594,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Glu2,17,Zeng|2695,0.994011709,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Glu3,12,Zeng|2764,0.948589248,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Glu4,99,Zeng|5046,0.977614361,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Glu5,190,Zeng|2834,0.959547399,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Glu6,49,Zeng|282,0.872854305,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Glu7,237,Zeng|287,0.87126841,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Glu8,58,Zeng|3967,0.912653704,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Glu9,32,Zeng|2265,0.948807932,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Gluta_VMH-in_1,264,Zeng|1945,0.974663316,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Gluta_VMH-out_1,623,Zeng|2071,0.954262696,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Gluta_VMH-out_10,267,Zeng|2467,0.99896771,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Gluta_VMH-out_2,423,Zeng|1951,0.982276623,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Gluta_VMH-out_3,158,Zeng|40,0.961118356,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Gluta_VMH-out_4,455,Zeng|652,0.954999487,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Gluta_VMH-out_5,247,Zeng|1943,0.994947696,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Gluta_VMH-out_6,120,Zeng|2003,0.99688929,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Gluta_VMH-out_7,455,Zeng|1969,0.983989148,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Gluta_VMH-out_8,337,Zeng|1968,0.990352866,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Gluta_VMH-out_9,38,Zeng|287,0.785987015,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Gm8773/Tac1,58,Zeng|2004,0.976503437,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Gpr50,37,Zeng|1885,0.97021422,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|h1:Gaba/Slc17a6,77,Zeng|895,0.842394042,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|h2:Nts/Slc17a8,301,Zeng|1298,0.928273057,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|h3:Slc32a1/Gsc,107,Zeng|5058,0.914466836,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Hdc,21,Zeng|2011,0.998960038,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Hista,19,Zeng|2004,0.983485373,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Htr3b,357,Zeng|1977,0.941919558,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|HYPEN_Subcommissural organ hypendymal cells,8,Zeng|14883,0.99383406,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|HYPEP1_Peptidergic neurons,119,Zeng|2884,0.911008175,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|HYPEP2_Peptidergic neurons,27,Zeng|40,0.885439201,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|HYPEP3_Peptidergic neurons,95,Zeng|282,0.887385216,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|HYPEP4_Peptidergic neurons,56,Zeng|2467,0.956844824,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|HYPEP5_Peptidergic neurons,126,Zeng|2467,0.965833306,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|HYPEP6_Cholinergic and monoaminergic neurons,26,Zeng|1912,0.988552342,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|HYPEP7_Cholinergic and monoaminergic neurons,7,Zeng|2152,0.965971973,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|HYPEP8_Peptidergic neurons,12,Zeng|2882,0.972592941,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|i1:Gaba,1202,Zeng|610,0.861978936,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|i10:Tac1/Nts,559,Zeng|1070,0.994484982,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|i11:Gaba,521,Zeng|1089,0.943609367,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|i12:Gaba,430,Zeng|3478,0.927663063,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|i13:Gaba,420,Zeng|610,0.952075129,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|i14:Avp/Cck,347,Zeng|1429,0.978405118,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|i15:Gaba,336,Zeng|967,0.932949193,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|i16:Gal/Th,330,Zeng|1882,0.957845479,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|i17:Th/Nos1,320,Zeng|589,0.922324934,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|i18:Gal/Tac2,304,Zeng|1863,0.932932482,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|i2:Tac1/Pdyn,1037,Zeng|1070,0.996375726,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|i20:Gal/Moxd1,290,Zeng|722,0.94432063,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|i21:Sst/Pou3f3,266,Zeng|526,0.99057255,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|i22:Gal/Pmaip1,244,Zeng|1419,0.953597373,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|i23:Crh/Nts,222,Zeng|675,0.920103523,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|i24:Nmu,214,Zeng|804,0.944387579,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|i25:Npy/Etv1,199,Zeng|512,0.985596249,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|i26:Tac1/Prok2,180,Zeng|1194,0.979462949,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|i27:Th/Trh,157,Zeng|1375,0.967749281,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|i28:Gaba/Six6,156,Zeng|1481,0.973934627,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|i29:Gaba/Igsf1,152,Zeng|973,0.932970629,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|i3:Penk/Nts,964,Zeng|1087,0.997423086,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|i30:_Vip,144,Zeng|1427,0.930856719,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|i31:Calca,128,Zeng|3478,0.914381824,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|i32:Sst/Npy,112,Zeng|764,0.992054675,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|i35:Crh/Tac2,95,Zeng|1836,0.95840222,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|i37:Bdnf/Chrm2,77,Zeng|874,0.986681805,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|i38:_Kiss1/Th,65,Zeng|3972,0.908252911,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|i39:Gaba,53,Zeng|722,0.909160585,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|i4:Gaba/Mylk,860,Zeng|1278,0.987610352,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|i40:Sst/Reln,42,Zeng|512,0.938027982,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|i41:Npy/Penk,42,Zeng|701,0.940281419,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|i42:_Pthlh,40,Zeng|1542,0.94796017,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|i43:_Chat,36,Zeng|571,0.981865695,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|i44:Th/Cxcl14,30,Zeng|1074,0.998616073,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|i45:Bdnf/Pmaip1,23,Zeng|664,0.868941343,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|i5:Gaba/Pou3f3,751,Zeng|526,0.960244646,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|i6:Avp/Nms,712,Zeng|1428,0.968466761,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|i7:Gaba,693,Zeng|895,0.913172727,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|i8:Gal/Amigo2,683,Zeng|1863,0.951891158,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|i9:Gaba,588,Zeng|589,0.887606087,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Immature_oligodendrocyte_1,1482,Zeng|5204,0.969432222,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Immature_oligodendrocyte_2,46,Zeng|1369,0.939515886,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Immune_15,69,Zeng|5279,0.99082288,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Immune_16,246,Zeng|5283,0.987508992,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|IMO,134,Zeng|5213,0.996002327,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Kiss1/Tac2,452,Zeng|1972,0.979729189,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|M1.GABA,24,Zeng|8787,0.770957987,FALSE
+Steuernagel,NA,NA,Steuernagel|M10.Sim1.Trh,NA,Zeng|5152,0.930615722,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|M11.GLUT,790,Zeng|1308,0.905144055,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|M12.Npffr1,629,Zeng|1308,0.870941672,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|M13.Irx5,581,Zeng|1315,0.908257893,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|M14.GABA,529,Zeng|1315,0.914208673,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|M15.Nts,544,Zeng|9392,0.904244876,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|M16.Npsr1,709,Zeng|8797,0.881893932,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|M17.GABA,910,Zeng|1284,0.897811718,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|M18.Prlh,890,Zeng|1406,0.87175732,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|M19.Ddc,806,Zeng|8787,0.898867214,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|M2.Hdc,101,Zeng|5360,0.97383721,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|M20.GABA,990,Zeng|1315,0.921311188,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|M21.Nfix,799,Zeng|1315,0.885711406,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|M22.Arx,1663,Zeng|9392,0.885638701,TRUE
+Steuernagel,NA,NA,Steuernagel|M23.Sim1.Pou3f2,NA,Zeng|5157,0.878157301,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|M24.Avp/Oxt,152,Zeng|2466,0.961385982,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|M25.Ghrh,249,Zeng|1344,0.948419629,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|M26.Agrp,600,Zeng|1341,0.940906884,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|M27.Trh,195,Zeng|9392,0.889702295,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|M28.Tac2,252,Zeng|2003,0.932813704,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|M29.Hcrt/Npvf,306,Zeng|1356,0.91133656,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|M3.Pmch,108,Zeng|1339,0.95759745,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|M30.Gal,146,Zeng|1341,0.917913866,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|M31.Th,429,Zeng|1341,0.934951518,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|M32.Pdyn/Grp,739,Zeng|1387,0.896467675,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|M33.Glp1r/Ebf1,413,Zeng|9392,0.917575918,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|M34.Esr1/Npy1r,529,Zeng|1341,0.929337216,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|M35.Pomc,384,Zeng|1341,0.920677346,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|M36.Sst/Pnoc,497,Zeng|1288,0.900352498,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|M37.Tbx19,462,Zeng|1284,0.897819478,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|M4.GABA,258,Zeng|1338,0.965431724,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|M5.Snypo2,248,Zeng|5069,0.898751787,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|M6.Slc17a8,542,Zeng|1315,0.877569389,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|M7.Ust,514,Zeng|1317,0.913539848,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|M8.Nr5a1,1935,Zeng|1407,0.901771448,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|M9.Fezf1,1593,Zeng|1308,0.886755311,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Macro,109,Zeng|5268,0.983488308,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Macrophage_1,6,Zeng|5267,0.858089191,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Mature_oligodendrocyte_1,3491,Zeng|5233,0.952791318,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Mature_oligodendrocyte_2,1605,Zeng|5232,0.975071931,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Mature_oligodendrocyte_3,597,Zeng|5236,0.984792944,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Mature_oligodendrocyte_4,534,Zeng|5237,0.990372163,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Mature_oligodendrocyte_5,173,Zeng|5234,0.996188867,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Mature_oligodendrocyte_6,49,Zeng|5237,0.955097173,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|MFOL2_Oligodendrocytes,198,Zeng|5236,0.9918053,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|MGL1_Microglia,10,Zeng|5276,0.98250367,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|MGL2_Microglia,47,Zeng|5276,0.986295685,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|MGL3_Microglia,30,Zeng|5276,0.990410372,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Micro,723,Zeng|5283,0.949902967,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Micro_1,1172,Zeng|5283,0.98489903,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Micro_2,114,Zeng|5267,0.974675811,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Micro_3,452,Zeng|5283,0.894115918,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Micro_4,358,Zeng|5283,0.972838777,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Microglia,237,Zeng|5267,0.992060035,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Microglia_1,663,Zeng|5278,0.995605876,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Microglia_2,23,Zeng|5277,0.992417833,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Mixed_10,49,Zeng|5158,0.71803211,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Mixed_11,155,Zeng|14930,0.848791192,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Mixed_15,135,Zeng|1341,0.829598521,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Mixed_9,200,Zeng|5158,0.82957454,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|MO,2788,Zeng|5230,0.960183491,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|MOL1_Oligodendrocytes,165,Zeng|5236,0.984617802,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|MOL2_Oligodendrocytes,103,Zeng|5232,0.976474787,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|MOL3_Oligodendrocytes,10,Zeng|5232,0.983302288,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Mural Cell,157,Zeng|5243,0.951737796,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Mural_1,532,Zeng|5244,0.955755274,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Mural_2,146,Zeng|5243,0.937572331,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Mural_Cells1,17,Zeng|5265,0.992262016,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Mural_Cells2,36,Zeng|5249,0.995385177,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|NA,183429,Zeng|2765,0.795022295,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_13_14,160,Zeng|2003,0.9671083,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_13_19,54,Zeng|1867,0.892273958,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_13_21,1,Zeng|1341,0.958856813,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_13_22,4,Zeng|1408,0.942150467,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_13_23,6,Zeng|2023,0.906711975,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_13_25,2,Zeng|1344,0.972259387,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_13_26,5,Zeng|1315,0.902249818,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_13_27,1,Zeng|865,0.968539244,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_13_28,49,Zeng|1988,0.893342059,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_13_29,19,Zeng|1341,0.894513684,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_13_30,406,Zeng|1341,0.894005917,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_13_31,119,Zeng|1476,0.95090452,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_13_32,1,Zeng|1402,0.98477102,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_13_33,67,Zeng|2047,0.952301074,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_13_34,379,Zeng|1983,0.95296504,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_13_35,170,Zeng|2052,0.958676576,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_13_36,7,Zeng|1430,0.955433551,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_13_37,92,Zeng|1483,0.985824484,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_14_10,1,Zeng|1341,0.938255344,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_14_11,13,Zeng|1338,0.831174798,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_14_12,4,Zeng|1339,0.948248472,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_14_13,138,Zeng|2466,0.956728968,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_14_14,6,Zeng|5154,0.865520192,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_14_15,51,Zeng|1946,0.843072808,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_14_16,124,Zeng|1466,0.8966987,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_14_17,292,Zeng|4159,0.895932919,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_14_18,211,Zeng|5157,0.836069298,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_14_19,542,Zeng|4159,0.858780573,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_14_2,6,Zeng|2011,0.979154489,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_14_20,494,Zeng|4159,0.849225176,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_14_21,333,Zeng|4159,0.852233461,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_14_22,202,Zeng|4333,0.825664334,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_14_23,185,Zeng|4159,0.863256703,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_14_24,112,Zeng|5152,0.84527675,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_14_25,182,Zeng|4333,0.845754836,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_14_26,67,Zeng|8799,0.840490073,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_14_27,173,Zeng|1356,0.841632466,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_14_28,112,Zeng|1315,0.848976066,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_14_29,97,Zeng|1341,0.858374243,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_14_3,6,Zeng|5069,0.871504568,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_14_30,55,Zeng|1341,0.894734846,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_14_31,142,Zeng|4159,0.871927301,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_14_32,319,Zeng|2110,0.869594486,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_14_33,94,Zeng|2047,0.87548024,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_14_34,5,Zeng|4159,0.967176556,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_14_35,12,Zeng|1341,0.911144207,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_14_36,342,Zeng|1431,0.941152833,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_14_4,49,Zeng|1318,0.940842701,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_14_5,14,Zeng|1351,0.881725349,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_14_6,22,Zeng|5151,0.843097305,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_14_7,72,Zeng|8799,0.815258611,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_14_8,10,Zeng|1320,0.905488225,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_14_9,29,Zeng|5158,0.79406636,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_16_10,4,Zeng|4344,0.922015816,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_16_11,14,Zeng|24690,0.918115394,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_16_12,16,Zeng|2152,0.94783491,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_16_13,49,Zeng|2467,0.996496142,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_16_14,7,Zeng|2003,0.960905959,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_16_15,51,Zeng|1944,0.955417342,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_16_16,9,Zeng|3127,0.933610046,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_16_17,82,Zeng|4164,0.969968273,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_16_18,117,Zeng|2439,0.911515091,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_16_19,280,Zeng|4159,0.904205743,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_16_2,46,Zeng|2006,0.987357235,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_16_20,51,Zeng|4164,0.873506298,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_16_21,51,Zeng|4159,0.897655174,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_16_22,89,Zeng|1955,0.896912311,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_16_23,130,Zeng|4159,0.911729362,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_16_24,101,Zeng|2439,0.935462306,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_16_25,7,Zeng|2265,0.930811238,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_16_26,56,Zeng|1985,0.933583848,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_16_27,167,Zeng|865,0.897123934,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_16_28,66,Zeng|1966,0.915808403,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_16_29,28,Zeng|1977,0.97607783,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_16_30,39,Zeng|1981,0.904573475,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_16_31,21,Zeng|1482,0.962395818,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_16_32,17,Zeng|2110,0.932603146,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_16_33,5,Zeng|2047,0.946522914,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_16_34,3,Zeng|2260,0.982086414,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_16_35,3,Zeng|2052,0.966372408,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_16_37,3,Zeng|1483,0.985101744,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_16_4,88,Zeng|1991,0.984670281,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_16_5,10,Zeng|2187,0.931294961,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_16_6,80,Zeng|2093,0.918481986,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_16_7,93,Zeng|24690,0.934347891,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_16_8,12,Zeng|2095,0.951776982,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_16_9,9,Zeng|4155,0.907108448,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_17_10,1,Zeng|2711,0.957199343,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_17_11,29,Zeng|4340,0.827114965,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_17_12,17,Zeng|2152,0.904651776,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_17_13,52,Zeng|2467,0.956163012,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_17_15,16,Zeng|1944,0.885473092,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_17_16,34,Zeng|4159,0.873928555,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_17_17,185,Zeng|4164,0.89683816,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_17_18,381,Zeng|4186,0.826178866,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_17_19,172,Zeng|4159,0.859671221,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_17_2,6,Zeng|2011,0.962214561,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_17_20,396,Zeng|4159,0.85903176,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_17_21,219,Zeng|4159,0.847401741,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_17_22,103,Zeng|4333,0.818392445,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_17_23,86,Zeng|4159,0.856638116,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_17_24,141,Zeng|8172,0.811411575,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_17_25,53,Zeng|4159,0.830129213,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_17_26,15,Zeng|1975,0.846537113,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_17_27,111,Zeng|1315,0.85479764,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_17_28,18,Zeng|1966,0.865823288,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_17_29,1,Zeng|2439,0.963909759,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_17_3,71,Zeng|5069,0.925717907,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_17_30,3,Zeng|1968,0.9443463,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_17_31,5,Zeng|4159,0.900803284,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_17_32,10,Zeng|2110,0.895299482,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_17_4,58,Zeng|1402,0.94519374,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_17_5,38,Zeng|2191,0.865870338,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_17_6,105,Zeng|2100,0.870992622,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_17_7,114,Zeng|4334,0.86271089,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_17_8,6,Zeng|2095,0.874463632,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_17_9,6,Zeng|865,0.904951431,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_18_10,4,Zeng|9283,0.890792526,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_18_11,35,Zeng|4333,0.873978391,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_18_12,14,Zeng|1339,0.918373709,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_18_13,10,Zeng|2466,0.964560487,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_18_14,1,Zeng|5158,0.995492617,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_18_15,14,Zeng|1944,0.93664027,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_18_16,24,Zeng|4159,0.916524531,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_18_17,156,Zeng|4159,0.916907087,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_18_18,342,Zeng|5152,0.874592064,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_18_19,120,Zeng|4159,0.911547667,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_18_2,1,Zeng|1397,0.961875591,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_18_20,340,Zeng|4159,0.903339436,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_18_21,173,Zeng|1315,0.90526344,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_18_22,91,Zeng|4333,0.859181441,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_18_23,92,Zeng|4159,0.895946593,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_18_24,111,Zeng|8787,0.884941582,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_18_25,23,Zeng|1356,0.874922312,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_18_26,10,Zeng|9384,0.913552343,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_18_27,86,Zeng|1315,0.892862808,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_18_28,10,Zeng|1284,0.906511567,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_18_3,51,Zeng|5069,0.91415841,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_18_30,2,Zeng|3065,0.983339525,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_18_31,3,Zeng|1284,0.855114369,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_18_32,1,Zeng|1384,0.996131704,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_18_33,1,Zeng|2048,0.953837641,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_18_35,1,Zeng|1341,0.999340129,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_18_36,3,Zeng|5151,0.964332168,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_18_4,63,Zeng|1338,0.95057379,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_18_5,83,Zeng|1315,0.87975685,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_18_6,58,Zeng|1315,0.882006619,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_18_7,54,Zeng|4333,0.89283172,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_18_8,11,Zeng|1315,0.938382458,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_18_9,6,Zeng|1315,0.912982991,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_19_10,146,Zeng|1315,0.816764948,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_19_11,345,Zeng|1315,0.83850842,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_19_13,1,Zeng|2467,0.951964544,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_19_15,1,Zeng|1376,0.937359063,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_19_16,1,Zeng|5158,0.981466471,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_19_17,3,Zeng|4159,0.958536188,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_19_18,3,Zeng|5154,0.968029021,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_19_19,1,Zeng|4159,0.969435525,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_19_20,16,Zeng|1094,0.802749643,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_19_21,3,Zeng|1338,0.916537203,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_19_22,4,Zeng|4159,0.944206084,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_19_24,1,Zeng|911,0.988766614,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_19_25,1,Zeng|4159,0.955188557,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_19_27,2,Zeng|8787,0.899424041,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_19_33,2,Zeng|4204,0.959032066,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_19_34,5,Zeng|1984,0.962946586,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_19_37,1,Zeng|1476,0.981749644,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_19_4,49,Zeng|1318,0.962930176,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_19_5,4,Zeng|2876,0.925810101,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_19_6,131,Zeng|2094,0.848086497,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_19_7,77,Zeng|4340,0.82829227,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_19_8,231,Zeng|1317,0.904948009,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_19_9,364,Zeng|1315,0.82847306,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_20_10,1013,Zeng|2075,0.889988347,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_20_11,634,Zeng|2082,0.892122268,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_20_14,1,Zeng|1972,0.994224834,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_20_18,1,Zeng|2439,0.996840935,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_20_20,4,Zeng|8172,0.884279502,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_20_34,1,Zeng|24690,0.995508204,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_20_37,1,Zeng|456,0.99710852,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_20_4,1,Zeng|306,0.9960122,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_20_6,77,Zeng|2094,0.931218451,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_20_7,11,Zeng|2091,0.936727307,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_20_8,160,Zeng|2097,0.920736505,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neuron_20_9,166,Zeng|2073,0.874347835,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neurons_1,1145,Zeng|2823,0.998625017,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neurons_2,1741,Zeng|2834,0.995734125,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neurons_3,846,Zeng|2821,0.992636667,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neurons_4,1347,Zeng|2342,0.968473853,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neurons_5,1045,Zeng|2321,0.967546265,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neurons_6,218,Zeng|2826,0.986676492,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neurons_7,771,Zeng|2342,0.915271087,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neurons_8,2009,Zeng|2004,0.924545438,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Neurons_9,112,Zeng|2006,0.993670441,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Newly_formed_oligodendrocyte_1,311,Zeng|5213,0.993294333,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Nfix/Htr2c,32,Zeng|589,0.949790348,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|NFOL1_Oligodendrocytes,169,Zeng|5218,0.996618959,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|NG2_OPC1,21,Zeng|1369,0.972045349,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|NG2_OPC2,462,Zeng|5204,0.969427178,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Nr5a1_1,290,Zeng|2078,0.982393187,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Nr5a1_2,475,Zeng|2084,0.994078053,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Nr5a1_3,107,Zeng|1404,0.960642349,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Nr5a1_4,962,Zeng|185,0.974894351,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Nr5a1_5,542,Zeng|2081,0.990382507,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Nr5a1_6,676,Zeng|193,0.987235722,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Nr5a1_7,134,Zeng|1404,0.965127183,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Nr5a1_Foxp2_1,427,Zeng|2097,0.987030792,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Nr5a1_Foxp2_2,386,Zeng|2096,0.97819025,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Nr5a1/Adcyap1,469,Zeng|282,0.911076706,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Nr5a1/Nfib,216,Zeng|8173,0.845866339,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Nup62cl,235,Zeng|2089,0.992492977,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Oligo,1940,Zeng|5231,0.893426491,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Oligo_1,125,Zeng|5217,0.946216237,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Oligo_2,5543,Zeng|5217,0.978691189,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Oligo_21,29,Zeng|5233,0.87307794,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Oligo_5,33,Zeng|8787,0.719664139,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Oligo_6,1097,Zeng|5231,0.886372796,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Oligo_7,1261,Zeng|5231,0.888563677,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Oligodendro1,19,Zeng|5218,0.998576276,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Oligodendro2,9,Zeng|5233,0.998904523,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Oligodendro3,70,Zeng|5236,0.994932414,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Oligodendro4,260,Zeng|5233,0.975183251,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Oligodendro5,22,Zeng|5215,0.996313947,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Oligodendro6,129,Zeng|5211,0.995551635,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Oligodendrocytes_17,102,Zeng|5203,0.967307685,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Oligodendrocytes_18,41,Zeng|5211,0.990153257,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Oligodendrocytes_19,1437,Zeng|5237,0.986743452,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Oligodendrocytes_32,100,Zeng|5204,0.978801429,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Oligodendrocytes_33,63,Zeng|5204,0.967800662,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Oligodendrocytes_34,73,Zeng|5204,0.976424241,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Oligodendrocytes_35,38,Zeng|5204,0.981880601,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Oligodendrocytes_36,33,Zeng|5207,0.974647434,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Oligodendrocytes_37,18,Zeng|5204,0.978761536,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|OPC,1960,Zeng|5207,0.962791415,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|OPC_1,3536,Zeng|5205,0.99743057,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|OPC_2,143,Zeng|5205,0.970661055,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|OPC_8,700,Zeng|5203,0.907473359,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|OPC_Oligodendrocyte precursor cells,18,Zeng|5204,0.933561152,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Others_1,464,Zeng|5211,0.994690097,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Others_2,83,Zeng|14998,0.975889965,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Oxt,21,Zeng|2467,0.999287639,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Pars_Tuber1A,28,Zeng|5149,0.997812216,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Pars_Tuber1B,10,Zeng|5256,0.987969032,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Pars_Tuber1C,55,Zeng|5149,0.97957478,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Parstuber2A,143,Zeng|5149,0.958769479,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Parstuber2B,4,Zeng|5149,0.976751074,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|PER1_Pericytes,84,Zeng|5243,0.99234653,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|PER2_Pericytes,24,Zeng|5265,0.992549383,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Pericytes_14,143,Zeng|5243,0.988658731,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Pomc/Anxa2,229,Zeng|1968,0.982955009,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Pomc/Glipr1,213,Zeng|1972,0.945808142,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Pomc/Ttr,329,Zeng|1969,0.959051326,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|POPC,40,Zeng|1369,0.984341881,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|PVMs,18,Zeng|5267,0.997011688,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Qrfp,47,Zeng|1943,0.980001787,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Rgs16/Dlx1,79,Zeng|2113,0.938238291,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Rgs16/Slc17a6,173,Zeng|2113,0.967350412,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Rgs16/Vip,213,Zeng|1427,0.962414711,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|Satb2_1,932,Zeng|2557,0.987085219,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Satb2_2,125,Zeng|2557,0.980258836,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|SCO,37,Zeng|14883,0.998672762,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Slc17a6/Trhr,239,Zeng|2847,0.895454385,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Sst/Nts,59,Zeng|531,0.965576793,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Sst/Pthlh,169,Zeng|973,0.935548871,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Sst/Unc13c,392,Zeng|1987,0.923300504,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Tany,654,Zeng|14917,0.97561859,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Tany_24,944,Zeng|14998,0.861494068,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Tanycytes_12,324,Zeng|14998,0.974322025,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|TECHO_Cholinergic and monoaminergic neurons,5,Zeng|584,0.995848488,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|TEINH1_Di- and mesencephalon inhibitory neurons,281,Zeng|596,0.987104358,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|TEINH21_Telencephalon inhibitory interneurons,18,Zeng|497,0.961260483,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|TEINH3_Peptidergic neurons,108,Zeng|1864,0.926481361,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Th/Cxcl12,216,Zeng|2045,0.976423377,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Th/Lef1,150,Zeng|2023,0.973106569,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Th/Slc6a3,140,Zeng|1482,0.971077875,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Tmem215,524,Zeng|1981,0.905474942,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Tsix_Esr1,974,Zeng|2100,0.994562392,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|Unassigned,360,Zeng|1371,0.955727156,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|unassigned(1),258,Zeng|8173,0.836070776,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|unassigned(2),799,Zeng|589,0.851476727,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|VECC_Vascular endothelial cells,11,Zeng|5255,0.986836021,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|VECV_Vascular endothelial cells,32,Zeng|5254,0.988777482,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|VLMC1_Vascular and leptomeningeal cells,6,Zeng|5261,0.9955666,FALSE
+Steuernagel,HY,Hypothalamus,Steuernagel|VSMCA_Vascular smooth muscle cells,7,Zeng|5249,0.987421069,TRUE
+Steuernagel,HY,Hypothalamus,Steuernagel|zothers,2303,Zeng|2763,0.800919332,FALSE
+Saunders,CB,Cerebellum,Saunders|CB_1-1,10243,Zeng|5158,0.999962972,TRUE
+Saunders,CB,Cerebellum,Saunders|CB_10-1,73,Zeng|5252,0.981766857,FALSE
+Saunders,CB,Cerebellum,Saunders|CB_10-2,76,Zeng|5255,0.974480167,TRUE
+Saunders,CB,Cerebellum,Saunders|CB_10-3,52,Zeng|5255,0.979322367,TRUE
+Saunders,CB,Cerebellum,Saunders|CB_11-1,29,Zeng|5260,0.994965645,TRUE
+Saunders,CB,Cerebellum,Saunders|CB_11-2,21,Zeng|5263,0.998701473,TRUE
+Saunders,CB,Cerebellum,Saunders|CB_11-3,35,Zeng|5250,0.994955615,FALSE
+Saunders,CB,Cerebellum,Saunders|CB_11-4,18,Zeng|5243,0.998700278,TRUE
+Saunders,CB,Cerebellum,Saunders|CB_11-5,14,Zeng|5248,0.992136066,FALSE
+Saunders,CB,Cerebellum,Saunders|CB_2-1,178,Zeng|9391,0.999627751,TRUE
+Saunders,CB,Cerebellum,Saunders|CB_3-1,360,Zeng|4167,0.999752338,TRUE
+Saunders,CB,Cerebellum,Saunders|CB_3-2,196,Zeng|4159,0.999192937,FALSE
+Saunders,CB,Cerebellum,Saunders|CB_3-3,101,Zeng|4159,0.999661206,FALSE
+Saunders,CB,Cerebellum,Saunders|CB_3-4,73,Zeng|4164,0.99735233,TRUE
+Saunders,CB,Cerebellum,Saunders|CB_4-1,55,Zeng|5156,0.999993283,FALSE
+Saunders,CB,Cerebellum,Saunders|CB_4-2,38,Zeng|4146,0.999970592,TRUE
+Saunders,CB,Cerebellum,Saunders|CB_4-3,20,Zeng|4566,0.998756678,TRUE
+Saunders,CB,Cerebellum,Saunders|CB_5-1,64,Zeng|5283,0.937021622,TRUE
+Saunders,CB,Cerebellum,Saunders|CB_6-1,127,Zeng|5231,0.92576987,TRUE
+Saunders,CB,Cerebellum,Saunders|CB_6-2,34,Zeng|5232,0.962073032,TRUE
+Saunders,CB,Cerebellum,Saunders|CB_6-3,8,Zeng|5216,0.993311047,FALSE
+Saunders,CB,Cerebellum,Saunders|CB_7-1,1404,Zeng|14873,0.991270289,TRUE
+Saunders,CB,Cerebellum,Saunders|CB_8-1,23,Zeng|14885,0.98674172,FALSE
+Saunders,CB,Cerebellum,Saunders|CB_8-2,125,Zeng|14862,0.982477308,TRUE
+Saunders,CB,Cerebellum,Saunders|CB_9-1,50,Zeng|14883,0.986548578,FALSE
+Saunders,EPN,Entopeduncular nucleus,Saunders|ENT_1-1,2197,Zeng|5230,0.948132261,FALSE
+Saunders,EPN,Entopeduncular nucleus,Saunders|ENT_1-2,976,Zeng|5232,0.972396344,TRUE
+Saunders,EPN,Entopeduncular nucleus,Saunders|ENT_1-3,708,Zeng|5231,0.939525771,TRUE
+Saunders,EPN,Entopeduncular nucleus,Saunders|ENT_1-4,1331,Zeng|5233,0.951929205,FALSE
+Saunders,EPN,Entopeduncular nucleus,Saunders|ENT_1-5,134,Zeng|5236,0.994000876,FALSE
+Saunders,EPN,Entopeduncular nucleus,Saunders|ENT_2-1,422,Zeng|5254,0.97922621,FALSE
+Saunders,EPN,Entopeduncular nucleus,Saunders|ENT_2-2,64,Zeng|5272,0.989734757,TRUE
+Saunders,EPN,Entopeduncular nucleus,Saunders|ENT_2-3,336,Zeng|5275,0.976552479,TRUE
+Saunders,EPN,Entopeduncular nucleus,Saunders|ENT_2-4,239,Zeng|5272,0.980469103,TRUE
+Saunders,EPN,Entopeduncular nucleus,Saunders|ENT_3-1,52,Zeng|5243,0.995433148,TRUE
+Saunders,EPN,Entopeduncular nucleus,Saunders|ENT_3-2,37,Zeng|5261,0.998712847,FALSE
+Saunders,EPN,Entopeduncular nucleus,Saunders|ENT_3-3,27,Zeng|5249,0.993228336,TRUE
+Saunders,EPN,Entopeduncular nucleus,Saunders|ENT_3-4,96,Zeng|5244,0.994975543,FALSE
+Saunders,EPN,Entopeduncular nucleus,Saunders|ENT_3-5,75,Zeng|5250,0.994932434,FALSE
+Saunders,EPN,Entopeduncular nucleus,Saunders|ENT_3-6,7,Zeng|5250,0.997919492,FALSE
+Saunders,EPN,Entopeduncular nucleus,Saunders|ENT_4-1,22,Zeng|1398,0.977354914,FALSE
+Saunders,EPN,Entopeduncular nucleus,Saunders|ENT_4-10,10,Zeng|2152,0.999565138,FALSE
+Saunders,EPN,Entopeduncular nucleus,Saunders|ENT_4-11,9,Zeng|3270,0.978894986,FALSE
+Saunders,EPN,Entopeduncular nucleus,Saunders|ENT_4-12,8,Zeng|585,0.99743422,FALSE
+Saunders,EPN,Entopeduncular nucleus,Saunders|ENT_4-2,74,Zeng|1784,0.997909919,FALSE
+Saunders,EPN,Entopeduncular nucleus,Saunders|ENT_4-3,70,Zeng|2732,0.99285242,FALSE
+Saunders,EPN,Entopeduncular nucleus,Saunders|ENT_4-4,283,Zeng|1459,0.979359406,FALSE
+Saunders,EPN,Entopeduncular nucleus,Saunders|ENT_4-5,44,Zeng|3478,0.991557516,FALSE
+Saunders,EPN,Entopeduncular nucleus,Saunders|ENT_4-6,306,Zeng|2226,0.996048957,TRUE
+Saunders,EPN,Entopeduncular nucleus,Saunders|ENT_4-7,233,Zeng|1688,0.986865911,FALSE
+Saunders,EPN,Entopeduncular nucleus,Saunders|ENT_4-8,71,Zeng|3506,0.98668922,TRUE
+Saunders,EPN,Entopeduncular nucleus,Saunders|ENT_4-9,50,Zeng|1659,0.992756611,FALSE
+Saunders,EPN,Entopeduncular nucleus,Saunders|ENT_5-1,71,Zeng|5216,0.997584676,FALSE
+Saunders,EPN,Entopeduncular nucleus,Saunders|ENT_5-2,87,Zeng|5220,0.998619843,FALSE
+Saunders,EPN,Entopeduncular nucleus,Saunders|ENT_5-3,60,Zeng|5222,0.996875398,FALSE
+Saunders,EPN,Entopeduncular nucleus,Saunders|ENT_6-1,272,Zeng|5206,0.990291682,FALSE
+Saunders,EPN,Entopeduncular nucleus,Saunders|ENT_7-1,50,Zeng|14885,0.970081861,FALSE
+Saunders,EPN,Entopeduncular nucleus,Saunders|ENT_7-2,288,Zeng|14962,0.979467394,FALSE
+Saunders,EPN,Entopeduncular nucleus,Saunders|ENT_8-1,56,Zeng|5217,0.899683297,FALSE
+Saunders,EPN,Entopeduncular nucleus,Saunders|ENT_8-2,100,Zeng|1346,0.92319873,FALSE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_1-1,658,Zeng|704,0.998012414,TRUE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_1-10,202,Zeng|624,0.997637753,FALSE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_1-11,193,Zeng|641,0.998764428,FALSE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_1-2,484,Zeng|702,0.99721908,FALSE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_1-3,100,Zeng|667,0.998529438,TRUE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_1-4,223,Zeng|626,0.9989753,FALSE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_1-5,376,Zeng|631,0.997830084,FALSE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_1-6,359,Zeng|616,0.997905138,FALSE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_1-7,118,Zeng|664,0.998904757,FALSE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_1-8,60,Zeng|713,0.99585249,TRUE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_1-9,145,Zeng|709,0.997546837,TRUE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_10-1,417,Zeng|5208,0.987108571,FALSE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_10-2,105,Zeng|1339,0.990823934,FALSE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_10-3,185,Zeng|5216,0.991349901,FALSE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_10-4,56,Zeng|5216,0.989825822,FALSE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_10-5,267,Zeng|5211,0.991794631,FALSE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_10-6,217,Zeng|5211,0.992330625,FALSE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_11-1,500,Zeng|5283,0.955214619,TRUE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_11-2,30,Zeng|2766,0.999135499,TRUE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_11-3,149,Zeng|5267,0.994179869,FALSE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_11-4,15,Zeng|5283,0.972184112,TRUE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_12-1,1490,Zeng|5252,0.965582929,FALSE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_12-2,71,Zeng|5257,0.979386361,FALSE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_12-3,1336,Zeng|5255,0.961970787,TRUE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_12-4,926,Zeng|5255,0.969120155,TRUE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_12-5,37,Zeng|5272,0.97040756,TRUE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_13-1,384,Zeng|5249,0.985234763,TRUE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_13-2,442,Zeng|5249,0.982163334,TRUE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_13-3,156,Zeng|5243,0.969359263,TRUE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_13-4,75,Zeng|5248,0.987022699,FALSE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_14-1,93,Zeng|5256,0.987021212,TRUE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_14-2,68,Zeng|5258,0.990047062,TRUE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_14-3,66,Zeng|5263,0.993249776,TRUE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_14-4,96,Zeng|5263,0.933948466,TRUE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_14-5,27,Zeng|5263,0.983889118,TRUE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_2-1,62,Zeng|767,0.999608139,TRUE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_2-10,148,Zeng|593,0.996559988,FALSE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_2-2,241,Zeng|508,0.997954311,FALSE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_2-3,131,Zeng|524,0.99782275,FALSE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_2-4,242,Zeng|556,0.997102154,TRUE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_2-5,224,Zeng|497,0.998762521,FALSE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_2-6,91,Zeng|614,0.998839243,TRUE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_2-7,533,Zeng|600,0.996653258,TRUE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_2-8,376,Zeng|599,0.997023364,FALSE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_2-9,442,Zeng|512,0.991708099,FALSE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_3-1,863,Zeng|70,0.983347383,TRUE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_3-10,192,Zeng|24,0.996478367,FALSE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_3-11,45,Zeng|71,0.993401959,TRUE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_3-12,678,Zeng|60,0.985524076,TRUE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_3-13,318,Zeng|62,0.983220272,FALSE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_3-2,188,Zeng|79,0.991862566,FALSE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_3-3,1451,Zeng|69,0.986260068,FALSE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_3-4,655,Zeng|57,0.98330049,FALSE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_3-5,177,Zeng|63,0.950823891,FALSE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_3-6,153,Zeng|57,0.991537455,FALSE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_3-7,1010,Zeng|67,0.99012756,FALSE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_3-8,610,Zeng|15,0.993531515,FALSE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_3-9,425,Zeng|15,0.986774626,FALSE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_4-1,1501,Zeng|78,0.998487923,FALSE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_4-2,71,Zeng|78,0.982117036,FALSE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_5-1,567,Zeng|130,0.999570832,FALSE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_6-1,15003,Zeng|233,0.975944588,FALSE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_6-2,325,Zeng|269,0.95684828,FALSE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_6-3,11719,Zeng|199,0.962429025,FALSE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_6-4,11549,Zeng|139,0.95460584,FALSE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_6-5,332,Zeng|112,0.93885496,FALSE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_6-6,2,Zeng|296,0.96381825,TRUE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_7-1,204,Zeng|389,0.957883409,FALSE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_7-2,200,Zeng|389,0.982592793,FALSE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_7-3,708,Zeng|380,0.976741393,FALSE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_7-4,22,Zeng|379,0.969025882,FALSE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_7-5,85,Zeng|326,0.97615793,TRUE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_7-6,1213,Zeng|402,0.979518806,FALSE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_7-7,129,Zeng|402,0.987486108,FALSE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_8-1,4132,Zeng|14947,0.95523274,FALSE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_8-2,690,Zeng|14933,0.965130653,TRUE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_9-1,778,Zeng|5236,0.940359062,FALSE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_9-2,87,Zeng|5222,0.985353779,FALSE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_9-3,435,Zeng|5216,0.872459942,FALSE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_9-4,1772,Zeng|5233,0.879983001,FALSE
+Saunders,Isocortex,Frontal cortex,Saunders|FC_9-5,734,Zeng|5232,0.894069082,TRUE
+Saunders,PAL,Global pallidus,Saunders|GP_1-1,145,Zeng|588,0.999081983,FALSE
+Saunders,PAL,Global pallidus,Saunders|GP_1-2,62,Zeng|583,0.993671744,FALSE
+Saunders,PAL,Global pallidus,Saunders|GP_10-1,4102,Zeng|5231,0.957160815,TRUE
+Saunders,PAL,Global pallidus,Saunders|GP_10-2,1482,Zeng|5232,0.98072329,TRUE
+Saunders,PAL,Global pallidus,Saunders|GP_10-3,1231,Zeng|5236,0.979531903,FALSE
+Saunders,PAL,Global pallidus,Saunders|GP_10-4,113,Zeng|5236,0.997350502,FALSE
+Saunders,PAL,Global pallidus,Saunders|GP_10-5,2650,Zeng|5233,0.952457886,FALSE
+Saunders,PAL,Global pallidus,Saunders|GP_10-6,761,Zeng|5231,0.930966557,TRUE
+Saunders,PAL,Global pallidus,Saunders|GP_11-1,198,Zeng|5283,0.999069685,TRUE
+Saunders,PAL,Global pallidus,Saunders|GP_11-2,122,Zeng|5267,0.997704015,FALSE
+Saunders,PAL,Global pallidus,Saunders|GP_2-1,74,Zeng|1814,0.998567372,TRUE
+Saunders,PAL,Global pallidus,Saunders|GP_2-10,44,Zeng|4874,0.983564728,TRUE
+Saunders,PAL,Global pallidus,Saunders|GP_2-11,95,Zeng|486,0.962883565,TRUE
+Saunders,PAL,Global pallidus,Saunders|GP_2-12,72,Zeng|298,0.986798292,TRUE
+Saunders,PAL,Global pallidus,Saunders|GP_2-13,396,Zeng|832,0.998241281,TRUE
+Saunders,PAL,Global pallidus,Saunders|GP_2-14,349,Zeng|8798,0.99300597,FALSE
+Saunders,PAL,Global pallidus,Saunders|GP_2-15,384,Zeng|830,0.975848233,FALSE
+Saunders,PAL,Global pallidus,Saunders|GP_2-16,212,Zeng|827,0.988206089,TRUE
+Saunders,PAL,Global pallidus,Saunders|GP_2-17,181,Zeng|831,0.995375227,TRUE
+Saunders,PAL,Global pallidus,Saunders|GP_2-18,121,Zeng|838,0.993062121,FALSE
+Saunders,PAL,Global pallidus,Saunders|GP_2-19,516,Zeng|1179,0.996748869,TRUE
+Saunders,PAL,Global pallidus,Saunders|GP_2-2,153,Zeng|2189,0.990655544,FALSE
+Saunders,PAL,Global pallidus,Saunders|GP_2-20,122,Zeng|1781,0.99539281,FALSE
+Saunders,PAL,Global pallidus,Saunders|GP_2-21,91,Zeng|657,0.981810183,TRUE
+Saunders,PAL,Global pallidus,Saunders|GP_2-22,19,Zeng|719,0.995649459,FALSE
+Saunders,PAL,Global pallidus,Saunders|GP_2-23,41,Zeng|1677,0.986671906,FALSE
+Saunders,PAL,Global pallidus,Saunders|GP_2-24,116,Zeng|572,0.991702307,TRUE
+Saunders,PAL,Global pallidus,Saunders|GP_2-25,82,Zeng|566,0.996815023,TRUE
+Saunders,PAL,Global pallidus,Saunders|GP_2-3,473,Zeng|1527,0.991308126,FALSE
+Saunders,PAL,Global pallidus,Saunders|GP_2-4,420,Zeng|1032,0.993919496,FALSE
+Saunders,PAL,Global pallidus,Saunders|GP_2-5,203,Zeng|759,0.99886372,TRUE
+Saunders,PAL,Global pallidus,Saunders|GP_2-6,154,Zeng|1247,0.978420641,FALSE
+Saunders,PAL,Global pallidus,Saunders|GP_2-7,149,Zeng|2293,0.986901006,FALSE
+Saunders,PAL,Global pallidus,Saunders|GP_2-8,284,Zeng|2750,0.994597246,FALSE
+Saunders,PAL,Global pallidus,Saunders|GP_2-9,228,Zeng|2698,0.994818479,FALSE
+Saunders,PAL,Global pallidus,Saunders|GP_3-1,1064,Zeng|1317,0.961237493,FALSE
+Saunders,PAL,Global pallidus,Saunders|GP_3-10,36,Zeng|1810,0.992234346,FALSE
+Saunders,PAL,Global pallidus,Saunders|GP_3-2,367,Zeng|1317,0.967173128,FALSE
+Saunders,PAL,Global pallidus,Saunders|GP_3-3,823,Zeng|1319,0.971164409,TRUE
+Saunders,PAL,Global pallidus,Saunders|GP_3-4,264,Zeng|1332,0.977631927,TRUE
+Saunders,PAL,Global pallidus,Saunders|GP_3-5,509,Zeng|1057,0.981506782,TRUE
+Saunders,PAL,Global pallidus,Saunders|GP_3-6,470,Zeng|1057,0.976878091,TRUE
+Saunders,PAL,Global pallidus,Saunders|GP_3-7,513,Zeng|1312,0.996758763,TRUE
+Saunders,PAL,Global pallidus,Saunders|GP_3-8,172,Zeng|1292,0.999519279,FALSE
+Saunders,PAL,Global pallidus,Saunders|GP_3-9,410,Zeng|1308,0.970116454,TRUE
+Saunders,PAL,Global pallidus,Saunders|GP_4-1,218,Zeng|5216,0.998975878,FALSE
+Saunders,PAL,Global pallidus,Saunders|GP_4-2,116,Zeng|5220,0.996870411,FALSE
+Saunders,PAL,Global pallidus,Saunders|GP_4-3,33,Zeng|5222,0.998934425,FALSE
+Saunders,PAL,Global pallidus,Saunders|GP_4-4,281,Zeng|5211,0.99828935,FALSE
+Saunders,PAL,Global pallidus,Saunders|GP_4-5,402,Zeng|5206,0.997696319,FALSE
+Saunders,PAL,Global pallidus,Saunders|GP_4-6,17,Zeng|5206,0.997323066,FALSE
+Saunders,PAL,Global pallidus,Saunders|GP_4-7,6,Zeng|5206,0.99594682,FALSE
+Saunders,PAL,Global pallidus,Saunders|GP_5-1,2433,Zeng|14956,0.989054808,FALSE
+Saunders,PAL,Global pallidus,Saunders|GP_5-2,2023,Zeng|14947,0.986805776,FALSE
+Saunders,PAL,Global pallidus,Saunders|GP_6-1,53,Zeng|14990,0.996740602,FALSE
+Saunders,PAL,Global pallidus,Saunders|GP_7-1,322,Zeng|5252,0.978380892,FALSE
+Saunders,PAL,Global pallidus,Saunders|GP_7-2,735,Zeng|5252,0.984447235,FALSE
+Saunders,PAL,Global pallidus,Saunders|GP_7-3,108,Zeng|5257,0.989685942,FALSE
+Saunders,PAL,Global pallidus,Saunders|GP_7-4,199,Zeng|5255,0.988037488,TRUE
+Saunders,PAL,Global pallidus,Saunders|GP_7-5,763,Zeng|5255,0.985099196,TRUE
+Saunders,PAL,Global pallidus,Saunders|GP_7-6,572,Zeng|5254,0.980709973,FALSE
+Saunders,PAL,Global pallidus,Saunders|GP_8-1,370,Zeng|5250,0.997031336,FALSE
+Saunders,PAL,Global pallidus,Saunders|GP_8-2,113,Zeng|5243,0.998790834,TRUE
+Saunders,PAL,Global pallidus,Saunders|GP_8-3,38,Zeng|5248,0.998356565,FALSE
+Saunders,PAL,Global pallidus,Saunders|GP_8-4,415,Zeng|5244,0.996366835,FALSE
+Saunders,PAL,Global pallidus,Saunders|GP_8-5,13,Zeng|5249,0.99543,TRUE
+Saunders,PAL,Global pallidus,Saunders|GP_9-1,74,Zeng|5261,0.991839794,FALSE
+Saunders,PAL,Global pallidus,Saunders|GP_9-2,77,Zeng|5261,0.999334126,FALSE
+Saunders,PAL,Global pallidus,Saunders|GP_9-3,60,Zeng|5263,0.998844327,TRUE
+Saunders,HPF,Hippocampus,Saunders|HC_1-1,108,Zeng|614,0.999504857,TRUE
+Saunders,HPF,Hippocampus,Saunders|HC_1-10,83,Zeng|527,0.998125954,FALSE
+Saunders,HPF,Hippocampus,Saunders|HC_1-11,134,Zeng|718,0.998991642,FALSE
+Saunders,HPF,Hippocampus,Saunders|HC_1-12,88,Zeng|719,0.998820534,FALSE
+Saunders,HPF,Hippocampus,Saunders|HC_1-13,85,Zeng|723,0.998296051,TRUE
+Saunders,HPF,Hippocampus,Saunders|HC_1-14,304,Zeng|729,0.999701208,TRUE
+Saunders,HPF,Hippocampus,Saunders|HC_1-15,171,Zeng|726,0.999365934,TRUE
+Saunders,HPF,Hippocampus,Saunders|HC_1-16,63,Zeng|686,0.999153569,TRUE
+Saunders,HPF,Hippocampus,Saunders|HC_1-17,179,Zeng|660,0.998603361,FALSE
+Saunders,HPF,Hippocampus,Saunders|HC_1-18,101,Zeng|647,0.999304859,FALSE
+Saunders,HPF,Hippocampus,Saunders|HC_1-19,42,Zeng|668,0.999508124,TRUE
+Saunders,HPF,Hippocampus,Saunders|HC_1-2,40,Zeng|727,0.999236825,TRUE
+Saunders,HPF,Hippocampus,Saunders|HC_1-20,84,Zeng|670,0.999587635,TRUE
+Saunders,HPF,Hippocampus,Saunders|HC_1-21,73,Zeng|645,0.999488855,TRUE
+Saunders,HPF,Hippocampus,Saunders|HC_1-22,86,Zeng|673,0.999363867,FALSE
+Saunders,HPF,Hippocampus,Saunders|HC_1-23,153,Zeng|685,0.999512444,FALSE
+Saunders,HPF,Hippocampus,Saunders|HC_1-24,148,Zeng|675,0.999249447,FALSE
+Saunders,HPF,Hippocampus,Saunders|HC_1-25,52,Zeng|690,0.999892781,FALSE
+Saunders,HPF,Hippocampus,Saunders|HC_1-26,101,Zeng|681,0.999299971,TRUE
+Saunders,HPF,Hippocampus,Saunders|HC_1-27,49,Zeng|697,0.999059392,TRUE
+Saunders,HPF,Hippocampus,Saunders|HC_1-3,31,Zeng|536,0.999515353,TRUE
+Saunders,HPF,Hippocampus,Saunders|HC_1-4,160,Zeng|538,0.99902254,TRUE
+Saunders,HPF,Hippocampus,Saunders|HC_1-5,101,Zeng|514,0.997701235,FALSE
+Saunders,HPF,Hippocampus,Saunders|HC_1-6,244,Zeng|593,0.997771074,FALSE
+Saunders,HPF,Hippocampus,Saunders|HC_1-7,111,Zeng|612,0.997577523,TRUE
+Saunders,HPF,Hippocampus,Saunders|HC_1-8,105,Zeng|558,0.998598142,FALSE
+Saunders,HPF,Hippocampus,Saunders|HC_1-9,139,Zeng|544,0.999077537,TRUE
+Saunders,HPF,Hippocampus,Saunders|HC_10-1,467,Zeng|5283,0.995061183,TRUE
+Saunders,HPF,Hippocampus,Saunders|HC_10-2,78,Zeng|5267,0.997535666,FALSE
+Saunders,HPF,Hippocampus,Saunders|HC_11-1,337,Zeng|14881,0.999347233,FALSE
+Saunders,HPF,Hippocampus,Saunders|HC_12-1,44,Zeng|14985,0.999689361,FALSE
+Saunders,HPF,Hippocampus,Saunders|HC_13-1,75,Zeng|1363,0.998043336,FALSE
+Saunders,HPF,Hippocampus,Saunders|HC_13-2,110,Zeng|1360,0.997702285,FALSE
+Saunders,HPF,Hippocampus,Saunders|HC_13-3,41,Zeng|1363,0.99782105,FALSE
+Saunders,HPF,Hippocampus,Saunders|HC_13-4,21,Zeng|1361,0.999264489,TRUE
+Saunders,HPF,Hippocampus,Saunders|HC_13-5,130,Zeng|1406,0.997131606,TRUE
+Saunders,HPF,Hippocampus,Saunders|HC_13-6,81,Zeng|1371,0.999666272,TRUE
+Saunders,HPF,Hippocampus,Saunders|HC_14-1,672,Zeng|2763,0.99536385,FALSE
+Saunders,HPF,Hippocampus,Saunders|HC_15-1,1816,Zeng|5255,0.979228337,TRUE
+Saunders,HPF,Hippocampus,Saunders|HC_15-2,87,Zeng|5277,0.986813302,TRUE
+Saunders,HPF,Hippocampus,Saunders|HC_16-1,332,Zeng|5250,0.992234422,FALSE
+Saunders,HPF,Hippocampus,Saunders|HC_16-2,222,Zeng|5244,0.991332831,FALSE
+Saunders,HPF,Hippocampus,Saunders|HC_16-3,118,Zeng|5243,0.991093068,TRUE
+Saunders,HPF,Hippocampus,Saunders|HC_16-4,33,Zeng|5248,0.995902222,FALSE
+Saunders,HPF,Hippocampus,Saunders|HC_17-1,148,Zeng|5263,0.997858894,TRUE
+Saunders,HPF,Hippocampus,Saunders|HC_17-2,19,Zeng|5260,0.998867683,TRUE
+Saunders,HPF,Hippocampus,Saunders|HC_17-3,69,Zeng|5261,0.997218764,FALSE
+Saunders,HPF,Hippocampus,Saunders|HC_17-4,60,Zeng|5261,0.998151885,FALSE
+Saunders,HPF,Hippocampus,Saunders|HC_2-1,196,Zeng|255,0.998586146,FALSE
+Saunders,HPF,Hippocampus,Saunders|HC_2-2,187,Zeng|1,0.999723132,TRUE
+Saunders,HPF,Hippocampus,Saunders|HC_2-3,150,Zeng|4,0.999480402,TRUE
+Saunders,HPF,Hippocampus,Saunders|HC_2-4,105,Zeng|4,0.979482275,TRUE
+Saunders,HPF,Hippocampus,Saunders|HC_2-5,854,Zeng|310,0.997447088,FALSE
+Saunders,HPF,Hippocampus,Saunders|HC_2-6,864,Zeng|313,0.996653598,FALSE
+Saunders,HPF,Hippocampus,Saunders|HC_2-7,731,Zeng|313,0.997200404,FALSE
+Saunders,HPF,Hippocampus,Saunders|HC_3-1,107,Zeng|41,0.999933318,FALSE
+Saunders,HPF,Hippocampus,Saunders|HC_3-10,398,Zeng|44,0.997375928,FALSE
+Saunders,HPF,Hippocampus,Saunders|HC_3-11,57,Zeng|40,0.939085515,FALSE
+Saunders,HPF,Hippocampus,Saunders|HC_3-2,269,Zeng|96,0.998381464,TRUE
+Saunders,HPF,Hippocampus,Saunders|HC_3-3,240,Zeng|93,0.999452747,TRUE
+Saunders,HPF,Hippocampus,Saunders|HC_3-4,15,Zeng|54,0.996020271,TRUE
+Saunders,HPF,Hippocampus,Saunders|HC_3-5,27,Zeng|55,0.986687181,FALSE
+Saunders,HPF,Hippocampus,Saunders|HC_3-6,549,Zeng|55,0.987672728,FALSE
+Saunders,HPF,Hippocampus,Saunders|HC_3-7,379,Zeng|55,0.993416017,FALSE
+Saunders,HPF,Hippocampus,Saunders|HC_3-8,131,Zeng|51,0.997863733,FALSE
+Saunders,HPF,Hippocampus,Saunders|HC_3-9,51,Zeng|43,0.999546949,TRUE
+Saunders,HPF,Hippocampus,Saunders|HC_4-1,11727,Zeng|1405,0.999119361,TRUE
+Saunders,HPF,Hippocampus,Saunders|HC_4-2,1538,Zeng|1400,0.984274012,FALSE
+Saunders,HPF,Hippocampus,Saunders|HC_5-1,3088,Zeng|358,0.992485368,TRUE
+Saunders,HPF,Hippocampus,Saunders|HC_5-10,56,Zeng|247,0.998834137,TRUE
+Saunders,HPF,Hippocampus,Saunders|HC_5-11,787,Zeng|305,0.998650554,FALSE
+Saunders,HPF,Hippocampus,Saunders|HC_5-12,80,Zeng|307,0.999021697,FALSE
+Saunders,HPF,Hippocampus,Saunders|HC_5-13,43,Zeng|326,0.99980667,TRUE
+Saunders,HPF,Hippocampus,Saunders|HC_5-14,689,Zeng|373,0.995349617,TRUE
+Saunders,HPF,Hippocampus,Saunders|HC_5-15,327,Zeng|337,0.999647693,FALSE
+Saunders,HPF,Hippocampus,Saunders|HC_5-2,500,Zeng|330,0.990038821,TRUE
+Saunders,HPF,Hippocampus,Saunders|HC_5-3,621,Zeng|331,0.989965224,TRUE
+Saunders,HPF,Hippocampus,Saunders|HC_5-4,588,Zeng|325,0.988649341,FALSE
+Saunders,HPF,Hippocampus,Saunders|HC_5-5,74,Zeng|324,0.983922709,TRUE
+Saunders,HPF,Hippocampus,Saunders|HC_5-6,1556,Zeng|352,0.986196862,TRUE
+Saunders,HPF,Hippocampus,Saunders|HC_5-7,406,Zeng|346,0.986712788,TRUE
+Saunders,HPF,Hippocampus,Saunders|HC_5-8,144,Zeng|346,0.965523328,TRUE
+Saunders,HPF,Hippocampus,Saunders|HC_5-9,156,Zeng|325,0.987789111,FALSE
+Saunders,HPF,Hippocampus,Saunders|HC_6-1,5063,Zeng|421,0.997896577,TRUE
+Saunders,HPF,Hippocampus,Saunders|HC_6-2,243,Zeng|423,0.984518464,FALSE
+Saunders,HPF,Hippocampus,Saunders|HC_6-3,649,Zeng|426,0.993301225,TRUE
+Saunders,HPF,Hippocampus,Saunders|HC_6-4,330,Zeng|297,0.998808267,TRUE
+Saunders,HPF,Hippocampus,Saunders|HC_6-5,114,Zeng|414,0.99688408,TRUE
+Saunders,HPF,Hippocampus,Saunders|HC_6-6,416,Zeng|417,0.996786437,TRUE
+Saunders,HPF,Hippocampus,Saunders|HC_6-7,246,Zeng|419,0.991923469,FALSE
+Saunders,HPF,Hippocampus,Saunders|HC_6-8,71,Zeng|417,0.988132958,TRUE
+Saunders,HPF,Hippocampus,Saunders|HC_7-1,6767,Zeng|14851,0.98971214,FALSE
+Saunders,HPF,Hippocampus,Saunders|HC_7-2,491,Zeng|14872,0.985718689,FALSE
+Saunders,HPF,Hippocampus,Saunders|HC_7-3,245,Zeng|14925,0.987882913,FALSE
+Saunders,HPF,Hippocampus,Saunders|HC_8-1,556,Zeng|5232,0.918707642,TRUE
+Saunders,HPF,Hippocampus,Saunders|HC_8-2,227,Zeng|5231,0.891291623,TRUE
+Saunders,HPF,Hippocampus,Saunders|HC_8-3,1100,Zeng|5233,0.906907294,FALSE
+Saunders,HPF,Hippocampus,Saunders|HC_8-4,292,Zeng|5236,0.950340801,FALSE
+Saunders,HPF,Hippocampus,Saunders|HC_8-5,21,Zeng|5222,0.991794672,FALSE
+Saunders,HPF,Hippocampus,Saunders|HC_9-1,208,Zeng|5216,0.993260379,FALSE
+Saunders,HPF,Hippocampus,Saunders|HC_9-2,155,Zeng|5211,0.994460956,FALSE
+Saunders,HPF,Hippocampus,Saunders|HC_9-3,387,Zeng|5205,0.993982837,FALSE
+Saunders,HPF,Hippocampus,Saunders|HC_9-4,296,Zeng|5205,0.995532125,FALSE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_1-1,187,Zeng|25,0.994387446,FALSE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_1-2,31,Zeng|38,0.999091087,TRUE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_1-3,318,Zeng|53,0.985267444,FALSE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_1-4,1043,Zeng|66,0.977307973,FALSE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_1-5,123,Zeng|44,0.993230579,FALSE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_1-6,77,Zeng|57,0.98077821,FALSE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_1-7,444,Zeng|58,0.98081761,FALSE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_1-8,1253,Zeng|72,0.988079867,TRUE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_1-9,431,Zeng|72,0.985547728,TRUE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_10-1,311,Zeng|5205,0.987431276,FALSE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_10-2,43,Zeng|1363,0.991187223,FALSE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_10-3,142,Zeng|5216,0.9846478,FALSE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_10-4,82,Zeng|5211,0.990597611,FALSE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_11-1,338,Zeng|5283,0.891869059,TRUE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_11-2,102,Zeng|5267,0.959627826,FALSE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_11-3,9,Zeng|5283,0.996188027,TRUE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_11-4,4,Zeng|5283,0.998291312,TRUE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_12-1,528,Zeng|5255,0.961531055,TRUE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_12-2,267,Zeng|5255,0.973434829,TRUE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_12-3,714,Zeng|5252,0.962531329,FALSE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_12-4,177,Zeng|5252,0.974419222,FALSE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_13-1,185,Zeng|5249,0.986034341,TRUE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_13-2,13,Zeng|5250,0.996978882,FALSE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_13-3,151,Zeng|5244,0.981752821,FALSE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_13-4,61,Zeng|5243,0.990181238,TRUE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_13-5,32,Zeng|5248,0.983582131,FALSE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_14-1,130,Zeng|5256,0.942660921,TRUE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_14-2,53,Zeng|5258,0.952144067,TRUE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_14-3,56,Zeng|5260,0.993093132,TRUE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_14-4,107,Zeng|5260,0.990260699,TRUE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_14-5,45,Zeng|5261,0.997479808,FALSE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_2-1,1682,Zeng|179,0.941688689,FALSE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_2-10,3238,Zeng|188,0.967820149,TRUE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_2-11,2577,Zeng|201,0.951757509,FALSE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_2-12,268,Zeng|307,0.943457329,FALSE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_2-13,1858,Zeng|169,0.952978027,FALSE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_2-14,1093,Zeng|203,0.946807442,FALSE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_2-15,128,Zeng|130,0.995720837,FALSE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_2-16,594,Zeng|201,0.875529281,FALSE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_2-17,2117,Zeng|155,0.967400782,FALSE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_2-18,655,Zeng|193,0.954382201,FALSE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_2-2,984,Zeng|5,0.946659391,FALSE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_2-3,203,Zeng|4,0.974217542,TRUE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_2-4,527,Zeng|235,0.944402367,FALSE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_2-5,4489,Zeng|233,0.950269135,FALSE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_2-6,1458,Zeng|230,0.957020424,FALSE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_2-7,791,Zeng|235,0.971668183,FALSE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_2-8,85,Zeng|9,0.937244468,FALSE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_2-9,1664,Zeng|190,0.968865618,FALSE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_3-1,534,Zeng|412,0.997444316,FALSE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_3-10,221,Zeng|399,0.995075482,FALSE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_3-2,177,Zeng|394,0.998523951,FALSE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_3-3,287,Zeng|326,0.993861182,TRUE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_3-4,491,Zeng|404,0.988728304,FALSE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_3-5,208,Zeng|407,0.977574177,FALSE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_3-6,18,Zeng|340,0.999576819,FALSE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_3-7,12,Zeng|326,0.999674343,TRUE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_3-8,117,Zeng|326,0.988839453,TRUE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_3-9,222,Zeng|399,0.992345676,FALSE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_4-1,330,Zeng|702,0.997291227,FALSE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_4-2,203,Zeng|704,0.997807166,TRUE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_4-3,124,Zeng|709,0.996379047,TRUE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_4-4,75,Zeng|624,0.997469943,FALSE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_4-5,72,Zeng|641,0.998910048,FALSE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_4-6,46,Zeng|667,0.999086394,TRUE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_4-7,113,Zeng|626,0.999122815,FALSE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_4-8,284,Zeng|631,0.998190732,FALSE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_4-9,201,Zeng|617,0.997189297,FALSE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_5-1,25,Zeng|614,0.997126485,TRUE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_5-2,387,Zeng|599,0.996152634,FALSE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_5-3,334,Zeng|596,0.993312049,FALSE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_5-4,32,Zeng|558,0.995300505,FALSE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_5-5,117,Zeng|554,0.995711289,TRUE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_5-6,314,Zeng|521,0.996544959,TRUE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_5-7,59,Zeng|496,0.99837234,FALSE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_6-1,1885,Zeng|315,0.998704835,FALSE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_6-2,47,Zeng|315,0.993585331,FALSE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_6-3,173,Zeng|11,0.998291465,TRUE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_6-4,90,Zeng|317,0.993178567,TRUE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_6-5,690,Zeng|312,0.989709478,TRUE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_6-6,753,Zeng|315,0.981044772,FALSE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_6-7,149,Zeng|309,0.973040655,FALSE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_7-1,222,Zeng|81,0.997527691,FALSE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_7-2,281,Zeng|86,0.996815781,FALSE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_7-3,93,Zeng|83,0.989503737,FALSE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_8-1,2085,Zeng|14947,0.961486941,FALSE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_8-2,826,Zeng|14933,0.967612982,TRUE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_8-3,505,Zeng|1368,0.961520127,FALSE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_9-1,295,Zeng|5216,0.949096759,FALSE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_9-2,28,Zeng|5220,0.996474945,FALSE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_9-3,281,Zeng|5232,0.909138843,TRUE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_9-4,928,Zeng|5233,0.88670452,FALSE
+Saunders,Isocortex,Posterior cortex,Saunders|PC_9-5,144,Zeng|5217,0.866144802,FALSE
+Saunders,SN,Substantia nigra,Saunders|SN_1-1,73,Zeng|1406,0.971790836,TRUE
+Saunders,SN,Substantia nigra,Saunders|SN_10-1,3681,Zeng|5232,0.951774576,TRUE
+Saunders,SN,Substantia nigra,Saunders|SN_10-2,1060,Zeng|5232,0.974075622,TRUE
+Saunders,SN,Substantia nigra,Saunders|SN_10-3,533,Zeng|5213,0.913383662,FALSE
+Saunders,SN,Substantia nigra,Saunders|SN_10-4,3603,Zeng|5233,0.934589656,FALSE
+Saunders,SN,Substantia nigra,Saunders|SN_10-5,481,Zeng|5236,0.980415587,FALSE
+Saunders,SN,Substantia nigra,Saunders|SN_11-1,354,Zeng|1346,0.94866702,FALSE
+Saunders,SN,Substantia nigra,Saunders|SN_12-1,811,Zeng|5275,0.979899768,TRUE
+Saunders,SN,Substantia nigra,Saunders|SN_12-2,31,Zeng|5256,0.985182419,TRUE
+Saunders,SN,Substantia nigra,Saunders|SN_12-3,888,Zeng|5275,0.975552762,TRUE
+Saunders,SN,Substantia nigra,Saunders|SN_12-4,352,Zeng|5272,0.982912121,TRUE
+Saunders,SN,Substantia nigra,Saunders|SN_13-1,222,Zeng|5244,0.993064446,FALSE
+Saunders,SN,Substantia nigra,Saunders|SN_13-2,35,Zeng|5243,0.997762683,TRUE
+Saunders,SN,Substantia nigra,Saunders|SN_13-3,335,Zeng|5250,0.993951079,FALSE
+Saunders,SN,Substantia nigra,Saunders|SN_13-4,110,Zeng|5250,0.997549496,FALSE
+Saunders,SN,Substantia nigra,Saunders|SN_13-5,57,Zeng|5250,0.997573834,FALSE
+Saunders,SN,Substantia nigra,Saunders|SN_14-1,98,Zeng|5261,0.995501793,FALSE
+Saunders,SN,Substantia nigra,Saunders|SN_14-2,55,Zeng|5261,0.991359677,FALSE
+Saunders,SN,Substantia nigra,Saunders|SN_14-3,11,Zeng|5260,0.997716903,TRUE
+Saunders,SN,Substantia nigra,Saunders|SN_2-1,297,Zeng|5069,0.934495171,FALSE
+Saunders,SN,Substantia nigra,Saunders|SN_3-1,108,Zeng|3260,0.975580243,FALSE
+Saunders,SN,Substantia nigra,Saunders|SN_3-10,641,Zeng|2522,0.976520493,FALSE
+Saunders,SN,Substantia nigra,Saunders|SN_3-11,192,Zeng|4800,0.99498642,TRUE
+Saunders,SN,Substantia nigra,Saunders|SN_3-12,253,Zeng|3776,0.992491815,TRUE
+Saunders,SN,Substantia nigra,Saunders|SN_3-13,453,Zeng|3314,0.992194914,TRUE
+Saunders,SN,Substantia nigra,Saunders|SN_3-14,315,Zeng|3407,0.988501022,TRUE
+Saunders,SN,Substantia nigra,Saunders|SN_3-15,378,Zeng|24588,0.99060053,TRUE
+Saunders,SN,Substantia nigra,Saunders|SN_3-16,128,Zeng|8958,0.982781828,FALSE
+Saunders,SN,Substantia nigra,Saunders|SN_3-17,80,Zeng|9281,0.992909328,FALSE
+Saunders,SN,Substantia nigra,Saunders|SN_3-18,437,Zeng|3377,0.989900132,TRUE
+Saunders,SN,Substantia nigra,Saunders|SN_3-19,86,Zeng|3445,0.989128767,TRUE
+Saunders,SN,Substantia nigra,Saunders|SN_3-2,70,Zeng|3591,0.99964063,FALSE
+Saunders,SN,Substantia nigra,Saunders|SN_3-3,875,Zeng|1755,0.981922838,TRUE
+Saunders,SN,Substantia nigra,Saunders|SN_3-4,46,Zeng|3478,0.998304451,FALSE
+Saunders,SN,Substantia nigra,Saunders|SN_3-5,27,Zeng|3384,0.999308014,FALSE
+Saunders,SN,Substantia nigra,Saunders|SN_3-6,144,Zeng|2353,0.986705224,FALSE
+Saunders,SN,Substantia nigra,Saunders|SN_3-7,121,Zeng|2416,0.989355174,FALSE
+Saunders,SN,Substantia nigra,Saunders|SN_3-8,52,Zeng|2155,0.974132795,FALSE
+Saunders,SN,Substantia nigra,Saunders|SN_3-9,135,Zeng|5146,0.996556462,FALSE
+Saunders,SN,Substantia nigra,Saunders|SN_4-1,98,Zeng|2395,0.999417218,TRUE
+Saunders,SN,Substantia nigra,Saunders|SN_4-2,55,Zeng|2410,0.999420103,FALSE
+Saunders,SN,Substantia nigra,Saunders|SN_4-3,87,Zeng|2401,0.99949176,FALSE
+Saunders,SN,Substantia nigra,Saunders|SN_4-4,63,Zeng|2392,0.999106361,FALSE
+Saunders,SN,Substantia nigra,Saunders|SN_4-5,108,Zeng|2415,0.998966907,FALSE
+Saunders,SN,Substantia nigra,Saunders|SN_4-6,11,Zeng|2415,0.998931112,FALSE
+Saunders,SN,Substantia nigra,Saunders|SN_4-7,116,Zeng|2415,0.998538098,FALSE
+Saunders,SN,Substantia nigra,Saunders|SN_4-8,166,Zeng|2407,0.998939827,FALSE
+Saunders,SN,Substantia nigra,Saunders|SN_4-9,159,Zeng|2407,0.999242385,FALSE
+Saunders,SN,Substantia nigra,Saunders|SN_5-1,77,Zeng|5211,0.998128176,FALSE
+Saunders,SN,Substantia nigra,Saunders|SN_5-2,115,Zeng|5217,0.997839546,FALSE
+Saunders,SN,Substantia nigra,Saunders|SN_5-3,72,Zeng|5222,0.99765327,FALSE
+Saunders,SN,Substantia nigra,Saunders|SN_6-1,40,Zeng|5207,0.987630416,FALSE
+Saunders,SN,Substantia nigra,Saunders|SN_6-2,108,Zeng|5206,0.994021082,FALSE
+Saunders,SN,Substantia nigra,Saunders|SN_7-1,134,Zeng|14876,0.990500969,FALSE
+Saunders,SN,Substantia nigra,Saunders|SN_7-2,1146,Zeng|14885,0.97994173,FALSE
+Saunders,SN,Substantia nigra,Saunders|SN_7-3,31,Zeng|14965,0.968160394,TRUE
+Saunders,SN,Substantia nigra,Saunders|SN_8-1,48,Zeng|14877,0.988823845,FALSE
+Saunders,SN,Substantia nigra,Saunders|SN_9-1,80,Zeng|5267,0.9662867,FALSE
+Saunders,SN,Substantia nigra,Saunders|SN_9-2,20,Zeng|5283,0.998125471,TRUE
+Saunders,STR,Striatum,Saunders|STR_1-1,514,Zeng|14993,0.98166007,FALSE
+Saunders,STR,Striatum,Saunders|STR_10-1,738,Zeng|1070,0.965493256,FALSE
+Saunders,STR,Striatum,Saunders|STR_10-2,1856,Zeng|1269,0.96769062,FALSE
+Saunders,STR,Striatum,Saunders|STR_10-3,605,Zeng|1809,0.977923756,FALSE
+Saunders,STR,Striatum,Saunders|STR_10-4,11252,Zeng|1072,0.983524239,FALSE
+Saunders,STR,Striatum,Saunders|STR_10-5,292,Zeng|1094,0.985462571,FALSE
+Saunders,STR,Striatum,Saunders|STR_11-1,9792,Zeng|1089,0.977829307,TRUE
+Saunders,STR,Striatum,Saunders|STR_11-2,1806,Zeng|1278,0.965528818,FALSE
+Saunders,STR,Striatum,Saunders|STR_11-3,519,Zeng|1078,0.964143443,TRUE
+Saunders,STR,Striatum,Saunders|STR_12-1,320,Zeng|584,0.971390571,TRUE
+Saunders,STR,Striatum,Saunders|STR_13-1,321,Zeng|1262,0.98803337,TRUE
+Saunders,STR,Striatum,Saunders|STR_13-10,53,Zeng|1256,0.996255971,FALSE
+Saunders,STR,Striatum,Saunders|STR_13-11,6,Zeng|1254,0.988434857,FALSE
+Saunders,STR,Striatum,Saunders|STR_13-2,274,Zeng|1254,0.988750355,FALSE
+Saunders,STR,Striatum,Saunders|STR_13-3,189,Zeng|1255,0.984861121,TRUE
+Saunders,STR,Striatum,Saunders|STR_13-4,212,Zeng|1085,0.981907654,FALSE
+Saunders,STR,Striatum,Saunders|STR_13-5,88,Zeng|1301,0.963099802,FALSE
+Saunders,STR,Striatum,Saunders|STR_13-6,11,Zeng|1340,0.973226727,FALSE
+Saunders,STR,Striatum,Saunders|STR_13-7,25,Zeng|38,0.980971082,TRUE
+Saunders,STR,Striatum,Saunders|STR_13-8,19,Zeng|117,0.961231829,FALSE
+Saunders,STR,Striatum,Saunders|STR_13-9,118,Zeng|891,0.984450405,FALSE
+Saunders,STR,Striatum,Saunders|STR_14-1,462,Zeng|573,0.999505894,FALSE
+Saunders,STR,Striatum,Saunders|STR_14-2,15,Zeng|704,0.999037556,TRUE
+Saunders,STR,Striatum,Saunders|STR_14-3,107,Zeng|573,0.998046713,FALSE
+Saunders,STR,Striatum,Saunders|STR_14-4,102,Zeng|581,0.997833682,FALSE
+Saunders,STR,Striatum,Saunders|STR_15-1,239,Zeng|765,0.999687709,FALSE
+Saunders,STR,Striatum,Saunders|STR_2-1,139,Zeng|1341,0.997257563,FALSE
+Saunders,STR,Striatum,Saunders|STR_2-2,78,Zeng|1361,0.999470228,TRUE
+Saunders,STR,Striatum,Saunders|STR_2-3,128,Zeng|1369,0.998670662,TRUE
+Saunders,STR,Striatum,Saunders|STR_2-4,69,Zeng|1347,0.99901938,TRUE
+Saunders,STR,Striatum,Saunders|STR_2-5,189,Zeng|1369,0.997151512,TRUE
+Saunders,STR,Striatum,Saunders|STR_2-6,53,Zeng|1366,0.994613357,FALSE
+Saunders,STR,Striatum,Saunders|STR_3-1,383,Zeng|5232,0.922194505,TRUE
+Saunders,STR,Striatum,Saunders|STR_3-2,1067,Zeng|5217,0.885804881,FALSE
+Saunders,STR,Striatum,Saunders|STR_3-3,215,Zeng|5236,0.963663778,FALSE
+Saunders,STR,Striatum,Saunders|STR_4-1,1676,Zeng|14851,0.962420511,FALSE
+Saunders,STR,Striatum,Saunders|STR_4-2,450,Zeng|14930,0.958769497,FALSE
+Saunders,STR,Striatum,Saunders|STR_4-3,201,Zeng|14998,0.956159849,FALSE
+Saunders,STR,Striatum,Saunders|STR_5-1,344,Zeng|5205,0.992291219,FALSE
+Saunders,STR,Striatum,Saunders|STR_5-2,105,Zeng|5211,0.992341677,FALSE
+Saunders,STR,Striatum,Saunders|STR_5-3,76,Zeng|5216,0.991710451,FALSE
+Saunders,STR,Striatum,Saunders|STR_5-4,13,Zeng|5216,0.983472073,FALSE
+Saunders,STR,Striatum,Saunders|STR_6-1,38,Zeng|5267,0.994449915,FALSE
+Saunders,STR,Striatum,Saunders|STR_6-2,388,Zeng|5283,0.982143432,TRUE
+Saunders,STR,Striatum,Saunders|STR_7-1,500,Zeng|5255,0.965731977,TRUE
+Saunders,STR,Striatum,Saunders|STR_7-2,258,Zeng|5252,0.969776272,FALSE
+Saunders,STR,Striatum,Saunders|STR_8-1,89,Zeng|5249,0.986840594,TRUE
+Saunders,STR,Striatum,Saunders|STR_8-2,77,Zeng|5250,0.986536251,FALSE
+Saunders,STR,Striatum,Saunders|STR_8-3,118,Zeng|5244,0.98014561,FALSE
+Saunders,STR,Striatum,Saunders|STR_8-4,80,Zeng|5243,0.987070049,TRUE
+Saunders,STR,Striatum,Saunders|STR_8-5,27,Zeng|5248,0.979069821,FALSE
+Saunders,STR,Striatum,Saunders|STR_9-1,220,Zeng|5261,0.926635552,FALSE
+Saunders,TH,Thalamus,Saunders|TH_1-1,114,Zeng|2892,0.999943757,FALSE
+Saunders,TH,Thalamus,Saunders|TH_1-2,171,Zeng|2882,0.999887022,TRUE
+Saunders,TH,Thalamus,Saunders|TH_1-3,188,Zeng|2888,0.999643907,FALSE
+Saunders,TH,Thalamus,Saunders|TH_1-4,26,Zeng|2910,0.999534624,TRUE
+Saunders,TH,Thalamus,Saunders|TH_10-1,753,Zeng|14991,0.991226205,FALSE
+Saunders,TH,Thalamus,Saunders|TH_11-1,71,Zeng|14885,0.988448352,FALSE
+Saunders,TH,Thalamus,Saunders|TH_11-2,901,Zeng|14962,0.973984245,FALSE
+Saunders,TH,Thalamus,Saunders|TH_12-1,113,Zeng|5217,0.998670621,FALSE
+Saunders,TH,Thalamus,Saunders|TH_12-2,108,Zeng|5218,0.996410464,FALSE
+Saunders,TH,Thalamus,Saunders|TH_12-3,159,Zeng|5211,0.996299854,FALSE
+Saunders,TH,Thalamus,Saunders|TH_12-4,53,Zeng|5206,0.995886845,FALSE
+Saunders,TH,Thalamus,Saunders|TH_2-1,722,Zeng|5024,0.991169335,FALSE
+Saunders,TH,Thalamus,Saunders|TH_2-10,4066,Zeng|5060,0.98777723,FALSE
+Saunders,TH,Thalamus,Saunders|TH_2-11,3900,Zeng|5067,0.99383165,FALSE
+Saunders,TH,Thalamus,Saunders|TH_2-2,1544,Zeng|5098,0.991677149,TRUE
+Saunders,TH,Thalamus,Saunders|TH_2-3,661,Zeng|5104,0.990008024,TRUE
+Saunders,TH,Thalamus,Saunders|TH_2-4,1181,Zeng|5023,0.988938586,FALSE
+Saunders,TH,Thalamus,Saunders|TH_2-5,151,Zeng|5020,0.991084003,TRUE
+Saunders,TH,Thalamus,Saunders|TH_2-6,680,Zeng|5056,0.982993054,FALSE
+Saunders,TH,Thalamus,Saunders|TH_2-7,321,Zeng|5118,0.994672835,FALSE
+Saunders,TH,Thalamus,Saunders|TH_2-8,1781,Zeng|5051,0.98587948,TRUE
+Saunders,TH,Thalamus,Saunders|TH_2-9,332,Zeng|5028,0.983805677,FALSE
+Saunders,TH,Thalamus,Saunders|TH_3-1,316,Zeng|1791,0.996520811,TRUE
+Saunders,TH,Thalamus,Saunders|TH_3-10,247,Zeng|4725,0.997109775,FALSE
+Saunders,TH,Thalamus,Saunders|TH_3-11,69,Zeng|3434,0.990194787,FALSE
+Saunders,TH,Thalamus,Saunders|TH_3-2,181,Zeng|1784,0.99881188,FALSE
+Saunders,TH,Thalamus,Saunders|TH_3-3,441,Zeng|1688,0.990952583,FALSE
+Saunders,TH,Thalamus,Saunders|TH_3-4,159,Zeng|2226,0.99841114,TRUE
+Saunders,TH,Thalamus,Saunders|TH_3-5,198,Zeng|3585,0.999962135,FALSE
+Saunders,TH,Thalamus,Saunders|TH_3-6,204,Zeng|3432,0.991542691,TRUE
+Saunders,TH,Thalamus,Saunders|TH_3-7,197,Zeng|2335,0.994218523,FALSE
+Saunders,TH,Thalamus,Saunders|TH_3-8,692,Zeng|3260,0.984465299,FALSE
+Saunders,TH,Thalamus,Saunders|TH_3-9,226,Zeng|4837,0.982855448,TRUE
+Saunders,TH,Thalamus,Saunders|TH_4-1,1473,Zeng|5252,0.979821927,FALSE
+Saunders,TH,Thalamus,Saunders|TH_4-2,23,Zeng|5276,0.979027844,TRUE
+Saunders,TH,Thalamus,Saunders|TH_4-3,2290,Zeng|5254,0.97895337,FALSE
+Saunders,TH,Thalamus,Saunders|TH_4-4,315,Zeng|5272,0.983161345,TRUE
+Saunders,TH,Thalamus,Saunders|TH_5-1,494,Zeng|5249,0.993193581,TRUE
+Saunders,TH,Thalamus,Saunders|TH_5-2,473,Zeng|5244,0.992935651,FALSE
+Saunders,TH,Thalamus,Saunders|TH_6-1,111,Zeng|5261,0.994207068,FALSE
+Saunders,TH,Thalamus,Saunders|TH_6-2,92,Zeng|5261,0.994828867,FALSE
+Saunders,TH,Thalamus,Saunders|TH_7-1,85,Zeng|5267,0.991796965,FALSE
+Saunders,TH,Thalamus,Saunders|TH_7-2,116,Zeng|5283,0.89900427,TRUE
+Saunders,TH,Thalamus,Saunders|TH_8-1,1556,Zeng|5232,0.969903408,TRUE
+Saunders,TH,Thalamus,Saunders|TH_8-2,11530,Zeng|5231,0.943627566,TRUE
+Saunders,TH,Thalamus,Saunders|TH_8-3,871,Zeng|5236,0.979535302,FALSE
+Saunders,TH,Thalamus,Saunders|TH_8-4,486,Zeng|5231,0.916814901,TRUE
+Saunders,TH,Thalamus,Saunders|TH_9-1,319,Zeng|1346,0.907563813,FALSE
+Sepp,CB,Cerebellum,Sepp|astroglia,159,Zeng|14876,0.973291494,FALSE
+Sepp,CB,Cerebellum,Sepp|erythroid,2,Zeng|1339,0.998617868,FALSE
+Sepp,CB,Cerebellum,Sepp|GABA_DN,6,Zeng|2529,0.997806047,TRUE
+Sepp,CB,Cerebellum,Sepp|GC,8131,Zeng|5158,0.963192074,TRUE
+Sepp,CB,Cerebellum,Sepp|glut_DN,1,Zeng|2895,0.999889442,FALSE
+Sepp,CB,Cerebellum,Sepp|immune,19,Zeng|5283,0.999953356,TRUE
+Sepp,CB,Cerebellum,Sepp|interneuron,366,Zeng|4167,0.997161995,TRUE
+Sepp,CB,Cerebellum,Sepp|isth_N,1,Zeng|1278,1,FALSE
+Sepp,CB,Cerebellum,Sepp|NA,157,Zeng|5203,0.840360196,TRUE
+Sepp,CB,Cerebellum,Sepp|NTZ_mixed,17,Zeng|259,0.99928987,FALSE
+Sepp,CB,Cerebellum,Sepp|oligo,151,Zeng|5216,0.999618061,FALSE
+Sepp,CB,Cerebellum,Sepp|parabrachial,1,Zeng|1331,0.998894417,FALSE
+Sepp,CB,Cerebellum,Sepp|Purkinje,21,Zeng|9384,1,FALSE
+Sepp,CB,Cerebellum,Sepp|UBC,14,Zeng|5153,1,TRUE
+Zeisel,Isocortex,Cortex,Zeisel|ABC,137,Zeng|5256,0.992635397,TRUE
+Zeisel,CB,Cerebellum,Zeisel|ACBG,921,Zeng|14873,0.958476497,TRUE
+Zeisel,MB,Midbrain dorsal,Zeisel|ACMB,861,Zeng|14872,0.987396811,FALSE
+Zeisel,MB,Midbrain dorsal,Zeisel|ACNT1,6642,Zeng|14965,0.979166998,TRUE
+Zeisel,MB,Midbrain ventral,Zeisel|ACNT2,2568,Zeng|14884,0.977061122,FALSE
+Zeisel,OLF,Olfactory bulb,Zeisel|ACOB,1438,Zeng|14858,0.972020015,TRUE
+Zeisel,Isocortex,Cortex,Zeisel|ACTE1,2974,Zeng|14930,0.973797025,FALSE
+Zeisel,OLF,Olfactory bulb,Zeisel|ACTE2,3973,Zeng|14947,0.96730465,FALSE
+Zeisel,CB,Cerebellum,Zeisel|CBGRC,4193,Zeng|5158,0.994660829,TRUE
+Zeisel,CB,Cerebellum,Zeisel|CBINH1,662,Zeng|4168,0.99950039,FALSE
+Zeisel,CB,Cerebellum,Zeisel|CBINH2,17,Zeng|4163,0.996685988,TRUE
+Zeisel,BS,Pons,Zeisel|CBNBL1,163,Zeng|5153,0.999260632,TRUE
+Zeisel,CB,Cerebellum,Zeisel|CBNBL2,293,Zeng|5158,0.968420545,TRUE
+Zeisel,CB,Cerebellum,Zeisel|CBPC,84,Zeng|9392,0.991138022,TRUE
+Zeisel,BS,Pons,Zeisel|CHOR,458,Zeng|14985,0.998855475,FALSE
+Zeisel,MB,Midbrain ventral,Zeisel|COP1,1532,Zeng|5213,0.99765321,FALSE
+Zeisel,BS,Medulla,Zeisel|COP2,254,Zeng|5217,0.997271153,FALSE
+Zeisel,HPF,Hippocampus,Zeisel|CR,222,Zeng|2764,0.976951577,TRUE
+Zeisel,HY,Hypothalamus,Zeisel|DECHO1,114,Zeng|571,0.998289309,TRUE
+Zeisel,TH,Thalamus,Zeisel|DECHO2,207,Zeng|2879,0.999998887,FALSE
+Zeisel,MB,Midbrain ventral,Zeisel|DEGLU1,1058,Zeng|5069,0.999013614,FALSE
+Zeisel,TH,Thalamus,Zeisel|DEGLU2,257,Zeng|5088,0.994344223,FALSE
+Zeisel,TH,Thalamus,Zeisel|DEGLU3,1113,Zeng|5078,0.996674645,FALSE
+Zeisel,TH,Thalamus,Zeisel|DEGLU4,101,Zeng|5112,0.994923721,FALSE
+Zeisel,TH,Thalamus,Zeisel|DEGLU5,426,Zeng|4740,0.984286484,FALSE
+Zeisel,TH,Thalamus,Zeisel|DEINH1,339,Zeng|1784,0.998814761,FALSE
+Zeisel,TH,Thalamus,Zeisel|DEINH2,167,Zeng|1784,0.997335139,FALSE
+Zeisel,TH,Thalamus,Zeisel|DEINH3,323,Zeng|1777,0.988847386,FALSE
+Zeisel,HY,Hypothalamus,Zeisel|DEINH4,57,Zeng|814,0.995996561,FALSE
+Zeisel,HY,Hypothalamus,Zeisel|DEINH5,308,Zeng|1459,0.990380395,FALSE
+Zeisel,HY,Hypothalamus,Zeisel|DEINH6,12,Zeng|1427,0.994902063,TRUE
+Zeisel,HY,Hypothalamus,Zeisel|DEINH7,182,Zeng|1430,0.9996173,TRUE
+Zeisel,HY,Hypothalamus,Zeisel|DEINH8,120,Zeng|1431,0.998011734,TRUE
+Zeisel,TH,Thalamus,Zeisel|DETPH,7,Zeng|5149,1,FALSE
+Zeisel,HPF,Dentate gyrus,Zeisel|DGGRC1,983,Zeng|1404,0.977601384,FALSE
+Zeisel,HPF,Hippocampus,Zeisel|DGGRC2,3385,Zeng|1404,0.996781456,FALSE
+Zeisel,HPF,CA1,Zeisel|DGNBL1,159,Zeng|1371,0.99693782,TRUE
+Zeisel,HPF,Hippocampus,Zeisel|DGNBL2,1445,Zeng|1406,0.998511236,TRUE
+Zeisel,ENS,Enteric nervous system,Zeisel|ENMFB,49,Zeng|5265,0.995426836,TRUE
+Zeisel,ENS,Enteric nervous system,Zeisel|ENT1,14,Zeng|4007,0.983474518,FALSE
+Zeisel,ENS,Enteric nervous system,Zeisel|ENT2,107,Zeng|4007,0.980103844,FALSE
+Zeisel,ENS,Enteric nervous system,Zeisel|ENT3,155,Zeng|4007,0.978195861,FALSE
+Zeisel,ENS,Enteric nervous system,Zeisel|ENT4,155,Zeng|4007,0.964386909,FALSE
+Zeisel,ENS,Enteric nervous system,Zeisel|ENT5,259,Zeng|4007,0.974057004,FALSE
+Zeisel,ENS,Enteric nervous system,Zeisel|ENT6,118,Zeng|3961,0.986232334,TRUE
+Zeisel,ENS,Enteric nervous system,Zeisel|ENT7,31,Zeng|3961,0.990267301,TRUE
+Zeisel,ENS,Enteric nervous system,Zeisel|ENT8,97,Zeng|4007,0.994738899,FALSE
+Zeisel,ENS,Enteric nervous system,Zeisel|ENT9,169,Zeng|3893,0.979247264,FALSE
+Zeisel,ENS,Enteric nervous system,Zeisel|ENTG1,163,Zeng|1357,0.995974209,TRUE
+Zeisel,ENS,Enteric nervous system,Zeisel|ENTG2,2160,Zeng|5242,0.957424719,FALSE
+Zeisel,ENS,Enteric nervous system,Zeisel|ENTG3,1135,Zeng|5242,0.964943185,FALSE
+Zeisel,ENS,Enteric nervous system,Zeisel|ENTG4,4044,Zeng|5239,0.961768043,TRUE
+Zeisel,ENS,Enteric nervous system,Zeisel|ENTG5,1132,Zeng|5239,0.965150834,TRUE
+Zeisel,ENS,Enteric nervous system,Zeisel|ENTG6,811,Zeng|5239,0.96236694,TRUE
+Zeisel,ENS,Enteric nervous system,Zeisel|ENTG7,1041,Zeng|5240,0.95704499,FALSE
+Zeisel,STRd,Striatum dorsal,Zeisel|EPEN,774,Zeng|14991,0.9982357,FALSE
+Zeisel,MB,Midbrain dorsal,Zeisel|EPMB,69,Zeng|14876,0.963186384,FALSE
+Zeisel,Spinal,Spinal cord,Zeisel|EPSC,414,Zeng|14877,0.990295256,FALSE
+Zeisel,BS,Pons,Zeisel|HBADR,40,Zeng|3891,0.998813575,FALSE
+Zeisel,BS,Medulla,Zeisel|HBCHO1,10,Zeng|4057,0.99914918,FALSE
+Zeisel,BS,Pons,Zeisel|HBCHO2,22,Zeng|4043,0.993190611,FALSE
+Zeisel,BS,Medulla,Zeisel|HBCHO3,72,Zeng|3879,0.998954125,FALSE
+Zeisel,MB,Midbrain ventral,Zeisel|HBCHO4,52,Zeng|2663,0.997378895,TRUE
+Zeisel,BS,Medulla,Zeisel|HBGLU1,52,Zeng|3623,0.99949047,TRUE
+Zeisel,BS,Medulla,Zeisel|HBGLU10,80,Zeng|4330,0.998168664,TRUE
+Zeisel,BS,Medulla,Zeisel|HBGLU2,200,Zeng|4219,0.98818635,FALSE
+Zeisel,BS,Medulla,Zeisel|HBGLU3,107,Zeng|4245,0.994146876,TRUE
+Zeisel,BS,Medulla,Zeisel|HBGLU4,7,Zeng|4145,0.999810755,FALSE
+Zeisel,BS,Pons,Zeisel|HBGLU5,130,Zeng|4218,0.994581305,TRUE
+Zeisel,BS,Pons,Zeisel|HBGLU6,252,Zeng|4216,0.998390566,TRUE
+Zeisel,BS,Pons,Zeisel|HBGLU7,275,Zeng|4216,0.996750037,TRUE
+Zeisel,BS,Pons,Zeisel|HBGLU8,11,Zeng|4216,0.999166589,TRUE
+Zeisel,BS,Medulla,Zeisel|HBGLU9,97,Zeng|8164,0.99941544,TRUE
+Zeisel,BS,Pons,Zeisel|HBINH1,13,Zeng|3007,0.998739342,TRUE
+Zeisel,BS,Medulla,Zeisel|HBINH2,22,Zeng|34308,0.998696363,TRUE
+Zeisel,BS,Medulla,Zeisel|HBINH3,127,Zeng|4379,0.982738513,FALSE
+Zeisel,BS,Pons,Zeisel|HBINH4,75,Zeng|4138,0.995875503,TRUE
+Zeisel,BS,Pons,Zeisel|HBINH5,480,Zeng|4020,0.995381608,FALSE
+Zeisel,BS,Pons,Zeisel|HBINH6,62,Zeng|4013,0.999839547,TRUE
+Zeisel,BS,Medulla,Zeisel|HBINH7,25,Zeng|8798,0.998932146,FALSE
+Zeisel,BS,Medulla,Zeisel|HBINH8,11,Zeng|4208,0.999942328,TRUE
+Zeisel,BS,Medulla,Zeisel|HBINH9,98,Zeng|4206,0.995027623,FALSE
+Zeisel,BS,Medulla,Zeisel|HBNOR,23,Zeng|3963,0.998254898,TRUE
+Zeisel,MB,Midbrain ventral,Zeisel|HBSER1,105,Zeng|2847,0.99598484,FALSE
+Zeisel,BS,Pons,Zeisel|HBSER2,109,Zeng|2839,0.999126743,FALSE
+Zeisel,MB,Midbrain ventral,Zeisel|HBSER3,87,Zeng|2846,0.995746721,FALSE
+Zeisel,BS,Medulla,Zeisel|HBSER4,72,Zeng|3871,0.999501043,TRUE
+Zeisel,BS,Pons,Zeisel|HBSER5,64,Zeng|2851,0.999703408,TRUE
+Zeisel,MB,Midbrain ventral,Zeisel|HYPEN,111,Zeng|14883,0.997390564,FALSE
+Zeisel,HY,Hypothalamus,Zeisel|HYPEP1,191,Zeng|2498,0.994788358,FALSE
+Zeisel,HY,Hypothalamus,Zeisel|HYPEP2,43,Zeng|2426,0.993929297,TRUE
+Zeisel,HY,Hypothalamus,Zeisel|HYPEP3,152,Zeng|2072,0.985489163,FALSE
+Zeisel,HY,Hypothalamus,Zeisel|HYPEP4,98,Zeng|2464,0.99332218,FALSE
+Zeisel,HY,Hypothalamus,Zeisel|HYPEP5,173,Zeng|2466,0.996304563,TRUE
+Zeisel,HY,Hypothalamus,Zeisel|HYPEP6,32,Zeng|1943,0.99902594,FALSE
+Zeisel,HY,Hypothalamus,Zeisel|HYPEP7,13,Zeng|2152,0.998275267,FALSE
+Zeisel,HY,Hypothalamus,Zeisel|HYPEP8,15,Zeng|1430,0.996631443,TRUE
+Zeisel,MB,Midbrain ventral,Zeisel|MBCHO1,62,Zeng|2641,0.998601276,FALSE
+Zeisel,MB,Midbrain ventral,Zeisel|MBDOP1,57,Zeng|2398,0.995806649,FALSE
+Zeisel,MB,Midbrain ventral,Zeisel|MBDOP2,63,Zeng|2401,0.998446601,FALSE
+Zeisel,MB,Midbrain dorsal,Zeisel|MEGLU1,263,Zeng|4953,0.987793112,FALSE
+Zeisel,MB,Midbrain dorsal,Zeisel|MEGLU10,419,Zeng|4566,0.989116367,TRUE
+Zeisel,MB,Midbrain dorsal,Zeisel|MEGLU11,249,Zeng|4587,0.99797507,FALSE
+Zeisel,MB,Midbrain ventral,Zeisel|MEGLU14,47,Zeng|2145,0.995602633,TRUE
+Zeisel,MB,Midbrain ventral,Zeisel|MEGLU2,336,Zeng|4617,0.986498026,FALSE
+Zeisel,MB,Midbrain dorsal,Zeisel|MEGLU3,137,Zeng|4652,0.984798196,TRUE
+Zeisel,MB,Midbrain dorsal,Zeisel|MEGLU4,136,Zeng|4914,0.999712308,FALSE
+Zeisel,MB,Midbrain dorsal,Zeisel|MEGLU5,281,Zeng|4920,0.999746124,FALSE
+Zeisel,MB,Midbrain dorsal,Zeisel|MEGLU6,143,Zeng|5018,0.9992749,FALSE
+Zeisel,MB,Midbrain dorsal,Zeisel|MEGLU7,138,Zeng|4563,0.995506703,TRUE
+Zeisel,MB,Midbrain dorsal,Zeisel|MEGLU8,305,Zeng|4562,0.990824612,FALSE
+Zeisel,MB,Midbrain dorsal,Zeisel|MEGLU9,243,Zeng|4566,0.991818247,TRUE
+Zeisel,MB,Midbrain ventral,Zeisel|MEINH1,43,Zeng|4167,0.998081702,TRUE
+Zeisel,MB,Midbrain dorsal,Zeisel|MEINH10,792,Zeng|3605,0.999499657,TRUE
+Zeisel,TH,Thalamus,Zeisel|MEINH11,101,Zeng|3585,0.99661452,FALSE
+Zeisel,MB,Midbrain dorsal,Zeisel|MEINH12,49,Zeng|3599,0.99686997,FALSE
+Zeisel,MB,Midbrain ventral,Zeisel|MEINH13,70,Zeng|3119,0.992130174,FALSE
+Zeisel,MB,Midbrain ventral,Zeisel|MEINH14,21,Zeng|1464,0.990171121,FALSE
+Zeisel,MB,Midbrain ventral,Zeisel|MEINH2,461,Zeng|3506,0.99048677,TRUE
+Zeisel,MB,Midbrain dorsal,Zeisel|MEINH3,258,Zeng|3419,0.987548675,FALSE
+Zeisel,MB,Midbrain ventral,Zeisel|MEINH4,162,Zeng|3574,0.981941119,FALSE
+Zeisel,MB,Midbrain dorsal,Zeisel|MEINH5,154,Zeng|3472,0.998878041,TRUE
+Zeisel,MB,Midbrain dorsal,Zeisel|MEINH6,47,Zeng|3573,0.999013792,TRUE
+Zeisel,MB,Midbrain dorsal,Zeisel|MEINH7,69,Zeng|3578,0.99819128,TRUE
+Zeisel,MB,Midbrain ventral,Zeisel|MEINH8,71,Zeng|3262,0.992338589,FALSE
+Zeisel,MB,Midbrain dorsal,Zeisel|MEINH9,400,Zeng|3592,0.998491842,TRUE
+Zeisel,BS,Pons,Zeisel|MFOL1,3684,Zeng|5233,0.967002745,FALSE
+Zeisel,Isocortex,Cortex,Zeisel|MFOL2,2415,Zeng|5236,0.979871182,FALSE
+Zeisel,Isocortex,Cortex,Zeisel|MGL1,2270,Zeng|5283,0.984901886,TRUE
+Zeisel,OLF,Olfactory bulb,Zeisel|MGL2,1820,Zeng|5283,0.989740369,TRUE
+Zeisel,Spinal,Spinal cord,Zeisel|MGL3,1335,Zeng|5283,0.991296499,TRUE
+Zeisel,Spinal,Spinal cord,Zeisel|MOL1,8715,Zeng|5233,0.945123381,FALSE
+Zeisel,MB,Midbrain dorsal,Zeisel|MOL2,10011,Zeng|5232,0.970065947,TRUE
+Zeisel,Spinal,Spinal cord,Zeisel|MOL3,1849,Zeng|5232,0.963204548,TRUE
+Zeisel,STRd,Striatum dorsal,Zeisel|MSN1,869,Zeng|1092,0.99555425,TRUE
+Zeisel,STRd,Striatum dorsal,Zeisel|MSN2,1094,Zeng|1089,0.995111668,TRUE
+Zeisel,STRv,Striatum ventral,Zeisel|MSN3,1247,Zeng|1016,0.990070563,FALSE
+Zeisel,AMY,Amygdala,Zeisel|MSN4,1584,Zeng|1193,0.993471168,FALSE
+Zeisel,STRv,Striatum ventral,Zeisel|MSN5,372,Zeng|1262,0.993264171,TRUE
+Zeisel,AMY,Amygdala,Zeisel|MSN6,525,Zeng|1194,0.992626643,TRUE
+Zeisel,HY,Hypothalamus,Zeisel|NFOL1,1612,Zeng|5220,0.994223623,FALSE
+Zeisel,BS,Pons,Zeisel|NFOL2,181,Zeng|5220,0.997016062,FALSE
+Zeisel,OLF,Olfactory bulb,Zeisel|OBDOP1,371,Zeng|1377,0.999928341,FALSE
+Zeisel,OLF,Olfactory bulb,Zeisel|OBDOP2,281,Zeng|1313,0.996231392,FALSE
+Zeisel,OLF,Olfactory bulb,Zeisel|OBINH1,353,Zeng|1317,0.991019041,FALSE
+Zeisel,OLF,Olfactory bulb,Zeisel|OBINH2,1800,Zeng|1305,0.999110952,FALSE
+Zeisel,OLF,Olfactory bulb,Zeisel|OBINH3,786,Zeng|1316,0.992132203,TRUE
+Zeisel,OLF,Olfactory bulb,Zeisel|OBINH4,465,Zeng|1321,0.999741637,TRUE
+Zeisel,OLF,Olfactory bulb,Zeisel|OBINH5,56,Zeng|1375,0.999815363,TRUE
+Zeisel,OLF,Olfactory bulb,Zeisel|OBNBL1,139,Zeng|2872,0.999567513,TRUE
+Zeisel,OLF,Olfactory bulb,Zeisel|OBNBL2,225,Zeng|2876,0.999990478,FALSE
+Zeisel,OLF,Olfactory bulb,Zeisel|OBNBL3,2240,Zeng|1350,0.999193629,TRUE
+Zeisel,OLF,Olfactory bulb,Zeisel|OBNBL4,208,Zeng|1380,0.999021115,FALSE
+Zeisel,OLF,Olfactory bulb,Zeisel|OBNBL5,871,Zeng|1388,0.999684733,FALSE
+Zeisel,OLF,Olfactory bulb,Zeisel|OEC,2031,Zeng|5241,0.997043539,TRUE
+Zeisel,TH,Thalamus,Zeisel|OPC,820,Zeng|5204,0.987361755,FALSE
+Zeisel,MB,Midbrain ventral,Zeisel|PER1,4725,Zeng|5243,0.991805855,TRUE
+Zeisel,Isocortex,Cortex,Zeisel|PER2,488,Zeng|5243,0.983359109,TRUE
+Zeisel,STRd,Striatum dorsal,Zeisel|PER3,298,Zeng|5243,0.974458546,TRUE
+Zeisel,DRG,Dorsal root ganglion,Zeisel|PSNF1,38,Zeng|4478,0.997821996,FALSE
+Zeisel,DRG,Dorsal root ganglion,Zeisel|PSNF2,57,Zeng|8166,0.999294705,FALSE
+Zeisel,DRG,Dorsal root ganglion,Zeisel|PSNF3,31,Zeng|8166,0.998487474,FALSE
+Zeisel,DRG,Dorsal root ganglion,Zeisel|PSNP1,282,Zeng|4478,0.996343904,FALSE
+Zeisel,DRG,Dorsal root ganglion,Zeisel|PSNP2,72,Zeng|4478,0.995681607,FALSE
+Zeisel,DRG,Dorsal root ganglion,Zeisel|PSNP3,270,Zeng|4478,0.9953184,FALSE
+Zeisel,DRG,Dorsal root ganglion,Zeisel|PSNP4,45,Zeng|4478,0.994335477,FALSE
+Zeisel,DRG,Dorsal root ganglion,Zeisel|PSNP5,88,Zeng|4478,0.992267102,FALSE
+Zeisel,DRG,Dorsal root ganglion,Zeisel|PSNP6,132,Zeng|4478,0.995689291,FALSE
+Zeisel,DRG,Dorsal root ganglion,Zeisel|PSPEP1,78,Zeng|4478,0.993244418,FALSE
+Zeisel,DRG,Dorsal root ganglion,Zeisel|PSPEP2,102,Zeng|4478,0.991255027,FALSE
+Zeisel,DRG,Dorsal root ganglion,Zeisel|PSPEP3,92,Zeng|4478,0.989443257,FALSE
+Zeisel,DRG,Dorsal root ganglion,Zeisel|PSPEP4,117,Zeng|4478,0.985960701,FALSE
+Zeisel,DRG,Dorsal root ganglion,Zeisel|PSPEP5,30,Zeng|1470,0.985602885,FALSE
+Zeisel,DRG,Dorsal root ganglion,Zeisel|PSPEP6,54,Zeng|4478,0.985655758,FALSE
+Zeisel,DRG,Dorsal root ganglion,Zeisel|PSPEP7,64,Zeng|4478,0.975325678,FALSE
+Zeisel,DRG,Dorsal root ganglion,Zeisel|PSPEP8,28,Zeng|4478,0.99196513,FALSE
+Zeisel,MB,Midbrain ventral,Zeisel|PVM1,1390,Zeng|5267,0.987693724,FALSE
+Zeisel,OLF,Olfactory bulb,Zeisel|PVM2,639,Zeng|5268,0.988108275,TRUE
+Zeisel,HPF,Hippocampus,Zeisel|RGDG,327,Zeng|14925,0.941359047,FALSE
+Zeisel,STRv,Striatum ventral,Zeisel|RGSZ,756,Zeng|14857,0.923866181,TRUE
+Zeisel,Sympath,Sympathetic nervous system,Zeisel|SATG1,30,Zeng|14919,0.986978175,FALSE
+Zeisel,DRG,Dorsal root ganglion,Zeisel|SATG2,654,Zeng|14919,0.992121155,FALSE
+Zeisel,Spinal,Spinal cord,Zeisel|SCGLU1,52,Zeng|4255,0.944154633,TRUE
+Zeisel,Spinal,Spinal cord,Zeisel|SCGLU10,68,Zeng|4328,0.996678257,TRUE
+Zeisel,Spinal,Spinal cord,Zeisel|SCGLU2,133,Zeng|4229,0.960350295,TRUE
+Zeisel,Spinal,Spinal cord,Zeisel|SCGLU3,62,Zeng|4242,0.979653421,TRUE
+Zeisel,Spinal,Spinal cord,Zeisel|SCGLU4,180,Zeng|4229,0.998045165,TRUE
+Zeisel,Spinal,Spinal cord,Zeisel|SCGLU5,252,Zeng|4236,0.997784245,FALSE
+Zeisel,Spinal,Spinal cord,Zeisel|SCGLU6,140,Zeng|4333,0.998340687,TRUE
+Zeisel,Spinal,Spinal cord,Zeisel|SCGLU7,30,Zeng|4339,0.999151147,TRUE
+Zeisel,Spinal,Spinal cord,Zeisel|SCGLU8,15,Zeng|4340,0.987607989,TRUE
+Zeisel,Spinal,Spinal cord,Zeisel|SCGLU9,154,Zeng|4328,0.999259061,TRUE
+Zeisel,DRG,Dorsal root ganglion,Zeisel|SCHW,47,Zeng|14984,0.951527709,FALSE
+Zeisel,Spinal,Spinal cord,Zeisel|SCINH1,18,Zeng|4208,0.999925017,TRUE
+Zeisel,Spinal,Spinal cord,Zeisel|SCINH10,65,Zeng|4203,0.990709561,TRUE
+Zeisel,Spinal,Spinal cord,Zeisel|SCINH11,50,Zeng|4007,0.999539273,FALSE
+Zeisel,Spinal,Spinal cord,Zeisel|SCINH2,117,Zeng|4467,0.983654409,FALSE
+Zeisel,Spinal,Spinal cord,Zeisel|SCINH3,66,Zeng|4445,0.989226239,FALSE
+Zeisel,Spinal,Spinal cord,Zeisel|SCINH4,37,Zeng|4459,0.996174061,TRUE
+Zeisel,Spinal,Spinal cord,Zeisel|SCINH5,44,Zeng|4454,0.999559033,FALSE
+Zeisel,Spinal,Spinal cord,Zeisel|SCINH6,87,Zeng|4457,0.999618715,TRUE
+Zeisel,Spinal,Spinal cord,Zeisel|SCINH7,71,Zeng|4456,0.994426838,TRUE
+Zeisel,Spinal,Spinal cord,Zeisel|SCINH8,87,Zeng|4204,0.999314603,TRUE
+Zeisel,Spinal,Spinal cord,Zeisel|SCINH9,84,Zeng|4204,0.977066118,TRUE
+Zeisel,STRv,Striatum ventral,Zeisel|SEPNBL,117,Zeng|2866,0.996435533,TRUE
+Zeisel,Sympath,Sympathetic nervous system,Zeisel|SYCHO1,15,Zeng|4174,0.999375548,FALSE
+Zeisel,Sympath,Sympathetic nervous system,Zeisel|SYCHO2,75,Zeng|4174,0.99763524,FALSE
+Zeisel,Sympath,Sympathetic nervous system,Zeisel|SYNOR1,97,Zeng|4174,0.995339112,FALSE
+Zeisel,Sympath,Sympathetic nervous system,Zeisel|SYNOR2,62,Zeng|4174,0.994821639,FALSE
+Zeisel,Sympath,Sympathetic nervous system,Zeisel|SYNOR3,409,Zeng|3972,0.99637082,TRUE
+Zeisel,Sympath,Sympathetic nervous system,Zeisel|SYNOR4,182,Zeng|3967,0.9951396,TRUE
+Zeisel,Sympath,Sympathetic nervous system,Zeisel|SYNOR5,46,Zeng|1470,0.989209277,FALSE
+Zeisel,STRd,Striatum dorsal,Zeisel|SZNBL,971,Zeng|1369,0.978513761,TRUE
+Zeisel,STRv,Striatum ventral,Zeisel|TECHO,121,Zeng|583,0.996354738,FALSE
+Zeisel,Isocortex,Cortex,Zeisel|TEGLU1,402,Zeng|78,0.996422863,FALSE
+Zeisel,Isocortex,Cortex,Zeisel|TEGLU10,866,Zeng|193,0.995748219,FALSE
+Zeisel,Isocortex,Cortex,Zeisel|TEGLU11,1464,Zeng|139,0.994473379,FALSE
+Zeisel,Isocortex,Cortex,Zeisel|TEGLU12,386,Zeng|130,0.994087641,FALSE
+Zeisel,Isocortex,Cortex,Zeisel|TEGLU13,127,Zeng|305,0.998261256,FALSE
+Zeisel,Isocortex,Cortex,Zeisel|TEGLU14,35,Zeng|247,0.998220428,TRUE
+Zeisel,Isocortex,Cortex,Zeisel|TEGLU15,186,Zeng|261,0.998071566,TRUE
+Zeisel,Isocortex,Cortex,Zeisel|TEGLU16,61,Zeng|321,0.992905031,FALSE
+Zeisel,Isocortex,Cortex,Zeisel|TEGLU17,784,Zeng|276,0.989301783,FALSE
+Zeisel,Isocortex,Cortex,Zeisel|TEGLU18,657,Zeng|295,0.992139696,FALSE
+Zeisel,STRv,Striatum ventral,Zeisel|TEGLU19,89,Zeng|279,0.99284412,TRUE
+Zeisel,Isocortex,Cortex,Zeisel|TEGLU2,274,Zeng|51,0.998259806,FALSE
+Zeisel,Isocortex,Cortex,Zeisel|TEGLU20,55,Zeng|117,0.992990191,FALSE
+Zeisel,AMY,Amygdala,Zeisel|TEGLU21,104,Zeng|308,0.994129297,FALSE
+Zeisel,AMY,Amygdala,Zeisel|TEGLU22,958,Zeng|473,0.991602921,TRUE
+Zeisel,HPF,Dentate gyrus,Zeisel|TEGLU23,484,Zeng|415,0.992791201,FALSE
+Zeisel,HPF,Hippocampus,Zeisel|TEGLU24,2037,Zeng|358,0.995259819,TRUE
+Zeisel,Isocortex,Cortex,Zeisel|TEGLU3,2734,Zeng|63,0.993505611,FALSE
+Zeisel,Isocortex,Cortex,Zeisel|TEGLU4,664,Zeng|326,0.989360312,TRUE
+Zeisel,Isocortex,Cortex,Zeisel|TEGLU5,126,Zeng|255,0.997131852,FALSE
+Zeisel,Isocortex,Cortex,Zeisel|TEGLU6,598,Zeng|315,0.996018472,FALSE
+Zeisel,Isocortex,Cortex,Zeisel|TEGLU7,2435,Zeng|233,0.993544822,FALSE
+Zeisel,Isocortex,Cortex,Zeisel|TEGLU8,3071,Zeng|201,0.99259542,FALSE
+Zeisel,Isocortex,Cortex,Zeisel|TEGLU9,202,Zeng|202,0.987017659,TRUE
+Zeisel,HY,Hypothalamus,Zeisel|TEINH1,576,Zeng|1620,0.972187093,FALSE
+Zeisel,HPF,CA1,Zeisel|TEINH10,581,Zeng|684,0.993374104,TRUE
+Zeisel,HPF,CA1,Zeisel|TEINH11,660,Zeng|645,0.997592558,TRUE
+Zeisel,HPF,CA1,Zeisel|TEINH12,280,Zeng|664,0.998996606,FALSE
+Zeisel,HPF,CA1,Zeisel|TEINH13,163,Zeng|682,0.996915615,TRUE
+Zeisel,Isocortex,Cortex,Zeisel|TEINH14,422,Zeng|708,0.994693594,TRUE
+Zeisel,Isocortex,Cortex,Zeisel|TEINH15,1069,Zeng|704,0.997418537,TRUE
+Zeisel,HPF,CA1,Zeisel|TEINH16,644,Zeng|729,0.99726441,TRUE
+Zeisel,Isocortex,Cortex,Zeisel|TEINH17,675,Zeng|614,0.990671629,TRUE
+Zeisel,Isocortex,Cortex,Zeisel|TEINH18,547,Zeng|593,0.998293332,FALSE
+Zeisel,HPF,CA1,Zeisel|TEINH19,1040,Zeng|497,0.998864934,FALSE
+Zeisel,STRv,Striatum ventral,Zeisel|TEINH2,1339,Zeng|891,0.993646338,FALSE
+Zeisel,HPF,CA1,Zeisel|TEINH20,139,Zeng|690,0.995512357,FALSE
+Zeisel,Isocortex,Cortex,Zeisel|TEINH21,385,Zeng|764,0.995540514,FALSE
+Zeisel,HY,Hypothalamus,Zeisel|TEINH3,145,Zeng|1867,0.994680952,FALSE
+Zeisel,HPF,CA1,Zeisel|TEINH4,645,Zeng|636,0.996299113,FALSE
+Zeisel,Isocortex,Cortex,Zeisel|TEINH5,449,Zeng|652,0.997573622,FALSE
+Zeisel,AMY,Amygdala,Zeisel|TEINH6,145,Zeng|654,0.996980304,FALSE
+Zeisel,HPF,CA1,Zeisel|TEINH7,68,Zeng|654,0.992648431,FALSE
+Zeisel,HPF,CA1,Zeisel|TEINH8,57,Zeng|631,0.995221304,FALSE
+Zeisel,HPF,CA1,Zeisel|TEINH9,162,Zeng|663,0.993159052,FALSE
+Zeisel,Isocortex,Cortex,Zeisel|VECA,109,Zeng|5261,0.99424341,FALSE
+Zeisel,Spinal,Spinal cord,Zeisel|VECC,1025,Zeng|5255,0.964582345,TRUE
+Zeisel,HPF,Hippocampus,Zeisel|VECV,2780,Zeng|5254,0.983284317,FALSE
+Zeisel,TH,Thalamus,Zeisel|VLMC1,702,Zeng|5261,0.987846074,FALSE
+Zeisel,MB,Midbrain dorsal,Zeisel|VLMC2,662,Zeng|5260,0.989727004,TRUE
+Zeisel,Spinal,Spinal cord,Zeisel|VSMCA,1221,Zeng|5249,0.98557721,TRUE
+Tabula_Muris,STR,Striatum,Tabula_Muris|astrocyte_2,432,Zeng|14930,0.998943616,FALSE
+Tabula_Muris,CB,Cerebellum,Tabula_Muris|Bergmann glial cell_2,40,Zeng|14884,0.976772006,FALSE
+Tabula_Muris,CB,Cerebellum,Tabula_Muris|brain pericyte_8,156,Zeng|5249,0.995556943,TRUE
+Tabula_Muris,HPF,Hippocampus,Tabula_Muris|endothelial cell_1,520,Zeng|5254,0.97431974,FALSE
+Tabula_Muris,STR,Striatum,Tabula_Muris|endothelial cell_5,195,Zeng|5252,0.995515749,FALSE
+Tabula_Muris,Isocortex,Cortex,Tabula_Muris|macrophage_5,61,Zeng|5279,0.89591899,TRUE
+Tabula_Muris,STR,Striatum,Tabula_Muris|microglial cell_0,1394,Zeng|5283,0.93546612,TRUE
+Tabula_Muris,STR,Striatum,Tabula_Muris|microglial cell_1,1090,Zeng|5277,0.816885426,TRUE
+Tabula_Muris,Isocortex,Cortex,Tabula_Muris|microglial cell_2,1007,Zeng|1404,0.820428993,FALSE
+Tabula_Muris,CB,Cerebellum,Tabula_Muris|microglial cell_3,693,Zeng|8215,0.789083874,FALSE
+Tabula_Muris,HPF,Hippocampus,Tabula_Muris|microglial cell_4,210,Zeng|5265,0.754376394,TRUE
+Tabula_Muris,CB,Cerebellum,Tabula_Muris|neuron_6,194,Zeng|3454,0.995838345,FALSE
+Tabula_Muris,STR,Striatum,Tabula_Muris|neuron_9,87,Zeng|1056,1,FALSE
+Tabula_Muris,STR,Striatum,Tabula_Muris|oligodendrocyte precursor cell_4,203,Zeng|5203,0.999625376,TRUE
+Tabula_Muris,Isocortex,Cortex,Tabula_Muris|oligodendrocyte_0,989,Zeng|5217,0.967748775,FALSE
+Tabula_Muris,HPF,Hippocampus,Tabula_Muris|oligodendrocyte_3,398,Zeng|5218,0.986496912,FALSE
+Tabula_Muris,Isocortex,Cortex,Tabula_Muris|oligodendrocyte_7,187,Zeng|315,0.906039524,FALSE
+Allen,WMB,whole mouse brain,Allen|Astro-1,3017,Zeng|14962,0.989182522,FALSE
+Allen,WMB,whole mouse brain,Allen|Astro-2,974,Zeng|14871,0.959044128,FALSE
+Allen,WMB,whole mouse brain,Allen|Endo-1,158,Zeng|5254,0.975055252,FALSE
+Allen,WMB,whole mouse brain,Allen|Endo-2,30,Zeng|5252,0.997014476,FALSE
+Allen,WMB,whole mouse brain,Allen|Endo-3,82,Zeng|5254,0.998308967,FALSE
+Allen,WMB,whole mouse brain,Allen|Epen,305,Zeng|1367,0.945367957,FALSE
+Allen,WMB,whole mouse brain,Allen|ExN-L2/3-1,2727,Zeng|233,0.991611617,FALSE
+Allen,WMB,whole mouse brain,Allen|ExN-L2/3-2,1539,Zeng|201,0.987284541,FALSE
+Allen,WMB,whole mouse brain,Allen|ExN-L5-1,1551,Zeng|165,0.975687061,TRUE
+Allen,WMB,whole mouse brain,Allen|ExN-L5-2,1776,Zeng|326,0.892615789,TRUE
+Allen,WMB,whole mouse brain,Allen|ExN-L5-3,931,Zeng|78,0.993412606,FALSE
+Allen,WMB,whole mouse brain,Allen|ExN-L6-1,2082,Zeng|139,0.988480786,FALSE
+Allen,WMB,whole mouse brain,Allen|ExN-L6-2,3792,Zeng|63,0.993486847,FALSE
+Allen,WMB,whole mouse brain,Allen|ExN-L6-3,1004,Zeng|17,0.950225918,FALSE
+Allen,WMB,whole mouse brain,Allen|ExN-Olf,1500,Zeng|291,0.985071173,FALSE
+Allen,WMB,whole mouse brain,Allen|InN-Calb2-1,243,Zeng|5339,0.9947595,FALSE
+Allen,WMB,whole mouse brain,Allen|InN-Calb2-2,81,Zeng|641,0.981751244,FALSE
+Allen,WMB,whole mouse brain,Allen|InN-Chat,40,Zeng|2885,0.997370639,TRUE
+Allen,WMB,whole mouse brain,Allen|InN-Lamp5,259,Zeng|719,0.999789372,FALSE
+Allen,WMB,whole mouse brain,Allen|InN-Lhx6,151,Zeng|572,0.992077023,TRUE
+Allen,WMB,whole mouse brain,Allen|InN-Olf-1,490,Zeng|935,0.997219374,FALSE
+Allen,WMB,whole mouse brain,Allen|InN-Olf-2,207,Zeng|2911,0.960930774,FALSE
+Allen,WMB,whole mouse brain,Allen|InN-Pvalb-1,398,Zeng|599,0.996923978,FALSE
+Allen,WMB,whole mouse brain,Allen|InN-Pvalb-2,228,Zeng|602,0.993393064,FALSE
+Allen,WMB,whole mouse brain,Allen|InN-Pvalb-3,338,Zeng|593,0.987892204,FALSE
+Allen,WMB,whole mouse brain,Allen|InN-Sst-1,333,Zeng|522,0.998297394,FALSE
+Allen,WMB,whole mouse brain,Allen|InN-Sst-2,442,Zeng|497,0.990573152,FALSE
+Allen,WMB,whole mouse brain,Allen|InN-Vip,299,Zeng|632,0.999698961,FALSE
+Allen,WMB,whole mouse brain,Allen|Macro,80,Zeng|5267,0.960556771,FALSE
+Allen,WMB,whole mouse brain,Allen|Micro-1,444,Zeng|5283,0.989735214,TRUE
+Allen,WMB,whole mouse brain,Allen|Micro-2,749,Zeng|5283,0.987412864,TRUE
+Allen,WMB,whole mouse brain,Allen|Micro-3,255,Zeng|5283,0.989167795,TRUE
+Allen,WMB,whole mouse brain,Allen|MSN-D1-1,3124,Zeng|1072,0.970849924,FALSE
+Allen,WMB,whole mouse brain,Allen|MSN-D1-2,834,Zeng|1254,0.977117882,FALSE
+Allen,WMB,whole mouse brain,Allen|MSN-D2,2934,Zeng|1063,0.969451019,TRUE
+Allen,WMB,whole mouse brain,Allen|Olig-1,4290,Zeng|5215,0.994153405,FALSE
+Allen,WMB,whole mouse brain,Allen|Olig-2,877,Zeng|5230,0.941938523,FALSE
+Allen,WMB,whole mouse brain,Allen|Olig-3,16,Zeng|5213,0.927324446,FALSE
+Allen,WMB,whole mouse brain,Allen|OPC,1964,Zeng|5208,0.998811239,FALSE
+Allen,WMB,whole mouse brain,Allen|Peri-1,88,Zeng|5243,0.999864917,TRUE
+Allen,WMB,whole mouse brain,Allen|Peri-2,101,Zeng|1363,0.933036594,FALSE
+Allen,WMB,whole mouse brain,Allen|T cell,17,Zeng|5279,0.990757431,TRUE
+Allen,WMB,whole mouse brain,Allen|Vlmc,222,Zeng|5263,0.996058255,TRUE
+Ximerakis,WMB,whole mouse brain,Ximerakis|ABC,122,Zeng|5256,0.995836193,TRUE
+Ximerakis,WMB,whole mouse brain,Ximerakis|ARP,71,Zeng|14872,0.982114786,FALSE
+Ximerakis,WMB,whole mouse brain,Ximerakis|ASC,3327,Zeng|14951,0.998723525,TRUE
+Ximerakis,WMB,whole mouse brain,Ximerakis|CPC,38,Zeng|8175,0.996448438,TRUE
+Ximerakis,WMB,whole mouse brain,Ximerakis|DC,30,Zeng|5279,0.992751177,TRUE
+Ximerakis,WMB,whole mouse brain,Ximerakis|EC,1011,Zeng|5254,0.98617821,FALSE
+Ximerakis,WMB,whole mouse brain,Ximerakis|EPC,104,Zeng|14991,0.997844932,FALSE
+Ximerakis,WMB,whole mouse brain,Ximerakis|Hb_VC,47,Zeng|5255,0.970044215,TRUE
+Ximerakis,WMB,whole mouse brain,Ximerakis|HypEPC,7,Zeng|14883,0.99868922,FALSE
+Ximerakis,WMB,whole mouse brain,Ximerakis|MAC,197,Zeng|5268,0.967840519,TRUE
+Ximerakis,WMB,whole mouse brain,Ximerakis|MG,1656,Zeng|5283,0.999035085,TRUE
+Ximerakis,WMB,whole mouse brain,Ximerakis|MNC,34,Zeng|5276,0.985207688,TRUE
+Ximerakis,WMB,whole mouse brain,Ximerakis|NendC,144,Zeng|2517,0.998313729,FALSE
+Ximerakis,WMB,whole mouse brain,Ximerakis|NEUR_immature,130,Zeng|1350,0.999271316,TRUE
+Ximerakis,WMB,whole mouse brain,Ximerakis|NEUR_mature,2048,Zeng|10,0.997461881,FALSE
+Ximerakis,WMB,whole mouse brain,Ximerakis|NEUT,20,Zeng|5276,0.965051849,TRUE
+Ximerakis,WMB,whole mouse brain,Ximerakis|NRP,59,Zeng|1369,0.977248291,TRUE
+Ximerakis,WMB,whole mouse brain,Ximerakis|NSC,101,Zeng|1364,0.943587295,FALSE
+Ximerakis,WMB,whole mouse brain,Ximerakis|OEG,379,Zeng|5242,0.999248352,FALSE
+Ximerakis,WMB,whole mouse brain,Ximerakis|OLG,4887,Zeng|5233,0.9994602,FALSE
+Ximerakis,WMB,whole mouse brain,Ximerakis|OPC,1155,Zeng|5206,0.996271171,FALSE
+Ximerakis,WMB,whole mouse brain,Ximerakis|PC,317,Zeng|5243,0.994980511,TRUE
+Ximerakis,WMB,whole mouse brain,Ximerakis|TNC,12,Zeng|14914,0.952354937,TRUE
+Ximerakis,WMB,whole mouse brain,Ximerakis|VLMC,56,Zeng|5263,0.995149995,TRUE
+Ximerakis,WMB,whole mouse brain,Ximerakis|VSMC,76,Zeng|5249,0.994385294,TRUE
+Habib,HPF,Hippocampus,Habib|Astrocytes_1,430,Zeng|14872,0.978614637,FALSE
+Habib,HPF,Hippocampus,Habib|Astrocytes_2,2207,Zeng|14962,0.980862971,FALSE
+Habib,HPF,Hippocampus,Habib|Endothelial,133,Zeng|5255,0.99695698,TRUE
+Habib,HPF,Hippocampus,Habib|Ependymal,179,Zeng|14878,0.976414399,TRUE
+Habib,HPF,Hippocampus,Habib|Ex_Neuron,229,Zeng|77,0.996924768,TRUE
+Habib,HPF,Hippocampus,Habib|ExN_CA1_1,2017,Zeng|328,0.970083579,TRUE
+Habib,HPF,Hippocampus,Habib|ExN_CA1_2,520,Zeng|372,0.993977494,TRUE
+Habib,HPF,Hippocampus,Habib|ExN_CA1_3,413,Zeng|324,0.939302531,TRUE
+Habib,HPF,Hippocampus,Habib|ExN_CA3_1,106,Zeng|417,0.98364886,TRUE
+Habib,HPF,Hippocampus,Habib|ExN_CA3_2,900,Zeng|421,0.990941543,TRUE
+Habib,HPF,Hippocampus,Habib|ExN_CA3_3,342,Zeng|436,0.959112479,FALSE
+Habib,HPF,Hippocampus,Habib|ExN_DG,3940,Zeng|1404,0.98139605,FALSE
+Habib,HPF,Hippocampus,Habib|ExN_IEGs,192,Zeng|476,0.948111219,FALSE
+Habib,HPF,Hippocampus,Habib|ExN_Neuron,356,Zeng|47,0.968531416,FALSE
+Habib,HPF,Hippocampus,Habib|ExN_Sub,719,Zeng|315,0.959967056,FALSE
+Habib,HPF,Hippocampus,Habib|Fibroblasts,126,Zeng|5260,0.974881677,TRUE
+Habib,HPF,Hippocampus,Habib|GABAergic_1,321,Zeng|622,0.990905006,TRUE
+Habib,HPF,Hippocampus,Habib|GABAergic_2,575,Zeng|527,0.99382967,FALSE
+Habib,HPF,Hippocampus,Habib|GABAergic_3,217,Zeng|702,0.995834696,FALSE
+Habib,HPF,Hippocampus,Habib|Microglia,127,Zeng|5283,0.888940652,TRUE
+Habib,HPF,Hippocampus,Habib|Oligo,323,Zeng|5233,0.996570093,FALSE
+Habib,HPF,Hippocampus,Habib|OPCs,496,Zeng|5207,0.989485649,FALSE
+Habib,HPF,Hippocampus,Habib|Pericytes,48,Zeng|5243,0.897790837,TRUE
+Sziraki,WMB,whole mouse brain,Sziraki|Astrocytes_1,1209,Zeng|14965,0.982231031,TRUE
+Sziraki,WMB,whole mouse brain,Sziraki|Astrocytes_10,547,Zeng|14965,0.988116664,TRUE
+Sziraki,WMB,whole mouse brain,Sziraki|Astrocytes_11,118,Zeng|14955,0.991602877,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Astrocytes_12,92,Zeng|14862,0.943920152,TRUE
+Sziraki,WMB,whole mouse brain,Sziraki|Astrocytes_13,184,Zeng|14930,0.971793095,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Astrocytes_14,73,Zeng|14953,0.991346057,TRUE
+Sziraki,WMB,whole mouse brain,Sziraki|Astrocytes_15,63,Zeng|14851,0.979466806,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Astrocytes_16,52,Zeng|14933,0.973977131,TRUE
+Sziraki,WMB,whole mouse brain,Sziraki|Astrocytes_2,1073,Zeng|14954,0.986930986,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Astrocytes_3,3281,Zeng|14954,0.994341919,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Astrocytes_4,3103,Zeng|14965,0.988530465,TRUE
+Sziraki,WMB,whole mouse brain,Sziraki|Astrocytes_5,1189,Zeng|14862,0.985858043,TRUE
+Sziraki,WMB,whole mouse brain,Sziraki|Astrocytes_6,1263,Zeng|14930,0.980776049,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Astrocytes_7,475,Zeng|1367,0.985711346,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Astrocytes_8,1598,Zeng|14947,0.94981534,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Astrocytes_9,220,Zeng|14930,0.990807228,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Bergmann glia_1,524,Zeng|14873,0.994356306,TRUE
+Sziraki,WMB,whole mouse brain,Sziraki|Bergmann glia_2,707,Zeng|14873,0.975492497,TRUE
+Sziraki,WMB,whole mouse brain,Sziraki|Bergmann glia_3,23,Zeng|14873,0.982541252,TRUE
+Sziraki,WMB,whole mouse brain,Sziraki|Bergmann glia_4,352,Zeng|14873,0.990902351,TRUE
+Sziraki,WMB,whole mouse brain,Sziraki|Bergmann glia_5,604,Zeng|14873,0.996873566,TRUE
+Sziraki,WMB,whole mouse brain,Sziraki|Bergmann glia_6,34,Zeng|14873,0.987379918,TRUE
+Sziraki,WMB,whole mouse brain,Sziraki|Bergmann glia_7,34,Zeng|14873,0.981258795,TRUE
+Sziraki,WMB,whole mouse brain,Sziraki|Bergmann glia_8,10,Zeng|14873,0.993672217,TRUE
+Sziraki,WMB,whole mouse brain,Sziraki|Bergmann glia_9,65,Zeng|14873,0.988975827,TRUE
+Sziraki,CB,Cerebellum,Sziraki|Cerebellum granule neurons_,60,Zeng|5152,0.821692429,FALSE
+Sziraki,CB,Cerebellum,Sziraki|Cerebellum granule neurons_1,10591,Zeng|5158,0.845012114,TRUE
+Sziraki,CB,Cerebellum,Sziraki|Cerebellum granule neurons_10,2333,Zeng|5158,0.848855661,TRUE
+Sziraki,CB,Cerebellum,Sziraki|Cerebellum granule neurons_11,1088,Zeng|5158,0.683291731,TRUE
+Sziraki,CB,Cerebellum,Sziraki|Cerebellum granule neurons_12,7105,Zeng|5158,0.895334914,TRUE
+Sziraki,CB,Cerebellum,Sziraki|Cerebellum granule neurons_13,1544,Zeng|5158,0.824262372,TRUE
+Sziraki,CB,Cerebellum,Sziraki|Cerebellum granule neurons_14,361,Zeng|5158,0.819522406,TRUE
+Sziraki,CB,Cerebellum,Sziraki|Cerebellum granule neurons_15,1140,Zeng|5150,0.802202092,TRUE
+Sziraki,CB,Cerebellum,Sziraki|Cerebellum granule neurons_16,942,Zeng|3740,0.745509782,TRUE
+Sziraki,CB,Cerebellum,Sziraki|Cerebellum granule neurons_17,2573,Zeng|5158,0.816115096,TRUE
+Sziraki,CB,Cerebellum,Sziraki|Cerebellum granule neurons_18,484,Zeng|5158,0.712268063,TRUE
+Sziraki,CB,Cerebellum,Sziraki|Cerebellum granule neurons_19,128,Zeng|3155,0.938538821,FALSE
+Sziraki,CB,Cerebellum,Sziraki|Cerebellum granule neurons_2,2234,Zeng|5158,0.737239515,TRUE
+Sziraki,CB,Cerebellum,Sziraki|Cerebellum granule neurons_20,62,Zeng|4478,0.93423571,FALSE
+Sziraki,CB,Cerebellum,Sziraki|Cerebellum granule neurons_3,15863,Zeng|5158,0.862202808,TRUE
+Sziraki,CB,Cerebellum,Sziraki|Cerebellum granule neurons_4,28249,Zeng|5151,0.764067822,FALSE
+Sziraki,CB,Cerebellum,Sziraki|Cerebellum granule neurons_5,49436,Zeng|5157,0.885163356,FALSE
+Sziraki,CB,Cerebellum,Sziraki|Cerebellum granule neurons_6,3826,Zeng|5158,0.782341924,TRUE
+Sziraki,CB,Cerebellum,Sziraki|Cerebellum granule neurons_7,6817,Zeng|14930,0.720608981,FALSE
+Sziraki,CB,Cerebellum,Sziraki|Cerebellum granule neurons_8,1795,Zeng|5157,0.838996692,FALSE
+Sziraki,CB,Cerebellum,Sziraki|Cerebellum granule neurons_9,724,Zeng|5152,0.906198266,FALSE
+Sziraki,CB,Cerebellum,Sziraki|Cerebellum interneurons_1,446,Zeng|4162,0.997241748,FALSE
+Sziraki,CB,Cerebellum,Sziraki|Cerebellum interneurons_10,15,Zeng|4167,0.993423462,TRUE
+Sziraki,CB,Cerebellum,Sziraki|Cerebellum interneurons_2,1282,Zeng|4159,0.996531557,FALSE
+Sziraki,CB,Cerebellum,Sziraki|Cerebellum interneurons_3,1598,Zeng|4167,0.994883502,TRUE
+Sziraki,CB,Cerebellum,Sziraki|Cerebellum interneurons_4,1034,Zeng|4167,0.9894237,TRUE
+Sziraki,CB,Cerebellum,Sziraki|Cerebellum interneurons_5,1602,Zeng|4167,0.997332768,TRUE
+Sziraki,CB,Cerebellum,Sziraki|Cerebellum interneurons_6,289,Zeng|4167,0.856094994,TRUE
+Sziraki,CB,Cerebellum,Sziraki|Cerebellum interneurons_7,36,Zeng|4154,0.992320999,TRUE
+Sziraki,CB,Cerebellum,Sziraki|Cerebellum interneurons_8,225,Zeng|4162,0.99533095,FALSE
+Sziraki,CB,Cerebellum,Sziraki|Cerebellum interneurons_9,8,Zeng|4148,0.994983922,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Choroid plexus epithelial cells_1,232,Zeng|14984,0.998785054,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Choroid plexus epithelial cells_2,285,Zeng|14985,0.999762817,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Choroid plexus epithelial cells_3,58,Zeng|14985,0.997913058,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Choroid plexus epithelial cells_4,151,Zeng|14984,0.998890574,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Choroid plexus epithelial cells_5,24,Zeng|14984,0.998434409,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Choroid plexus epithelial cells_6,66,Zeng|14985,0.999113183,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Choroid plexus epithelial cells_7,2,Zeng|5149,1,FALSE
+Sziraki,Isocortex,Isocortex,Sziraki|Cortical projection neurons 1_1,1590,Zeng|465,0.990850242,TRUE
+Sziraki,Isocortex,Isocortex,Sziraki|Cortical projection neurons 1_10,1897,Zeng|398,0.992642291,FALSE
+Sziraki,Isocortex,Isocortex,Sziraki|Cortical projection neurons 1_11,2397,Zeng|199,0.993378912,FALSE
+Sziraki,Isocortex,Isocortex,Sziraki|Cortical projection neurons 1_12,951,Zeng|261,0.99906165,TRUE
+Sziraki,Isocortex,Isocortex,Sziraki|Cortical projection neurons 1_13,658,Zeng|372,0.997311085,TRUE
+Sziraki,Isocortex,Isocortex,Sziraki|Cortical projection neurons 1_14,1471,Zeng|287,0.993568508,FALSE
+Sziraki,Isocortex,Isocortex,Sziraki|Cortical projection neurons 1_15,319,Zeng|11,0.996991233,TRUE
+Sziraki,Isocortex,Isocortex,Sziraki|Cortical projection neurons 1_16,962,Zeng|255,0.997496332,FALSE
+Sziraki,Isocortex,Isocortex,Sziraki|Cortical projection neurons 1_17,254,Zeng|203,0.995286512,FALSE
+Sziraki,Isocortex,Isocortex,Sziraki|Cortical projection neurons 1_18,466,Zeng|305,0.997372417,FALSE
+Sziraki,Isocortex,Isocortex,Sziraki|Cortical projection neurons 1_19,85,Zeng|285,0.989121601,FALSE
+Sziraki,Isocortex,Isocortex,Sziraki|Cortical projection neurons 1_2,441,Zeng|118,0.994352849,FALSE
+Sziraki,Isocortex,Isocortex,Sziraki|Cortical projection neurons 1_20,134,Zeng|412,0.998599626,FALSE
+Sziraki,Isocortex,Isocortex,Sziraki|Cortical projection neurons 1_21,702,Zeng|313,0.998296487,FALSE
+Sziraki,Isocortex,Isocortex,Sziraki|Cortical projection neurons 1_22,210,Zeng|247,0.998772007,TRUE
+Sziraki,Isocortex,Isocortex,Sziraki|Cortical projection neurons 1_23,735,Zeng|315,0.998673198,FALSE
+Sziraki,Isocortex,Isocortex,Sziraki|Cortical projection neurons 1_24,50,Zeng|298,0.999996561,TRUE
+Sziraki,Isocortex,Isocortex,Sziraki|Cortical projection neurons 1_3,2153,Zeng|115,0.987971084,TRUE
+Sziraki,Isocortex,Isocortex,Sziraki|Cortical projection neurons 1_4,2796,Zeng|139,0.990219921,FALSE
+Sziraki,Isocortex,Isocortex,Sziraki|Cortical projection neurons 1_5,7224,Zeng|234,0.993446265,FALSE
+Sziraki,Isocortex,Isocortex,Sziraki|Cortical projection neurons 1_6,1170,Zeng|426,0.996152355,TRUE
+Sziraki,Isocortex,Isocortex,Sziraki|Cortical projection neurons 1_7,3427,Zeng|274,0.99452247,FALSE
+Sziraki,Isocortex,Isocortex,Sziraki|Cortical projection neurons 1_8,2704,Zeng|358,0.99461101,TRUE
+Sziraki,Isocortex,Isocortex,Sziraki|Cortical projection neurons 1_9,3652,Zeng|201,0.994159035,FALSE
+Sziraki,Isocortex,Isocortex,Sziraki|Cortical projection neurons 2_1,886,Zeng|72,0.997139395,TRUE
+Sziraki,Isocortex,Isocortex,Sziraki|Cortical projection neurons 2_10,266,Zeng|54,0.994904843,TRUE
+Sziraki,Isocortex,Isocortex,Sziraki|Cortical projection neurons 2_11,329,Zeng|43,0.998990078,TRUE
+Sziraki,Isocortex,Isocortex,Sziraki|Cortical projection neurons 2_12,370,Zeng|95,0.999519232,FALSE
+Sziraki,Isocortex,Isocortex,Sziraki|Cortical projection neurons 2_13,213,Zeng|73,0.996931502,TRUE
+Sziraki,Isocortex,Isocortex,Sziraki|Cortical projection neurons 2_14,37,Zeng|34,0.999284952,FALSE
+Sziraki,Isocortex,Isocortex,Sziraki|Cortical projection neurons 2_2,1729,Zeng|72,0.990763414,TRUE
+Sziraki,Isocortex,Isocortex,Sziraki|Cortical projection neurons 2_3,732,Zeng|44,0.998268039,FALSE
+Sziraki,Isocortex,Isocortex,Sziraki|Cortical projection neurons 2_4,754,Zeng|78,0.999462373,FALSE
+Sziraki,Isocortex,Isocortex,Sziraki|Cortical projection neurons 2_5,1077,Zeng|15,0.996650051,FALSE
+Sziraki,Isocortex,Isocortex,Sziraki|Cortical projection neurons 2_6,482,Zeng|70,0.995495895,TRUE
+Sziraki,Isocortex,Isocortex,Sziraki|Cortical projection neurons 2_7,189,Zeng|78,0.997798459,FALSE
+Sziraki,Isocortex,Isocortex,Sziraki|Cortical projection neurons 2_8,748,Zeng|24,0.997689169,FALSE
+Sziraki,Isocortex,Isocortex,Sziraki|Cortical projection neurons 2_9,85,Zeng|41,0.999967998,FALSE
+Sziraki,Isocortex,Isocortex,Sziraki|Cortical projection neurons 3_1,72,Zeng|143,0.999474738,FALSE
+Sziraki,Isocortex,Isocortex,Sziraki|Cortical projection neurons 3_2,64,Zeng|130,0.994241425,FALSE
+Sziraki,Isocortex,Isocortex,Sziraki|Cortical projection neurons 3_3,258,Zeng|130,0.999484416,FALSE
+Sziraki,Isocortex,Isocortex,Sziraki|Cortical projection neurons 3_4,125,Zeng|130,0.999096452,FALSE
+Sziraki,Isocortex,Isocortex,Sziraki|Cortical projection neurons 3_5,105,Zeng|143,0.992590567,FALSE
+Sziraki,Isocortex,Isocortex,Sziraki|Cortical projection neurons 3_6,90,Zeng|131,0.999331583,FALSE
+Sziraki,Isocortex,Isocortex,Sziraki|Cortical projection neurons 3_7,75,Zeng|131,0.992897648,FALSE
+Sziraki,Isocortex,Isocortex,Sziraki|Cortical projection neurons 3_8,110,Zeng|143,0.999535911,FALSE
+Sziraki,Isocortex,Isocortex,Sziraki|Cortical projection neurons 3_9,18,Zeng|129,0.999395632,FALSE
+Sziraki,HPF,Hippocampus,Sziraki|Dentate gyrus neurons_1,694,Zeng|1404,0.99022902,FALSE
+Sziraki,HPF,Hippocampus,Sziraki|Dentate gyrus neurons_2,1339,Zeng|1403,0.997281526,TRUE
+Sziraki,HPF,Hippocampus,Sziraki|Dentate gyrus neurons_3,344,Zeng|1404,0.991106364,FALSE
+Sziraki,HPF,Hippocampus,Sziraki|Dentate gyrus neurons_4,761,Zeng|1398,0.998822615,FALSE
+Sziraki,HPF,Hippocampus,Sziraki|Dentate gyrus neurons_5,1148,Zeng|1401,0.998756482,TRUE
+Sziraki,HPF,Hippocampus,Sziraki|Dentate gyrus neurons_6,52,Zeng|1400,0.996650565,FALSE
+Sziraki,HPF,Hippocampus,Sziraki|Dentate gyrus neurons_7,9,Zeng|1405,0.997030841,TRUE
+Sziraki,HPF,Hippocampus,Sziraki|Dentate gyrus neurons_8,80,Zeng|1406,0.999617666,TRUE
+Sziraki,HPF,Hippocampus,Sziraki|Dentate gyrus neurons_9,62,Zeng|1402,0.998188337,TRUE
+Sziraki,WMB,whole mouse brain,Sziraki|Endothelial cells_1,789,Zeng|5243,0.995747756,TRUE
+Sziraki,WMB,whole mouse brain,Sziraki|Endothelial cells_10,23,Zeng|5252,0.991848385,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Endothelial cells_11,42,Zeng|5244,0.980087776,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Endothelial cells_12,98,Zeng|5266,0.989727919,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Endothelial cells_13,123,Zeng|5254,0.990517056,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Endothelial cells_14,12,Zeng|5254,0.983797405,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Endothelial cells_15,6,Zeng|5252,0.979634254,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Endothelial cells_2,402,Zeng|5243,0.99846809,TRUE
+Sziraki,WMB,whole mouse brain,Sziraki|Endothelial cells_3,1347,Zeng|5254,0.95554846,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Endothelial cells_4,298,Zeng|5252,0.996970757,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Endothelial cells_5,482,Zeng|5254,0.969282639,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Endothelial cells_6,770,Zeng|5254,0.99812765,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Endothelial cells_7,199,Zeng|5255,0.995228183,TRUE
+Sziraki,WMB,whole mouse brain,Sziraki|Endothelial cells_8,17,Zeng|5254,0.965271198,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Endothelial cells_9,139,Zeng|5249,0.996128405,TRUE
+Sziraki,WMB,whole mouse brain,Sziraki|Ependymal cells_1,149,Zeng|14991,0.995197208,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Ependymal cells_2,209,Zeng|14993,0.991319255,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Ependymal cells_3,111,Zeng|14993,0.995025262,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Ependymal cells_4,39,Zeng|14998,0.988883611,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Ependymal cells_5,15,Zeng|14883,0.999610327,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Ependymal cells_6,15,Zeng|14991,0.995329931,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Ependymal cells_7,6,Zeng|14877,0.981347721,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Habenula neurons_1,116,Zeng|2892,0.999890421,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Habenula neurons_2,126,Zeng|2889,0.999789771,TRUE
+Sziraki,WMB,whole mouse brain,Sziraki|Habenula neurons_3,111,Zeng|2882,0.999943543,TRUE
+Sziraki,WMB,whole mouse brain,Sziraki|Habenula neurons_4,42,Zeng|2905,0.993474593,FALSE
+Sziraki,BS,Brain stem,Sziraki|Hindbrain neurons 1_1,142,Zeng|4157,0.998572747,FALSE
+Sziraki,BS,Brain stem,Sziraki|Hindbrain neurons 1_2,89,Zeng|4146,0.999755582,TRUE
+Sziraki,BS,Brain stem,Sziraki|Hindbrain neurons 1_3,128,Zeng|4163,0.999833228,TRUE
+Sziraki,BS,Brain stem,Sziraki|Hindbrain neurons 1_4,89,Zeng|4146,0.999791404,TRUE
+Sziraki,BS,Brain stem,Sziraki|Hindbrain neurons 2_1,94,Zeng|4218,0.981983195,TRUE
+Sziraki,BS,Brain stem,Sziraki|Hindbrain neurons 2_2,98,Zeng|4216,0.999209922,TRUE
+Sziraki,BS,Brain stem,Sziraki|Hindbrain neurons 2_3,226,Zeng|4218,0.999032158,TRUE
+Sziraki,BS,Brain stem,Sziraki|Hindbrain neurons 2_4,254,Zeng|4218,0.998917697,TRUE
+Sziraki,BS,Brain stem,Sziraki|Hindbrain neurons 2_5,88,Zeng|4218,0.998649705,TRUE
+Sziraki,BS,Brain stem,Sziraki|Hindbrain neurons 2_6,23,Zeng|4218,0.99855554,TRUE
+Sziraki,BS,Brain stem,Sziraki|Hindbrain neurons 2_7,34,Zeng|4218,0.998991086,TRUE
+Sziraki,WMB,whole mouse brain,Sziraki|Inferior olivary nucleus neurons_1,56,Zeng|3623,0.997753122,TRUE
+Sziraki,WMB,whole mouse brain,Sziraki|Inferior olivary nucleus neurons_2,50,Zeng|3623,0.999906875,TRUE
+Sziraki,WMB,whole mouse brain,Sziraki|Inferior olivary nucleus neurons_3,44,Zeng|3623,0.999857281,TRUE
+Sziraki,WMB,whole mouse brain,Sziraki|Inferior olivary nucleus neurons_4,19,Zeng|3623,0.999771272,TRUE
+Sziraki,MB,Midbrain,Sziraki|Interbrain and midbrain neurons 1_,5,Zeng|1978,0.815599839,TRUE
+Sziraki,MB,Midbrain,Sziraki|Interbrain and midbrain neurons 1_1,928,Zeng|5069,0.944365341,FALSE
+Sziraki,MB,Midbrain,Sziraki|Interbrain and midbrain neurons 1_10,298,Zeng|5128,0.996784451,FALSE
+Sziraki,MB,Midbrain,Sziraki|Interbrain and midbrain neurons 1_11,805,Zeng|1089,0.84201274,TRUE
+Sziraki,MB,Midbrain,Sziraki|Interbrain and midbrain neurons 1_12,786,Zeng|5091,0.997398824,FALSE
+Sziraki,MB,Midbrain,Sziraki|Interbrain and midbrain neurons 1_13,98,Zeng|5023,0.99816752,FALSE
+Sziraki,MB,Midbrain,Sziraki|Interbrain and midbrain neurons 1_14,32,Zeng|325,0.705278441,FALSE
+Sziraki,MB,Midbrain,Sziraki|Interbrain and midbrain neurons 1_15,40,Zeng|2763,0.893188525,FALSE
+Sziraki,MB,Midbrain,Sziraki|Interbrain and midbrain neurons 1_16,44,Zeng|2695,0.904194077,FALSE
+Sziraki,MB,Midbrain,Sziraki|Interbrain and midbrain neurons 1_2,3327,Zeng|631,0.783812465,FALSE
+Sziraki,MB,Midbrain,Sziraki|Interbrain and midbrain neurons 1_3,13467,Zeng|201,0.742818293,FALSE
+Sziraki,MB,Midbrain,Sziraki|Interbrain and midbrain neurons 1_4,821,Zeng|1089,0.821120688,TRUE
+Sziraki,MB,Midbrain,Sziraki|Interbrain and midbrain neurons 1_5,16620,Zeng|201,0.743652749,FALSE
+Sziraki,MB,Midbrain,Sziraki|Interbrain and midbrain neurons 1_6,1221,Zeng|5073,0.999796068,FALSE
+Sziraki,MB,Midbrain,Sziraki|Interbrain and midbrain neurons 1_7,3814,Zeng|631,0.773706188,FALSE
+Sziraki,MB,Midbrain,Sziraki|Interbrain and midbrain neurons 1_8,1748,Zeng|631,0.75438945,FALSE
+Sziraki,MB,Midbrain,Sziraki|Interbrain and midbrain neurons 1_9,49,Zeng|5021,0.998924869,FALSE
+Sziraki,MB,Midbrain,Sziraki|Interbrain and midbrain neurons 2_1,3075,Zeng|1883,0.981442451,FALSE
+Sziraki,MB,Midbrain,Sziraki|Interbrain and midbrain neurons 2_10,235,Zeng|4333,0.999870843,TRUE
+Sziraki,MB,Midbrain,Sziraki|Interbrain and midbrain neurons 2_11,236,Zeng|8799,0.982163709,FALSE
+Sziraki,MB,Midbrain,Sziraki|Interbrain and midbrain neurons 2_12,648,Zeng|4914,0.995406394,FALSE
+Sziraki,MB,Midbrain,Sziraki|Interbrain and midbrain neurons 2_13,337,Zeng|5106,0.996596525,FALSE
+Sziraki,MB,Midbrain,Sziraki|Interbrain and midbrain neurons 2_14,721,Zeng|4235,0.99181345,FALSE
+Sziraki,MB,Midbrain,Sziraki|Interbrain and midbrain neurons 2_15,97,Zeng|2764,0.990834305,TRUE
+Sziraki,MB,Midbrain,Sziraki|Interbrain and midbrain neurons 2_16,655,Zeng|4328,0.996102003,TRUE
+Sziraki,MB,Midbrain,Sziraki|Interbrain and midbrain neurons 2_17,208,Zeng|2847,0.996177505,FALSE
+Sziraki,MB,Midbrain,Sziraki|Interbrain and midbrain neurons 2_18,173,Zeng|584,0.998255183,TRUE
+Sziraki,MB,Midbrain,Sziraki|Interbrain and midbrain neurons 2_19,2240,Zeng|4587,0.991399059,FALSE
+Sziraki,MB,Midbrain,Sziraki|Interbrain and midbrain neurons 2_2,2913,Zeng|34138,0.991658846,TRUE
+Sziraki,MB,Midbrain,Sziraki|Interbrain and midbrain neurons 2_20,1224,Zeng|4455,0.987111239,FALSE
+Sziraki,MB,Midbrain,Sziraki|Interbrain and midbrain neurons 2_21,116,Zeng|2985,0.994560785,TRUE
+Sziraki,MB,Midbrain,Sziraki|Interbrain and midbrain neurons 2_22,181,Zeng|2465,0.982894583,TRUE
+Sziraki,MB,Midbrain,Sziraki|Interbrain and midbrain neurons 2_23,256,Zeng|2072,0.998129806,FALSE
+Sziraki,MB,Midbrain,Sziraki|Interbrain and midbrain neurons 2_24,185,Zeng|3591,0.999985597,FALSE
+Sziraki,MB,Midbrain,Sziraki|Interbrain and midbrain neurons 2_25,272,Zeng|2832,0.996609501,FALSE
+Sziraki,MB,Midbrain,Sziraki|Interbrain and midbrain neurons 2_26,136,Zeng|2173,0.996214305,FALSE
+Sziraki,MB,Midbrain,Sziraki|Interbrain and midbrain neurons 2_27,387,Zeng|1791,0.999451259,TRUE
+Sziraki,MB,Midbrain,Sziraki|Interbrain and midbrain neurons 2_28,474,Zeng|8176,0.994047107,TRUE
+Sziraki,MB,Midbrain,Sziraki|Interbrain and midbrain neurons 2_29,54,Zeng|8956,0.997885748,FALSE
+Sziraki,MB,Midbrain,Sziraki|Interbrain and midbrain neurons 2_3,3497,Zeng|3568,0.983038335,FALSE
+Sziraki,MB,Midbrain,Sziraki|Interbrain and midbrain neurons 2_30,667,Zeng|816,0.991106062,FALSE
+Sziraki,MB,Midbrain,Sziraki|Interbrain and midbrain neurons 2_31,152,Zeng|8956,0.991151168,FALSE
+Sziraki,MB,Midbrain,Sziraki|Interbrain and midbrain neurons 2_32,174,Zeng|4185,0.998231096,TRUE
+Sziraki,MB,Midbrain,Sziraki|Interbrain and midbrain neurons 2_33,73,Zeng|1912,0.995790161,FALSE
+Sziraki,MB,Midbrain,Sziraki|Interbrain and midbrain neurons 2_34,123,Zeng|2906,0.986595757,TRUE
+Sziraki,MB,Midbrain,Sziraki|Interbrain and midbrain neurons 2_35,32,Zeng|2641,0.999488635,FALSE
+Sziraki,MB,Midbrain,Sziraki|Interbrain and midbrain neurons 2_36,11,Zeng|1464,0.947530463,FALSE
+Sziraki,MB,Midbrain,Sziraki|Interbrain and midbrain neurons 2_4,6309,Zeng|4840,0.983053692,TRUE
+Sziraki,MB,Midbrain,Sziraki|Interbrain and midbrain neurons 2_5,2785,Zeng|1702,0.921585547,FALSE
+Sziraki,MB,Midbrain,Sziraki|Interbrain and midbrain neurons 2_6,1107,Zeng|1464,0.925975461,FALSE
+Sziraki,MB,Midbrain,Sziraki|Interbrain and midbrain neurons 2_7,508,Zeng|2408,0.985978986,FALSE
+Sziraki,MB,Midbrain,Sziraki|Interbrain and midbrain neurons 2_8,770,Zeng|2559,0.995723425,FALSE
+Sziraki,MB,Midbrain,Sziraki|Interbrain and midbrain neurons 2_9,882,Zeng|857,0.995825652,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Interneurons 1_1,482,Zeng|592,0.998698009,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Interneurons 1_10,752,Zeng|522,0.998855693,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Interneurons 1_11,353,Zeng|497,0.999231556,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Interneurons 1_12,260,Zeng|572,0.998436241,TRUE
+Sziraki,WMB,whole mouse brain,Sziraki|Interneurons 1_13,103,Zeng|767,0.99989849,TRUE
+Sziraki,WMB,whole mouse brain,Sziraki|Interneurons 1_14,194,Zeng|764,0.99932022,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Interneurons 1_15,15,Zeng|554,0.999839546,TRUE
+Sziraki,WMB,whole mouse brain,Sziraki|Interneurons 1_2,405,Zeng|594,0.998668429,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Interneurons 1_3,254,Zeng|538,0.99761119,TRUE
+Sziraki,WMB,whole mouse brain,Sziraki|Interneurons 1_4,1120,Zeng|599,0.998627198,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Interneurons 1_5,417,Zeng|514,0.996614532,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Interneurons 1_6,433,Zeng|529,0.998461616,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Interneurons 1_7,180,Zeng|614,0.995873442,TRUE
+Sziraki,WMB,whole mouse brain,Sziraki|Interneurons 1_8,306,Zeng|607,0.965128923,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Interneurons 1_9,376,Zeng|1126,0.998271696,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Interneurons 2_1,216,Zeng|667,0.99956856,TRUE
+Sziraki,WMB,whole mouse brain,Sziraki|Interneurons 2_10,338,Zeng|618,0.999169562,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Interneurons 2_11,292,Zeng|642,0.959864163,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Interneurons 2_12,197,Zeng|710,0.999353611,TRUE
+Sziraki,WMB,whole mouse brain,Sziraki|Interneurons 2_13,113,Zeng|624,0.994734532,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Interneurons 2_14,14,Zeng|626,0.999701868,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Interneurons 2_15,15,Zeng|672,0.999977454,TRUE
+Sziraki,WMB,whole mouse brain,Sziraki|Interneurons 2_2,363,Zeng|702,0.99877458,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Interneurons 2_3,249,Zeng|724,0.999275599,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Interneurons 2_4,117,Zeng|665,0.999597786,TRUE
+Sziraki,WMB,whole mouse brain,Sziraki|Interneurons 2_5,487,Zeng|704,0.999715792,TRUE
+Sziraki,WMB,whole mouse brain,Sziraki|Interneurons 2_6,399,Zeng|631,0.999705295,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Interneurons 2_7,163,Zeng|626,0.99963041,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Interneurons 2_8,163,Zeng|671,0.997897433,TRUE
+Sziraki,WMB,whole mouse brain,Sziraki|Interneurons 2_9,287,Zeng|692,0.99915096,TRUE
+Sziraki,WMB,whole mouse brain,Sziraki|Microglia_1,1313,Zeng|5283,0.979770952,TRUE
+Sziraki,WMB,whole mouse brain,Sziraki|Microglia_10,15,Zeng|5274,0.97844621,TRUE
+Sziraki,WMB,whole mouse brain,Sziraki|Microglia_11,22,Zeng|5268,0.996097381,TRUE
+Sziraki,WMB,whole mouse brain,Sziraki|Microglia_12,13,Zeng|5283,0.996222016,TRUE
+Sziraki,WMB,whole mouse brain,Sziraki|Microglia_13,12,Zeng|5268,0.982294808,TRUE
+Sziraki,WMB,whole mouse brain,Sziraki|Microglia_2,812,Zeng|5283,0.997366352,TRUE
+Sziraki,WMB,whole mouse brain,Sziraki|Microglia_3,592,Zeng|5283,0.99727656,TRUE
+Sziraki,WMB,whole mouse brain,Sziraki|Microglia_4,129,Zeng|5267,0.994138071,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Microglia_5,342,Zeng|5283,0.997090425,TRUE
+Sziraki,WMB,whole mouse brain,Sziraki|Microglia_6,125,Zeng|5273,0.980598844,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Microglia_7,331,Zeng|5283,0.997034756,TRUE
+Sziraki,WMB,whole mouse brain,Sziraki|Microglia_8,98,Zeng|5283,0.979160971,TRUE
+Sziraki,WMB,whole mouse brain,Sziraki|Microglia_9,24,Zeng|5278,0.996207915,FALSE
+Sziraki,OLF,Olfactory bulb,Sziraki|OB neurons 1_1,36,Zeng|1286,0.999673922,TRUE
+Sziraki,OLF,Olfactory bulb,Sziraki|OB neurons 1_10,451,Zeng|1306,0.999340732,TRUE
+Sziraki,OLF,Olfactory bulb,Sziraki|OB neurons 1_11,512,Zeng|1350,0.99945692,TRUE
+Sziraki,OLF,Olfactory bulb,Sziraki|OB neurons 1_12,40,Zeng|1288,0.999984287,TRUE
+Sziraki,OLF,Olfactory bulb,Sziraki|OB neurons 1_13,128,Zeng|1330,0.963897147,FALSE
+Sziraki,OLF,Olfactory bulb,Sziraki|OB neurons 1_14,42,Zeng|1336,0.998813886,TRUE
+Sziraki,OLF,Olfactory bulb,Sziraki|OB neurons 1_15,15,Zeng|1287,0.999207313,TRUE
+Sziraki,OLF,Olfactory bulb,Sziraki|OB neurons 1_16,82,Zeng|1325,0.999146555,TRUE
+Sziraki,OLF,Olfactory bulb,Sziraki|OB neurons 1_17,130,Zeng|1369,0.999474395,TRUE
+Sziraki,OLF,Olfactory bulb,Sziraki|OB neurons 1_2,419,Zeng|1317,0.998265843,FALSE
+Sziraki,OLF,Olfactory bulb,Sziraki|OB neurons 1_3,373,Zeng|1313,0.998673392,FALSE
+Sziraki,OLF,Olfactory bulb,Sziraki|OB neurons 1_4,90,Zeng|1258,0.999867889,TRUE
+Sziraki,OLF,Olfactory bulb,Sziraki|OB neurons 1_5,139,Zeng|1308,0.999089541,TRUE
+Sziraki,OLF,Olfactory bulb,Sziraki|OB neurons 1_6,503,Zeng|1328,0.998157755,FALSE
+Sziraki,OLF,Olfactory bulb,Sziraki|OB neurons 1_7,56,Zeng|1299,0.99982721,TRUE
+Sziraki,OLF,Olfactory bulb,Sziraki|OB neurons 1_8,143,Zeng|1321,0.999848054,TRUE
+Sziraki,OLF,Olfactory bulb,Sziraki|OB neurons 1_9,239,Zeng|1304,0.998836273,FALSE
+Sziraki,OLF,Olfactory bulb,Sziraki|OB neurons 2_1,46,Zeng|1387,0.999908521,TRUE
+Sziraki,OLF,Olfactory bulb,Sziraki|OB neurons 2_10,34,Zeng|1380,0.999968085,FALSE
+Sziraki,OLF,Olfactory bulb,Sziraki|OB neurons 2_2,80,Zeng|1390,0.999826186,TRUE
+Sziraki,OLF,Olfactory bulb,Sziraki|OB neurons 2_3,142,Zeng|1385,0.999880796,TRUE
+Sziraki,OLF,Olfactory bulb,Sziraki|OB neurons 2_4,31,Zeng|1383,0.999939086,TRUE
+Sziraki,OLF,Olfactory bulb,Sziraki|OB neurons 2_5,46,Zeng|1313,0.941316063,FALSE
+Sziraki,OLF,Olfactory bulb,Sziraki|OB neurons 2_6,20,Zeng|1395,0.994218087,TRUE
+Sziraki,OLF,Olfactory bulb,Sziraki|OB neurons 2_7,24,Zeng|1375,0.999965475,TRUE
+Sziraki,OLF,Olfactory bulb,Sziraki|OB neurons 2_8,64,Zeng|1373,0.99988188,FALSE
+Sziraki,OLF,Olfactory bulb,Sziraki|OB neurons 2_9,77,Zeng|1394,0.999980195,FALSE
+Sziraki,OLF,Olfactory bulb,Sziraki|OB neurons 3_1,66,Zeng|2873,0.999970916,TRUE
+Sziraki,OLF,Olfactory bulb,Sziraki|OB neurons 3_2,27,Zeng|2764,0.999994781,TRUE
+Sziraki,OLF,Olfactory bulb,Sziraki|OB neurons 3_3,34,Zeng|2694,0.999971567,TRUE
+Sziraki,OLF,Olfactory bulb,Sziraki|OB neurons 3_4,48,Zeng|2876,0.999998767,FALSE
+Sziraki,OLF,Olfactory bulb,Sziraki|OB neurons 3_5,19,Zeng|2873,0.999656612,TRUE
+Sziraki,OLF,Olfactory bulb,Sziraki|OB neurons 3_6,20,Zeng|2874,0.999956175,FALSE
+Sziraki,OLF,Olfactory bulb,Sziraki|OB neurons 3_7,28,Zeng|2871,0.999914945,FALSE
+Sziraki,OLF,Olfactory bulb,Sziraki|OB neurons 3_8,23,Zeng|2872,0.999742306,TRUE
+Sziraki,WMB,whole mouse brain,Sziraki|Oligodendrocyte progenitor cells_1,1571,Zeng|5205,0.99753064,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Oligodendrocyte progenitor cells_10,15,Zeng|5204,0.994800659,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Oligodendrocyte progenitor cells_2,367,Zeng|5204,0.986277307,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Oligodendrocyte progenitor cells_3,1293,Zeng|5206,0.996773304,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Oligodendrocyte progenitor cells_4,176,Zeng|5205,0.99446765,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Oligodendrocyte progenitor cells_5,799,Zeng|5204,0.991942307,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Oligodendrocyte progenitor cells_6,229,Zeng|5211,0.998725334,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Oligodendrocyte progenitor cells_7,188,Zeng|5205,0.936677255,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Oligodendrocyte progenitor cells_8,61,Zeng|5203,0.985030156,TRUE
+Sziraki,WMB,whole mouse brain,Sziraki|Oligodendrocyte progenitor cells_9,45,Zeng|5203,0.99088687,TRUE
+Sziraki,WMB,whole mouse brain,Sziraki|Oligodendrocytes_1,4380,Zeng|5231,0.959142348,TRUE
+Sziraki,WMB,whole mouse brain,Sziraki|Oligodendrocytes_10,379,Zeng|5233,0.971858952,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Oligodendrocytes_2,3252,Zeng|5233,0.982832417,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Oligodendrocytes_3,4000,Zeng|5232,0.985387331,TRUE
+Sziraki,WMB,whole mouse brain,Sziraki|Oligodendrocytes_4,5456,Zeng|5233,0.976388257,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Oligodendrocytes_5,2522,Zeng|5232,0.991082701,TRUE
+Sziraki,WMB,whole mouse brain,Sziraki|Oligodendrocytes_6,849,Zeng|5236,0.994887959,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Oligodendrocytes_7,139,Zeng|5232,0.969086408,TRUE
+Sziraki,WMB,whole mouse brain,Sziraki|Oligodendrocytes_8,229,Zeng|5233,0.970528041,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Oligodendrocytes_9,514,Zeng|5233,0.972953422,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Pituitary cells_1,412,Zeng|1426,0.995510527,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Pituitary cells_2,410,Zeng|1426,0.993411898,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Pituitary cells_3,283,Zeng|1426,0.995424426,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Pituitary cells_4,92,Zeng|1431,0.986490088,TRUE
+Sziraki,WMB,whole mouse brain,Sziraki|Pituitary cells_5,78,Zeng|1430,0.99692927,TRUE
+Sziraki,WMB,whole mouse brain,Sziraki|Pituitary cells_6,43,Zeng|1426,0.997291949,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Purkinje neurons_1,551,Zeng|9391,0.929921747,TRUE
+Sziraki,WMB,whole mouse brain,Sziraki|Purkinje neurons_10,77,Zeng|4153,0.999191599,TRUE
+Sziraki,WMB,whole mouse brain,Sziraki|Purkinje neurons_11,25,Zeng|4153,0.999866523,TRUE
+Sziraki,WMB,whole mouse brain,Sziraki|Purkinje neurons_12,15,Zeng|9390,0.997330342,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Purkinje neurons_2,661,Zeng|9391,0.900950616,TRUE
+Sziraki,WMB,whole mouse brain,Sziraki|Purkinje neurons_3,318,Zeng|9391,0.996096884,TRUE
+Sziraki,WMB,whole mouse brain,Sziraki|Purkinje neurons_4,282,Zeng|9391,0.99942915,TRUE
+Sziraki,WMB,whole mouse brain,Sziraki|Purkinje neurons_5,242,Zeng|9391,0.97665802,TRUE
+Sziraki,WMB,whole mouse brain,Sziraki|Purkinje neurons_6,10,Zeng|9384,0.998571155,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Purkinje neurons_7,460,Zeng|9384,0.999382287,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Purkinje neurons_8,70,Zeng|9384,0.998855603,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Purkinje neurons_9,208,Zeng|9391,0.996165603,TRUE
+Sziraki,STR,Striatum,Sziraki|Striatal neurons 1_1,2509,Zeng|1092,0.995236761,TRUE
+Sziraki,STR,Striatum,Sziraki|Striatal neurons 1_10,796,Zeng|1261,0.997172719,TRUE
+Sziraki,STR,Striatum,Sziraki|Striatal neurons 1_11,245,Zeng|1089,0.98264732,TRUE
+Sziraki,STR,Striatum,Sziraki|Striatal neurons 1_12,266,Zeng|1064,0.990341148,FALSE
+Sziraki,STR,Striatum,Sziraki|Striatal neurons 1_13,127,Zeng|1072,0.98997838,FALSE
+Sziraki,STR,Striatum,Sziraki|Striatal neurons 1_2,633,Zeng|1074,0.993942469,TRUE
+Sziraki,STR,Striatum,Sziraki|Striatal neurons 1_3,503,Zeng|1259,0.993737478,TRUE
+Sziraki,STR,Striatum,Sziraki|Striatal neurons 1_4,818,Zeng|1193,0.992584544,FALSE
+Sziraki,STR,Striatum,Sziraki|Striatal neurons 1_5,586,Zeng|1071,0.992629783,FALSE
+Sziraki,STR,Striatum,Sziraki|Striatal neurons 1_6,2061,Zeng|1089,0.994906063,TRUE
+Sziraki,STR,Striatum,Sziraki|Striatal neurons 1_7,706,Zeng|1078,0.992577686,TRUE
+Sziraki,STR,Striatum,Sziraki|Striatal neurons 1_8,310,Zeng|1192,0.996499829,TRUE
+Sziraki,STR,Striatum,Sziraki|Striatal neurons 1_9,626,Zeng|1090,0.992521039,TRUE
+Sziraki,STR,Striatum,Sziraki|Striatal neurons 2_1,141,Zeng|1194,0.999642632,TRUE
+Sziraki,STR,Striatum,Sziraki|Striatal neurons 2_2,57,Zeng|1194,0.999234426,TRUE
+Sziraki,STR,Striatum,Sziraki|Striatal neurons 2_3,80,Zeng|1194,0.998386136,TRUE
+Sziraki,STR,Striatum,Sziraki|Striatal neurons 2_4,52,Zeng|1194,0.999864383,TRUE
+Sziraki,WMB,whole mouse brain,Sziraki|Unipolar brush cells_1,118,Zeng|5153,0.999522188,TRUE
+Sziraki,WMB,whole mouse brain,Sziraki|Unipolar brush cells_2,121,Zeng|5156,0.999927449,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Unipolar brush cells_3,107,Zeng|5153,0.999820242,TRUE
+Sziraki,WMB,whole mouse brain,Sziraki|Vascular leptomeningeal cells_1,382,Zeng|5263,0.995796799,TRUE
+Sziraki,WMB,whole mouse brain,Sziraki|Vascular leptomeningeal cells_10,67,Zeng|5258,0.997179629,TRUE
+Sziraki,WMB,whole mouse brain,Sziraki|Vascular leptomeningeal cells_11,88,Zeng|5261,0.993567053,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Vascular leptomeningeal cells_12,37,Zeng|14883,0.978827426,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Vascular leptomeningeal cells_2,22,Zeng|14917,0.999668974,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Vascular leptomeningeal cells_3,473,Zeng|5256,0.996741825,TRUE
+Sziraki,WMB,whole mouse brain,Sziraki|Vascular leptomeningeal cells_4,61,Zeng|5241,0.997706643,TRUE
+Sziraki,WMB,whole mouse brain,Sziraki|Vascular leptomeningeal cells_5,224,Zeng|5260,0.997638203,TRUE
+Sziraki,WMB,whole mouse brain,Sziraki|Vascular leptomeningeal cells_6,22,Zeng|5264,0.99872573,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Vascular leptomeningeal cells_7,125,Zeng|5261,0.99801886,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Vascular leptomeningeal cells_8,30,Zeng|5267,0.978467282,FALSE
+Sziraki,WMB,whole mouse brain,Sziraki|Vascular leptomeningeal cells_9,142,Zeng|5260,0.978414331,TRUE
+Barseq,WMB,whole mouse brain,Barseq|AON DL/PIR A,5910,Zeng|281,0.973748248,TRUE
+Barseq,WMB,whole mouse brain,Barseq|AON UL,875,Zeng|294,0.979171922,TRUE
+Barseq,WMB,whole mouse brain,Barseq|AONm,3684,Zeng|376,0.92593738,FALSE
+Barseq,WMB,whole mouse brain,Barseq|BLA/PA/TTd?,10152,Zeng|446,0.973488514,TRUE
+Barseq,WMB,whole mouse brain,Barseq|CA1,11606,Zeng|344,0.978523411,FALSE
+Barseq,WMB,whole mouse brain,Barseq|CA2,2531,Zeng|434,0.984000118,FALSE
+Barseq,WMB,whole mouse brain,Barseq|CA3,9090,Zeng|432,0.990948195,FALSE
+Barseq,WMB,whole mouse brain,Barseq|CA4,1475,Zeng|418,0.964521621,TRUE
+Barseq,WMB,whole mouse brain,Barseq|Car3 CLA/EPd,1872,Zeng|129,0.993943317,FALSE
+Barseq,WMB,whole mouse brain,Barseq|Car3 CTX DL,2643,Zeng|143,0.996177176,FALSE
+Barseq,WMB,whole mouse brain,Barseq|Car3 CTX P-L,3022,Zeng|130,0.990319841,FALSE
+Barseq,WMB,whole mouse brain,Barseq|Car3 CTX UL,2696,Zeng|143,0.996731671,FALSE
+Barseq,WMB,whole mouse brain,Barseq|Car3 EPd/CLA,3426,Zeng|128,0.994937949,TRUE
+Barseq,WMB,whole mouse brain,Barseq|COAp L1,4714,Zeng|451,0.973883296,FALSE
+Barseq,WMB,whole mouse brain,Barseq|COAp L2/3,6674,Zeng|462,0.968539488,FALSE
+Barseq,WMB,whole mouse brain,Barseq|CT CTX A,14487,Zeng|69,0.976493733,FALSE
+Barseq,WMB,whole mouse brain,Barseq|CT CTX A/ACA,14924,Zeng|65,0.968831654,TRUE
+Barseq,WMB,whole mouse brain,Barseq|CT CTX P/RSP,14221,Zeng|72,0.966177082,TRUE
+Barseq,WMB,whole mouse brain,Barseq|CT CTX UL,15459,Zeng|69,0.968993258,FALSE
+Barseq,WMB,whole mouse brain,Barseq|CT RSP,12046,Zeng|75,0.969244486,TRUE
+Barseq,WMB,whole mouse brain,Barseq|CT Unclear,2566,Zeng|68,0.963890567,TRUE
+Barseq,WMB,whole mouse brain,Barseq|DG,1954,Zeng|1405,0.982552368,TRUE
+Barseq,WMB,whole mouse brain,Barseq|ECT P_1?,2335,Zeng|255,0.990425897,FALSE
+Barseq,WMB,whole mouse brain,Barseq|ECT P_2?,2423,Zeng|251,0.990122596,TRUE
+Barseq,WMB,whole mouse brain,Barseq|ENT DL-D/EPv,6385,Zeng|145,0.974963011,TRUE
+Barseq,WMB,whole mouse brain,Barseq|ENT DL-V/BLAv,6437,Zeng|97,0.971018769,FALSE
+Barseq,WMB,whole mouse brain,Barseq|ENT?,3001,Zeng|248,0.989373485,FALSE
+Barseq,WMB,whole mouse brain,Barseq|ENTl L1,3130,Zeng|260,0.997209708,TRUE
+Barseq,WMB,whole mouse brain,Barseq|ENTl L2/3 D,1259,Zeng|254,0.967681629,FALSE
+Barseq,WMB,whole mouse brain,Barseq|ENTl L2/3 V,2147,Zeng|209,0.943985648,FALSE
+Barseq,WMB,whole mouse brain,Barseq|EPd,8020,Zeng|117,0.970629971,FALSE
+Barseq,WMB,whole mouse brain,Barseq|GABA_1,1562,Zeng|24730,0.98157507,FALSE
+Barseq,WMB,whole mouse brain,Barseq|GABA_2,3056,Zeng|1795,0.997110927,TRUE
+Barseq,WMB,whole mouse brain,Barseq|GABA_3,80306,Zeng|34185,0.897320268,FALSE
+Barseq,WMB,whole mouse brain,Barseq|GABA_4,80593,Zeng|1089,0.990460962,TRUE
+Barseq,WMB,whole mouse brain,Barseq|GABA_5,52330,Zeng|1070,0.950980487,FALSE
+Barseq,WMB,whole mouse brain,Barseq|IT LQ_1,42,Zeng|1362,0.84506932,FALSE
+Barseq,WMB,whole mouse brain,Barseq|IT LQ_2,57,Zeng|14930,0.903928971,FALSE
+Barseq,WMB,whole mouse brain,Barseq|IT LQ_3,42,Zeng|1359,0.881793968,FALSE
+Barseq,WMB,whole mouse brain,Barseq|IT LQ_4,51,Zeng|199,0.874722014,FALSE
+Barseq,WMB,whole mouse brain,Barseq|IT LQ_5,17,Zeng|5254,0.961451228,FALSE
+Barseq,WMB,whole mouse brain,Barseq|IT_12_4,1046,Zeng|2873,0.831063271,TRUE
+Barseq,WMB,whole mouse brain,Barseq|IT_12_6,455,Zeng|38,0.982226825,TRUE
+Barseq,WMB,whole mouse brain,Barseq|L2/3 IT DL,18088,Zeng|205,0.941583027,FALSE
+Barseq,WMB,whole mouse brain,Barseq|L2/3 IT M,10416,Zeng|236,0.953977842,FALSE
+Barseq,WMB,whole mouse brain,Barseq|L2/3 IT M-L/PIR,20181,Zeng|239,0.965600834,FALSE
+Barseq,WMB,whole mouse brain,Barseq|L2/3 IT ML-A,21435,Zeng|232,0.951844012,TRUE
+Barseq,WMB,whole mouse brain,Barseq|L2/3 IT ML-P,19550,Zeng|234,0.953798456,FALSE
+Barseq,WMB,whole mouse brain,Barseq|L2/3 IT UL-P/ENT,24801,Zeng|233,0.975494615,FALSE
+Barseq,WMB,whole mouse brain,Barseq|L2/3 IT Unclear,2030,Zeng|234,0.894461494,FALSE
+Barseq,WMB,whole mouse brain,Barseq|L4/5 IT DL,8039,Zeng|176,0.975073482,TRUE
+Barseq,WMB,whole mouse brain,Barseq|L4/5 IT M,1682,Zeng|5272,0.8284246,TRUE
+Barseq,WMB,whole mouse brain,Barseq|L4/5 IT M-L,22617,Zeng|154,0.943278766,FALSE
+Barseq,WMB,whole mouse brain,Barseq|L4/5 IT ML-A,19956,Zeng|184,0.974389963,FALSE
+Barseq,WMB,whole mouse brain,Barseq|L4/5 IT ML-P,21030,Zeng|188,0.95959002,TRUE
+Barseq,WMB,whole mouse brain,Barseq|L4/5 IT P-L/LA,9479,Zeng|199,0.968315874,FALSE
+Barseq,WMB,whole mouse brain,Barseq|L4/5 IT UL,18196,Zeng|184,0.967427806,FALSE
+Barseq,WMB,whole mouse brain,Barseq|L5 IT AUD?,306,Zeng|377,0.973833104,TRUE
+Barseq,WMB,whole mouse brain,Barseq|L5 IT DL,8636,Zeng|170,0.961682941,FALSE
+Barseq,WMB,whole mouse brain,Barseq|L5 IT M,6913,Zeng|169,0.97168428,FALSE
+Barseq,WMB,whole mouse brain,Barseq|L5 IT P RSP/PT-like?,299,Zeng|394,0.984917852,FALSE
+Barseq,WMB,whole mouse brain,Barseq|L5 IT UL,5400,Zeng|175,0.967832291,FALSE
+Barseq,WMB,whole mouse brain,Barseq|L6 IT DL,11330,Zeng|139,0.979679397,FALSE
+Barseq,WMB,whole mouse brain,Barseq|L6 IT L,10803,Zeng|102,0.950745374,TRUE
+Barseq,WMB,whole mouse brain,Barseq|L6 IT ML-A,10204,Zeng|141,0.962462306,TRUE
+Barseq,WMB,whole mouse brain,Barseq|L6 IT ML-P,10242,Zeng|142,0.961131131,FALSE
+Barseq,WMB,whole mouse brain,Barseq|L6 IT UL,12569,Zeng|108,0.935671282,FALSE
+Barseq,WMB,whole mouse brain,Barseq|L6b CTX A/L-V,5410,Zeng|15,0.964701802,FALSE
+Barseq,WMB,whole mouse brain,Barseq|L6b CTX P,3741,Zeng|30,0.995528189,TRUE
+Barseq,WMB,whole mouse brain,Barseq|L6b CTX UL,2195,Zeng|33,0.992820348,FALSE
+Barseq,WMB,whole mouse brain,Barseq|L6b CTXA A/EPd?,5361,Zeng|36,0.995586277,TRUE
+Barseq,WMB,whole mouse brain,Barseq|L6b ENTl,7566,Zeng|46,0.988207906,TRUE
+Barseq,WMB,whole mouse brain,Barseq|L6b EPd,3499,Zeng|18,0.991427273,FALSE
+Barseq,WMB,whole mouse brain,Barseq|L6b PIR DL,864,Zeng|2575,0.979425485,FALSE
+Barseq,WMB,whole mouse brain,Barseq|LA D,1615,Zeng|474,0.97938809,TRUE
+Barseq,WMB,whole mouse brain,Barseq|Lamp5,15043,Zeng|704,0.981683216,TRUE
+Barseq,WMB,whole mouse brain,Barseq|Meis2-like,19525,Zeng|1330,0.889318579,FALSE
+Barseq,WMB,whole mouse brain,Barseq|MH D,153,Zeng|2878,0.989933107,TRUE
+Barseq,WMB,whole mouse brain,Barseq|MH V-L,462,Zeng|2891,0.997774823,FALSE
+Barseq,WMB,whole mouse brain,Barseq|MH V-M,458,Zeng|2893,0.999374166,FALSE
+Barseq,WMB,whole mouse brain,Barseq|MOB UL,1816,Zeng|2873,0.994655171,TRUE
+Barseq,WMB,whole mouse brain,Barseq|NP CTX L5,4168,Zeng|81,0.989756404,FALSE
+Barseq,WMB,whole mouse brain,Barseq|NP CTX L6/M/L,3117,Zeng|76,0.990648468,FALSE
+Barseq,WMB,whole mouse brain,Barseq|NP POST,815,Zeng|40,0.957797838,FALSE
+Barseq,WMB,whole mouse brain,Barseq|NP RSP,2193,Zeng|87,0.979549001,TRUE
+Barseq,WMB,whole mouse brain,Barseq|NP SUBd-sp,3322,Zeng|94,0.990653199,FALSE
+Barseq,WMB,whole mouse brain,Barseq|NP SUBv-sp/RSP/CTX L,4262,Zeng|87,0.973080017,TRUE
+Barseq,WMB,whole mouse brain,Barseq|OLF BA?,790,Zeng|298,0.977502483,TRUE
+Barseq,WMB,whole mouse brain,Barseq|P D?,2848,Zeng|4218,0.991418733,TRUE
+Barseq,WMB,whole mouse brain,Barseq|P V?,3904,Zeng|4218,0.953298942,TRUE
+Barseq,WMB,whole mouse brain,Barseq|PARA,3176,Zeng|309,0.953739775,FALSE
+Barseq,WMB,whole mouse brain,Barseq|PARA?,1484,Zeng|305,0.996399315,FALSE
+Barseq,WMB,whole mouse brain,Barseq|PIR L1 DL-A-V,7868,Zeng|272,0.976247499,TRUE
+Barseq,WMB,whole mouse brain,Barseq|PIR L1 DL-P,9759,Zeng|224,0.970348456,FALSE
+Barseq,WMB,whole mouse brain,Barseq|PIR L1 UL,4533,Zeng|261,0.986264108,TRUE
+Barseq,WMB,whole mouse brain,Barseq|PIR L2/3,6227,Zeng|217,0.944303211,FALSE
+Barseq,WMB,whole mouse brain,Barseq|PIR L3 A?,534,Zeng|285,0.949133431,FALSE
+Barseq,WMB,whole mouse brain,Barseq|PIR L5-IT-like/BLAa,3602,Zeng|467,0.969790339,FALSE
+Barseq,WMB,whole mouse brain,Barseq|POST,832,Zeng|10,0.975727563,FALSE
+Barseq,WMB,whole mouse brain,Barseq|PRE,5217,Zeng|312,0.988448123,TRUE
+Barseq,WMB,whole mouse brain,Barseq|PT CTX A-M/L,3921,Zeng|381,0.983921238,FALSE
+Barseq,WMB,whole mouse brain,Barseq|PT CTX M/RSPd A,1354,Zeng|386,0.926985825,FALSE
+Barseq,WMB,whole mouse brain,Barseq|PT CTX ML,3477,Zeng|403,0.987793356,FALSE
+Barseq,WMB,whole mouse brain,Barseq|PT CTX MOp/s DL,3285,Zeng|393,0.985223501,FALSE
+Barseq,WMB,whole mouse brain,Barseq|PT CTX P,3850,Zeng|400,0.988171538,FALSE
+Barseq,WMB,whole mouse brain,Barseq|PT CTX UL,4100,Zeng|402,0.990679709,FALSE
+Barseq,WMB,whole mouse brain,Barseq|PT CTX Unclear,242,Zeng|397,0.990011464,FALSE
+Barseq,WMB,whole mouse brain,Barseq|PT POST/RSPv,3165,Zeng|410,0.984099189,FALSE
+Barseq,WMB,whole mouse brain,Barseq|PT RSPd P/RSPagl/CTX P-L,5071,Zeng|379,0.988576279,FALSE
+Barseq,WMB,whole mouse brain,Barseq|Pvalb,58678,Zeng|606,0.967428229,FALSE
+Barseq,WMB,whole mouse brain,Barseq|RSP DL_1,702,Zeng|413,0.997625805,TRUE
+Barseq,WMB,whole mouse brain,Barseq|RSP DL_2,1017,Zeng|413,0.988671614,TRUE
+Barseq,WMB,whole mouse brain,Barseq|RSP DL_3,877,Zeng|413,0.998325257,TRUE
+Barseq,WMB,whole mouse brain,Barseq|RSP DL_4,884,Zeng|413,0.992155526,TRUE
+Barseq,WMB,whole mouse brain,Barseq|RSP DL_5,391,Zeng|413,0.998424091,TRUE
+Barseq,WMB,whole mouse brain,Barseq|RSP DL_6,4263,Zeng|202,0.983591316,TRUE
+Barseq,WMB,whole mouse brain,Barseq|RSPd UL,4132,Zeng|299,0.983250029,TRUE
+Barseq,WMB,whole mouse brain,Barseq|RSPv UL,6018,Zeng|315,0.993250223,FALSE
+Barseq,WMB,whole mouse brain,Barseq|Sst,27879,Zeng|506,0.988341772,FALSE
+Barseq,WMB,whole mouse brain,Barseq|Sst Chodl-like,62699,Zeng|1595,0.915629877,FALSE
+Barseq,WMB,whole mouse brain,Barseq|SUB P?,890,Zeng|372,0.992055667,TRUE
+Barseq,WMB,whole mouse brain,Barseq|SubCTX_1,131348,Zeng|2614,0.898922541,FALSE
+Barseq,WMB,whole mouse brain,Barseq|SubCTX_2,1696,Zeng|14885,0.938486698,FALSE
+Barseq,WMB,whole mouse brain,Barseq|SubCTX_3,38714,Zeng|5072,0.992844385,FALSE
+Barseq,WMB,whole mouse brain,Barseq|SubCTX_4,9291,Zeng|5231,0.969869211,TRUE
+Barseq,WMB,whole mouse brain,Barseq|SubCTX_5,1577,Zeng|586,0.991235118,TRUE
+Barseq,WMB,whole mouse brain,Barseq|SubCTX_6,5095,Zeng|14984,0.998629394,FALSE
+Barseq,WMB,whole mouse brain,Barseq|SubCTX_7,1256,Zeng|2866,0.978779504,TRUE
+Barseq,WMB,whole mouse brain,Barseq|SUBd-m,723,Zeng|340,0.996103361,FALSE
+Barseq,WMB,whole mouse brain,Barseq|SUBd-sp,769,Zeng|339,0.986178805,FALSE
+Barseq,WMB,whole mouse brain,Barseq|SUBd-sr,990,Zeng|341,0.997705842,TRUE
+Barseq,WMB,whole mouse brain,Barseq|SUBv?,6907,Zeng|333,0.985211106,TRUE
+Barseq,WMB,whole mouse brain,Barseq|TH AD?,640,Zeng|5021,0.979533587,FALSE
+Barseq,WMB,whole mouse brain,Barseq|TT/PIR A,5805,Zeng|288,0.909578515,TRUE
+Barseq,WMB,whole mouse brain,Barseq|Vip/Sncg,26268,Zeng|649,0.918721067,TRUE
+Fei,WMB,whole mouse brain,Fei|Astrocyte_Agt high,77,Zeng|14965,0.983973613,TRUE
+Fei,WMB,whole mouse brain,Fei|Astrocyte_Mfe8 high,104,Zeng|14954,0.987456494,FALSE
+Fei,WMB,whole mouse brain,Fei|Astrocyte_Pla2g7 high,18,Zeng|14975,0.988695412,FALSE
+Fei,WMB,whole mouse brain,Fei|Astrocyte_Slc1a3 high,30,Zeng|14873,0.995508982,TRUE
+Fei,WMB,whole mouse brain,Fei|Ciliated ependymal cell,9,Zeng|14991,0.999751799,FALSE
+Fei,WMB,whole mouse brain,Fei|Ependymal cell_Ttr high,16,Zeng|14985,0.998523744,FALSE
+Fei,WMB,whole mouse brain,Fei|GABAergic neuron,26,Zeng|1359,0.997459544,FALSE
+Fei,WMB,whole mouse brain,Fei|Granulocyte_S100a9 high,16,Zeng|2765,0.785103804,FALSE
+Fei,WMB,whole mouse brain,Fei|Microglia_Hexb high,338,Zeng|5283,0.949780106,TRUE
+Fei,WMB,whole mouse brain,Fei|Microglia_Klf2 high,88,Zeng|5275,0.952456847,TRUE
+Fei,WMB,whole mouse brain,Fei|Monocyte_Lyz2 high,36,Zeng|5273,0.967460714,FALSE
+Fei,WMB,whole mouse brain,Fei|Neuron_Meg3 high,48,Zeng|393,0.947091688,FALSE
+Fei,WMB,whole mouse brain,Fei|Neutrophil,10,Zeng|1065,0.981479643,TRUE
+Fei,WMB,whole mouse brain,Fei|Oligodendrocyte,3150,Zeng|5231,0.958951451,TRUE
+Fei,WMB,whole mouse brain,Fei|Oligodendrocyte progenitor cell,72,Zeng|5204,0.992673839,FALSE
