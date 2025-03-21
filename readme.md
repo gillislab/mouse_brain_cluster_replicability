@@ -46,7 +46,11 @@ This repository contains the code and analysis for "Cluster Replicability in Sin
 - make_pretrained_using_full_merged.ipynb: creates MetaNeighbor pretrained models for both the highly variable gene set and the 109 BARseq gene panel. The highly variable gene set requires a large memory machine (>400GB).  
 - run_on_barseq_pretrained.R: runs pretrained models against the BARseq clusters.  
 - examine_barseq_pretrained_results.R: analyzes BARseq pretrained output and generates Supplement Table 5.  
-- Figure_5_plot_BARseq_clusters.R: plots individual BARseq clusters.  
+- Figure_5_plot_BARseq_clusters.R: plots individual BARseq clusters.
+- Figure_5_plot_region_heatmap.R: plots heatmap of proportion of cells in each brain region mapping to best reciprocal hits (relative to average).
+- Figure_5_plot_AUROC_vs_phylo.R: plots average AUROC of clusters in each non-mouse species mapping to Zeng/Macosko clusters.
+- Figure_5_get_cross_species_results.R: get summary of cross-species clusters mapping to best reciprocal hits.
+- Figure_5_plot_boxplot_clustergraph.R: plots distribution of AUROC of cross-species clusters by level of evolutionary conservation with mouse, and cluster graph of conserved clusters.
 - meta_markers_in_parts.R: generates metamarkers for the two atlases.  
 - meta_markers_in_reciprocals.R: calculates markers recurrent in both datasets based on Metaneighbor best reciprocal hits.  
 - MetaMarkers_greedy_AUC_tests.ipynb: greedily tests markers for each cluster.  
