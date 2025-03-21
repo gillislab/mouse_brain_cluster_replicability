@@ -1,0 +1,1205 @@
+study_id,species,cluster,level1_anno,level2_anno,count,celltype
+Tosches,turtle,e01,Neuron,ExN,71,Tosches_turtle|e01
+Tosches,turtle,e02,Neuron,ExN,492,Tosches_turtle|e02
+Tosches,turtle,e03,Neuron,ExN,104,Tosches_turtle|e03
+Tosches,turtle,e04,Neuron,ExN,73,Tosches_turtle|e04
+Tosches,turtle,e05,Neuron,ExN,134,Tosches_turtle|e05
+Tosches,turtle,e06,Neuron,ExN,58,Tosches_turtle|e06
+Tosches,turtle,e07,Neuron,ExN,48,Tosches_turtle|e07
+Tosches,turtle,e08,Neuron,ExN,39,Tosches_turtle|e08
+Tosches,turtle,e09,Neuron,ExN,28,Tosches_turtle|e09
+Tosches,turtle,e10,Neuron,ExN,66,Tosches_turtle|e10
+Tosches,turtle,e11,Neuron,ExN,123,Tosches_turtle|e11
+Tosches,turtle,e12,Neuron,ExN,98,Tosches_turtle|e12
+Tosches,turtle,e13,Neuron,ExN,169,Tosches_turtle|e13
+Tosches,turtle,e14,Neuron,ExN,166,Tosches_turtle|e14
+Tosches,turtle,e15,Neuron,ExN,116,Tosches_turtle|e15
+Tosches,turtle,e16,Neuron,ExN,105,Tosches_turtle|e16
+Tosches,turtle,e17,Neuron,ExN,479,Tosches_turtle|e17
+Tosches,turtle,e18,Neuron,ExN,327,Tosches_turtle|e18
+Tosches,turtle,e19,Neuron,ExN,718,Tosches_turtle|e19
+Tosches,turtle,e20,Neuron,ExN,65,Tosches_turtle|e20
+Tosches,turtle,e21,Neuron,ExN,84,Tosches_turtle|e21
+Tosches,turtle,e22,Neuron,ExN,66,Tosches_turtle|e22
+Tosches,turtle,e23,Neuron,ExN,53,Tosches_turtle|e23
+Tosches,turtle,e24,Neuron,ExN,110,Tosches_turtle|e24
+Tosches,turtle,e25,Neuron,ExN,79,Tosches_turtle|e25
+Tosches,turtle,e26,Neuron,ExN,49,Tosches_turtle|e26
+Tosches,turtle,e27,Neuron,ExN,121,Tosches_turtle|e27
+Tosches,turtle,e28,Neuron,ExN,82,Tosches_turtle|e28
+Tosches,turtle,e29,Neuron,ExN,68,Tosches_turtle|e29
+Tosches,turtle,e30,Neuron,ExN,105,Tosches_turtle|e30
+Tosches,turtle,e31,Neuron,ExN,99,Tosches_turtle|e31
+Tosches,turtle,e32,Neuron,ExN,80,Tosches_turtle|e32
+Tosches,turtle,e33,Neuron,ExN,60,Tosches_turtle|e33
+Tosches,turtle,e34,Neuron,ExN,59,Tosches_turtle|e34
+Tosches,turtle,e35,Neuron,ExN,84,Tosches_turtle|e35
+Tosches,turtle,e36,Neuron,ExN,102,Tosches_turtle|e36
+Tosches,turtle,e37,Neuron,ExN,106,Tosches_turtle|e37
+Tosches,turtle,e38,Neuron,ExN,70,Tosches_turtle|e38
+Tosches,turtle,i01,Neuron,LGE InN,33,Tosches_turtle|i01
+Tosches,turtle,i02,Neuron,septum InN,49,Tosches_turtle|i02
+Tosches,turtle,i03,Neuron,septum InN,25,Tosches_turtle|i03
+Tosches,turtle,i04,Neuron,LGE InN,41,Tosches_turtle|i04
+Tosches,turtle,i05,Neuron,LGE InN,67,Tosches_turtle|i05
+Tosches,turtle,i06,Neuron,LGE InN,57,Tosches_turtle|i06
+Tosches,turtle,i07,Neuron,MGE InN,8,Tosches_turtle|i07
+Tosches,turtle,i08,Neuron,MGE InN,34,Tosches_turtle|i08
+Tosches,turtle,i09,Neuron,MGE InN,47,Tosches_turtle|i09
+Tosches,turtle,i10,Neuron,MGE InN,36,Tosches_turtle|i10
+Tosches,turtle,i11,Neuron,MGE InN,26,Tosches_turtle|i11
+Tosches,turtle,i12,Neuron,MGE InN,39,Tosches_turtle|i12
+Tosches,turtle,i13,Neuron,MGE InN,23,Tosches_turtle|i13
+Tosches,turtle,i14,Neuron,CGE InN,31,Tosches_turtle|i14
+Tosches,turtle,i15,Neuron,CGE InN,35,Tosches_turtle|i15
+Tosches,turtle,i16,Neuron,CGE InN,34,Tosches_turtle|i16
+Tosches,turtle,i17,Neuron,CGE InN,36,Tosches_turtle|i17
+Tosches,turtle,i18,Neuron,CGE InN,19,Tosches_turtle|i18
+Tosches,turtle,tsEG,Non-neuron,Ependymal,6514,Tosches_turtle|tsEG
+Tosches,turtle,tsExc1,Neuron,ExN,103,Tosches_turtle|tsExc1
+Tosches,turtle,tsExc2,Neuron,ExN,366,Tosches_turtle|tsExc2
+Tosches,turtle,tsExc3,Neuron,ExN,326,Tosches_turtle|tsExc3
+Tosches,turtle,tsExc4,Neuron,ExN,877,Tosches_turtle|tsExc4
+Tosches,turtle,tsExc5,Neuron,ExN,528,Tosches_turtle|tsExc5
+Tosches,turtle,tsInh1,Neuron,ExN,551,Tosches_turtle|tsInh1
+Tosches,turtle,tsInh2,Neuron,ExN,295,Tosches_turtle|tsInh2
+Tosches,turtle,tsLeuB,Non-neuron,Immune,36,Tosches_turtle|tsLeuB
+Tosches,turtle,tsLeuT,Non-neuron,Immune,36,Tosches_turtle|tsLeuT
+Tosches,turtle,tsMG,Non-neuron,Immune,589,Tosches_turtle|tsMG
+Tosches,turtle,tsMur,Non-neuron,Vascular,114,Tosches_turtle|tsMur
+Tosches,turtle,tsNPCs,Non-neuron,Neural_progenitor,717,Tosches_turtle|tsNPCs
+Tosches,turtle,tsOPC,Non-neuron,OPC,1862,Tosches_turtle|tsOPC
+Tosches,turtle,tsOlig,Non-neuron,Oligo,155,Tosches_turtle|tsOlig
+Tosches,lizard,e01,Neuron,ExN,21,Tosches_lizard|e01
+Tosches,lizard,e02,Neuron,ExN,85,Tosches_lizard|e02
+Tosches,lizard,e03,Neuron,ExN,141,Tosches_lizard|e03
+Tosches,lizard,e04,Neuron,ExN,44,Tosches_lizard|e04
+Tosches,lizard,e05,Neuron,ExN,134,Tosches_lizard|e05
+Tosches,lizard,e06,Neuron,ExN,106,Tosches_lizard|e06
+Tosches,lizard,e07,Neuron,ExN,14,Tosches_lizard|e07
+Tosches,lizard,e08,Neuron,ExN,62,Tosches_lizard|e08
+Tosches,lizard,e09,Neuron,ExN,19,Tosches_lizard|e09
+Tosches,lizard,e10,Neuron,ExN,38,Tosches_lizard|e10
+Tosches,lizard,e11,Neuron,ExN,16,Tosches_lizard|e11
+Tosches,lizard,e12,Neuron,ExN,41,Tosches_lizard|e12
+Tosches,lizard,e13,Neuron,ExN,21,Tosches_lizard|e13
+Tosches,lizard,e14,Neuron,ExN,33,Tosches_lizard|e14
+Tosches,lizard,e15,Neuron,ExN,48,Tosches_lizard|e15
+Tosches,lizard,e16,Neuron,ExN,13,Tosches_lizard|e16
+Tosches,lizard,e17,Neuron,ExN,61,Tosches_lizard|e17
+Tosches,lizard,e18,Neuron,ExN,73,Tosches_lizard|e18
+Tosches,lizard,i01,Neuron,MGE InN,34,Tosches_lizard|i01
+Tosches,lizard,i02,Neuron,MGE InN,19,Tosches_lizard|i02
+Tosches,lizard,i03,Neuron,MGE InN,24,Tosches_lizard|i03
+Tosches,lizard,i04,Neuron,CGE InN,52,Tosches_lizard|i04
+Tosches,lizard,i05,Neuron,LGE InN,21,Tosches_lizard|i05
+Tosches,lizard,pvEG,Non-neuron,Ependymal,520,Tosches_lizard|pvEG
+Tosches,lizard,pvExc1,Neuron,ExN,18,Tosches_lizard|pvExc1
+Tosches,lizard,pvExc2,Neuron,ExN,659,Tosches_lizard|pvExc2
+Tosches,lizard,pvExc3,Neuron,ExN,199,Tosches_lizard|pvExc3
+Tosches,lizard,pvExc4,Neuron,ExN,59,Tosches_lizard|pvExc4
+Tosches,lizard,pvInh1,Neuron,ExN,68,Tosches_lizard|pvInh1
+Tosches,lizard,pvInh2,Neuron,ExN,31,Tosches_lizard|pvInh2
+Tosches,lizard,pvLeu,Non-neuron,Immune,95,Tosches_lizard|pvLeu
+Tosches,lizard,pvMG,Non-neuron,Immune,278,Tosches_lizard|pvMG
+Tosches,lizard,pvMur,Non-neuron,Vascular,42,Tosches_lizard|pvMur
+Tosches,lizard,pvNPC,Non-neuron,Neural_progenitor,131,Tosches_lizard|pvNPC
+Tosches,lizard,pvOPC,Non-neuron,OPC,398,Tosches_lizard|pvOPC
+Tosches,lizard,pvOlig,Non-neuron,Oligo,551,Tosches_lizard|pvOlig
+Tosches,lizard,pvVend,Non-neuron,Vascular,18,Tosches_lizard|pvVend
+Franjic,pig,Astro,Non-neuron,Astrocyte,2229,Franjic_pig|Astro
+Franjic,pig,CA1 Sub,Neuron,ExN,2756,Franjic_pig|CA1 Sub
+Franjic,pig,CA2-3,Neuron,ExN,1879,Franjic_pig|CA2-3
+Franjic,pig,GC,Neuron,ExN,2889,Franjic_pig|GC
+Franjic,pig,InN,Neuron,InN,2553,Franjic_pig|InN
+Franjic,pig,MC,Neuron,ExN,148,Franjic_pig|MC
+Franjic,pig,NB,Neuron,Neural_progenitor,1606,Franjic_pig|NB
+Franjic,pig,OPC,Non-neuron,OPC,1963,Franjic_pig|OPC
+Franjic,pig,Oligo,Non-neuron,Oligo,15321,Franjic_pig|Oligo
+Franjic,pig,RGL,Neuron,Neural_progenitor,8,Franjic_pig|RGL
+Franjic,pig,Vas,Non-neuron,Vascular,746,Franjic_pig|Vas
+Franjic,pig,immune,Non-neuron,Immune,4749,Franjic_pig|immune
+Franjic,pig,nIPC,Neuron,Neural_progenitor,4,Franjic_pig|nIPC
+Franjic,rhesus,Astro,Non-neuron,Astrocyte,4196,Franjic_rhesus|Astro
+Franjic,rhesus,CA1 Sub,Neuron,ExN,1100,Franjic_rhesus|CA1 Sub
+Franjic,rhesus,CA2-3,Neuron,ExN,3653,Franjic_rhesus|CA2-3
+Franjic,rhesus,CR,Neuron,InN,71,Franjic_rhesus|CR
+Franjic,rhesus,GC,Neuron,ExN,19803,Franjic_rhesus|GC
+Franjic,rhesus,InN,Neuron,InN,2554,Franjic_rhesus|InN
+Franjic,rhesus,MC,Neuron,ExN,402,Franjic_rhesus|MC
+Franjic,rhesus,NB,Neuron,Neural_progenitor,400,Franjic_rhesus|NB
+Franjic,rhesus,OPC,Non-neuron,OPC,1596,Franjic_rhesus|OPC
+Franjic,rhesus,Oligo,Non-neuron,Oligo,1388,Franjic_rhesus|Oligo
+Franjic,rhesus,RGL,Neuron,Neural_progenitor,7,Franjic_rhesus|RGL
+Franjic,rhesus,Vas,Non-neuron,Vascular,221,Franjic_rhesus|Vas
+Franjic,rhesus,immune,Non-neuron,Immune,693,Franjic_rhesus|immune
+Franjic,rhesus,nIPC,Neuron,Neural_progenitor,23,Franjic_rhesus|nIPC
+Franjic,human,Astro AQP4 CHRDL1,Non-neuron,Astrocyte,12538,Franjic_human|Astro AQP4 CHRDL1
+Franjic,human,Astro AQP4 GFAP,Non-neuron,Astrocyte,17256,Franjic_human|Astro AQP4 GFAP
+Franjic,human,CA1 dorsal GRIK1 GRM3,Neuron,ExN,2993,Franjic_human|CA1 dorsal GRIK1 GRM3
+Franjic,human,CA1 ventral ACVR1C SYT13,Neuron,ExN,2204,Franjic_human|CA1 ventral ACVR1C SYT13
+Franjic,human,CA2 CFAP299 HGF,Neuron,ExN,108,Franjic_human|CA2 CFAP299 HGF
+Franjic,human,CA3 CFAP299 SYN3,Neuron,ExN,4229,Franjic_human|CA3 CFAP299 SYN3
+Franjic,human,COP GPR17 ADAM33,Non-neuron,OPC,328,Franjic_human|COP GPR17 ADAM33
+Franjic,human,CR RELN NDNF,Neuron,InN,31,Franjic_human|CR RELN NDNF
+Franjic,human,DG GC PROX1 PDLIM5,Neuron,ExN,4470,Franjic_human|DG GC PROX1 PDLIM5
+Franjic,human,DG GC PROX1 SGCZ,Neuron,ExN,29537,Franjic_human|DG GC PROX1 SGCZ
+Franjic,human,DG MC ARHGAP24 DLC1,Neuron,ExN,444,Franjic_human|DG MC ARHGAP24 DLC1
+Franjic,human,EC L2 CUX2 CALB1,Neuron,ExN,4001,Franjic_human|EC L2 CUX2 CALB1
+Franjic,human,EC L2 CUX2 IL1RAPL2,Neuron,ExN,687,Franjic_human|EC L2 CUX2 IL1RAPL2
+Franjic,human,EC L2 CUX2 LAMA3,Neuron,ExN,705,Franjic_human|EC L2 CUX2 LAMA3
+Franjic,human,EC L2 CUX2 PDGFD,Neuron,ExN,196,Franjic_human|EC L2 CUX2 PDGFD
+Franjic,human,EC L2 RELN BCL11B,Neuron,ExN,197,Franjic_human|EC L2 RELN BCL11B
+Franjic,human,EC L2 RELN BMPR1B,Neuron,ExN,141,Franjic_human|EC L2 RELN BMPR1B
+Franjic,human,EC L3 PCP4 ADARB2,Neuron,ExN,554,Franjic_human|EC L3 PCP4 ADARB2
+Franjic,human,EC L5 BCL11B ADRA1A,Neuron,ExN,83,Franjic_human|EC L5 BCL11B ADRA1A
+Franjic,human,EC L5 RORB TLL1,Neuron,ExN,1443,Franjic_human|EC L5 RORB TLL1
+Franjic,human,EC L5 RORB TPBG,Neuron,ExN,311,Franjic_human|EC L5 RORB TPBG
+Franjic,human,EC L56 TLE4 NXPH2,Neuron,ExN,98,Franjic_human|EC L56 TLE4 NXPH2
+Franjic,human,EC L6 THEMIS CDH13,Neuron,ExN,724,Franjic_human|EC L6 THEMIS CDH13
+Franjic,human,EC L6 THEMIS RGS12,Neuron,ExN,87,Franjic_human|EC L6 THEMIS RGS12
+Franjic,human,EC L6 TLE4 SULF1,Neuron,ExN,515,Franjic_human|EC L6 TLE4 SULF1
+Franjic,human,EC L6b TLE4 CCN2,Neuron,ExN,232,Franjic_human|EC L6b TLE4 CCN2
+Franjic,human,Endo CLDN5 VWF,Non-neuron,Vascular,3458,Franjic_human|Endo CLDN5 VWF
+Franjic,human,InN LAMP5 CHST9,Neuron,CGE InN,1703,Franjic_human|InN LAMP5 CHST9
+Franjic,human,InN LAMP5 KIT,Neuron,CGE InN,1005,Franjic_human|InN LAMP5 KIT
+Franjic,human,InN LAMP5 NMBR,Neuron,CGE InN,489,Franjic_human|InN LAMP5 NMBR
+Franjic,human,InN LHX6 AC008415.1,Neuron,MGE InN,294,Franjic_human|InN LHX6 AC008415.1
+Franjic,human,InN MEIS2 SHISAL2B,Neuron,LGE InN,90,Franjic_human|InN MEIS2 SHISAL2B
+Franjic,human,InN NR2F2 ANO2,Neuron,CGE InN,445,Franjic_human|InN NR2F2 ANO2
+Franjic,human,InN NR2F2 DDR2,Neuron,CGE InN,208,Franjic_human|InN NR2F2 DDR2
+Franjic,human,InN NR2F2 MIR4300HG,Neuron,CGE InN,352,Franjic_human|InN NR2F2 MIR4300HG
+Franjic,human,InN NR2F2 PTPRK,Neuron,CGE InN,246,Franjic_human|InN NR2F2 PTPRK
+Franjic,human,InN NR2F2 SLC17A8,Neuron,CGE InN,760,Franjic_human|InN NR2F2 SLC17A8
+Franjic,human,InN PVALB MEPE,Neuron,MGE InN,835,Franjic_human|InN PVALB MEPE
+Franjic,human,InN PVALB PLCL1,Neuron,MGE InN,673,Franjic_human|InN PVALB PLCL1
+Franjic,human,InN PVALB PLEKHH2,Neuron,MGE InN,563,Franjic_human|InN PVALB PLEKHH2
+Franjic,human,InN SST ADAMTS12,Neuron,MGE InN,639,Franjic_human|InN SST ADAMTS12
+Franjic,human,InN SST EPB41L4A,Neuron,MGE InN,568,Franjic_human|InN SST EPB41L4A
+Franjic,human,InN SST NPY,Neuron,MGE InN,46,Franjic_human|InN SST NPY
+Franjic,human,InN SST OTOF,Neuron,MGE InN,562,Franjic_human|InN SST OTOF
+Franjic,human,InN VIP ABI3BP,Neuron,CGE InN,1217,Franjic_human|InN VIP ABI3BP
+Franjic,human,InN VIP CHRNA2,Neuron,CGE InN,457,Franjic_human|InN VIP CHRNA2
+Franjic,human,InN VIP NOX4,Neuron,CGE InN,749,Franjic_human|InN VIP NOX4
+Franjic,human,InN VIP PENK,Neuron,CGE InN,445,Franjic_human|InN VIP PENK
+Franjic,human,InN VIP SCML4,Neuron,CGE InN,496,Franjic_human|InN VIP SCML4
+Franjic,human,InN VIP SCTR,Neuron,CGE InN,700,Franjic_human|InN VIP SCTR
+Franjic,human,Macro F13A1 COLEC12,Non-neuron,Immune,273,Franjic_human|Macro F13A1 COLEC12
+Franjic,human,Micro C1QB CD83,Non-neuron,Immune,2223,Franjic_human|Micro C1QB CD83
+Franjic,human,Micro C1QB P2RY12,Non-neuron,Immune,14233,Franjic_human|Micro C1QB P2RY12
+Franjic,human,Myeloid LSP1 LYZ,Non-neuron,Immune,67,Franjic_human|Myeloid LSP1 LYZ
+Franjic,human,OPC PDGFRA EGR1,Non-neuron,OPC,2661,Franjic_human|OPC PDGFRA EGR1
+Franjic,human,OPC PDGFRA GRIA4,Non-neuron,OPC,17438,Franjic_human|OPC PDGFRA GRIA4
+Franjic,human,Oligo CPXM2 KANK4,Non-neuron,Oligo,5426,Franjic_human|Oligo CPXM2 KANK4
+Franjic,human,Oligo OPALIN LAMA2,Non-neuron,Oligo,36017,Franjic_human|Oligo OPALIN LAMA2
+Franjic,human,Oligo OPALIN LINC01098,Non-neuron,Oligo,3405,Franjic_human|Oligo OPALIN LINC01098
+Franjic,human,Oligo OPALIN SLC5A11,Non-neuron,Oligo,30843,Franjic_human|Oligo OPALIN SLC5A11
+Franjic,human,PC CLDN5 ABCC9,Non-neuron,Vascular,742,Franjic_human|PC CLDN5 ABCC9
+Franjic,human,SUB distal FN1 NTNG1,Neuron,ExN,433,Franjic_human|SUB distal FN1 NTNG1
+Franjic,human,SUB proximal ROBO1 COL5A2,Neuron,ExN,1192,Franjic_human|SUB proximal ROBO1 COL5A2
+Franjic,human,SUB proximal ROBO1 SEMA3E,Neuron,ExN,304,Franjic_human|SUB proximal ROBO1 SEMA3E
+Franjic,human,T SKAP1 CD247,Non-neuron,Immune,479,Franjic_human|T SKAP1 CD247
+Franjic,human,VLMC COL1A1 COL1A2,Non-neuron,Vascular,679,Franjic_human|VLMC COL1A1 COL1A2
+Franjic,human,aEndo DKK2 FBLN5,Non-neuron,Vascular,169,Franjic_human|aEndo DKK2 FBLN5
+Franjic,human,aSMC ACTA2 TAGLN,Non-neuron,Vascular,572,Franjic_human|aSMC ACTA2 TAGLN
+Franjic,human,vSMC ABCC9 P2RY14,Non-neuron,Vascular,790,Franjic_human|vSMC ABCC9 P2RY14
+Sepp,human,GC,Neuron,ExN,23047,Sepp_human|GC
+Sepp,human,Purkinje,Neuron,ExN,1,Sepp_human|Purkinje
+Sepp,human,astroglia,Neuron,Neural_progenitor,1403,Sepp_human|astroglia
+Sepp,human,erythroid,Non-neuron,Other,2,Sepp_human|erythroid
+Sepp,human,glutamatergic_uncertain,Neuron,ExN,1107,Sepp_human|glutamatergic_uncertain
+Sepp,human,immune,Non-neuron,Immune,1131,Sepp_human|immune
+Sepp,human,interneuron,Neuron,InN,782,Sepp_human|interneuron
+Sepp,human,meningeal,Non-neuron,Vascular,21,Sepp_human|meningeal
+Sepp,human,mural/endoth,Non-neuron,Vascular,12,Sepp_human|mural/endoth
+Sepp,human,oligo,Non-neuron,Oligo,9847,Sepp_human|oligo
+Sepp,human,other,Non-neuron,Other,213,Sepp_human|other
+Sepp,opossum,GC,Neuron,ExN,9368,Sepp_opossum|GC
+Sepp,opossum,GC/UBC,Neuron,ExN,2,Sepp_opossum|GC/UBC
+Sepp,opossum,Purkinje,Neuron,Purkinje,19,Sepp_opossum|Purkinje
+Sepp,opossum,UBC,Neuron,ExN,9,Sepp_opossum|UBC
+Sepp,opossum,astroglia,Neuron,Neural_progenitor,179,Sepp_opossum|astroglia
+Sepp,opossum,ependymal,Non-neuron,Ependymal,16,Sepp_opossum|ependymal
+Sepp,opossum,immune,Non-neuron,Immune,66,Sepp_opossum|immune
+Sepp,opossum,interneuron,Neuron,InN,398,Sepp_opossum|interneuron
+Sepp,opossum,meningeal,Non-neuron,Vascular,9,Sepp_opossum|meningeal
+Sepp,opossum,oligo,Non-neuron,Oligo,244,Sepp_opossum|oligo
+Sepp,opossum,other,Non-neuron,Other,1275,Sepp_opossum|other
+Lamanna, Left Habenula (LH),DeExc1,Neuron,ExN,126,Lamanna_ Left Habenula (LH)|DeExc1
+Lamanna, Right Habenula (RH),DeExc2,Neuron,ExN,315,Lamanna_ Right Habenula (RH)|DeExc2
+Lamanna, Right Habenula (RH),DeExc3,Neuron,ExN,84,Lamanna_ Right Habenula (RH)|DeExc3
+Lamanna,lamprey,Chor1,Non-neuron,Other,241,Lamanna_lamprey|Chor1
+Lamanna,lamprey,Chor2,Non-neuron,Other,137,Lamanna_lamprey|Chor2
+Lamanna,lamprey,Chor3,Non-neuron,Other,89,Lamanna_lamprey|Chor3
+Lamanna,lamprey,Chor4,Non-neuron,Other,195,Lamanna_lamprey|Chor4
+Lamanna,lamprey,DMAstro1,Non-neuron,Astrocyte,640,Lamanna_lamprey|DMAstro1
+Lamanna,lamprey,DMEpen1,Non-neuron,Ependymal,634,Lamanna_lamprey|DMEpen1
+Lamanna,lamprey,DeAstro1,Non-neuron,Astrocyte,331,Lamanna_lamprey|DeAstro1
+Lamanna,lamprey,DeAstroepen1,Non-neuron,Astrocyte,175,Lamanna_lamprey|DeAstroepen1
+Lamanna,lamprey,DeAstroepen2,Non-neuron,Astrocyte,391,Lamanna_lamprey|DeAstroepen2
+Lamanna,lamprey,DeChol1,Neuron,Cholinergic,63,Lamanna_lamprey|DeChol1
+Lamanna,lamprey,DeChol2,Neuron,Cholinergic,203,Lamanna_lamprey|DeChol2
+Lamanna,lamprey,DeChol3,Neuron,Cholinergic,1730,Lamanna_lamprey|DeChol3
+Lamanna,lamprey,DeChol4,Neuron,Cholinergic,58,Lamanna_lamprey|DeChol4
+Lamanna,lamprey,DeEpen1,Non-neuron,Ependymal,108,Lamanna_lamprey|DeEpen1
+Lamanna,lamprey,DeEpen2,Non-neuron,Ependymal,115,Lamanna_lamprey|DeEpen2
+Lamanna,lamprey,DeEpen3,Non-neuron,Ependymal,292,Lamanna_lamprey|DeEpen3
+Lamanna,lamprey,DeEpen4,Non-neuron,Ependymal,871,Lamanna_lamprey|DeEpen4
+Lamanna,lamprey,DeEpen5,Non-neuron,Ependymal,245,Lamanna_lamprey|DeEpen5
+Lamanna,lamprey,DeExc4,Neuron,ExN,96,Lamanna_lamprey|DeExc4
+Lamanna,lamprey,DeExc5,Neuron,ExN,370,Lamanna_lamprey|DeExc5
+Lamanna,lamprey,DeHypen1,Non-neuron,Other,1578,Lamanna_lamprey|DeHypen1
+Lamanna,lamprey,DeInh1,Neuron,InN,139,Lamanna_lamprey|DeInh1
+Lamanna,lamprey,DeInh2,Neuron,InN,152,Lamanna_lamprey|DeInh2
+Lamanna,lamprey,DeInh3,Neuron,InN,138,Lamanna_lamprey|DeInh3
+Lamanna,lamprey,DeInh4,Neuron,InN,164,Lamanna_lamprey|DeInh4
+Lamanna,lamprey,DeInh5,Neuron,InN,192,Lamanna_lamprey|DeInh5
+Lamanna,lamprey,DeInh6,Neuron,InN,58,Lamanna_lamprey|DeInh6
+Lamanna,lamprey,DeInh7,Neuron,InN,179,Lamanna_lamprey|DeInh7
+Lamanna,lamprey,DeInh8,Neuron,InN,154,Lamanna_lamprey|DeInh8
+Lamanna,lamprey,DeInh9,Neuron,InN,121,Lamanna_lamprey|DeInh9
+Lamanna,lamprey,DeMono1,Neuron,Monoaminergic,179,Lamanna_lamprey|DeMono1
+Lamanna,lamprey,DeMono2,Neuron,Monoaminergic,102,Lamanna_lamprey|DeMono2
+Lamanna,lamprey,DeMono3,Neuron,Monoaminergic,183,Lamanna_lamprey|DeMono3
+Lamanna,lamprey,DeNeb1,Neuron,Neural_progenitor,187,Lamanna_lamprey|DeNeb1
+Lamanna,lamprey,DeNeb2,Neuron,Neural_progenitor,118,Lamanna_lamprey|DeNeb2
+Lamanna,lamprey,DeNeb3,Neuron,Neural_progenitor,158,Lamanna_lamprey|DeNeb3
+Lamanna,lamprey,DeNeb4,Neuron,Neural_progenitor,96,Lamanna_lamprey|DeNeb4
+Lamanna,lamprey,DeNeb5,Neuron,Neural_progenitor,216,Lamanna_lamprey|DeNeb5
+Lamanna,lamprey,DePep1,Neuron,Peptidergic,200,Lamanna_lamprey|DePep1
+Lamanna,lamprey,DePep10,Neuron,Peptidergic,54,Lamanna_lamprey|DePep10
+Lamanna,lamprey,DePep2,Neuron,Peptidergic,203,Lamanna_lamprey|DePep2
+Lamanna,lamprey,DePep3,Neuron,Peptidergic,135,Lamanna_lamprey|DePep3
+Lamanna,lamprey,DePep4,Neuron,Peptidergic,234,Lamanna_lamprey|DePep4
+Lamanna,lamprey,DePep5,Neuron,Peptidergic,120,Lamanna_lamprey|DePep5
+Lamanna,lamprey,DePep6,Neuron,Peptidergic,91,Lamanna_lamprey|DePep6
+Lamanna,lamprey,DePep7,Neuron,Peptidergic,37,Lamanna_lamprey|DePep7
+Lamanna,lamprey,DePep8,Neuron,Peptidergic,173,Lamanna_lamprey|DePep8
+Lamanna,lamprey,DePep9,Neuron,Peptidergic,104,Lamanna_lamprey|DePep9
+Lamanna,lamprey,DePigm1,Non-neuron,Other,151,Lamanna_lamprey|DePigm1
+Lamanna,lamprey,DePigm2,Non-neuron,Other,214,Lamanna_lamprey|DePigm2
+Lamanna,lamprey,DeProl1,Non-neuron,Other,21,Lamanna_lamprey|DeProl1
+Lamanna,lamprey,Erythro1,Non-neuron,Other,4888,Lamanna_lamprey|Erythro1
+Lamanna,lamprey,Erythro2,Non-neuron,Other,67,Lamanna_lamprey|Erythro2
+Lamanna,lamprey,Fibro1,Non-neuron,Vascular,13555,Lamanna_lamprey|Fibro1
+Lamanna,lamprey,Fibro2,Non-neuron,Vascular,4838,Lamanna_lamprey|Fibro2
+Lamanna,lamprey,Fibro3,Non-neuron,Vascular,558,Lamanna_lamprey|Fibro3
+Lamanna,lamprey,Fibro4,Non-neuron,Vascular,22,Lamanna_lamprey|Fibro4
+Lamanna,lamprey,Imm1,Non-neuron,Immune,45,Lamanna_lamprey|Imm1
+Lamanna,lamprey,Imm2,Non-neuron,Immune,36,Lamanna_lamprey|Imm2
+Lamanna,lamprey,Imm3,Non-neuron,Immune,40,Lamanna_lamprey|Imm3
+Lamanna,lamprey,Lympho1,Non-neuron,Immune,65,Lamanna_lamprey|Lympho1
+Lamanna,lamprey,Lympho2,Non-neuron,Immune,33,Lamanna_lamprey|Lympho2
+Lamanna,lamprey,Lympho3,Non-neuron,Immune,20,Lamanna_lamprey|Lympho3
+Lamanna,lamprey,MRAstro1,Non-neuron,Astrocyte,974,Lamanna_lamprey|MRAstro1
+Lamanna,lamprey,MRAstro2,Non-neuron,Astrocyte,973,Lamanna_lamprey|MRAstro2
+Lamanna,lamprey,MREpen1,Non-neuron,Ependymal,243,Lamanna_lamprey|MREpen1
+Lamanna,lamprey,MeAstro1,Non-neuron,Astrocyte,60,Lamanna_lamprey|MeAstro1
+Lamanna,lamprey,MeDopa1,Neuron,Dopaminergic,161,Lamanna_lamprey|MeDopa1
+Lamanna,lamprey,MeDopa2,Neuron,Dopaminergic,161,Lamanna_lamprey|MeDopa2
+Lamanna,lamprey,MeEpen1,Non-neuron,Ependymal,27,Lamanna_lamprey|MeEpen1
+Lamanna,lamprey,MeExc1,Neuron,ExN,309,Lamanna_lamprey|MeExc1
+Lamanna,lamprey,MeExc2,Neuron,ExN,241,Lamanna_lamprey|MeExc2
+Lamanna,lamprey,MeExc3,Neuron,ExN,236,Lamanna_lamprey|MeExc3
+Lamanna,lamprey,MeExc4,Neuron,ExN,124,Lamanna_lamprey|MeExc4
+Lamanna,lamprey,MeExc5,Neuron,ExN,186,Lamanna_lamprey|MeExc5
+Lamanna,lamprey,MeExc6,Neuron,ExN,246,Lamanna_lamprey|MeExc6
+Lamanna,lamprey,MeExc7,Neuron,ExN,157,Lamanna_lamprey|MeExc7
+Lamanna,lamprey,MeExc8,Neuron,ExN,43,Lamanna_lamprey|MeExc8
+Lamanna,lamprey,MeInh1,Neuron,InN,117,Lamanna_lamprey|MeInh1
+Lamanna,lamprey,MeInh10,Neuron,InN,260,Lamanna_lamprey|MeInh10
+Lamanna,lamprey,MeInh11,Neuron,InN,137,Lamanna_lamprey|MeInh11
+Lamanna,lamprey,MeInh2,Neuron,InN,65,Lamanna_lamprey|MeInh2
+Lamanna,lamprey,MeInh3,Neuron,InN,331,Lamanna_lamprey|MeInh3
+Lamanna,lamprey,MeInh5,Neuron,InN,199,Lamanna_lamprey|MeInh5
+Lamanna,lamprey,MeInh6,Neuron,InN,214,Lamanna_lamprey|MeInh6
+Lamanna,lamprey,MeInh7,Neuron,InN,578,Lamanna_lamprey|MeInh7
+Lamanna,lamprey,MeInh8,Neuron,InN,560,Lamanna_lamprey|MeInh8
+Lamanna,lamprey,MeInh9,Neuron,InN,114,Lamanna_lamprey|MeInh9
+Lamanna,lamprey,MeMono1,Neuron,Monoaminergic,106,Lamanna_lamprey|MeMono1
+Lamanna,lamprey,MeNeb1,Neuron,Neural_progenitor,143,Lamanna_lamprey|MeNeb1
+Lamanna,lamprey,MeSero1,Neuron,Serotonergic,14,Lamanna_lamprey|MeSero1
+Lamanna,lamprey,MeSero2,Neuron,Serotonergic,187,Lamanna_lamprey|MeSero2
+Lamanna,lamprey,MeSero3,Neuron,Serotonergic,77,Lamanna_lamprey|MeSero3
+Lamanna,lamprey,Meinh4,Neuron,InN,307,Lamanna_lamprey|Meinh4
+Lamanna,lamprey,Micro1,Non-neuron,Immune,3450,Lamanna_lamprey|Micro1
+Lamanna,lamprey,NCGlia1,Non-neuron,Other,53,Lamanna_lamprey|NCGlia1
+Lamanna,lamprey,PeAstro1,Non-neuron,Astrocyte,1259,Lamanna_lamprey|PeAstro1
+Lamanna,lamprey,PeAstro2,Non-neuron,Astrocyte,1132,Lamanna_lamprey|PeAstro2
+Lamanna,lamprey,PeAstroepen1,Non-neuron,Astrocyte,314,Lamanna_lamprey|PeAstroepen1
+Lamanna,lamprey,Photo1,Neuron,Photoreceptor,30,Lamanna_lamprey|Photo1
+Lamanna,lamprey,Photo2,Neuron,Photoreceptor,31,Lamanna_lamprey|Photo2
+Lamanna,lamprey,Photo3,Neuron,Photoreceptor,95,Lamanna_lamprey|Photo3
+Lamanna,lamprey,Photo4,Neuron,Photoreceptor,66,Lamanna_lamprey|Photo4
+Lamanna,lamprey,ReAstro1,Non-neuron,Astrocyte,100,Lamanna_lamprey|ReAstro1
+Lamanna,lamprey,ReEpen1,Non-neuron,Ependymal,167,Lamanna_lamprey|ReEpen1
+Lamanna,lamprey,ReEpen2,Non-neuron,Ependymal,106,Lamanna_lamprey|ReEpen2
+Lamanna,lamprey,ReEpen3,Non-neuron,Ependymal,63,Lamanna_lamprey|ReEpen3
+Lamanna,lamprey,ReExc1,Neuron,ExN,41,Lamanna_lamprey|ReExc1
+Lamanna,lamprey,ReExc2,Neuron,ExN,51,Lamanna_lamprey|ReExc2
+Lamanna,lamprey,ReInh1,Neuron,InN,37,Lamanna_lamprey|ReInh1
+Lamanna,lamprey,ReInh2,Neuron,InN,88,Lamanna_lamprey|ReInh2
+Lamanna,lamprey,ReInh3,Neuron,InN,20,Lamanna_lamprey|ReInh3
+Lamanna,lamprey,ReInh4,Neuron,InN,82,Lamanna_lamprey|ReInh4
+Lamanna,lamprey,ReInh5,Neuron,InN,132,Lamanna_lamprey|ReInh5
+Lamanna,lamprey,ReInh6,Neuron,InN,155,Lamanna_lamprey|ReInh6
+Lamanna,lamprey,ReInh7,Neuron,InN,25,Lamanna_lamprey|ReInh7
+Lamanna,lamprey,ReInh8,Neuron,InN,21,Lamanna_lamprey|ReInh8
+Lamanna,lamprey,ReProl1,Non-neuron,Other,29,Lamanna_lamprey|ReProl1
+Lamanna,lamprey,TeAstro1,Non-neuron,Astrocyte,40,Lamanna_lamprey|TeAstro1
+Lamanna,lamprey,TeAstroepen1,Non-neuron,Astrocyte,148,Lamanna_lamprey|TeAstroepen1
+Lamanna,lamprey,TeAstroepen2,Non-neuron,Astrocyte,44,Lamanna_lamprey|TeAstroepen2
+Lamanna,lamprey,TeDopa1,Neuron,Dopaminergic,386,Lamanna_lamprey|TeDopa1
+Lamanna,lamprey,TeEpen1,Non-neuron,Ependymal,326,Lamanna_lamprey|TeEpen1
+Lamanna,lamprey,TeEpen2,Non-neuron,Ependymal,84,Lamanna_lamprey|TeEpen2
+Lamanna,lamprey,TeExc1,Neuron,ExN,416,Lamanna_lamprey|TeExc1
+Lamanna,lamprey,TeExc2,Neuron,ExN,420,Lamanna_lamprey|TeExc2
+Lamanna,lamprey,TeExc3,Neuron,ExN,267,Lamanna_lamprey|TeExc3
+Lamanna,lamprey,TeExc4,Neuron,ExN,462,Lamanna_lamprey|TeExc4
+Lamanna,lamprey,TeExc5,Neuron,ExN,193,Lamanna_lamprey|TeExc5
+Lamanna,lamprey,TeExc6,Neuron,ExN,84,Lamanna_lamprey|TeExc6
+Lamanna,lamprey,TeExc7,Neuron,ExN,649,Lamanna_lamprey|TeExc7
+Lamanna,lamprey,TeExc8,Neuron,ExN,155,Lamanna_lamprey|TeExc8
+Lamanna,lamprey,TeInh1,Neuron,InN,251,Lamanna_lamprey|TeInh1
+Lamanna,lamprey,TeInh2,Neuron,LGE InN,65,Lamanna_lamprey|TeInh2
+Lamanna,lamprey,TeInh3,Neuron,InN,66,Lamanna_lamprey|TeInh3
+Lamanna,lamprey,TeInh4,Neuron,LGE InN,88,Lamanna_lamprey|TeInh4
+Lamanna,lamprey,TeInh5,Neuron,MGE InN,217,Lamanna_lamprey|TeInh5
+Lamanna,lamprey,TeInh6,Neuron,InN,40,Lamanna_lamprey|TeInh6
+Lamanna,lamprey,TeInh7,Neuron,InN,194,Lamanna_lamprey|TeInh7
+Lamanna,lamprey,TeInh8,Neuron,InN,1055,Lamanna_lamprey|TeInh8
+Lamanna,lamprey,TeMono1,Neuron,Monoaminergic,50,Lamanna_lamprey|TeMono1
+Lamanna,lamprey,TeNeb1,Neuron,Neural_progenitor,29,Lamanna_lamprey|TeNeb1
+Lamanna,lamprey,TeProl1,Non-neuron,Other,34,Lamanna_lamprey|TeProl1
+Lamanna,lamprey,Vasc1,Non-neuron,Vascular,185,Lamanna_lamprey|Vasc1
+Lamanna,lamprey,Vasc2,Non-neuron,Vascular,27,Lamanna_lamprey|Vasc2
+Lamanna,lamprey,Vasc3,Non-neuron,Vascular,588,Lamanna_lamprey|Vasc3
+Lamanna,lamprey,Vasc4,Non-neuron,Vascular,354,Lamanna_lamprey|Vasc4
+Lamanna,lamprey,Vasc5,Non-neuron,Vascular,97,Lamanna_lamprey|Vasc5
+Lust,axolotl,GABA_SUBSET_0,Neuron,septum InN,1245,Lust_axolotl|GABA_SUBSET_0
+Lust,axolotl,GABA_SUBSET_1,Neuron,LGE InN,1220,Lust_axolotl|GABA_SUBSET_1
+Lust,axolotl,GABA_SUBSET_10,Neuron,LGE InN,566,Lust_axolotl|GABA_SUBSET_10
+Lust,axolotl,GABA_SUBSET_11,Neuron,LGE InN,538,Lust_axolotl|GABA_SUBSET_11
+Lust,axolotl,GABA_SUBSET_12,Neuron,LGE InN,534,Lust_axolotl|GABA_SUBSET_12
+Lust,axolotl,GABA_SUBSET_13,Neuron,LGE InN,515,Lust_axolotl|GABA_SUBSET_13
+Lust,axolotl,GABA_SUBSET_14,Neuron,LGE InN,479,Lust_axolotl|GABA_SUBSET_14
+Lust,axolotl,GABA_SUBSET_15,Neuron,LGE InN,442,Lust_axolotl|GABA_SUBSET_15
+Lust,axolotl,GABA_SUBSET_16,Neuron,CGE InN,417,Lust_axolotl|GABA_SUBSET_16
+Lust,axolotl,GABA_SUBSET_17,Neuron,MGE InN,380,Lust_axolotl|GABA_SUBSET_17
+Lust,axolotl,GABA_SUBSET_18,Neuron,MGE InN,364,Lust_axolotl|GABA_SUBSET_18
+Lust,axolotl,GABA_SUBSET_19,Neuron,LGE InN,359,Lust_axolotl|GABA_SUBSET_19
+Lust,axolotl,GABA_SUBSET_2,Neuron,MGE InN,1126,Lust_axolotl|GABA_SUBSET_2
+Lust,axolotl,GABA_SUBSET_20,Neuron,MGE InN,279,Lust_axolotl|GABA_SUBSET_20
+Lust,axolotl,GABA_SUBSET_21,Neuron,septum InN,278,Lust_axolotl|GABA_SUBSET_21
+Lust,axolotl,GABA_SUBSET_22,Neuron,LGE InN,263,Lust_axolotl|GABA_SUBSET_22
+Lust,axolotl,GABA_SUBSET_23,Neuron,MGE InN,249,Lust_axolotl|GABA_SUBSET_23
+Lust,axolotl,GABA_SUBSET_24,Neuron,septum InN,215,Lust_axolotl|GABA_SUBSET_24
+Lust,axolotl,GABA_SUBSET_25,Neuron,LGE InN,144,Lust_axolotl|GABA_SUBSET_25
+Lust,axolotl,GABA_SUBSET_26,Neuron,LGE InN,86,Lust_axolotl|GABA_SUBSET_26
+Lust,axolotl,GABA_SUBSET_27,Neuron,CGE InN,83,Lust_axolotl|GABA_SUBSET_27
+Lust,axolotl,GABA_SUBSET_28,Neuron,CGE InN,69,Lust_axolotl|GABA_SUBSET_28
+Lust,axolotl,GABA_SUBSET_29,Neuron,LGE InN,38,Lust_axolotl|GABA_SUBSET_29
+Lust,axolotl,GABA_SUBSET_3,Neuron,LGE InN,1122,Lust_axolotl|GABA_SUBSET_3
+Lust,axolotl,GABA_SUBSET_4,Neuron,MGE InN,1063,Lust_axolotl|GABA_SUBSET_4
+Lust,axolotl,GABA_SUBSET_5,Neuron,septum InN,903,Lust_axolotl|GABA_SUBSET_5
+Lust,axolotl,GABA_SUBSET_6,Neuron,MGE InN,769,Lust_axolotl|GABA_SUBSET_6
+Lust,axolotl,GABA_SUBSET_7,Neuron,CGE InN,700,Lust_axolotl|GABA_SUBSET_7
+Lust,axolotl,GABA_SUBSET_8,Neuron,septum InN,650,Lust_axolotl|GABA_SUBSET_8
+Lust,axolotl,GABA_SUBSET_9,Neuron,LGE InN,569,Lust_axolotl|GABA_SUBSET_9
+Lust,axolotl,endothelial_11,Non-neuron,Vascular,139,Lust_axolotl|endothelial_11
+Lust,axolotl,endothelial_12,Non-neuron,Vascular,134,Lust_axolotl|endothelial_12
+Lust,axolotl,endothelial_14,Non-neuron,Vascular,50,Lust_axolotl|endothelial_14
+Lust,axolotl,epen_clus_0,Non-neuron,Ependymal,560,Lust_axolotl|epen_clus_0
+Lust,axolotl,epen_clus_1,Non-neuron,Ependymal,400,Lust_axolotl|epen_clus_1
+Lust,axolotl,epen_clus_10,Non-neuron,Ependymal,179,Lust_axolotl|epen_clus_10
+Lust,axolotl,epen_clus_11,Non-neuron,Ependymal,108,Lust_axolotl|epen_clus_11
+Lust,axolotl,epen_clus_12,Non-neuron,Ependymal,85,Lust_axolotl|epen_clus_12
+Lust,axolotl,epen_clus_13,Non-neuron,Ependymal,65,Lust_axolotl|epen_clus_13
+Lust,axolotl,epen_clus_14,Non-neuron,Ependymal,55,Lust_axolotl|epen_clus_14
+Lust,axolotl,epen_clus_2,Non-neuron,Ependymal,379,Lust_axolotl|epen_clus_2
+Lust,axolotl,epen_clus_3,Non-neuron,Ependymal,314,Lust_axolotl|epen_clus_3
+Lust,axolotl,epen_clus_4,Non-neuron,Ependymal,280,Lust_axolotl|epen_clus_4
+Lust,axolotl,epen_clus_5,Non-neuron,Ependymal,262,Lust_axolotl|epen_clus_5
+Lust,axolotl,epen_clus_6,Non-neuron,Ependymal,256,Lust_axolotl|epen_clus_6
+Lust,axolotl,epen_clus_7,Non-neuron,Ependymal,236,Lust_axolotl|epen_clus_7
+Lust,axolotl,epen_clus_8,Non-neuron,Ependymal,227,Lust_axolotl|epen_clus_8
+Lust,axolotl,epen_clus_9,Non-neuron,Ependymal,184,Lust_axolotl|epen_clus_9
+Lust,axolotl,glut_SUBSET_0,Neuron,ExN,2110,Lust_axolotl|glut_SUBSET_0
+Lust,axolotl,glut_SUBSET_1,Neuron,ExN,1922,Lust_axolotl|glut_SUBSET_1
+Lust,axolotl,glut_SUBSET_10,Neuron,ExN,1122,Lust_axolotl|glut_SUBSET_10
+Lust,axolotl,glut_SUBSET_11,Neuron,ExN,1081,Lust_axolotl|glut_SUBSET_11
+Lust,axolotl,glut_SUBSET_12,Neuron,ExN,937,Lust_axolotl|glut_SUBSET_12
+Lust,axolotl,glut_SUBSET_13,Neuron,ExN,932,Lust_axolotl|glut_SUBSET_13
+Lust,axolotl,glut_SUBSET_14,Neuron,ExN,896,Lust_axolotl|glut_SUBSET_14
+Lust,axolotl,glut_SUBSET_15,Neuron,ExN,834,Lust_axolotl|glut_SUBSET_15
+Lust,axolotl,glut_SUBSET_16,Neuron,ExN,698,Lust_axolotl|glut_SUBSET_16
+Lust,axolotl,glut_SUBSET_17,Neuron,ExN,556,Lust_axolotl|glut_SUBSET_17
+Lust,axolotl,glut_SUBSET_18,Neuron,ExN,420,Lust_axolotl|glut_SUBSET_18
+Lust,axolotl,glut_SUBSET_19,Neuron,ExN,393,Lust_axolotl|glut_SUBSET_19
+Lust,axolotl,glut_SUBSET_2,Neuron,ExN,1798,Lust_axolotl|glut_SUBSET_2
+Lust,axolotl,glut_SUBSET_20,Neuron,ExN,347,Lust_axolotl|glut_SUBSET_20
+Lust,axolotl,glut_SUBSET_21,Neuron,ExN,337,Lust_axolotl|glut_SUBSET_21
+Lust,axolotl,glut_SUBSET_22,Neuron,ExN,295,Lust_axolotl|glut_SUBSET_22
+Lust,axolotl,glut_SUBSET_23,Neuron,ExN,286,Lust_axolotl|glut_SUBSET_23
+Lust,axolotl,glut_SUBSET_24,Neuron,ExN,278,Lust_axolotl|glut_SUBSET_24
+Lust,axolotl,glut_SUBSET_25,Neuron,ExN,218,Lust_axolotl|glut_SUBSET_25
+Lust,axolotl,glut_SUBSET_26,Neuron,ExN,212,Lust_axolotl|glut_SUBSET_26
+Lust,axolotl,glut_SUBSET_27,Neuron,ExN,183,Lust_axolotl|glut_SUBSET_27
+Lust,axolotl,glut_SUBSET_28,Neuron,ExN,65,Lust_axolotl|glut_SUBSET_28
+Lust,axolotl,glut_SUBSET_3,Neuron,ExN,1740,Lust_axolotl|glut_SUBSET_3
+Lust,axolotl,glut_SUBSET_4,Neuron,ExN,1648,Lust_axolotl|glut_SUBSET_4
+Lust,axolotl,glut_SUBSET_5,Neuron,ExN,1552,Lust_axolotl|glut_SUBSET_5
+Lust,axolotl,glut_SUBSET_6,Neuron,ExN,1539,Lust_axolotl|glut_SUBSET_6
+Lust,axolotl,glut_SUBSET_7,Neuron,ExN,1495,Lust_axolotl|glut_SUBSET_7
+Lust,axolotl,glut_SUBSET_8,Neuron,ExN,1437,Lust_axolotl|glut_SUBSET_8
+Lust,axolotl,glut_SUBSET_9,Neuron,ExN,1253,Lust_axolotl|glut_SUBSET_9
+Lust,axolotl,microglia_8,Non-neuron,Immune,249,Lust_axolotl|microglia_8
+Lust,axolotl,npc_SUBSET_0,Neuron,Neural_progenitor,150,Lust_axolotl|npc_SUBSET_0
+Lust,axolotl,npc_SUBSET_1,Neuron,Neural_progenitor,149,Lust_axolotl|npc_SUBSET_1
+Lust,axolotl,npc_SUBSET_10,Neuron,Neural_progenitor,81,Lust_axolotl|npc_SUBSET_10
+Lust,axolotl,npc_SUBSET_11,Neuron,Neural_progenitor,80,Lust_axolotl|npc_SUBSET_11
+Lust,axolotl,npc_SUBSET_12,Neuron,Neural_progenitor,71,Lust_axolotl|npc_SUBSET_12
+Lust,axolotl,npc_SUBSET_13,Neuron,Neural_progenitor,51,Lust_axolotl|npc_SUBSET_13
+Lust,axolotl,npc_SUBSET_14,Neuron,Neural_progenitor,31,Lust_axolotl|npc_SUBSET_14
+Lust,axolotl,npc_SUBSET_2,Neuron,Neural_progenitor,145,Lust_axolotl|npc_SUBSET_2
+Lust,axolotl,npc_SUBSET_3,Neuron,Neural_progenitor,132,Lust_axolotl|npc_SUBSET_3
+Lust,axolotl,npc_SUBSET_4,Neuron,Neural_progenitor,117,Lust_axolotl|npc_SUBSET_4
+Lust,axolotl,npc_SUBSET_5,Neuron,Neural_progenitor,113,Lust_axolotl|npc_SUBSET_5
+Lust,axolotl,npc_SUBSET_6,Neuron,Neural_progenitor,102,Lust_axolotl|npc_SUBSET_6
+Lust,axolotl,npc_SUBSET_7,Neuron,Neural_progenitor,99,Lust_axolotl|npc_SUBSET_7
+Lust,axolotl,npc_SUBSET_8,Neuron,Neural_progenitor,95,Lust_axolotl|npc_SUBSET_8
+Lust,axolotl,npc_SUBSET_9,Neuron,Neural_progenitor,85,Lust_axolotl|npc_SUBSET_9
+Lust,axolotl,oligodendrocyte_10,Non-neuron,Oligo,182,Lust_axolotl|oligodendrocyte_10
+Lust,axolotl,oligodendrocyte_15,Non-neuron,Oligo,42,Lust_axolotl|oligodendrocyte_15
+Colquitt,zebrafinch,Astro,Non-neuron,Astrocyte,4357,Colquitt_zebrafinch|Astro
+Colquitt,zebrafinch,Endo,Non-neuron,Vascular,1255,Colquitt_zebrafinch|Endo
+Colquitt,zebrafinch,Epen,Non-neuron,Ependymal,431,Colquitt_zebrafinch|Epen
+Colquitt,zebrafinch,GABA-1-1,Neuron,LGE InN,737,Colquitt_zebrafinch|GABA-1-1
+Colquitt,zebrafinch,GABA-1-2,Neuron,LGE InN,448,Colquitt_zebrafinch|GABA-1-2
+Colquitt,zebrafinch,GABA-2,Neuron,MGE InN,795,Colquitt_zebrafinch|GABA-2
+Colquitt,zebrafinch,GABA-3,Neuron,MGE InN,598,Colquitt_zebrafinch|GABA-3
+Colquitt,zebrafinch,GABA-4,Neuron,MGE InN,608,Colquitt_zebrafinch|GABA-4
+Colquitt,zebrafinch,GABA-5-1,Neuron,CGE InN,167,Colquitt_zebrafinch|GABA-5-1
+Colquitt,zebrafinch,GABA-5-2,Neuron,CGE InN,150,Colquitt_zebrafinch|GABA-5-2
+Colquitt,zebrafinch,GABA-5-3,Neuron,CGE InN,106,Colquitt_zebrafinch|GABA-5-3
+Colquitt,zebrafinch,GABA-6,Neuron,MGE InN,177,Colquitt_zebrafinch|GABA-6
+Colquitt,zebrafinch,GABA-7,Neuron,MGE InN,73,Colquitt_zebrafinch|GABA-7
+Colquitt,zebrafinch,GABA-8,Neuron,CGE InN,64,Colquitt_zebrafinch|GABA-8
+Colquitt,zebrafinch,GABA-Pre,Neuron,LGE InN,105,Colquitt_zebrafinch|GABA-Pre
+Colquitt,zebrafinch,HVC_Glut-1,Neuron,ExN,4672,Colquitt_zebrafinch|HVC_Glut-1
+Colquitt,zebrafinch,HVC_Glut-2,Neuron,ExN,2472,Colquitt_zebrafinch|HVC_Glut-2
+Colquitt,zebrafinch,HVC_Glut-3,Neuron,ExN,1340,Colquitt_zebrafinch|HVC_Glut-3
+Colquitt,zebrafinch,HVC_Glut-4,Neuron,ExN,730,Colquitt_zebrafinch|HVC_Glut-4
+Colquitt,zebrafinch,HVC_Glut-5,Neuron,ExN,219,Colquitt_zebrafinch|HVC_Glut-5
+Colquitt,zebrafinch,Micro,Non-neuron,Immune,478,Colquitt_zebrafinch|Micro
+Colquitt,zebrafinch,Mural,Non-neuron,Vascular,165,Colquitt_zebrafinch|Mural
+Colquitt,zebrafinch,OPC,Non-neuron,OPC,709,Colquitt_zebrafinch|OPC
+Colquitt,zebrafinch,Oligo,Non-neuron,Oligo,1397,Colquitt_zebrafinch|Oligo
+Colquitt,zebrafinch,Pre-1,Neuron,Neural_progenitor,775,Colquitt_zebrafinch|Pre-1
+Colquitt,zebrafinch,Pre-2,Neuron,Neural_progenitor,599,Colquitt_zebrafinch|Pre-2
+Colquitt,zebrafinch,Pre-3,Neuron,Neural_progenitor,469,Colquitt_zebrafinch|Pre-3
+Colquitt,zebrafinch,Pre-4,Neuron,Neural_progenitor,429,Colquitt_zebrafinch|Pre-4
+Colquitt,zebrafinch,RA_Glut-1,Neuron,ExN,464,Colquitt_zebrafinch|RA_Glut-1
+Colquitt,zebrafinch,RA_Glut-2,Neuron,ExN,202,Colquitt_zebrafinch|RA_Glut-2
+Colquitt,zebrafinch,RA_Glut-3,Neuron,ExN,115,Colquitt_zebrafinch|RA_Glut-3
+Colquitt,zebrafinch,RBC,Non-neuron,Other,72,Colquitt_zebrafinch|RBC
+Colquitt,zebrafinch,VLMC,Non-neuron,Vascular,14,Colquitt_zebrafinch|VLMC
+Colquitt,Bengalese_finch,Astro,Non-neuron,Astrocyte,319,Colquitt_Bengalese_finch|Astro
+Colquitt,Bengalese_finch,Endo,Non-neuron,Vascular,496,Colquitt_Bengalese_finch|Endo
+Colquitt,Bengalese_finch,GABA-1-1,Neuron,LGE InN,90,Colquitt_Bengalese_finch|GABA-1-1
+Colquitt,Bengalese_finch,GABA-1-2,Neuron,LGE InN,8,Colquitt_Bengalese_finch|GABA-1-2
+Colquitt,Bengalese_finch,GABA-2,Neuron,MGE InN,66,Colquitt_Bengalese_finch|GABA-2
+Colquitt,Bengalese_finch,GABA-3,Neuron,MGE InN,22,Colquitt_Bengalese_finch|GABA-3
+Colquitt,Bengalese_finch,GABA-4,Neuron,MGE InN,3,Colquitt_Bengalese_finch|GABA-4
+Colquitt,Bengalese_finch,GABA-5-1,Neuron,CGE InN,20,Colquitt_Bengalese_finch|GABA-5-1
+Colquitt,Bengalese_finch,GABA-5-2,Neuron,CGE InN,17,Colquitt_Bengalese_finch|GABA-5-2
+Colquitt,Bengalese_finch,GABA-5-3,Neuron,CGE InN,4,Colquitt_Bengalese_finch|GABA-5-3
+Colquitt,Bengalese_finch,GABA-6,Neuron,MGE InN,10,Colquitt_Bengalese_finch|GABA-6
+Colquitt,Bengalese_finch,GABA-7,Neuron,MGE InN,5,Colquitt_Bengalese_finch|GABA-7
+Colquitt,Bengalese_finch,GABA-8,Neuron,CGE InN,2,Colquitt_Bengalese_finch|GABA-8
+Colquitt,Bengalese_finch,GABA-Pre,Neuron,LGE InN,44,Colquitt_Bengalese_finch|GABA-Pre
+Colquitt,Bengalese_finch,HVC_Glut-1,Neuron,ExN,297,Colquitt_Bengalese_finch|HVC_Glut-1
+Colquitt,Bengalese_finch,HVC_Glut-2,Neuron,ExN,249,Colquitt_Bengalese_finch|HVC_Glut-2
+Colquitt,Bengalese_finch,HVC_Glut-3,Neuron,ExN,53,Colquitt_Bengalese_finch|HVC_Glut-3
+Colquitt,Bengalese_finch,HVC_Glut-4,Neuron,ExN,26,Colquitt_Bengalese_finch|HVC_Glut-4
+Colquitt,Bengalese_finch,HVC_Glut-5,Neuron,ExN,4,Colquitt_Bengalese_finch|HVC_Glut-5
+Colquitt,Bengalese_finch,Micro,Non-neuron,Immune,840,Colquitt_Bengalese_finch|Micro
+Colquitt,Bengalese_finch,Mural,Non-neuron,Vascular,113,Colquitt_Bengalese_finch|Mural
+Colquitt,Bengalese_finch,OPC,Non-neuron,OPC,609,Colquitt_Bengalese_finch|OPC
+Colquitt,Bengalese_finch,Oligo,Non-neuron,Oligo,354,Colquitt_Bengalese_finch|Oligo
+Colquitt,Bengalese_finch,Pre-1,Neuron,Neural_progenitor,10,Colquitt_Bengalese_finch|Pre-1
+Colquitt,Bengalese_finch,Pre-2,Neuron,Neural_progenitor,89,Colquitt_Bengalese_finch|Pre-2
+Colquitt,Bengalese_finch,Pre-3,Neuron,Neural_progenitor,46,Colquitt_Bengalese_finch|Pre-3
+Colquitt,Bengalese_finch,Pre-4,Neuron,Neural_progenitor,19,Colquitt_Bengalese_finch|Pre-4
+Colquitt,Bengalese_finch,RA_Glut-1,Neuron,ExN,15,Colquitt_Bengalese_finch|RA_Glut-1
+Colquitt,Bengalese_finch,RA_Glut-2,Neuron,ExN,2,Colquitt_Bengalese_finch|RA_Glut-2
+Colquitt,Bengalese_finch,RA_Glut-3,Neuron,ExN,1,Colquitt_Bengalese_finch|RA_Glut-3
+Colquitt,Bengalese_finch,RBC,Non-neuron,Other,257,Colquitt_Bengalese_finch|RBC
+Colquitt,Bengalese_finch,VLMC,Non-neuron,Vascular,15,Colquitt_Bengalese_finch|VLMC
+Anneser,zebrafish,0,Neuron,NA,2038,Anneser_zebrafish|0
+Anneser,zebrafish,1,Non-neuron,NA,1833,Anneser_zebrafish|1
+Anneser,zebrafish,2,Neuron,NA,1563,Anneser_zebrafish|2
+Anneser,zebrafish,3,Neuron,NA,1483,Anneser_zebrafish|3
+Anneser,zebrafish,4,Neuron,NA,1390,Anneser_zebrafish|4
+Anneser,zebrafish,5,Neuron,NA,1125,Anneser_zebrafish|5
+Anneser,zebrafish,6,Neuron,NA,888,Anneser_zebrafish|6
+Anneser,zebrafish,7,Neuron,NA,759,Anneser_zebrafish|7
+Anneser,zebrafish,8,Non-neuron,NA,640,Anneser_zebrafish|8
+Anneser,zebrafish,9,Neuron,NA,611,Anneser_zebrafish|9
+Anneser,zebrafish,10,Neuron,NA,547,Anneser_zebrafish|10
+Anneser,zebrafish,11,Non-neuron,NA,485,Anneser_zebrafish|11
+Anneser,zebrafish,12,Non-neuron,NA,468,Anneser_zebrafish|12
+Anneser,zebrafish,13,Non-neuron,NA,444,Anneser_zebrafish|13
+Anneser,zebrafish,14,Neuron,NA,357,Anneser_zebrafish|14
+Anneser,zebrafish,15,Non-neuron,NA,334,Anneser_zebrafish|15
+Anneser,zebrafish,16,Neuron,NA,311,Anneser_zebrafish|16
+Anneser,zebrafish,17,Non-neuron,NA,285,Anneser_zebrafish|17
+Anneser,zebrafish,18,Non-neuron,NA,180,Anneser_zebrafish|18
+Anneser,zebrafish,19,Non-neuron,NA,162,Anneser_zebrafish|19
+Anneser,zebrafish,20,Non-neuron,NA,115,Anneser_zebrafish|20
+Anneser,zebrafish,21,Non-neuron,NA,98,Anneser_zebrafish|21
+Anneser,zebrafish,22,Non-neuron,NA,57,Anneser_zebrafish|22
+Anneser,zebrafish,23,Non-neuron,NA,56,Anneser_zebrafish|23
+Anneser,zebrafish,24,Non-neuron,NA,41,Anneser_zebrafish|24
+Anneser,zebrafish,25,Non-neuron,NA,32,Anneser_zebrafish|25
+Anneser,zebrafish,26,Non-neuron,NA,19,Anneser_zebrafish|26
+Ma,human,Astro AQP4 OSMR,Non-neuron,Astrocyte,435,Ma_human|Astro AQP4 OSMR
+Ma,human,Astro AQP4 SLC1A2,Non-neuron,Astrocyte,16144,Ma_human|Astro AQP4 SLC1A2
+Ma,human,Astro GFAP AQP1,Non-neuron,Astrocyte,3714,Ma_human|Astro GFAP AQP1
+Ma,human,Astro GFAP FABP7,Non-neuron,Astrocyte,3066,Ma_human|Astro GFAP FABP7
+Ma,human,B EBF1 IGKC,Non-neuron,Immune,53,Ma_human|B EBF1 IGKC
+Ma,human,COP GPR17 SOX4,Non-neuron,OPC,185,Ma_human|COP GPR17 SOX4
+Ma,human,Endo CLDN5 DKK2,Non-neuron,Vascular,285,Ma_human|Endo CLDN5 DKK2
+Ma,human,Endo CLDN5 IL1R1,Non-neuron,Vascular,1289,Ma_human|Endo CLDN5 IL1R1
+Ma,human,Endo CLDN5 SLC7A5,Non-neuron,Vascular,5292,Ma_human|Endo CLDN5 SLC7A5
+Ma,human,InN ADARB2 CADPS2,Neuron,CGE InN,149,Ma_human|InN ADARB2 CADPS2
+Ma,human,InN ADARB2 CALCR,Neuron,CGE InN,93,Ma_human|InN ADARB2 CALCR
+Ma,human,InN ADARB2 COL5A2,Neuron,CGE InN,477,Ma_human|InN ADARB2 COL5A2
+Ma,human,InN ADARB2 FAM19A1,Neuron,CGE InN,737,Ma_human|InN ADARB2 FAM19A1
+Ma,human,InN ADARB2 PALMD,Neuron,CGE InN,107,Ma_human|InN ADARB2 PALMD
+Ma,human,InN ADARB2 RGS10,Neuron,CGE InN,262,Ma_human|InN ADARB2 RGS10
+Ma,human,InN ADARB2 SFRP2,Neuron,CGE InN,340,Ma_human|InN ADARB2 SFRP2
+Ma,human,InN LAMP5 ADAMTS20,Neuron,CGE InN,429,Ma_human|InN LAMP5 ADAMTS20
+Ma,human,InN LAMP5 BMP7,Neuron,CGE InN,1088,Ma_human|InN LAMP5 BMP7
+Ma,human,InN LAMP5 LHX6 PROX1,Neuron,CGE InN,361,Ma_human|InN LAMP5 LHX6 PROX1
+Ma,human,InN LAMP5 LHX6 TAC1,Neuron,CGE InN,510,Ma_human|InN LAMP5 LHX6 TAC1
+Ma,human,InN LAMP5 MEIS2,Neuron,CGE InN,89,Ma_human|InN LAMP5 MEIS2
+Ma,human,InN LAMP5 RELN,Neuron,CGE InN,759,Ma_human|InN LAMP5 RELN
+Ma,human,InN LHX6 HGF STON2,Neuron,MGE InN,162,Ma_human|InN LHX6 HGF STON2
+Ma,human,InN PVALB ANOS1,Neuron,MGE InN,1705,Ma_human|InN PVALB ANOS1
+Ma,human,InN PVALB GRIN2C,Neuron,MGE InN,437,Ma_human|InN PVALB GRIN2C
+Ma,human,InN PVALB HPSE,Neuron,MGE InN,1018,Ma_human|InN PVALB HPSE
+Ma,human,InN PVALB PDE3A,Neuron,MGE InN,571,Ma_human|InN PVALB PDE3A
+Ma,human,InN PVALB PIEZO2,Neuron,MGE InN,887,Ma_human|InN PVALB PIEZO2
+Ma,human,InN PVALB PRKCH,Neuron,MGE InN,206,Ma_human|InN PVALB PRKCH
+Ma,human,InN PVALB SNTB1,Neuron,MGE InN,349,Ma_human|InN PVALB SNTB1
+Ma,human,InN PVALB SYT2,Neuron,MGE InN,424,Ma_human|InN PVALB SYT2
+Ma,human,InN SST ADAMTSL1,Neuron,MGE InN,593,Ma_human|InN SST ADAMTSL1
+Ma,human,InN SST ADRA1D,Neuron,MGE InN,214,Ma_human|InN SST ADRA1D
+Ma,human,InN SST ANKRD33B,Neuron,MGE InN,146,Ma_human|InN SST ANKRD33B
+Ma,human,InN SST FREM1,Neuron,MGE InN,1174,Ma_human|InN SST FREM1
+Ma,human,InN SST HGF GABRQ,Neuron,MGE InN,151,Ma_human|InN SST HGF GABRQ
+Ma,human,InN SST HS3ST5,Neuron,MGE InN,683,Ma_human|InN SST HS3ST5
+Ma,human,InN SST HTR2C,Neuron,MGE InN,718,Ma_human|InN SST HTR2C
+Ma,human,InN SST KLHL14,Neuron,MGE InN,295,Ma_human|InN SST KLHL14
+Ma,human,InN SST NPY,Neuron,MGE InN,100,Ma_human|InN SST NPY
+Ma,human,InN SST PLPP4,Neuron,MGE InN,577,Ma_human|InN SST PLPP4
+Ma,human,InN SST STK32A,Neuron,MGE InN,938,Ma_human|InN SST STK32A
+Ma,human,InN SST THSD7B,Neuron,MGE InN,452,Ma_human|InN SST THSD7B
+Ma,human,InN SST TRPC7,Neuron,MGE InN,1244,Ma_human|InN SST TRPC7
+Ma,human,InN VIP ADAM12,Neuron,CGE InN,650,Ma_human|InN VIP ADAM12
+Ma,human,InN VIP CLSTN2,Neuron,CGE InN,861,Ma_human|InN VIP CLSTN2
+Ma,human,InN VIP EGF,Neuron,CGE InN,397,Ma_human|InN VIP EGF
+Ma,human,InN VIP EXPH5,Neuron,CGE InN,975,Ma_human|InN VIP EXPH5
+Ma,human,InN VIP FREM2,Neuron,CGE InN,522,Ma_human|InN VIP FREM2
+Ma,human,InN VIP HS3ST3B1,Neuron,CGE InN,1261,Ma_human|InN VIP HS3ST3B1
+Ma,human,InN VIP MDGA1,Neuron,CGE InN,94,Ma_human|InN VIP MDGA1
+Ma,human,InN VIP MEGF11 LHFP,Neuron,CGE InN,696,Ma_human|InN VIP MEGF11 LHFP
+Ma,human,InN VIP PENK,Neuron,CGE InN,140,Ma_human|InN VIP PENK
+Ma,human,InN VIP SCML4,Neuron,CGE InN,685,Ma_human|InN VIP SCML4
+Ma,human,L2-3 CUX2 ACVR1C INHBA,Neuron,ExN,1057,Ma_human|L2-3 CUX2 ACVR1C INHBA
+Ma,human,L2-3 CUX2 ACVR1C THSD7A,Neuron,ExN,11647,Ma_human|L2-3 CUX2 ACVR1C THSD7A
+Ma,human,L2-3 CUX2 ARHGAP18,Neuron,ExN,139,Ma_human|L2-3 CUX2 ARHGAP18
+Ma,human,L2-3 CUX2 NTNG1 COL5A2,Neuron,ExN,4276,Ma_human|L2-3 CUX2 NTNG1 COL5A2
+Ma,human,L2-3 CUX2 NTNG1 PALMD,Neuron,ExN,4492,Ma_human|L2-3 CUX2 NTNG1 PALMD
+Ma,human,L2-3 CUX2 NTNG1 PLCH1,Neuron,ExN,1212,Ma_human|L2-3 CUX2 NTNG1 PLCH1
+Ma,human,L2-3 CUX2 PLCXD3,Neuron,ExN,83,Ma_human|L2-3 CUX2 PLCXD3
+Ma,human,L2-4 CUX2 RORB CLMN,Neuron,ExN,1158,Ma_human|L2-4 CUX2 RORB CLMN
+Ma,human,L3-5 RORB GABRG1 KCNH7,Neuron,ExN,1368,Ma_human|L3-5 RORB GABRG1 KCNH7
+Ma,human,L3-5 RORB GABRG1 PLCH1,Neuron,ExN,596,Ma_human|L3-5 RORB GABRG1 PLCH1
+Ma,human,L3-5 RORB GABRG1 PTPRO,Neuron,ExN,1163,Ma_human|L3-5 RORB GABRG1 PTPRO
+Ma,human,L3-5 RORB MKX DCC,Neuron,ExN,1889,Ma_human|L3-5 RORB MKX DCC
+Ma,human,L3-5 RORB MKX GALR1,Neuron,ExN,604,Ma_human|L3-5 RORB MKX GALR1
+Ma,human,L3-5 RORB MKX GRIN3A,Neuron,ExN,2397,Ma_human|L3-5 RORB MKX GRIN3A
+Ma,human,L3-5 RORB MKX SCN5A,Neuron,ExN,428,Ma_human|L3-5 RORB MKX SCN5A
+Ma,human,L3-5 RORB PCBP3 ARHGAP15,Neuron,ExN,406,Ma_human|L3-5 RORB PCBP3 ARHGAP15
+Ma,human,L3-5 RORB PCBP3 IL1RAPL2,Neuron,ExN,786,Ma_human|L3-5 RORB PCBP3 IL1RAPL2
+Ma,human,L3-5 RORB PCBP3 LINGO2,Neuron,ExN,1004,Ma_human|L3-5 RORB PCBP3 LINGO2
+Ma,human,L3-5 RORB TNNT2 PRRX1,Neuron,ExN,268,Ma_human|L3-5 RORB TNNT2 PRRX1
+Ma,human,L3-5 RORB TNNT2 TSHZ2,Neuron,ExN,1020,Ma_human|L3-5 RORB TNNT2 TSHZ2
+Ma,human,L5 FEZF2 BCL11B POU3F1,Neuron,ExN,256,Ma_human|L5 FEZF2 BCL11B POU3F1
+Ma,human,L5-6 FEZF2 NXPH2 CDH8,Neuron,ExN,605,Ma_human|L5-6 FEZF2 NXPH2 CDH8
+Ma,human,L5-6 FEZF2 NXPH2 GPC5,Neuron,ExN,260,Ma_human|L5-6 FEZF2 NXPH2 GPC5
+Ma,human,L5-6 FEZF2 NXPH2 GRIK1,Neuron,ExN,177,Ma_human|L5-6 FEZF2 NXPH2 GRIK1
+Ma,human,L5-6 FEZF2 NXPH2 SORCS3,Neuron,ExN,173,Ma_human|L5-6 FEZF2 NXPH2 SORCS3
+Ma,human,L6 FEZF2 AMOTL1 CDH6,Neuron,ExN,252,Ma_human|L6 FEZF2 AMOTL1 CDH6
+Ma,human,L6 FEZF2 DCBLD1 MITF,Neuron,ExN,229,Ma_human|L6 FEZF2 DCBLD1 MITF
+Ma,human,L6 FEZF2 EYA1,Neuron,ExN,16,Ma_human|L6 FEZF2 EYA1
+Ma,human,L6 FEZF2 HCRTR2 THSD7B,Neuron,ExN,107,Ma_human|L6 FEZF2 HCRTR2 THSD7B
+Ma,human,L6 FEZF2 NPFFR2 KCNK2,Neuron,ExN,476,Ma_human|L6 FEZF2 NPFFR2 KCNK2
+Ma,human,L6 FEZF2 NPFFR2 TPD52L1,Neuron,ExN,659,Ma_human|L6 FEZF2 NPFFR2 TPD52L1
+Ma,human,L6 FEZF2 SYT6 CDH9,Neuron,ExN,633,Ma_human|L6 FEZF2 SYT6 CDH9
+Ma,human,L6 FEZF2 SYT6 ERBB4,Neuron,ExN,546,Ma_human|L6 FEZF2 SYT6 ERBB4
+Ma,human,L6 FEZF2 SYT6 PTPRT,Neuron,ExN,782,Ma_human|L6 FEZF2 SYT6 PTPRT
+Ma,human,L6 FEZF2 SYT6 SULF1,Neuron,ExN,189,Ma_human|L6 FEZF2 SYT6 SULF1
+Ma,human,L6 OPRK1 SMYD1 ADAMTS17,Neuron,ExN,175,Ma_human|L6 OPRK1 SMYD1 ADAMTS17
+Ma,human,L6 OPRK1 SMYD1 KCND2,Neuron,ExN,476,Ma_human|L6 OPRK1 SMYD1 KCND2
+Ma,human,L6 OPRK1 SMYD1 SNTB1,Neuron,ExN,342,Ma_human|L6 OPRK1 SMYD1 SNTB1
+Ma,human,L6 OPRK1 SMYD1 TSHZ2,Neuron,ExN,214,Ma_human|L6 OPRK1 SMYD1 TSHZ2
+Ma,human,L6 OPRK1 THEMIS RGS6,Neuron,ExN,2999,Ma_human|L6 OPRK1 THEMIS RGS6
+Ma,human,Macro F13A1 COLEC12,Non-neuron,Immune,760,Ma_human|Macro F13A1 COLEC12
+Ma,human,Micro P2RY12 APBB1IP,Non-neuron,Immune,6811,Ma_human|Micro P2RY12 APBB1IP
+Ma,human,Micro P2RY12 CCL3,Non-neuron,Immune,310,Ma_human|Micro P2RY12 CCL3
+Ma,human,Micro P2RY12 GLDN,Non-neuron,Immune,435,Ma_human|Micro P2RY12 GLDN
+Ma,human,Myeloid LSP1 LYZ,Non-neuron,Immune,81,Ma_human|Myeloid LSP1 LYZ
+Ma,human,OPC PDGFRA PCDH15,Non-neuron,OPC,9117,Ma_human|OPC PDGFRA PCDH15
+Ma,human,Oligo MOG CDH7,Non-neuron,Oligo,7,Ma_human|Oligo MOG CDH7
+Ma,human,Oligo MOG FRY,Non-neuron,Oligo,938,Ma_human|Oligo MOG FRY
+Ma,human,Oligo MOG GSN,Non-neuron,Oligo,2916,Ma_human|Oligo MOG GSN
+Ma,human,Oligo MOG OPALIN,Non-neuron,Oligo,42057,Ma_human|Oligo MOG OPALIN
+Ma,human,PC P2RY14 GRM8,Non-neuron,Vascular,4030,Ma_human|PC P2RY14 GRM8
+Ma,human,RB HBA1 HBB,Non-neuron,Other,239,Ma_human|RB HBA1 HBB
+Ma,human,SMC ACTA2 CNN1,Non-neuron,Vascular,1208,Ma_human|SMC ACTA2 CNN1
+Ma,human,SMC ACTA2 CRISPLD2,Non-neuron,Vascular,410,Ma_human|SMC ACTA2 CRISPLD2
+Ma,human,SMC ACTA2 CYP1B1,Non-neuron,Vascular,488,Ma_human|SMC ACTA2 CYP1B1
+Ma,human,T SKAP1 CD247,Non-neuron,Immune,885,Ma_human|T SKAP1 CD247
+Ma,human,VLMC COL1A2 SLC13A3,Non-neuron,Vascular,274,Ma_human|VLMC COL1A2 SLC13A3
+Ma,human,VLMC COL1A2 VLMCA8,Non-neuron,Vascular,283,Ma_human|VLMC COL1A2 VLMCA8
+Ma,human,VLMC SLC47A1 SLC4A4,Non-neuron,Vascular,123,Ma_human|VLMC SLC47A1 SLC4A4
+Ma,chimp,Astro AQP4 OSMR,Non-neuron,Astrocyte,90,Ma_chimp|Astro AQP4 OSMR
+Ma,chimp,Astro AQP4 SLC1A2,Non-neuron,Astrocyte,11912,Ma_chimp|Astro AQP4 SLC1A2
+Ma,chimp,Astro GFAP AQP1,Non-neuron,Astrocyte,330,Ma_chimp|Astro GFAP AQP1
+Ma,chimp,Astro GFAP FABP7,Non-neuron,Astrocyte,2345,Ma_chimp|Astro GFAP FABP7
+Ma,chimp,B EBF1 IGKC,Non-neuron,Immune,1,Ma_chimp|B EBF1 IGKC
+Ma,chimp,COP GPR17 SOX4,Non-neuron,OPC,119,Ma_chimp|COP GPR17 SOX4
+Ma,chimp,Endo CLDN5 DKK2,Non-neuron,Vascular,507,Ma_chimp|Endo CLDN5 DKK2
+Ma,chimp,Endo CLDN5 IL1R1,Non-neuron,Vascular,643,Ma_chimp|Endo CLDN5 IL1R1
+Ma,chimp,Endo CLDN5 SLC7A5,Non-neuron,Vascular,4122,Ma_chimp|Endo CLDN5 SLC7A5
+Ma,chimp,InN ADARB2 CADPS2,Neuron,CGE InN,154,Ma_chimp|InN ADARB2 CADPS2
+Ma,chimp,InN ADARB2 CALCR,Neuron,CGE InN,114,Ma_chimp|InN ADARB2 CALCR
+Ma,chimp,InN ADARB2 COL5A2,Neuron,CGE InN,364,Ma_chimp|InN ADARB2 COL5A2
+Ma,chimp,InN ADARB2 FAM19A1,Neuron,CGE InN,692,Ma_chimp|InN ADARB2 FAM19A1
+Ma,chimp,InN ADARB2 PALMD,Neuron,CGE InN,91,Ma_chimp|InN ADARB2 PALMD
+Ma,chimp,InN ADARB2 RGS10,Neuron,CGE InN,258,Ma_chimp|InN ADARB2 RGS10
+Ma,chimp,InN ADARB2 SFRP2,Neuron,CGE InN,389,Ma_chimp|InN ADARB2 SFRP2
+Ma,chimp,InN LAMP5 ADAMTS20,Neuron,CGE InN,491,Ma_chimp|InN LAMP5 ADAMTS20
+Ma,chimp,InN LAMP5 BMP7,Neuron,CGE InN,1329,Ma_chimp|InN LAMP5 BMP7
+Ma,chimp,InN LAMP5 LHX6 PROX1,Neuron,CGE InN,469,Ma_chimp|InN LAMP5 LHX6 PROX1
+Ma,chimp,InN LAMP5 LHX6 TAC1,Neuron,CGE InN,694,Ma_chimp|InN LAMP5 LHX6 TAC1
+Ma,chimp,InN LAMP5 MEIS2,Neuron,CGE InN,130,Ma_chimp|InN LAMP5 MEIS2
+Ma,chimp,InN LAMP5 RELN,Neuron,CGE InN,717,Ma_chimp|InN LAMP5 RELN
+Ma,chimp,InN LHX6 HGF STON2,Neuron,MGE InN,95,Ma_chimp|InN LHX6 HGF STON2
+Ma,chimp,InN PVALB ANOS1,Neuron,MGE InN,2206,Ma_chimp|InN PVALB ANOS1
+Ma,chimp,InN PVALB GRIN2C,Neuron,MGE InN,362,Ma_chimp|InN PVALB GRIN2C
+Ma,chimp,InN PVALB HPSE,Neuron,MGE InN,1216,Ma_chimp|InN PVALB HPSE
+Ma,chimp,InN PVALB PDE3A,Neuron,MGE InN,417,Ma_chimp|InN PVALB PDE3A
+Ma,chimp,InN PVALB PIEZO2,Neuron,MGE InN,1259,Ma_chimp|InN PVALB PIEZO2
+Ma,chimp,InN PVALB PRKCH,Neuron,MGE InN,322,Ma_chimp|InN PVALB PRKCH
+Ma,chimp,InN PVALB SNTB1,Neuron,MGE InN,605,Ma_chimp|InN PVALB SNTB1
+Ma,chimp,InN PVALB SYT2,Neuron,MGE InN,574,Ma_chimp|InN PVALB SYT2
+Ma,chimp,InN SST ADAMTSL1,Neuron,MGE InN,1046,Ma_chimp|InN SST ADAMTSL1
+Ma,chimp,InN SST ADRA1D,Neuron,MGE InN,372,Ma_chimp|InN SST ADRA1D
+Ma,chimp,InN SST ANKRD33B,Neuron,MGE InN,161,Ma_chimp|InN SST ANKRD33B
+Ma,chimp,InN SST FREM1,Neuron,MGE InN,1248,Ma_chimp|InN SST FREM1
+Ma,chimp,InN SST HGF GABRQ,Neuron,MGE InN,111,Ma_chimp|InN SST HGF GABRQ
+Ma,chimp,InN SST HS3ST5,Neuron,MGE InN,661,Ma_chimp|InN SST HS3ST5
+Ma,chimp,InN SST HTR2C,Neuron,MGE InN,857,Ma_chimp|InN SST HTR2C
+Ma,chimp,InN SST KLHL14,Neuron,MGE InN,355,Ma_chimp|InN SST KLHL14
+Ma,chimp,InN SST NPY,Neuron,MGE InN,150,Ma_chimp|InN SST NPY
+Ma,chimp,InN SST PLPP4,Neuron,MGE InN,647,Ma_chimp|InN SST PLPP4
+Ma,chimp,InN SST STK32A,Neuron,MGE InN,1020,Ma_chimp|InN SST STK32A
+Ma,chimp,InN SST THSD7B,Neuron,MGE InN,527,Ma_chimp|InN SST THSD7B
+Ma,chimp,InN SST TRPC7,Neuron,MGE InN,1249,Ma_chimp|InN SST TRPC7
+Ma,chimp,InN VIP ADAM12,Neuron,CGE InN,644,Ma_chimp|InN VIP ADAM12
+Ma,chimp,InN VIP CLSTN2,Neuron,CGE InN,735,Ma_chimp|InN VIP CLSTN2
+Ma,chimp,InN VIP EGF,Neuron,CGE InN,263,Ma_chimp|InN VIP EGF
+Ma,chimp,InN VIP EXPH5,Neuron,CGE InN,730,Ma_chimp|InN VIP EXPH5
+Ma,chimp,InN VIP FREM2,Neuron,CGE InN,498,Ma_chimp|InN VIP FREM2
+Ma,chimp,InN VIP HS3ST3B1,Neuron,CGE InN,964,Ma_chimp|InN VIP HS3ST3B1
+Ma,chimp,InN VIP MDGA1,Neuron,CGE InN,129,Ma_chimp|InN VIP MDGA1
+Ma,chimp,InN VIP MEGF11 LHFP,Neuron,CGE InN,546,Ma_chimp|InN VIP MEGF11 LHFP
+Ma,chimp,InN VIP PENK,Neuron,CGE InN,205,Ma_chimp|InN VIP PENK
+Ma,chimp,InN VIP SCML4,Neuron,CGE InN,666,Ma_chimp|InN VIP SCML4
+Ma,chimp,L2-3 CUX2 ACVR1C INHBA,Neuron,ExN,2621,Ma_chimp|L2-3 CUX2 ACVR1C INHBA
+Ma,chimp,L2-3 CUX2 ACVR1C THSD7A,Neuron,ExN,9956,Ma_chimp|L2-3 CUX2 ACVR1C THSD7A
+Ma,chimp,L2-3 CUX2 ARHGAP18,Neuron,ExN,117,Ma_chimp|L2-3 CUX2 ARHGAP18
+Ma,chimp,L2-3 CUX2 NTNG1 COL5A2,Neuron,ExN,4004,Ma_chimp|L2-3 CUX2 NTNG1 COL5A2
+Ma,chimp,L2-3 CUX2 NTNG1 PALMD,Neuron,ExN,4280,Ma_chimp|L2-3 CUX2 NTNG1 PALMD
+Ma,chimp,L2-3 CUX2 NTNG1 PLCH1,Neuron,ExN,1431,Ma_chimp|L2-3 CUX2 NTNG1 PLCH1
+Ma,chimp,L2-3 CUX2 PLCXD3,Neuron,ExN,62,Ma_chimp|L2-3 CUX2 PLCXD3
+Ma,chimp,L2-4 CUX2 RORB CLMN,Neuron,ExN,1787,Ma_chimp|L2-4 CUX2 RORB CLMN
+Ma,chimp,L3-5 RORB GABRG1 KCNH7,Neuron,ExN,907,Ma_chimp|L3-5 RORB GABRG1 KCNH7
+Ma,chimp,L3-5 RORB GABRG1 PLCH1,Neuron,ExN,926,Ma_chimp|L3-5 RORB GABRG1 PLCH1
+Ma,chimp,L3-5 RORB GABRG1 PTPRO,Neuron,ExN,792,Ma_chimp|L3-5 RORB GABRG1 PTPRO
+Ma,chimp,L3-5 RORB MKX DCC,Neuron,ExN,2362,Ma_chimp|L3-5 RORB MKX DCC
+Ma,chimp,L3-5 RORB MKX GALR1,Neuron,ExN,694,Ma_chimp|L3-5 RORB MKX GALR1
+Ma,chimp,L3-5 RORB MKX GRIN3A,Neuron,ExN,2730,Ma_chimp|L3-5 RORB MKX GRIN3A
+Ma,chimp,L3-5 RORB MKX SCN5A,Neuron,ExN,376,Ma_chimp|L3-5 RORB MKX SCN5A
+Ma,chimp,L3-5 RORB PCBP3 ARHGAP15,Neuron,ExN,357,Ma_chimp|L3-5 RORB PCBP3 ARHGAP15
+Ma,chimp,L3-5 RORB PCBP3 IL1RAPL2,Neuron,ExN,683,Ma_chimp|L3-5 RORB PCBP3 IL1RAPL2
+Ma,chimp,L3-5 RORB PCBP3 LINGO2,Neuron,ExN,1101,Ma_chimp|L3-5 RORB PCBP3 LINGO2
+Ma,chimp,L3-5 RORB TNNT2 PRRX1,Neuron,ExN,347,Ma_chimp|L3-5 RORB TNNT2 PRRX1
+Ma,chimp,L3-5 RORB TNNT2 TSHZ2,Neuron,ExN,824,Ma_chimp|L3-5 RORB TNNT2 TSHZ2
+Ma,chimp,L5 FEZF2 BCL11B POU3F1,Neuron,ExN,364,Ma_chimp|L5 FEZF2 BCL11B POU3F1
+Ma,chimp,L5-6 FEZF2 NXPH2 CDH8,Neuron,ExN,730,Ma_chimp|L5-6 FEZF2 NXPH2 CDH8
+Ma,chimp,L5-6 FEZF2 NXPH2 GPC5,Neuron,ExN,334,Ma_chimp|L5-6 FEZF2 NXPH2 GPC5
+Ma,chimp,L5-6 FEZF2 NXPH2 GRIK1,Neuron,ExN,295,Ma_chimp|L5-6 FEZF2 NXPH2 GRIK1
+Ma,chimp,L5-6 FEZF2 NXPH2 SORCS3,Neuron,ExN,195,Ma_chimp|L5-6 FEZF2 NXPH2 SORCS3
+Ma,chimp,L6 FEZF2 AMOTL1 CDH6,Neuron,ExN,235,Ma_chimp|L6 FEZF2 AMOTL1 CDH6
+Ma,chimp,L6 FEZF2 DCBLD1 MITF,Neuron,ExN,309,Ma_chimp|L6 FEZF2 DCBLD1 MITF
+Ma,chimp,L6 FEZF2 EYA1,Neuron,ExN,57,Ma_chimp|L6 FEZF2 EYA1
+Ma,chimp,L6 FEZF2 HCRTR2 THSD7B,Neuron,ExN,66,Ma_chimp|L6 FEZF2 HCRTR2 THSD7B
+Ma,chimp,L6 FEZF2 NPFFR2 KCNK2,Neuron,ExN,602,Ma_chimp|L6 FEZF2 NPFFR2 KCNK2
+Ma,chimp,L6 FEZF2 NPFFR2 TPD52L1,Neuron,ExN,892,Ma_chimp|L6 FEZF2 NPFFR2 TPD52L1
+Ma,chimp,L6 FEZF2 SYT6 CDH9,Neuron,ExN,812,Ma_chimp|L6 FEZF2 SYT6 CDH9
+Ma,chimp,L6 FEZF2 SYT6 ERBB4,Neuron,ExN,506,Ma_chimp|L6 FEZF2 SYT6 ERBB4
+Ma,chimp,L6 FEZF2 SYT6 PTPRT,Neuron,ExN,651,Ma_chimp|L6 FEZF2 SYT6 PTPRT
+Ma,chimp,L6 FEZF2 SYT6 SULF1,Neuron,ExN,129,Ma_chimp|L6 FEZF2 SYT6 SULF1
+Ma,chimp,L6 OPRK1 SMYD1 ADAMTS17,Neuron,ExN,144,Ma_chimp|L6 OPRK1 SMYD1 ADAMTS17
+Ma,chimp,L6 OPRK1 SMYD1 KCND2,Neuron,ExN,476,Ma_chimp|L6 OPRK1 SMYD1 KCND2
+Ma,chimp,L6 OPRK1 SMYD1 SNTB1,Neuron,ExN,414,Ma_chimp|L6 OPRK1 SMYD1 SNTB1
+Ma,chimp,L6 OPRK1 SMYD1 TSHZ2,Neuron,ExN,302,Ma_chimp|L6 OPRK1 SMYD1 TSHZ2
+Ma,chimp,L6 OPRK1 THEMIS RGS6,Neuron,ExN,2358,Ma_chimp|L6 OPRK1 THEMIS RGS6
+Ma,chimp,Macro F13A1 COLEC12,Non-neuron,Immune,167,Ma_chimp|Macro F13A1 COLEC12
+Ma,chimp,Micro P2RY12 APBB1IP,Non-neuron,Immune,5679,Ma_chimp|Micro P2RY12 APBB1IP
+Ma,chimp,Micro P2RY12 GLDN,Non-neuron,Immune,69,Ma_chimp|Micro P2RY12 GLDN
+Ma,chimp,Myeloid LSP1 LYZ,Non-neuron,Immune,242,Ma_chimp|Myeloid LSP1 LYZ
+Ma,chimp,OPC PDGFRA PCDH15,Non-neuron,OPC,5250,Ma_chimp|OPC PDGFRA PCDH15
+Ma,chimp,Oligo MOG CDH7,Non-neuron,Oligo,4,Ma_chimp|Oligo MOG CDH7
+Ma,chimp,Oligo MOG FRY,Non-neuron,Oligo,255,Ma_chimp|Oligo MOG FRY
+Ma,chimp,Oligo MOG GSN,Non-neuron,Oligo,2351,Ma_chimp|Oligo MOG GSN
+Ma,chimp,Oligo MOG OPALIN,Non-neuron,Oligo,43451,Ma_chimp|Oligo MOG OPALIN
+Ma,chimp,PC P2RY14 GRM8,Non-neuron,Vascular,4192,Ma_chimp|PC P2RY14 GRM8
+Ma,chimp,RB HBA1 HBB,Non-neuron,Other,134,Ma_chimp|RB HBA1 HBB
+Ma,chimp,SMC ACTA2 CNN1,Non-neuron,Vascular,906,Ma_chimp|SMC ACTA2 CNN1
+Ma,chimp,SMC ACTA2 CRISPLD2,Non-neuron,Vascular,114,Ma_chimp|SMC ACTA2 CRISPLD2
+Ma,chimp,SMC ACTA2 CYP1B1,Non-neuron,Vascular,812,Ma_chimp|SMC ACTA2 CYP1B1
+Ma,chimp,T SKAP1 CD247,Non-neuron,Immune,233,Ma_chimp|T SKAP1 CD247
+Ma,chimp,VLMC COL1A2 SLC13A3,Non-neuron,Vascular,350,Ma_chimp|VLMC COL1A2 SLC13A3
+Ma,chimp,VLMC COL1A2 VLMCA8,Non-neuron,Vascular,521,Ma_chimp|VLMC COL1A2 VLMCA8
+Ma,chimp,VLMC SLC47A1 SLC4A4,Non-neuron,Vascular,340,Ma_chimp|VLMC SLC47A1 SLC4A4
+Ma,rhesus,Astro AQP4 SLC1A2,Non-neuron,Astrocyte,8903,Ma_rhesus|Astro AQP4 SLC1A2
+Ma,rhesus,Astro GFAP AQP1,Non-neuron,Astrocyte,595,Ma_rhesus|Astro GFAP AQP1
+Ma,rhesus,Astro GFAP FABP7,Non-neuron,Astrocyte,1435,Ma_rhesus|Astro GFAP FABP7
+Ma,rhesus,B EBF1 IGKC,Non-neuron,Immune,6,Ma_rhesus|B EBF1 IGKC
+Ma,rhesus,COP GPR17 SOX4,Non-neuron,OPC,110,Ma_rhesus|COP GPR17 SOX4
+Ma,rhesus,Endo CLDN5 DKK2,Non-neuron,Vascular,187,Ma_rhesus|Endo CLDN5 DKK2
+Ma,rhesus,Endo CLDN5 IL1R1,Non-neuron,Vascular,423,Ma_rhesus|Endo CLDN5 IL1R1
+Ma,rhesus,Endo CLDN5 SLC7A5,Non-neuron,Vascular,3846,Ma_rhesus|Endo CLDN5 SLC7A5
+Ma,rhesus,InN ADARB2 CADPS2,Neuron,CGE InN,125,Ma_rhesus|InN ADARB2 CADPS2
+Ma,rhesus,InN ADARB2 CALCR,Neuron,CGE InN,118,Ma_rhesus|InN ADARB2 CALCR
+Ma,rhesus,InN ADARB2 COL5A2,Neuron,CGE InN,455,Ma_rhesus|InN ADARB2 COL5A2
+Ma,rhesus,InN ADARB2 FAM19A1,Neuron,CGE InN,576,Ma_rhesus|InN ADARB2 FAM19A1
+Ma,rhesus,InN ADARB2 PALMD,Neuron,CGE InN,54,Ma_rhesus|InN ADARB2 PALMD
+Ma,rhesus,InN ADARB2 RGS10,Neuron,CGE InN,274,Ma_rhesus|InN ADARB2 RGS10
+Ma,rhesus,InN ADARB2 SFRP2,Neuron,CGE InN,226,Ma_rhesus|InN ADARB2 SFRP2
+Ma,rhesus,InN LAMP5 ADAMTS20,Neuron,CGE InN,246,Ma_rhesus|InN LAMP5 ADAMTS20
+Ma,rhesus,InN LAMP5 BMP7,Neuron,CGE InN,1032,Ma_rhesus|InN LAMP5 BMP7
+Ma,rhesus,InN LAMP5 LHX6 PROX1,Neuron,CGE InN,513,Ma_rhesus|InN LAMP5 LHX6 PROX1
+Ma,rhesus,InN LAMP5 LHX6 TAC1,Neuron,CGE InN,483,Ma_rhesus|InN LAMP5 LHX6 TAC1
+Ma,rhesus,InN LAMP5 MEIS2,Neuron,CGE InN,115,Ma_rhesus|InN LAMP5 MEIS2
+Ma,rhesus,InN LAMP5 RELN,Neuron,CGE InN,585,Ma_rhesus|InN LAMP5 RELN
+Ma,rhesus,InN LHX6 HGF STON2,Neuron,MGE InN,209,Ma_rhesus|InN LHX6 HGF STON2
+Ma,rhesus,InN PVALB ANOS1,Neuron,MGE InN,1632,Ma_rhesus|InN PVALB ANOS1
+Ma,rhesus,InN PVALB GRIN2C,Neuron,MGE InN,447,Ma_rhesus|InN PVALB GRIN2C
+Ma,rhesus,InN PVALB HPSE,Neuron,MGE InN,1002,Ma_rhesus|InN PVALB HPSE
+Ma,rhesus,InN PVALB PDE3A,Neuron,MGE InN,700,Ma_rhesus|InN PVALB PDE3A
+Ma,rhesus,InN PVALB PIEZO2,Neuron,MGE InN,1127,Ma_rhesus|InN PVALB PIEZO2
+Ma,rhesus,InN PVALB PRKCH,Neuron,MGE InN,298,Ma_rhesus|InN PVALB PRKCH
+Ma,rhesus,InN PVALB SNTB1,Neuron,MGE InN,403,Ma_rhesus|InN PVALB SNTB1
+Ma,rhesus,InN PVALB SYT2,Neuron,MGE InN,247,Ma_rhesus|InN PVALB SYT2
+Ma,rhesus,InN SST ADAMTSL1,Neuron,MGE InN,542,Ma_rhesus|InN SST ADAMTSL1
+Ma,rhesus,InN SST ADRA1D,Neuron,MGE InN,192,Ma_rhesus|InN SST ADRA1D
+Ma,rhesus,InN SST ANKRD33B,Neuron,MGE InN,80,Ma_rhesus|InN SST ANKRD33B
+Ma,rhesus,InN SST FREM1,Neuron,MGE InN,853,Ma_rhesus|InN SST FREM1
+Ma,rhesus,InN SST HGF GABRQ,Neuron,MGE InN,99,Ma_rhesus|InN SST HGF GABRQ
+Ma,rhesus,InN SST HS3ST5,Neuron,MGE InN,491,Ma_rhesus|InN SST HS3ST5
+Ma,rhesus,InN SST HTR2C,Neuron,MGE InN,571,Ma_rhesus|InN SST HTR2C
+Ma,rhesus,InN SST KLHL14,Neuron,MGE InN,438,Ma_rhesus|InN SST KLHL14
+Ma,rhesus,InN SST NPY,Neuron,MGE InN,88,Ma_rhesus|InN SST NPY
+Ma,rhesus,InN SST PLPP4,Neuron,MGE InN,356,Ma_rhesus|InN SST PLPP4
+Ma,rhesus,InN SST STK32A,Neuron,MGE InN,961,Ma_rhesus|InN SST STK32A
+Ma,rhesus,InN SST THSD7B,Neuron,MGE InN,542,Ma_rhesus|InN SST THSD7B
+Ma,rhesus,InN SST TRPC7,Neuron,MGE InN,795,Ma_rhesus|InN SST TRPC7
+Ma,rhesus,InN VIP ADAM12,Neuron,CGE InN,425,Ma_rhesus|InN VIP ADAM12
+Ma,rhesus,InN VIP CLSTN2,Neuron,CGE InN,871,Ma_rhesus|InN VIP CLSTN2
+Ma,rhesus,InN VIP EGF,Neuron,CGE InN,298,Ma_rhesus|InN VIP EGF
+Ma,rhesus,InN VIP EXPH5,Neuron,CGE InN,666,Ma_rhesus|InN VIP EXPH5
+Ma,rhesus,InN VIP FREM2,Neuron,CGE InN,450,Ma_rhesus|InN VIP FREM2
+Ma,rhesus,InN VIP HS3ST3B1,Neuron,CGE InN,1040,Ma_rhesus|InN VIP HS3ST3B1
+Ma,rhesus,InN VIP MDGA1,Neuron,CGE InN,133,Ma_rhesus|InN VIP MDGA1
+Ma,rhesus,InN VIP MEGF11 LHFP,Neuron,CGE InN,461,Ma_rhesus|InN VIP MEGF11 LHFP
+Ma,rhesus,InN VIP PENK,Neuron,CGE InN,104,Ma_rhesus|InN VIP PENK
+Ma,rhesus,InN VIP SCML4,Neuron,CGE InN,516,Ma_rhesus|InN VIP SCML4
+Ma,rhesus,L2-3 CUX2 ACVR1C INHBA,Neuron,ExN,1668,Ma_rhesus|L2-3 CUX2 ACVR1C INHBA
+Ma,rhesus,L2-3 CUX2 ACVR1C THSD7A,Neuron,ExN,9907,Ma_rhesus|L2-3 CUX2 ACVR1C THSD7A
+Ma,rhesus,L2-3 CUX2 ARHGAP18,Neuron,ExN,62,Ma_rhesus|L2-3 CUX2 ARHGAP18
+Ma,rhesus,L2-3 CUX2 NTNG1 COL5A2,Neuron,ExN,3343,Ma_rhesus|L2-3 CUX2 NTNG1 COL5A2
+Ma,rhesus,L2-3 CUX2 NTNG1 PALMD,Neuron,ExN,3889,Ma_rhesus|L2-3 CUX2 NTNG1 PALMD
+Ma,rhesus,L2-3 CUX2 NTNG1 PLCH1,Neuron,ExN,1502,Ma_rhesus|L2-3 CUX2 NTNG1 PLCH1
+Ma,rhesus,L2-3 CUX2 PLCXD3,Neuron,ExN,84,Ma_rhesus|L2-3 CUX2 PLCXD3
+Ma,rhesus,L2-4 CUX2 RORB CLMN,Neuron,ExN,1382,Ma_rhesus|L2-4 CUX2 RORB CLMN
+Ma,rhesus,L3-5 RORB GABRG1 KCNH7,Neuron,ExN,1249,Ma_rhesus|L3-5 RORB GABRG1 KCNH7
+Ma,rhesus,L3-5 RORB GABRG1 PLCH1,Neuron,ExN,469,Ma_rhesus|L3-5 RORB GABRG1 PLCH1
+Ma,rhesus,L3-5 RORB GABRG1 PTPRO,Neuron,ExN,1187,Ma_rhesus|L3-5 RORB GABRG1 PTPRO
+Ma,rhesus,L3-5 RORB MKX DCC,Neuron,ExN,2607,Ma_rhesus|L3-5 RORB MKX DCC
+Ma,rhesus,L3-5 RORB MKX GALR1,Neuron,ExN,886,Ma_rhesus|L3-5 RORB MKX GALR1
+Ma,rhesus,L3-5 RORB MKX GRIN3A,Neuron,ExN,2810,Ma_rhesus|L3-5 RORB MKX GRIN3A
+Ma,rhesus,L3-5 RORB MKX SCN5A,Neuron,ExN,576,Ma_rhesus|L3-5 RORB MKX SCN5A
+Ma,rhesus,L3-5 RORB PCBP3 ARHGAP15,Neuron,ExN,606,Ma_rhesus|L3-5 RORB PCBP3 ARHGAP15
+Ma,rhesus,L3-5 RORB PCBP3 IL1RAPL2,Neuron,ExN,981,Ma_rhesus|L3-5 RORB PCBP3 IL1RAPL2
+Ma,rhesus,L3-5 RORB PCBP3 LINGO2,Neuron,ExN,1508,Ma_rhesus|L3-5 RORB PCBP3 LINGO2
+Ma,rhesus,L3-5 RORB TNNT2 PRRX1,Neuron,ExN,390,Ma_rhesus|L3-5 RORB TNNT2 PRRX1
+Ma,rhesus,L3-5 RORB TNNT2 TSHZ2,Neuron,ExN,1234,Ma_rhesus|L3-5 RORB TNNT2 TSHZ2
+Ma,rhesus,L5 FEZF2 BCL11B POU3F1,Neuron,ExN,384,Ma_rhesus|L5 FEZF2 BCL11B POU3F1
+Ma,rhesus,L5-6 FEZF2 NXPH2 CDH8,Neuron,ExN,750,Ma_rhesus|L5-6 FEZF2 NXPH2 CDH8
+Ma,rhesus,L5-6 FEZF2 NXPH2 GPC5,Neuron,ExN,375,Ma_rhesus|L5-6 FEZF2 NXPH2 GPC5
+Ma,rhesus,L5-6 FEZF2 NXPH2 GRIK1,Neuron,ExN,294,Ma_rhesus|L5-6 FEZF2 NXPH2 GRIK1
+Ma,rhesus,L5-6 FEZF2 NXPH2 SORCS3,Neuron,ExN,248,Ma_rhesus|L5-6 FEZF2 NXPH2 SORCS3
+Ma,rhesus,L6 FEZF2 AMOTL1 CDH6,Neuron,ExN,355,Ma_rhesus|L6 FEZF2 AMOTL1 CDH6
+Ma,rhesus,L6 FEZF2 DCBLD1 MITF,Neuron,ExN,458,Ma_rhesus|L6 FEZF2 DCBLD1 MITF
+Ma,rhesus,L6 FEZF2 EYA1,Neuron,ExN,37,Ma_rhesus|L6 FEZF2 EYA1
+Ma,rhesus,L6 FEZF2 HCRTR2 THSD7B,Neuron,ExN,186,Ma_rhesus|L6 FEZF2 HCRTR2 THSD7B
+Ma,rhesus,L6 FEZF2 NPFFR2 KCNK2,Neuron,ExN,718,Ma_rhesus|L6 FEZF2 NPFFR2 KCNK2
+Ma,rhesus,L6 FEZF2 NPFFR2 TPD52L1,Neuron,ExN,1194,Ma_rhesus|L6 FEZF2 NPFFR2 TPD52L1
+Ma,rhesus,L6 FEZF2 SYT6 CDH9,Neuron,ExN,957,Ma_rhesus|L6 FEZF2 SYT6 CDH9
+Ma,rhesus,L6 FEZF2 SYT6 ERBB4,Neuron,ExN,661,Ma_rhesus|L6 FEZF2 SYT6 ERBB4
+Ma,rhesus,L6 FEZF2 SYT6 PTPRT,Neuron,ExN,1284,Ma_rhesus|L6 FEZF2 SYT6 PTPRT
+Ma,rhesus,L6 FEZF2 SYT6 SULF1,Neuron,ExN,268,Ma_rhesus|L6 FEZF2 SYT6 SULF1
+Ma,rhesus,L6 OPRK1 SMYD1 ADAMTS17,Neuron,ExN,72,Ma_rhesus|L6 OPRK1 SMYD1 ADAMTS17
+Ma,rhesus,L6 OPRK1 SMYD1 KCND2,Neuron,ExN,373,Ma_rhesus|L6 OPRK1 SMYD1 KCND2
+Ma,rhesus,L6 OPRK1 SMYD1 SNTB1,Neuron,ExN,328,Ma_rhesus|L6 OPRK1 SMYD1 SNTB1
+Ma,rhesus,L6 OPRK1 SMYD1 TSHZ2,Neuron,ExN,254,Ma_rhesus|L6 OPRK1 SMYD1 TSHZ2
+Ma,rhesus,L6 OPRK1 THEMIS RGS6,Neuron,ExN,4141,Ma_rhesus|L6 OPRK1 THEMIS RGS6
+Ma,rhesus,Macro F13A1 COLEC12,Non-neuron,Immune,688,Ma_rhesus|Macro F13A1 COLEC12
+Ma,rhesus,Micro P2RY12 APBB1IP,Non-neuron,Immune,8058,Ma_rhesus|Micro P2RY12 APBB1IP
+Ma,rhesus,Myeloid LSP1 LYZ,Non-neuron,Immune,126,Ma_rhesus|Myeloid LSP1 LYZ
+Ma,rhesus,OPC PDGFRA PCDH15,Non-neuron,OPC,6176,Ma_rhesus|OPC PDGFRA PCDH15
+Ma,rhesus,Oligo MOG CDH7,Non-neuron,Oligo,31,Ma_rhesus|Oligo MOG CDH7
+Ma,rhesus,Oligo MOG FRY,Non-neuron,Oligo,5139,Ma_rhesus|Oligo MOG FRY
+Ma,rhesus,Oligo MOG GSN,Non-neuron,Oligo,1492,Ma_rhesus|Oligo MOG GSN
+Ma,rhesus,Oligo MOG OPALIN,Non-neuron,Oligo,14829,Ma_rhesus|Oligo MOG OPALIN
+Ma,rhesus,PC P2RY14 GRM8,Non-neuron,Vascular,3415,Ma_rhesus|PC P2RY14 GRM8
+Ma,rhesus,RB HBA1 HBB,Non-neuron,Other,111,Ma_rhesus|RB HBA1 HBB
+Ma,rhesus,SMC ACTA2 CNN1,Non-neuron,Vascular,640,Ma_rhesus|SMC ACTA2 CNN1
+Ma,rhesus,SMC ACTA2 CRISPLD2,Non-neuron,Vascular,72,Ma_rhesus|SMC ACTA2 CRISPLD2
+Ma,rhesus,SMC ACTA2 CYP1B1,Non-neuron,Vascular,471,Ma_rhesus|SMC ACTA2 CYP1B1
+Ma,rhesus,T SKAP1 CD247,Non-neuron,Immune,185,Ma_rhesus|T SKAP1 CD247
+Ma,rhesus,VLMC COL1A2 SLC13A3,Non-neuron,Vascular,887,Ma_rhesus|VLMC COL1A2 SLC13A3
+Ma,rhesus,VLMC COL1A2 VLMCA8,Non-neuron,Vascular,770,Ma_rhesus|VLMC COL1A2 VLMCA8
+Ma,rhesus,VLMC SLC47A1 SLC4A4,Non-neuron,Vascular,921,Ma_rhesus|VLMC SLC47A1 SLC4A4
+Ma,marmoset,Astro AQP4 SLC1A2,Non-neuron,Astrocyte,14663,Ma_marmoset|Astro AQP4 SLC1A2
+Ma,marmoset,Astro GFAP AQP1,Non-neuron,Astrocyte,480,Ma_marmoset|Astro GFAP AQP1
+Ma,marmoset,Astro GFAP FABP7,Non-neuron,Astrocyte,1003,Ma_marmoset|Astro GFAP FABP7
+Ma,marmoset,B EBF1 IGKC,Non-neuron,Immune,6,Ma_marmoset|B EBF1 IGKC
+Ma,marmoset,COP GPR17 SOX4,Non-neuron,OPC,30,Ma_marmoset|COP GPR17 SOX4
+Ma,marmoset,Endo CLDN5 DKK2,Non-neuron,Vascular,93,Ma_marmoset|Endo CLDN5 DKK2
+Ma,marmoset,Endo CLDN5 IL1R1,Non-neuron,Vascular,554,Ma_marmoset|Endo CLDN5 IL1R1
+Ma,marmoset,Endo CLDN5 SLC7A5,Non-neuron,Vascular,3628,Ma_marmoset|Endo CLDN5 SLC7A5
+Ma,marmoset,InN ADARB2 CADPS2,Neuron,CGE InN,215,Ma_marmoset|InN ADARB2 CADPS2
+Ma,marmoset,InN ADARB2 CALCR,Neuron,CGE InN,168,Ma_marmoset|InN ADARB2 CALCR
+Ma,marmoset,InN ADARB2 COL5A2,Neuron,CGE InN,383,Ma_marmoset|InN ADARB2 COL5A2
+Ma,marmoset,InN ADARB2 FAM19A1,Neuron,CGE InN,670,Ma_marmoset|InN ADARB2 FAM19A1
+Ma,marmoset,InN ADARB2 PALMD,Neuron,CGE InN,64,Ma_marmoset|InN ADARB2 PALMD
+Ma,marmoset,InN ADARB2 RGS10,Neuron,CGE InN,427,Ma_marmoset|InN ADARB2 RGS10
+Ma,marmoset,InN ADARB2 SFRP2,Neuron,CGE InN,382,Ma_marmoset|InN ADARB2 SFRP2
+Ma,marmoset,InN LAMP5 ADAMTS20,Neuron,CGE InN,273,Ma_marmoset|InN LAMP5 ADAMTS20
+Ma,marmoset,InN LAMP5 BMP7,Neuron,CGE InN,1312,Ma_marmoset|InN LAMP5 BMP7
+Ma,marmoset,InN LAMP5 LHX6 PROX1,Neuron,CGE InN,362,Ma_marmoset|InN LAMP5 LHX6 PROX1
+Ma,marmoset,InN LAMP5 LHX6 TAC1,Neuron,CGE InN,695,Ma_marmoset|InN LAMP5 LHX6 TAC1
+Ma,marmoset,InN LAMP5 MEIS2,Neuron,CGE InN,80,Ma_marmoset|InN LAMP5 MEIS2
+Ma,marmoset,InN LAMP5 RELN,Neuron,CGE InN,595,Ma_marmoset|InN LAMP5 RELN
+Ma,marmoset,InN LAMP5 SYT10,Neuron,CGE InN,225,Ma_marmoset|InN LAMP5 SYT10
+Ma,marmoset,InN LHX6 HGF STON2,Neuron,MGE InN,126,Ma_marmoset|InN LHX6 HGF STON2
+Ma,marmoset,InN PVALB ANOS1,Neuron,MGE InN,1875,Ma_marmoset|InN PVALB ANOS1
+Ma,marmoset,InN PVALB GRIN2C,Neuron,MGE InN,604,Ma_marmoset|InN PVALB GRIN2C
+Ma,marmoset,InN PVALB HPSE,Neuron,MGE InN,1368,Ma_marmoset|InN PVALB HPSE
+Ma,marmoset,InN PVALB PDE3A,Neuron,MGE InN,1010,Ma_marmoset|InN PVALB PDE3A
+Ma,marmoset,InN PVALB PIEZO2,Neuron,MGE InN,1398,Ma_marmoset|InN PVALB PIEZO2
+Ma,marmoset,InN PVALB PRKCH,Neuron,MGE InN,370,Ma_marmoset|InN PVALB PRKCH
+Ma,marmoset,InN PVALB SNTB1,Neuron,MGE InN,434,Ma_marmoset|InN PVALB SNTB1
+Ma,marmoset,InN PVALB SYT2,Neuron,MGE InN,387,Ma_marmoset|InN PVALB SYT2
+Ma,marmoset,InN SST ADAMTSL1,Neuron,MGE InN,803,Ma_marmoset|InN SST ADAMTSL1
+Ma,marmoset,InN SST ADRA1D,Neuron,MGE InN,198,Ma_marmoset|InN SST ADRA1D
+Ma,marmoset,InN SST ANKRD33B,Neuron,MGE InN,55,Ma_marmoset|InN SST ANKRD33B
+Ma,marmoset,InN SST FREM1,Neuron,MGE InN,1295,Ma_marmoset|InN SST FREM1
+Ma,marmoset,InN SST HGF GABRQ,Neuron,MGE InN,200,Ma_marmoset|InN SST HGF GABRQ
+Ma,marmoset,InN SST HS3ST5,Neuron,MGE InN,519,Ma_marmoset|InN SST HS3ST5
+Ma,marmoset,InN SST HTR2C,Neuron,MGE InN,822,Ma_marmoset|InN SST HTR2C
+Ma,marmoset,InN SST KLHL14,Neuron,MGE InN,440,Ma_marmoset|InN SST KLHL14
+Ma,marmoset,InN SST NPY,Neuron,MGE InN,120,Ma_marmoset|InN SST NPY
+Ma,marmoset,InN SST PLPP4,Neuron,MGE InN,550,Ma_marmoset|InN SST PLPP4
+Ma,marmoset,InN SST STK32A,Neuron,MGE InN,1417,Ma_marmoset|InN SST STK32A
+Ma,marmoset,InN SST THSD7B,Neuron,MGE InN,751,Ma_marmoset|InN SST THSD7B
+Ma,marmoset,InN SST TRPC7,Neuron,MGE InN,1254,Ma_marmoset|InN SST TRPC7
+Ma,marmoset,InN VIP ADAM12,Neuron,CGE InN,576,Ma_marmoset|InN VIP ADAM12
+Ma,marmoset,InN VIP CLSTN2,Neuron,CGE InN,1376,Ma_marmoset|InN VIP CLSTN2
+Ma,marmoset,InN VIP EGF,Neuron,CGE InN,382,Ma_marmoset|InN VIP EGF
+Ma,marmoset,InN VIP EXPH5,Neuron,CGE InN,849,Ma_marmoset|InN VIP EXPH5
+Ma,marmoset,InN VIP FREM2,Neuron,CGE InN,772,Ma_marmoset|InN VIP FREM2
+Ma,marmoset,InN VIP HS3ST3B1,Neuron,CGE InN,1300,Ma_marmoset|InN VIP HS3ST3B1
+Ma,marmoset,InN VIP MDGA1,Neuron,CGE InN,65,Ma_marmoset|InN VIP MDGA1
+Ma,marmoset,InN VIP MEGF11 LHFP,Neuron,CGE InN,682,Ma_marmoset|InN VIP MEGF11 LHFP
+Ma,marmoset,InN VIP PENK,Neuron,CGE InN,97,Ma_marmoset|InN VIP PENK
+Ma,marmoset,InN VIP SCML4,Neuron,CGE InN,602,Ma_marmoset|InN VIP SCML4
+Ma,marmoset,L2-3 CUX2 ACVR1C INHBA,Neuron,ExN,1455,Ma_marmoset|L2-3 CUX2 ACVR1C INHBA
+Ma,marmoset,L2-3 CUX2 ACVR1C THSD7A,Neuron,ExN,8323,Ma_marmoset|L2-3 CUX2 ACVR1C THSD7A
+Ma,marmoset,L2-3 CUX2 NTNG1 COL5A2,Neuron,ExN,5218,Ma_marmoset|L2-3 CUX2 NTNG1 COL5A2
+Ma,marmoset,L2-3 CUX2 NTNG1 PALMD,Neuron,ExN,6000,Ma_marmoset|L2-3 CUX2 NTNG1 PALMD
+Ma,marmoset,L2-3 CUX2 NTNG1 PLCH1,Neuron,ExN,2733,Ma_marmoset|L2-3 CUX2 NTNG1 PLCH1
+Ma,marmoset,L2-3 CUX2 PLCXD3,Neuron,ExN,16,Ma_marmoset|L2-3 CUX2 PLCXD3
+Ma,marmoset,L2-4 CUX2 RORB CLMN,Neuron,ExN,1965,Ma_marmoset|L2-4 CUX2 RORB CLMN
+Ma,marmoset,L3-5 RORB GABRG1 KCNH7,Neuron,ExN,1718,Ma_marmoset|L3-5 RORB GABRG1 KCNH7
+Ma,marmoset,L3-5 RORB GABRG1 PLCH1,Neuron,ExN,1255,Ma_marmoset|L3-5 RORB GABRG1 PLCH1
+Ma,marmoset,L3-5 RORB GABRG1 PTPRO,Neuron,ExN,1983,Ma_marmoset|L3-5 RORB GABRG1 PTPRO
+Ma,marmoset,L3-5 RORB MKX DCC,Neuron,ExN,4058,Ma_marmoset|L3-5 RORB MKX DCC
+Ma,marmoset,L3-5 RORB MKX GALR1,Neuron,ExN,1674,Ma_marmoset|L3-5 RORB MKX GALR1
+Ma,marmoset,L3-5 RORB MKX GRIN3A,Neuron,ExN,5006,Ma_marmoset|L3-5 RORB MKX GRIN3A
+Ma,marmoset,L3-5 RORB MKX SCN5A,Neuron,ExN,1026,Ma_marmoset|L3-5 RORB MKX SCN5A
+Ma,marmoset,L3-5 RORB PCBP3 ARHGAP15,Neuron,ExN,999,Ma_marmoset|L3-5 RORB PCBP3 ARHGAP15
+Ma,marmoset,L3-5 RORB PCBP3 IL1RAPL2,Neuron,ExN,2010,Ma_marmoset|L3-5 RORB PCBP3 IL1RAPL2
+Ma,marmoset,L3-5 RORB PCBP3 LINGO2,Neuron,ExN,2402,Ma_marmoset|L3-5 RORB PCBP3 LINGO2
+Ma,marmoset,L3-5 RORB TNNT2 PRRX1,Neuron,ExN,519,Ma_marmoset|L3-5 RORB TNNT2 PRRX1
+Ma,marmoset,L3-5 RORB TNNT2 TSHZ2,Neuron,ExN,1865,Ma_marmoset|L3-5 RORB TNNT2 TSHZ2
+Ma,marmoset,L5 FEZF2 BCL11B POU3F1,Neuron,ExN,1361,Ma_marmoset|L5 FEZF2 BCL11B POU3F1
+Ma,marmoset,L5-6 FEZF2 NXPH2 CDH8,Neuron,ExN,1294,Ma_marmoset|L5-6 FEZF2 NXPH2 CDH8
+Ma,marmoset,L5-6 FEZF2 NXPH2 GPC5,Neuron,ExN,741,Ma_marmoset|L5-6 FEZF2 NXPH2 GPC5
+Ma,marmoset,L5-6 FEZF2 NXPH2 GRIK1,Neuron,ExN,522,Ma_marmoset|L5-6 FEZF2 NXPH2 GRIK1
+Ma,marmoset,L5-6 FEZF2 NXPH2 SORCS3,Neuron,ExN,322,Ma_marmoset|L5-6 FEZF2 NXPH2 SORCS3
+Ma,marmoset,L6 FEZF2 AMOTL1 CDH6,Neuron,ExN,345,Ma_marmoset|L6 FEZF2 AMOTL1 CDH6
+Ma,marmoset,L6 FEZF2 DCBLD1 MITF,Neuron,ExN,525,Ma_marmoset|L6 FEZF2 DCBLD1 MITF
+Ma,marmoset,L6 FEZF2 EYA1,Neuron,ExN,7,Ma_marmoset|L6 FEZF2 EYA1
+Ma,marmoset,L6 FEZF2 HCRTR2 THSD7B,Neuron,ExN,116,Ma_marmoset|L6 FEZF2 HCRTR2 THSD7B
+Ma,marmoset,L6 FEZF2 NPFFR2 KCNK2,Neuron,ExN,589,Ma_marmoset|L6 FEZF2 NPFFR2 KCNK2
+Ma,marmoset,L6 FEZF2 NPFFR2 TPD52L1,Neuron,ExN,1072,Ma_marmoset|L6 FEZF2 NPFFR2 TPD52L1
+Ma,marmoset,L6 FEZF2 SYT6 CDH9,Neuron,ExN,1515,Ma_marmoset|L6 FEZF2 SYT6 CDH9
+Ma,marmoset,L6 FEZF2 SYT6 ERBB4,Neuron,ExN,1401,Ma_marmoset|L6 FEZF2 SYT6 ERBB4
+Ma,marmoset,L6 FEZF2 SYT6 PTPRT,Neuron,ExN,1610,Ma_marmoset|L6 FEZF2 SYT6 PTPRT
+Ma,marmoset,L6 FEZF2 SYT6 SULF1,Neuron,ExN,431,Ma_marmoset|L6 FEZF2 SYT6 SULF1
+Ma,marmoset,L6 OPRK1 SMYD1 ADAMTS17,Neuron,ExN,7,Ma_marmoset|L6 OPRK1 SMYD1 ADAMTS17
+Ma,marmoset,L6 OPRK1 SMYD1 KCND2,Neuron,ExN,355,Ma_marmoset|L6 OPRK1 SMYD1 KCND2
+Ma,marmoset,L6 OPRK1 SMYD1 SNTB1,Neuron,ExN,258,Ma_marmoset|L6 OPRK1 SMYD1 SNTB1
+Ma,marmoset,L6 OPRK1 SMYD1 TSHZ2,Neuron,ExN,109,Ma_marmoset|L6 OPRK1 SMYD1 TSHZ2
+Ma,marmoset,L6 OPRK1 THEMIS RGS6,Neuron,ExN,5555,Ma_marmoset|L6 OPRK1 THEMIS RGS6
+Ma,marmoset,Macro F13A1 COLEC12,Non-neuron,Immune,254,Ma_marmoset|Macro F13A1 COLEC12
+Ma,marmoset,Micro P2RY12 APBB1IP,Non-neuron,Immune,4626,Ma_marmoset|Micro P2RY12 APBB1IP
+Ma,marmoset,Myeloid LSP1 LYZ,Non-neuron,Immune,44,Ma_marmoset|Myeloid LSP1 LYZ
+Ma,marmoset,OPC PDGFRA PCDH15,Non-neuron,OPC,4556,Ma_marmoset|OPC PDGFRA PCDH15
+Ma,marmoset,Oligo MOG CDH7,Non-neuron,Oligo,3,Ma_marmoset|Oligo MOG CDH7
+Ma,marmoset,Oligo MOG FRY,Non-neuron,Oligo,933,Ma_marmoset|Oligo MOG FRY
+Ma,marmoset,Oligo MOG GSN,Non-neuron,Oligo,1874,Ma_marmoset|Oligo MOG GSN
+Ma,marmoset,Oligo MOG OPALIN,Non-neuron,Oligo,14734,Ma_marmoset|Oligo MOG OPALIN
+Ma,marmoset,PC P2RY14 GRM8,Non-neuron,Vascular,2521,Ma_marmoset|PC P2RY14 GRM8
+Ma,marmoset,RB HBA1 HBB,Non-neuron,Other,233,Ma_marmoset|RB HBA1 HBB
+Ma,marmoset,SMC ACTA2 CNN1,Non-neuron,Vascular,282,Ma_marmoset|SMC ACTA2 CNN1
+Ma,marmoset,SMC ACTA2 CRISPLD2,Non-neuron,Vascular,30,Ma_marmoset|SMC ACTA2 CRISPLD2
+Ma,marmoset,SMC ACTA2 CYP1B1,Non-neuron,Vascular,336,Ma_marmoset|SMC ACTA2 CYP1B1
+Ma,marmoset,T SKAP1 CD247,Non-neuron,Immune,113,Ma_marmoset|T SKAP1 CD247
+Ma,marmoset,VLMC COL1A2 SLC13A3,Non-neuron,Vascular,924,Ma_marmoset|VLMC COL1A2 SLC13A3
+Ma,marmoset,VLMC COL1A2 VLMCA8,Non-neuron,Vascular,381,Ma_marmoset|VLMC COL1A2 VLMCA8
+Ma,marmoset,VLMC SLC47A1 SLC4A4,Non-neuron,Vascular,259,Ma_marmoset|VLMC SLC47A1 SLC4A4
+Jin,spider,Fat_Body_24,Non-neuron,Other,247,Jin_spider|Fat_Body_24
+Jin,spider,Glia_21,Non-neuron,NA,350,Jin_spider|Glia_21
+Jin,spider,Glia_28,Non-neuron,NA,213,Jin_spider|Glia_28
+Jin,spider,Glia_34,Non-neuron,NA,143,Jin_spider|Glia_34
+Jin,spider,Glia_41,Non-neuron,NA,28,Jin_spider|Glia_41
+Jin,spider,Hemocytes_16,Non-neuron,Immune,611,Jin_spider|Hemocytes_16
+Jin,spider,Hemocytes_25,Non-neuron,Immune,242,Jin_spider|Hemocytes_25
+Jin,spider,Hemocytes_27,Non-neuron,Immune,218,Jin_spider|Hemocytes_27
+Jin,spider,Hemocytes_36,Non-neuron,Immune,118,Jin_spider|Hemocytes_36
+Jin,spider,Neuron_0,Neuron,ExN,3433,Jin_spider|Neuron_0
+Jin,spider,Neuron_1,Neuron,ExN,2785,Jin_spider|Neuron_1
+Jin,spider,Neuron_10,Neuron,ExN,845,Jin_spider|Neuron_10
+Jin,spider,Neuron_11,Neuron,ExN,806,Jin_spider|Neuron_11
+Jin,spider,Neuron_12,Neuron,Cholinergic,699,Jin_spider|Neuron_12
+Jin,spider,Neuron_13,Neuron,ExN,691,Jin_spider|Neuron_13
+Jin,spider,Neuron_14,Neuron,ExN,660,Jin_spider|Neuron_14
+Jin,spider,Neuron_15,Neuron,ExN,620,Jin_spider|Neuron_15
+Jin,spider,Neuron_17,Neuron,ExN,559,Jin_spider|Neuron_17
+Jin,spider,Neuron_18,Neuron,Cholinergic,539,Jin_spider|Neuron_18
+Jin,spider,Neuron_19,Neuron,ExN,520,Jin_spider|Neuron_19
+Jin,spider,Neuron_2,Neuron,ExN,2367,Jin_spider|Neuron_2
+Jin,spider,Neuron_20,Neuron,InN,500,Jin_spider|Neuron_20
+Jin,spider,Neuron_22,Neuron,Monoaminergic,280,Jin_spider|Neuron_22
+Jin,spider,Neuron_23,Neuron,Cholinergic,259,Jin_spider|Neuron_23
+Jin,spider,Neuron_26,Neuron,ExN,237,Jin_spider|Neuron_26
+Jin,spider,Neuron_3,Neuron,ExN,2152,Jin_spider|Neuron_3
+Jin,spider,Neuron_30,Neuron,Cholinergic,160,Jin_spider|Neuron_30
+Jin,spider,Neuron_31,Neuron,ExN,148,Jin_spider|Neuron_31
+Jin,spider,Neuron_32,Neuron,ExN,148,Jin_spider|Neuron_32
+Jin,spider,Neuron_33,Neuron,ExN,143,Jin_spider|Neuron_33
+Jin,spider,Neuron_37,Neuron,ExN,116,Jin_spider|Neuron_37
+Jin,spider,Neuron_38,Neuron,ExN,76,Jin_spider|Neuron_38
+Jin,spider,Neuron_39,Neuron,Monoaminergic,70,Jin_spider|Neuron_39
+Jin,spider,Neuron_4,Neuron,ExN,2146,Jin_spider|Neuron_4
+Jin,spider,Neuron_40,Neuron,ExN,38,Jin_spider|Neuron_40
+Jin,spider,Neuron_5,Neuron,Cholinergic,2059,Jin_spider|Neuron_5
+Jin,spider,Neuron_6,Neuron,Cholinergic,1497,Jin_spider|Neuron_6
+Jin,spider,Neuron_7,Neuron,ExN,1357,Jin_spider|Neuron_7
+Jin,spider,Neuron_8,Neuron,ExN,1254,Jin_spider|Neuron_8
+Jin,spider,Neuron_9,Neuron,ExN,1233,Jin_spider|Neuron_9
+Jin,spider,Others_29,Non-neuron,Other,182,Jin_spider|Others_29
+Jin,spider,Others_35,Non-neuron,Other,128,Jin_spider|Others_35
+Davie,fruitfly,0,Neuron,NA,555,Davie_fruitfly|0
+Davie,fruitfly,1,Neuron,NA,363,Davie_fruitfly|1
+Davie,fruitfly,13,Neuron,NA,111,Davie_fruitfly|13
+Davie,fruitfly,15,Neuron,NA,141,Davie_fruitfly|15
+Davie,fruitfly,16,Neuron,NA,131,Davie_fruitfly|16
+Davie,fruitfly,18,Neuron,NA,110,Davie_fruitfly|18
+Davie,fruitfly,19,Neuron,NA,151,Davie_fruitfly|19
+Davie,fruitfly,2,Neuron,NA,333,Davie_fruitfly|2
+Davie,fruitfly,21,Neuron,NA,122,Davie_fruitfly|21
+Davie,fruitfly,25,Neuron,NA,146,Davie_fruitfly|25
+Davie,fruitfly,29,Neuron,NA,40,Davie_fruitfly|29
+Davie,fruitfly,3,Neuron,NA,357,Davie_fruitfly|3
+Davie,fruitfly,30,Neuron,NA,48,Davie_fruitfly|30
+Davie,fruitfly,32,Neuron,NA,35,Davie_fruitfly|32
+Davie,fruitfly,34,Neuron,NA,62,Davie_fruitfly|34
+Davie,fruitfly,4,Neuron,NA,254,Davie_fruitfly|4
+Davie,fruitfly,40,Neuron,NA,70,Davie_fruitfly|40
+Davie,fruitfly,44,Neuron,NA,27,Davie_fruitfly|44
+Davie,fruitfly,47,Neuron,NA,52,Davie_fruitfly|47
+Davie,fruitfly,49,Neuron,NA,63,Davie_fruitfly|49
+Davie,fruitfly,5,Neuron,NA,207,Davie_fruitfly|5
+Davie,fruitfly,50,Non-neuron,NA,49,Davie_fruitfly|50
+Davie,fruitfly,51,Neuron,NA,45,Davie_fruitfly|51
+Davie,fruitfly,54,Non-neuron,NA,45,Davie_fruitfly|54
+Davie,fruitfly,56,Neuron,NA,19,Davie_fruitfly|56
+Davie,fruitfly,59,Non-neuron,NA,21,Davie_fruitfly|59
+Davie,fruitfly,6,Neuron,NA,332,Davie_fruitfly|6
+Davie,fruitfly,62,Neuron,NA,35,Davie_fruitfly|62
+Davie,fruitfly,67,Neuron,NA,33,Davie_fruitfly|67
+Davie,fruitfly,68,Non-neuron,NA,36,Davie_fruitfly|68
+Davie,fruitfly,69,Non-neuron,NA,29,Davie_fruitfly|69
+Davie,fruitfly,7,Neuron,NA,727,Davie_fruitfly|7
+Davie,fruitfly,71,Non-neuron,NA,36,Davie_fruitfly|71
+Davie,fruitfly,75,Neuron,NA,22,Davie_fruitfly|75
+Davie,fruitfly,76,Non-neuron,NA,31,Davie_fruitfly|76
+Davie,fruitfly,78,Neuron,NA,23,Davie_fruitfly|78
+Davie,fruitfly,79,Non-neuron,NA,11,Davie_fruitfly|79
+Davie,fruitfly,81,Non-neuron,NA,49,Davie_fruitfly|81
+Davie,fruitfly,83,Neuron,NA,8,Davie_fruitfly|83
+Davie,fruitfly,84,Neuron,NA,11,Davie_fruitfly|84
+Davie,fruitfly,9,Neuron,NA,216,Davie_fruitfly|9
+Davie,fruitfly,A/B*-KC,Neuron,NA,93,Davie_fruitfly|A/B*-KC
+Davie,fruitfly,A/B-KC,Neuron,NA,61,Davie_fruitfly|A/B-KC
+Davie,fruitfly,AstA/NPF,Neuron,NA,3,Davie_fruitfly|AstA/NPF
+Davie,fruitfly,AstA/Nplp1,Neuron,NA,17,Davie_fruitfly|AstA/Nplp1
+Davie,fruitfly,Astrocyte-like,Non-neuron,NA,98,Davie_fruitfly|Astrocyte-like
+Davie,fruitfly,C2,Neuron,NA,24,Davie_fruitfly|C2
+Davie,fruitfly,C3,Neuron,NA,26,Davie_fruitfly|C3
+Davie,fruitfly,CCAP,Neuron,NA,2,Davie_fruitfly|CCAP
+Davie,fruitfly,CCHa1,Neuron,NA,2,Davie_fruitfly|CCHa1
+Davie,fruitfly,Capa,Neuron,NA,11,Davie_fruitfly|Capa
+Davie,fruitfly,Chiasm_glia,Neuron,NA,3,Davie_fruitfly|Chiasm_glia
+Davie,fruitfly,Clock,Neuron,NA,52,Davie_fruitfly|Clock
+Davie,fruitfly,Cortex_glia,Non-neuron,NA,21,Davie_fruitfly|Cortex_glia
+Davie,fruitfly,DCN,Neuron,NA,8,Davie_fruitfly|DCN
+Davie,fruitfly,DN1,Neuron,NA,6,Davie_fruitfly|DN1
+Davie,fruitfly,Dm8/Dm11,Neuron,NA,59,Davie_fruitfly|Dm8/Dm11
+Davie,fruitfly,Dm9,Neuron,NA,13,Davie_fruitfly|Dm9
+Davie,fruitfly,Dopaminergic,Neuron,NA,14,Davie_fruitfly|Dopaminergic
+Davie,fruitfly,Ensheathing_glia,Non-neuron,NA,70,Davie_fruitfly|Ensheathing_glia
+Davie,fruitfly,FMRFa,Neuron,NA,9,Davie_fruitfly|FMRFa
+Davie,fruitfly,G-KC,Neuron,NA,233,Davie_fruitfly|G-KC
+Davie,fruitfly,Gr43a,Neuron,NA,7,Davie_fruitfly|Gr43a
+Davie,fruitfly,Hsp,Neuron,NA,3,Davie_fruitfly|Hsp
+Davie,fruitfly,Hug,Neuron,NA,1,Davie_fruitfly|Hug
+Davie,fruitfly,IPC,Neuron,NA,9,Davie_fruitfly|IPC
+Davie,fruitfly,ITP,Neuron,NA,1,Davie_fruitfly|ITP
+Davie,fruitfly,L1,Neuron,NA,16,Davie_fruitfly|L1
+Davie,fruitfly,L2,Neuron,NA,9,Davie_fruitfly|L2
+Davie,fruitfly,L3,Neuron,NA,22,Davie_fruitfly|L3
+Davie,fruitfly,L4/L5,Neuron,NA,14,Davie_fruitfly|L4/L5
+Davie,fruitfly,LNv,Neuron,NA,5,Davie_fruitfly|LNv
+Davie,fruitfly,Lamina_monopolar,Neuron,NA,54,Davie_fruitfly|Lamina_monopolar
+Davie,fruitfly,Lawf1,Neuron,NA,49,Davie_fruitfly|Lawf1
+Davie,fruitfly,Lawf2,Neuron,NA,28,Davie_fruitfly|Lawf2
+Davie,fruitfly,MBON,Non-neuron,NA,26,Davie_fruitfly|MBON
+Davie,fruitfly,Mi1,Neuron,NA,123,Davie_fruitfly|Mi1
+Davie,fruitfly,Mip,Neuron,NA,95,Davie_fruitfly|Mip
+Davie,fruitfly,Mip/ITP,Neuron,NA,1,Davie_fruitfly|Mip/ITP
+Davie,fruitfly,Mip/OCT,Neuron,NA,2,Davie_fruitfly|Mip/OCT
+Davie,fruitfly,Octopaminergic,Neuron,NA,9,Davie_fruitfly|Octopaminergic
+Davie,fruitfly,Olfactory_projection_neurons,Neuron,NA,6,Davie_fruitfly|Olfactory_projection_neurons
+Davie,fruitfly,PAM,Neuron,NA,32,Davie_fruitfly|PAM
+Davie,fruitfly,Peptidergic,Neuron,NA,14,Davie_fruitfly|Peptidergic
+Davie,fruitfly,Perineurial_glia,Non-neuron,NA,36,Davie_fruitfly|Perineurial_glia
+Davie,fruitfly,Photoreceptors,Non-neuron,NA,27,Davie_fruitfly|Photoreceptors
+Davie,fruitfly,Plasmatocytes,Non-neuron,NA,57,Davie_fruitfly|Plasmatocytes
+Davie,fruitfly,Pm1/Pm2,Neuron,NA,154,Davie_fruitfly|Pm1/Pm2
+Davie,fruitfly,Pm1/Pm2/Pm3,Neuron,NA,43,Davie_fruitfly|Pm1/Pm2/Pm3
+Davie,fruitfly,Pm3,Neuron,NA,11,Davie_fruitfly|Pm3
+Davie,fruitfly,Pm4,Neuron,NA,32,Davie_fruitfly|Pm4
+Davie,fruitfly,Poxn,Neuron,NA,14,Davie_fruitfly|Poxn
+Davie,fruitfly,Proc/Gpb5,Neuron,NA,2,Davie_fruitfly|Proc/Gpb5
+Davie,fruitfly,Proc/Ms,Neuron,NA,10,Davie_fruitfly|Proc/Ms
+Davie,fruitfly,Serotonergic,Neuron,NA,41,Davie_fruitfly|Serotonergic
+Davie,fruitfly,Subperineurial_glia,Non-neuron,NA,26,Davie_fruitfly|Subperineurial_glia
+Davie,fruitfly,T1,Neuron,NA,82,Davie_fruitfly|T1
+Davie,fruitfly,T2,Neuron,NA,125,Davie_fruitfly|T2
+Davie,fruitfly,T3,Neuron,NA,128,Davie_fruitfly|T3
+Davie,fruitfly,T4/T5,Neuron,NA,153,Davie_fruitfly|T4/T5
+Davie,fruitfly,Tm1/TmY8,Neuron,NA,37,Davie_fruitfly|Tm1/TmY8
+Davie,fruitfly,Tm5ab,Neuron,NA,78,Davie_fruitfly|Tm5ab
+Davie,fruitfly,Tm5c,Neuron,NA,38,Davie_fruitfly|Tm5c
+Davie,fruitfly,Tm9,Non-neuron,NA,47,Davie_fruitfly|Tm9
+Davie,fruitfly,TmY14,Neuron,NA,192,Davie_fruitfly|TmY14
+Davie,fruitfly,Tyraminergic,Neuron,NA,15,Davie_fruitfly|Tyraminergic
+Davie,fruitfly,adPN,Neuron,NA,10,Davie_fruitfly|adPN
+Davie,fruitfly,adPN/C15,Neuron,NA,6,Davie_fruitfly|adPN/C15
+Davie,fruitfly,adPN/C15&kn,Neuron,NA,14,Davie_fruitfly|adPN/C15&kn
+Davie,fruitfly,adPN/kn,Neuron,NA,8,Davie_fruitfly|adPN/kn
+Davie,fruitfly,adPN/kn&CG31676,Neuron,NA,2,Davie_fruitfly|adPN/kn&CG31676
+Davie,fruitfly,dorsal_Fan-shaped_Body,Neuron,NA,51,Davie_fruitfly|dorsal_Fan-shaped_Body
+Davie,fruitfly,lPN,Neuron,NA,2,Davie_fruitfly|lPN
+Davie,fruitfly,lPN/CG31676,Neuron,NA,6,Davie_fruitfly|lPN/CG31676
+Davie,fruitfly,lPN/unpg,Neuron,NA,8,Davie_fruitfly|lPN/unpg
+Liao,frog,Antigen-presenting cell,Non-neuron,Immune,89,Liao_frog|Antigen-presenting cell
+Liao,frog,Astrocyte_adcyap1r1 high,Non-neuron,Astrocyte,992,Liao_frog|Astrocyte_adcyap1r1 high
+Liao,frog,Astrocyte_slc1a3 high,Non-neuron,Astrocyte,626,Liao_frog|Astrocyte_slc1a3 high
+Liao,frog,CD8+ T cell,Non-neuron,Immune,471,Liao_frog|CD8+ T cell
+Liao,frog,Capillary endothelial cell,Neuron,Vascular,237,Liao_frog|Capillary endothelial cell
+Liao,frog,Endocrine progenitor cell_chgb high,Non-neuron,Other,131,Liao_frog|Endocrine progenitor cell_chgb high
+Liao,frog,Endocrine progenitor cell_st6galnac2 high,Non-neuron,Other,556,Liao_frog|Endocrine progenitor cell_st6galnac2 high
+Liao,frog,Endothelial cell,Neuron,Vascular,58,Liao_frog|Endothelial cell
+Liao,frog,Eosinophil,Non-neuron,Immune,190,Liao_frog|Eosinophil
+Liao,frog,Erythrocyte,Non-neuron,Other,55,Liao_frog|Erythrocyte
+Liao,frog,Excitatory neuron_mex3a high,Neuron,ExN,153,Liao_frog|Excitatory neuron_mex3a high
+Liao,frog,Excitatory neuron_tac1 high,Neuron,ExN,91,Liao_frog|Excitatory neuron_tac1 high
+Liao,frog,Excitatory neuron_zbtb18 high,Neuron,ExN,316,Liao_frog|Excitatory neuron_zbtb18 high
+Liao,frog,Fibrous astrocyte,Non-neuron,Astrocyte,696,Liao_frog|Fibrous astrocyte
+Liao,frog,GABAergic neuron_scgn high,Neuron,InN,1696,Liao_frog|GABAergic neuron_scgn high
+Liao,frog,GABAergic neuron_sst high,Neuron,InN,167,Liao_frog|GABAergic neuron_sst high
+Liao,frog,GABAergic neuron_tac1 high,Neuron,InN,922,Liao_frog|GABAergic neuron_tac1 high
+Liao,frog,Gonadotroph cell_cga high,Non-neuron,Other,4304,Liao_frog|Gonadotroph cell_cga high
+Liao,frog,Gonadotroph cell_cyp21a2.1 high,Non-neuron,Other,188,Liao_frog|Gonadotroph cell_cyp21a2.1 high
+Liao,frog,Growth hormone cell_Rp high,Non-neuron,Other,474,Liao_frog|Growth hormone cell_Rp high
+Liao,frog,Growth hormone cell_hnrnpk high,Non-neuron,Other,898,Liao_frog|Growth hormone cell_hnrnpk high
+Liao,frog,Growth hormone cell_rasd1 high,Non-neuron,Other,1041,Liao_frog|Growth hormone cell_rasd1 high
+Liao,frog,Growth hormone progenitor cell,Non-neuron,Other,225,Liao_frog|Growth hormone progenitor cell
+Liao,frog,Macrophage,Non-neuron,Immune,553,Liao_frog|Macrophage
+Liao,frog,Mast cell,Non-neuron,Immune,207,Liao_frog|Mast cell
+Liao,frog,Melanotrope cell,Non-neuron,Other,292,Liao_frog|Melanotrope cell
+Liao,frog,Microglia,Non-neuron,Immune,2143,Liao_frog|Microglia
+Liao,frog,Myelinating oligodendrocyte progenitor cell,Neuron,Oligo,1834,Liao_frog|Myelinating oligodendrocyte progenitor cell
+Liao,frog,Oligodendrocyte precursor cell,Neuron,OPC,416,Liao_frog|Oligodendrocyte precursor cell
+Liao,frog,Plasma B cell,Non-neuron,Immune,292,Liao_frog|Plasma B cell
+Liao,frog,Prolactin progenitor cell,Non-neuron,Other,1363,Liao_frog|Prolactin progenitor cell
+Liao,frog,Proliferating cell,Non-neuron,Other,78,Liao_frog|Proliferating cell
+Liao,frog,Proliferating myeloid cell,Non-neuron,Other,371,Liao_frog|Proliferating myeloid cell
+Liao,frog,Radial glia,Neuron,Neural_progenitor,134,Liao_frog|Radial glia
+Liao,frog,Rod photoreceptor,Non-neuron,Other,49,Liao_frog|Rod photoreceptor
+Liao,frog,Rp_high,Non-neuron,Other,133,Liao_frog|Rp_high
+Liao,frog,T progenitor cell,Non-neuron,Immune,840,Liao_frog|T progenitor cell
+Liao,frog,Thyrotroph cell,Non-neuron,Other,625,Liao_frog|Thyrotroph cell
