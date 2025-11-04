@@ -89,10 +89,31 @@ Macosko_tmod_obj
 write_out_tmod  <- function(results, base_folder, original_top_hits_filename, study, csv_suffix) {
   dir.create(paste0(base_folder, "top_hit_enrichments"), showWarnings = F)
   if ("E" %in% colnames(results)) {
+    results %<>%
+      mutate(
+        expected = n * B / N,
+        bias   = case_when(
+          b > expected ~ "enrichment",
+          b < expected ~ "depletion")) %>% select(-expected) 
+    results %<>% mutate(
+      # Two-sided Fisher exact p-value (sum of probs <= observed table), exact test
+      two_sided.P.Value = mapply(function(b, B, n, N) {
+        # 2x2 table:
+        #                In set   Not in set
+        # In sample         b       n - b
+        # Not in sample   B - b   N - n - B + b
+        mat <- matrix(c(b, n - b, B - b, N - n - B + b), nrow = 2, byrow = TRUE)
+        fisher.test(mat, alternative = "two.sided")$p.value
+      }, b, B, n, N))
     results %<>% select(-ID, -E)
     results %<>% rename(Clusters = B)
     results %<>% rename(Overlap = b)
-    results %<>% mutate(P.Value = signif(P.Value, digits = 2), adj.P.Val = signif(adj.P.Val, digits = 2))
+    results %<>% mutate(one_sided.P.Value = signif(P.Value, digits = 2), one_sided.adj.P.Val = signif(adj.P.Val, digits = 2),
+                        two_sided.P.Value = signif(two_sided.P.Value, digits = 2), two_sided.adj.P.Val = signif(p.adjust(two_sided.P.Value,method = 'fdr'), digits = 2)
+    ) %>% select(-P.Value, -adj.P.Val)
+    results %<>% select(-one_sided.P.Value, -one_sided.adj.P.Val) #just go with two sided tests in the end - could be refactored to remove tmod
+    #results %<>% relocate(two_sided.P.Value, two_sided.adj.P.Val, .after = last_col())
+    
   } else if ("AUC" %in% colnames(results)) {
     results %<>% select(-ID, -U)
     results %<>% mutate(P.Value = P.Value *2 ) # double because tmod runs one sided tests
@@ -139,6 +160,27 @@ for (top_hit_filename in top_hit_files) {
   result %<>% mutate(Title = gsub("^MC_[0-9]+ ", "", Title))
   write_out_tmod(result, base_folder, top_hit_filename, "Macosko_MC_removed", ".reciprocal_hits_enrichment.csv")
   all_recip_results %<>% bind_rows(result %>% mutate(study = "Macosko", filename = top_hit_filename))
+  
+  
+  
+  #Macosko types without tophits
+  Macosko_without <- setdiff(Macosko_tmod_obj$gv, all_cell_types_with_hits)
+  
+  
+  #Zeng types without tophits
+  Zeng_without <- setdiff(Zeng_tmod_obj$gv, all_cell_types_with_hits)
+  length(Zeng_without)
+  #annotation
+  
 }
 
+#stats on those without hits
+merged_obs %>% group_by(study_id, cell.type) %>% count() %>% group_by(study_id) %>% summarize(median = median(n))
+
+merged_obs %>% group_by(study_id, cell.type) %>% count() %>% mutate(combined = paste0(study_id, "|", cell.type)) %>% filter(combined %in% Macosko_without)
+merged_obs %>% group_by(study_id, cell.type) %>% count() %>% mutate(combined = paste0(study_id, "|", cell.type)) %>% filter(combined %in% Macosko_without)%>% group_by(study_id) %>% summarize(median = median(n))
+
+
+merged_obs %>% group_by(study_id, cell.type) %>% count() %>% mutate(combined = paste0(study_id, "|", cell.type)) %>% filter(combined %in% Zeng_without) %>% as.data.frame() %>% arrange(-n)
+merged_obs %>% group_by(study_id, cell.type) %>% count() %>% mutate(combined = paste0(study_id, "|", cell.type)) %>% filter(combined %in% Zeng_without) %>% as.data.frame() %>% arrange(-n) %>% summarize(median = median(n))
 
