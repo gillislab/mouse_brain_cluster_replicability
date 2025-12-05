@@ -162,3 +162,9 @@ ggplot(for_violin, aes(x=auroc, fill = Comparison)) +
   facet_wrap(. ~ Comparison) + theme_bw() + scale_x_continuous(expand = c(0, 0)) + scale_y_continuous(expand = expansion(mult = c(0, 0.05))) 
 dev.off()
 
+
+#split by atlas, little difference
+ggplot(for_violin, aes(x=auroc, fill = Comparison)) + 
+  geom_histogram(data= for_violin %>% filter(type == "self_1_vs_all_AUROC")) + 
+  geom_histogram(data= for_violin %>% filter(type == "self_vs_best_AUROC")) + 
+  facet_wrap(source_label ~ Comparison) + theme_bw() + scale_x_continuous(expand = c(0, 0)) + scale_y_continuous(expand = expansion(mult = c(0, 0.05))) 
