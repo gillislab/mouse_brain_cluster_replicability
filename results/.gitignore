@@ -10,3 +10,7 @@ MERFISH500/Macosko_predictions/joined_scores.df.full.csv
 MetaMarkers_2009_reciprocals/MetaMarkers_default.csv.gz
 MetaMarkers_Macosko_cluster/Macosko_markers.csv.gz
 MetaMarkers_Zeng_cluster/Zeng_markers.csv.gz
+split_half*/
+full_run_ZengAWS_half_hvg*
+full_run_ZengAWS_mixhvg*
+full_run_ZengAWS_Seurat*
