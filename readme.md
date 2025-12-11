@@ -56,6 +56,10 @@ This repository contains the code and analysis for "Cluster Replicability in Sin
 - MetaMarkers_greedy_AUC_tests.ipynb: greedily tests markers for each cluster.  
 - examine_greeedy_runs_meta_markers.R: generates Supplement Figure 1, counting the number of clusters where Metamarkers achieve a 0.95 best-vs-next AUROC threshold.  
 
+Additional follow-up analyses code:
+- Testing out highly variable gene selection:  full_merge_and_HVG_write.ipynb, full_merge_and_Seurat_HVG_write.ipynb, write_halved_HVG_genes.ipynb, run_mix_HVG.R, compare_HVGs.ipynb
+- split_into_halves.ipynb, run_on_split_datasets.ipynb, compare_split_halves.R 
+
 ### /data listing
 Where possible, small data files (<100MB) have been included in the Git repository. Many of these files are supplements from other papers, and the directories are named accordingly. A good number of the larger files are available on [FigShare](https://figshare.com/articles/dataset/Files_for_Cluster_replicability_in_single-cell_and_single-nucleus_atlases_of_the_mouse_brain/28462349). A tree listing of the data files used is:
 ```
