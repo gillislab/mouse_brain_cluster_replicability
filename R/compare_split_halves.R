@@ -18,12 +18,26 @@ conflicts_prefer(dplyr::first)
 #count clusters - good check
 
 
-base_folder <- here("results/split_half.1761622600/") #2009 reciprocal result
+base_folder_original <- here("results/full_run_ZengAWS.1698256033/") #2009 reciprocal result
+top_hits <- read_csv(paste0(base_folder_original, "/top_hits.0.95.csv")) %>% filter(Match_type == "Reciprocal_top_hit")
+#get the original top hits as strings
+pair_strings_original <- top_hits %>% filter(Match_type == "Reciprocal_top_hit")  %>%
+  rowwise() %>%
+  mutate(
+    pair = paste(
+      sort(c(`Study_ID|Celltype_1`, `Study_ID|Celltype_2`)),
+      collapse = " || "
+    )
+  ) %>%
+  ungroup() %>%
+  pull(pair)
+
 
 dirs <- list.dirs(path = here("results"), full.names = TRUE, recursive = FALSE)
 dirs <- dirs[grepl("^split_half", basename(dirs))]
 dirs
 all_results <- tibble()
+
 for(base_folder in dirs) {
   ##Count recip hits
   top_hits <- read_csv(paste0(base_folder, "/top_hits.0.95.csv"))
@@ -36,9 +50,7 @@ for(base_folder in dirs) {
   merged_var <- read_csv(paste0(base_folder, "/merged.var.csv.gz"))
   # nrow(merged_var)
   # nrow(merged_obs)
-  
-  
-  
+
   # # Get cell type sizes
   # cell_type_sizes <- merged_obs %>%
   #   group_by(cell.type = paste0(study_id, "|", cell.type)) %>%
@@ -64,14 +76,32 @@ for(base_folder in dirs) {
       n_clusters_2        = nth(n, 2)
     )
 
-  single_result <- tibble(recip_hits = length(recip_types)/2, cells = nrow(merged_obs), HVGs = nrow(merged_var),
-                          matching_cluster_recip_hits = top_hits %>% mutate(is_same_type = getCellType(`Study_ID|Celltype_1`) == getCellType(`Study_ID|Celltype_2`)) %>% filter(Match_type == "Reciprocal_top_hit", is_same_type) %>% nrow())
+  #get the top hits as strings
+  pair_strings <- top_hits %>% filter(Match_type == "Reciprocal_top_hit")  %>%
+    rowwise() %>%
+    mutate(
+      pair = paste(
+        sort(c(`Study_ID|Celltype_1`, `Study_ID|Celltype_2`)),
+        collapse = " || "
+      )
+    ) %>%
+    ungroup() %>%
+    pull(pair)
+  pair_strings <- gsub("_[BA]\\|", "|", pair_strings)
+  
+  single_result <- tibble(recip_hits = length(recip_types)/2, recip_hits_tophits = top_hits %>% filter(Match_type == "Reciprocal_top_hit") %>% nrow(), recip_pair_strings = length(pair_strings), cells = nrow(merged_obs), HVGs = nrow(merged_var),
+                          matching_cluster_recip_hits = top_hits %>% mutate(is_same_type = getCellType(`Study_ID|Celltype_1`) == getCellType(`Study_ID|Celltype_2`)) %>% filter(Match_type == "Reciprocal_top_hit", is_same_type) %>% nrow(),
+                          overlap_with_2009 = length(intersect(pair_strings_original, pair_strings)))
   single_result <- bind_cols(wider_counts, single_result)
   all_results %<>% bind_rows(single_result)
 }
 all_results
-
+all_results %<>% mutate(overlap_with_2009_prop = overlap_with_2009/ length(pair_strings_original))
 all_results %>% filter(n_clusters_1 != n_clusters_2) %>% pull(recip_hits) %>% mean()
+all_results %>% filter(n_clusters_1 != n_clusters_2) %>% pull(recip_hits) %>% median()
+
+all_results %>% filter(n_clusters_1 != n_clusters_2) %>% pull(overlap_with_2009_prop) %>% mean()
+
 
 
 #plot
