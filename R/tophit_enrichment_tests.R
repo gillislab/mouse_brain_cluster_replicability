@@ -88,6 +88,8 @@ Macosko_tmod_obj
 
 write_out_tmod  <- function(results, base_folder, original_top_hits_filename, study, csv_suffix) {
   dir.create(paste0(base_folder, "top_hit_enrichments"), showWarnings = F)
+  print("Created folder")
+  print(paste0(base_folder, "top_hit_enrichments"))
   if ("E" %in% colnames(results)) {
     results %<>%
       mutate(
@@ -183,4 +185,46 @@ merged_obs %>% group_by(study_id, cell.type) %>% count() %>% mutate(combined = p
 
 merged_obs %>% group_by(study_id, cell.type) %>% count() %>% mutate(combined = paste0(study_id, "|", cell.type)) %>% filter(combined %in% Zeng_without) %>% as.data.frame() %>% arrange(-n)
 merged_obs %>% group_by(study_id, cell.type) %>% count() %>% mutate(combined = paste0(study_id, "|", cell.type)) %>% filter(combined %in% Zeng_without) %>% as.data.frame() %>% arrange(-n) %>% summarize(median = median(n))
+
+
+
+#Run against split half results
+#Macosko
+macosko_split_base_folder <- "/vault/lfrench/mouse_brain_cluster_replicability/results/split_half.1761499406/"
+top_hits <- read_csv(paste0(macosko_split_base_folder, "/top_hits.0.95.csv"))
+top_hits %<>% mutate(is_same_type = getCellType(`Study_ID|Celltype_1`) == getCellType(`Study_ID|Celltype_2`)) 
+
+top_hits %<>% filter(Match_type == "Reciprocal_top_hit", is_same_type)
+top_hits %<>% mutate(`Study_ID|Celltype_1` = gsub("_[BA]\\|", "|", `Study_ID|Celltype_1`))
+all_cell_types_with_hits <- top_hits %>% pull(`Study_ID|Celltype_1`)
+all_cell_types_with_hits
+Macosko_without <- setdiff(Macosko_tmod_obj$gv, all_cell_types_with_hits)
+length(all_cell_types_with_hits)
+length(Macosko_without) #not needed
+
+#runs two sided
+result <- tmodHGtest(fg = all_cell_types_with_hits, bg = Macosko_tmod_obj$gv, mset = Macosko_tmod_obj, qval = 1.01, filter = TRUE) %>% tibble()
+result
+write_out_tmod(result, macosko_split_base_folder, top_hit_filename, "Macosko", ".correct_reciprocal_hits_enrichment.csv")
+result %<>% mutate(Title = gsub("^MC_[0-9]+ ", "", Title))
+write_out_tmod(result, macosko_split_base_folder, top_hit_filename, "Macosko_MC_removed", ".correct_reciprocal_hits_enrichment.csv")
+
+
+#Single cell
+zeng_split_base_folder <- "/vault/lfrench/mouse_brain_cluster_replicability/results/split_half.1761622600/"
+top_hits <- read_csv(paste0(zeng_split_base_folder, "/top_hits.0.95.csv"))
+top_hits %<>% mutate(is_same_type = getCellType(`Study_ID|Celltype_1`) == getCellType(`Study_ID|Celltype_2`)) 
+
+top_hits %<>% filter(Match_type == "Reciprocal_top_hit", is_same_type)
+top_hits %<>% mutate(`Study_ID|Celltype_1` = gsub("_[BA]\\|", "|", `Study_ID|Celltype_1`))
+all_cell_types_with_hits <- top_hits %>% pull(`Study_ID|Celltype_1`)
+all_cell_types_with_hits
+Zeng_without <- setdiff(Zeng_tmod_obj$gv, all_cell_types_with_hits)
+length(all_cell_types_with_hits)
+length(Zeng_without) #not needed
+
+#runs two sided
+result <- tmodHGtest(fg = all_cell_types_with_hits, bg = Zeng_tmod_obj$gv, mset = Zeng_tmod_obj, qval = 1.01, filter = TRUE) %>% tibble()
+result
+write_out_tmod(result, zeng_split_base_folder, top_hit_filename, "Zeng", ".correct_reciprocal_hits_enrichment.csv")
 

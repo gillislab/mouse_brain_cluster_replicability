@@ -20,6 +20,8 @@ conflicts_prefer(dplyr::first)
 
 base_folder_original <- here("results/full_run_ZengAWS.1698256033/") #2009 reciprocal result
 top_hits <- read_csv(paste0(base_folder_original, "/top_hits.0.95.csv")) %>% filter(Match_type == "Reciprocal_top_hit")
+clusters_in_2009 <- union(top_hits %>% pull(`Study_ID|Celltype_1`), top_hits %>% pull(`Study_ID|Celltype_2`))
+length(clusters_in_2009)
 #get the original top hits as strings
 pair_strings_original <- top_hits %>% filter(Match_type == "Reciprocal_top_hit")  %>%
   rowwise() %>%
@@ -89,9 +91,43 @@ for(base_folder in dirs) {
     pull(pair)
   pair_strings <- gsub("_[BA]\\|", "|", pair_strings)
   
+  
+  top_hits %<>% mutate(is_same_type = getCellType(`Study_ID|Celltype_1`) == getCellType(`Study_ID|Celltype_2`)) 
+  ## get the overlap of matched clusters that participate in the 2009
+  matched_particpaing_clusters <- top_hits %>% filter(Match_type == "Reciprocal_top_hit", is_same_type)
+  matched_particpaing_clusters %<>% mutate(is_in_2009 =  gsub("_[BA]\\|", "|", `Study_ID|Celltype_1` ) %in% clusters_in_2009 | gsub("_[BA]\\|", "|", `Study_ID|Celltype_2` ) %in% clusters_in_2009)
+  matched_particpaing_clusters %>% pull(is_in_2009) %>% sum()
+  
+  #get sizes of matched clusters
+  for_sizes <- top_hits
+  cluster_sizes <- merged_obs %>% group_by(paste0(study_id,"|", cell.type)) %>% count() %>% rename(cell.type = `paste0(study_id, "|", cell.type)`)
+  cluster_sizes %<>% mutate(is_matched = cell.type %in% (matched_particpaing_clusters %>% pull(`Study_ID|Celltype_1`)) | cell.type %in% (matched_particpaing_clusters %>% pull(`Study_ID|Celltype_2`)))
+  cluster_sizes %>% group_by(is_matched) %>% summarize(median_size = median(n))
+
+  median_size_unmatched <- cluster_sizes %>% filter(!is_matched) %>% pull(n) %>% median()
+  cluster_sizes %>% filter(!is_matched) %>% pull(n) %>% mean()
+  median_size_matched   <- cluster_sizes %>% filter(is_matched) %>% pull(n) %>% median()
+  cluster_sizes %>% filter(is_matched) %>% pull(n) %>% mean()
+  
+  x <- cluster_sizes %>% filter(!is_matched) %>% pull(n)
+  y <- cluster_sizes %>% filter(is_matched) %>% pull(n)
+  wilcox_p <- tryCatch(
+    {
+      if (length(x) < 1 || length(y) < 1) {
+        NA_real_
+      } else {
+        wilcox.test(x, y, exact = FALSE)$p.value
+      }
+    },
+    error = function(e) NA_real_
+  )
+
   single_result <- tibble(recip_hits = length(recip_types)/2, recip_hits_tophits = top_hits %>% filter(Match_type == "Reciprocal_top_hit") %>% nrow(), recip_pair_strings = length(pair_strings), cells = nrow(merged_obs), HVGs = nrow(merged_var),
-                          matching_cluster_recip_hits = top_hits %>% mutate(is_same_type = getCellType(`Study_ID|Celltype_1`) == getCellType(`Study_ID|Celltype_2`)) %>% filter(Match_type == "Reciprocal_top_hit", is_same_type) %>% nrow(),
-                          overlap_with_2009 = length(intersect(pair_strings_original, pair_strings)))
+                          matching_cluster_recip_hits = top_hits %>% filter(Match_type == "Reciprocal_top_hit", is_same_type) %>% nrow(),
+                          overlap_with_2009 = length(intersect(pair_strings_original, pair_strings)),
+                          cluster_level_2009_overlap = matched_particpaing_clusters %>% pull(is_in_2009) %>% sum(),
+                          median_size_unmatched = median_size_unmatched,
+                          median_size_matched = median_size_matched, size_diff_wilcoxon = wilcox_p)
   single_result <- bind_cols(wider_counts, single_result)
   all_results %<>% bind_rows(single_result)
 }
@@ -101,6 +137,8 @@ all_results %>% filter(n_clusters_1 != n_clusters_2) %>% pull(recip_hits) %>% me
 all_results %>% filter(n_clusters_1 != n_clusters_2) %>% pull(recip_hits) %>% median()
 
 all_results %>% filter(n_clusters_1 != n_clusters_2) %>% pull(overlap_with_2009_prop) %>% mean()
+
+
 
 
 
@@ -135,3 +173,10 @@ ggraph(g, layout = "graphopt") +
                  vjust = -1.2, size = 4) +
   theme_graph() +                         # clean theme for network plots
   labs(title = "recip_hits between single-cell studies")
+
+
+
+
+###
+# characterization of same dataset hits in tophit_enrichment_tests.R at bottom
+###
