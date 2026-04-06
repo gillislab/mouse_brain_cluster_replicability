@@ -34,18 +34,18 @@ This repository contains the code and analysis for "Cluster Replicability in Sin
 - Figure_1_and_2_compare_other_mappings.R: compares to other integration efforts, generating an Euler diagram and bar graph.  
 - Figure_2_metaneighbor_heatmaps.R: plots global and zoomed in heatmaps.  
 - Figure_2_metaneighbor_plots.R: generates Supplement Figure 1 and other Figure 2 plots.  
-- tophit_enrichment_tests.R: calculates higher-level enrichments of the reciprocal best hits (Supplement Tables 2 & 3).  
+- tophit_enrichment_tests.R: calculates higher-level enrichments of the reciprocal best hits (Supplement Tables 2 & 3, 5 & 6).  
 - centroid_correlations.bigcat.R: generates MERFISH cell calls using code from the scrattch.bigcat R package. Outputs are combined in Python using combine_MERFISH_calls_from_R.ipynb.  
 - Figure_3_examine_MERFISH_calls_for_recips.R: processes Figure 3 plots, including the three clusters in Figure 5.  
 - Table_for_high_confidence_filters.R: writes a table with the 612 high-confidence matches.  
-- Table_annotation_for_tophits.R: annotates the top hit tables (2009 and 612 - Supplement Tables 1 & 8).  
+- Table_annotation_for_tophits.R: annotates the top hit tables (for the 2009 and 612).  
 - Figure_3_examine_MERFISH_recip_centroids.R: compares centroids in MERFISH coordinates.  
 - Figure_4_coordinated_expression_in_recips_and_mean_exp.R: computes coordinated expression calculations.  
-- Figure_4_coordinated_expression_GO.R: generates the GO plot in Figure 4 and Supplement Table 4.  
+- Figure_4_coordinated_expression_GO.R: generates the GO plot in Figure 4 and Supplement Table 7.  
 - make_BARseq_subsets.ipynb: creates the 109-gene subsets of the atlas data.  
 - make_pretrained_using_full_merged.ipynb: creates MetaNeighbor pretrained models for both the highly variable gene set and the 109 BARseq gene panel. The highly variable gene set requires a large memory machine (>400GB).  
 - run_on_barseq_pretrained.R: runs pretrained models against the BARseq clusters.  
-- examine_barseq_pretrained_results.R: analyzes BARseq pretrained output and generates Supplement Table 5.  
+- examine_barseq_pretrained_results.R: analyzes BARseq pretrained output and generates Supplement Table 8.  
 - Figure_5_plot_BARseq_clusters.R: plots individual BARseq clusters.
 - Figure_5_plot_region_heatmap.R: plots heatmap of proportion of cells in each brain region mapping to best reciprocal hits (relative to average).
 - Figure_5_plot_AUROC_vs_phylo.R: plots average AUROC of clusters in each non-mouse species mapping to Zeng/Macosko clusters.
