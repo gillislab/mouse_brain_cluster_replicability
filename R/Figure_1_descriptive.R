@@ -88,3 +88,5 @@ ggplot(data = for_plot, aes(y=cumulative_cell_fraction, x=cumulative_cluster_fra
   theme(legend.position = "bottom") + scale_color_manual(values = c("#4450A2", "#E21E25"))
 #dev.off()  
 
+for_plot %>% write_csv(paste0(base_folder, "/figure_source_data_files/Figure_1c.csv"))
+base_folder

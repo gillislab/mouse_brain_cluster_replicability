@@ -1,3 +1,4 @@
+library(tibble)
 library(readxl)
 library(dplyr)
 library(reshape2)
@@ -112,6 +113,10 @@ plot(fit, quantities = TRUE)
 dev.off()
 plot(fit)
 
+sets_long <- enframe(sets, name = "set", value = "cluster_id") %>%
+  unnest(cluster_id)
+sets_long %>% write_csv(paste0(base_folder, "/figure_source_data_files/Figure_1h.csv"))
+
 length(Liu_match_ids)
 length(Songpeng_candidate_ids)
 intersect(Liu_match_ids, Songpeng_candidate_ids) %>% length() #p-value computed with https://brain.shinyapps.io/hyper/
@@ -186,6 +191,8 @@ recip_overlaps %<>% mutate(Clusters = if_else(is_recip, "Reciprocal hit", "All")
 ggplot(data = recip_overlaps, aes(x = Dataset, y = n, fill = Clusters)) + geom_bar(stat = "identity") + 
   theme_bw() + xlab("") + scale_fill_manual(values=c("grey", "black")) + ylab("Clusters")
 dev.off()
+
+recip_overlaps %>% write_csv(paste0(base_folder, "/figure_source_data_files/Figure_2i.csv"))
 
 #calculate proportions to add to the figure and use in the text
 recip_overlaps %<>% group_by(Dataset) %>% mutate(dataset_n = sum(n), prop = n/dataset_n)

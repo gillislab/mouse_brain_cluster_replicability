@@ -1,10 +1,12 @@
+library(readr)
 library(dplyr)
 library(ggplot2)
 library(igraph)
+library(here)
 
 # load table with results of mapping cross-species clusters to
 # Zeng/Macosko atlases
-tab1 = read.delim('~/results/cross_species_studies/cross_species_mapping_results.tsv', sep = '\t')
+tab1 = read.delim(here('results/cross_species_studies/cross_species_mapping_results.tsv'), sep = '\t')
 tab1 <- tab1[!is.na(tab1$ref_celltype) & !is.na(tab1$target_celltype),]
 
 
@@ -12,6 +14,8 @@ tab1 <- tab1[!is.na(tab1$ref_celltype) & !is.na(tab1$target_celltype),]
 plotdf = data.frame(AUROC = tab1$avg_AUROC,
                     fntype = tab1$evo_category)
 plotdf <- plotdf[!is.na(plotdf$AUROC),]
+plotdf %>% head()
+plotdf %>% group_by(fntype) %>% summarize(n=n(), median = median(AUROC))
 
 pdf('plot-boxplot-evo-conservation.pdf', width = 5, height = 7)
 ggplot(plotdf, aes(x = fntype, y = AUROC)) + geom_boxplot(outlier.shape = NA) +
@@ -19,6 +23,8 @@ theme_bw() + xlab('') + theme(text = element_text(size = 14),
         axis.text.x = element_text(angle = 45, hjust = 1)) 
 dev.off()
 
+base_folder <- here("results/full_run_ZengAWS.1698256033/") #updated Allen data - 2009 recips
+plotdf %>% write_csv(paste0(base_folder, "/figure_source_data_files/Figure_5g.csv"))
 
 
 # ..... code snippet for plotting cluster graph ..... #

@@ -1,0 +1,15 @@
+is_recip,n,Dataset,Clusters
+FALSE,3021,Nucleus,All
+TRUE,2009,Nucleus,Reciprocal hit
+FALSE,3313,Cell,All
+TRUE,2009,Cell,Reciprocal hit
+FALSE,984,"Slideseq
+mapped",All
+TRUE,953,"Slideseq
+mapped",Reciprocal hit
+FALSE,2910,Liu et al.,All
+TRUE,1639,Liu et al.,Reciprocal hit
+FALSE,578,Songpeng et al.,All
+TRUE,462,Songpeng et al.,Reciprocal hit
+FALSE,133,Winter et al.,All
+TRUE,158,Winter et al.,Reciprocal hit

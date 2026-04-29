@@ -161,7 +161,7 @@ ggplot(for_violin, aes(x=auroc, fill = Comparison)) +
   geom_histogram(data= for_violin %>% filter(type == "self_vs_best_AUROC")) + 
   facet_wrap(. ~ Comparison) + theme_bw() + scale_x_continuous(expand = c(0, 0)) + scale_y_continuous(expand = expansion(mult = c(0, 0.05))) 
 dev.off()
-
+for_violin %>% select(-color) %>% write_csv(paste0(base_folder, "/figure_source_data_files/Figure_1e.csv"))
 
 #split by atlas, little difference
 ggplot(for_violin, aes(x=auroc, fill = Comparison)) + 

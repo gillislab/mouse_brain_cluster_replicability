@@ -1,0 +1,119 @@
+slice,name,value,slice_factor,slice_numeric
+1,MERFISH cells mapped to reciprocal pairs,0.2890109470953961,1,59
+1,Clusters detected,0.06082967690466693,1,59
+2,MERFISH cells mapped to reciprocal pairs,0.29242641535204533,2,58
+2,Clusters detected,0.0675109692859992,2,58
+3,MERFISH cells mapped to reciprocal pairs,0.24236704785167093,3,57
+3,Clusters detected,0.08117271639409653,3,57
+4,MERFISH cells mapped to reciprocal pairs,0.38941932764253345,4,56
+4,Clusters detected,0.09204228161148784,4,56
+5,MERFISH cells mapped to reciprocal pairs,0.3314963718376152,5,55
+5,Clusters detected,0.09423613881132828,5,55
+6,MERFISH cells mapped to reciprocal pairs,0.33545584969439696,6,54
+6,Clusters detected,0.0871559633027523,6,54
+8,MERFISH cells mapped to reciprocal pairs,0.3051539246452706,8,53
+8,Clusters detected,0.08027522935779817,8,53
+9,MERFISH cells mapped to reciprocal pairs,0.34995386845920656,9,52
+9,Clusters detected,0.07419226166733148,9,52
+10,MERFISH cells mapped to reciprocal pairs,0.1946545136124821,10,51
+10,Clusters detected,0.09503390506581572,10,51
+11,MERFISH cells mapped to reciprocal pairs,0.28100993919976697,11,50
+11,Clusters detected,0.0841643398484244,11,50
+12,MERFISH cells mapped to reciprocal pairs,0.22306139613120268,12,49
+12,Clusters detected,0.07578779417630634,12,49
+13,MERFISH cells mapped to reciprocal pairs,0.4272480992746657,13,48
+13,Clusters detected,0.08137215795771839,13,48
+14,MERFISH cells mapped to reciprocal pairs,0.47985134948642627,14,47
+14,Clusters detected,0.08466294375747906,14,47
+15,MERFISH cells mapped to reciprocal pairs,0.35319720703753044,15,46
+15,Clusters detected,0.11467889908256881,15,46
+16,MERFISH cells mapped to reciprocal pairs,0.29132998705009794,16,45
+16,Clusters detected,0.12215795771838851,16,45
+17,MERFISH cells mapped to reciprocal pairs,0.17246028489360454,17,44
+17,Clusters detected,0.1458915037893897,17,44
+18,MERFISH cells mapped to reciprocal pairs,0.11795252225519288,18,43
+18,Clusters detected,0.16224571200638213,18,43
+19,MERFISH cells mapped to reciprocal pairs,0.11170962475055471,19,42
+19,Clusters detected,0.2306541683286797,19,42
+24,MERFISH cells mapped to reciprocal pairs,0.08869318865176197,24,41
+24,Clusters detected,0.22197846031112883,24,41
+25,MERFISH cells mapped to reciprocal pairs,0.13498794531947964,25,40
+25,Clusters detected,0.2483047467092142,25,40
+26,MERFISH cells mapped to reciprocal pairs,0.15277556319901597,26,39
+26,Clusters detected,0.2537893897088153,26,39
+27,MERFISH cells mapped to reciprocal pairs,0.12262286244796503,27,38
+27,Clusters detected,0.22098125249301956,27,38
+28,MERFISH cells mapped to reciprocal pairs,0.14342711230678035,28,37
+28,Clusters detected,0.23155165536497807,28,37
+29,MERFISH cells mapped to reciprocal pairs,0.1282447601508375,29,36
+29,Clusters detected,0.2167929796569605,29,36
+30,MERFISH cells mapped to reciprocal pairs,0.1429852696023475,30,35
+30,Clusters detected,0.23155165536497807,30,35
+31,MERFISH cells mapped to reciprocal pairs,0.14263981312447244,31,34
+31,Clusters detected,0.23464299960111687,31,34
+32,MERFISH cells mapped to reciprocal pairs,0.1213033350268892,32,33
+32,Clusters detected,0.2252692461108895,32,33
+33,MERFISH cells mapped to reciprocal pairs,0.11221570142645308,33,32
+33,Clusters detected,0.22467092142002393,33,32
+35,MERFISH cells mapped to reciprocal pairs,0.09279667126701958,35,31
+35,Clusters detected,0.22746310331072997,35,31
+36,MERFISH cells mapped to reciprocal pairs,0.1333419848814197,36,30
+36,Clusters detected,0.25249301954527326,36,30
+37,MERFISH cells mapped to reciprocal pairs,0.11147421194714514,37,29
+37,Clusters detected,0.21968488232947747,37,29
+38,MERFISH cells mapped to reciprocal pairs,0.13336513823590518,38,28
+38,Clusters detected,0.23723573992820104,38,28
+39,MERFISH cells mapped to reciprocal pairs,0.052099457015798135,39,27
+39,Clusters detected,0.19894295971280415,39,27
+40,MERFISH cells mapped to reciprocal pairs,0.11057233634716546,40,26
+40,Clusters detected,0.20881531711208615,40,26
+42,MERFISH cells mapped to reciprocal pairs,0.12694499891777494,42,25
+42,Clusters detected,0.19934184284004786,42,25
+43,MERFISH cells mapped to reciprocal pairs,0.1800224165844406,43,24
+43,Clusters detected,0.20432788193059434,43,24
+44,MERFISH cells mapped to reciprocal pairs,0.12839642269353788,44,23
+44,Clusters detected,0.20323095333067412,44,23
+45,MERFISH cells mapped to reciprocal pairs,0.1545386411963607,45,22
+45,Clusters detected,0.20652173913043478,45,22
+46,MERFISH cells mapped to reciprocal pairs,0.1511822787477135,46,21
+46,Clusters detected,0.19415636218587953,46,21
+47,MERFISH cells mapped to reciprocal pairs,0.15660237810775446,47,20
+47,Clusters detected,0.17999601116872757,47,20
+48,MERFISH cells mapped to reciprocal pairs,0.14273824386183936,48,19
+48,Clusters detected,0.16124850418827283,48,19
+49,MERFISH cells mapped to reciprocal pairs,0.16083659145508503,49,18
+49,Clusters detected,0.1583566015157559,49,18
+50,MERFISH cells mapped to reciprocal pairs,0.18009268795056643,50,17
+50,Clusters detected,0.14529317909852413,50,17
+51,MERFISH cells mapped to reciprocal pairs,0.12691312833250848,51,16
+51,Clusters detected,0.12495013960909454,51,16
+52,MERFISH cells mapped to reciprocal pairs,0.15681486585069304,52,15
+52,Clusters detected,0.12405265257279617,52,15
+54,MERFISH cells mapped to reciprocal pairs,0.08629292014904949,54,14
+54,Clusters detected,0.10400877542879935,54,14
+55,MERFISH cells mapped to reciprocal pairs,0.1317630285298442,55,13
+55,Clusters detected,0.10061826884722776,55,13
+56,MERFISH cells mapped to reciprocal pairs,0.16432126734245034,56,12
+56,Clusters detected,0.09094535301156761,56,12
+57,MERFISH cells mapped to reciprocal pairs,0.13302777028848747,57,11
+57,Clusters detected,0.07897885919425608,57,11
+58,MERFISH cells mapped to reciprocal pairs,0.16595554038486154,58,10
+58,Clusters detected,0.07877941763063423,58,10
+59,MERFISH cells mapped to reciprocal pairs,0.16554954775371888,59,9
+59,Clusters detected,0.0766852812126047,59,9
+60,MERFISH cells mapped to reciprocal pairs,0.16966623948292195,60,8
+60,Clusters detected,0.06830873554048664,60,8
+61,MERFISH cells mapped to reciprocal pairs,0.19313802196528443,61,7
+61,Clusters detected,0.06521739130434782,61,7
+62,MERFISH cells mapped to reciprocal pairs,0.20482300635938994,62,6
+62,Clusters detected,0.05973274830474671,62,6
+64,MERFISH cells mapped to reciprocal pairs,0.21264633071791214,64,5
+64,Clusters detected,0.0430793777423215,64,5
+66,MERFISH cells mapped to reciprocal pairs,0.16757337151037938,66,4
+66,Clusters detected,0.030714000797766254,66,4
+67,MERFISH cells mapped to reciprocal pairs,0.14702968715048093,67,3
+67,Clusters detected,0.030614280015955325,67,3
+68,MERFISH cells mapped to reciprocal pairs,0.1312640410801889,68,2
+68,Clusters detected,0.028420422816114878,68,2
+69,MERFISH cells mapped to reciprocal pairs,0.13591449889090543,69,1
+69,Clusters detected,0.027323494216194656,69,1

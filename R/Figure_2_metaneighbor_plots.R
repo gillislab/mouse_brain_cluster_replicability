@@ -1,5 +1,5 @@
 library(circlize)
-library(plotROC)
+#library(plotROC)
 library(viridis)
 library(zoo)
 library(dendextend)
@@ -98,6 +98,7 @@ ggplot(one_vs_one_p_values, aes(y=neg_log_p, x = log10(reference_size), color = 
   scale_color_manual(values = c("#4450A2", "#E21E25")) +
   geom_smooth() 
 dev.off()
+
 
 ###########
 ###########
@@ -199,6 +200,8 @@ ggplot(for_plot %>% filter(reference_study == "Zeng"), aes(x=auroc, fill = is_re
   geom_vline(data = for_plot_means %>% filter(reference_study == "Zeng"), aes(xintercept = mean_auroc, color = is_ref_recip_string), linetype = "dashed", size = 1, color = c(palette_dark(4)[2], palette(4)[2]))
 dev.off()
 
+for_plot %>% write_csv(paste0(base_folder, "/figure_source_data_files/Figure_2c-f.csv"))
+
 #Barplot of sizes
 cell_type_sizes %<>% mutate(study_id = getStudyId(cell.type))
 
@@ -220,6 +223,10 @@ ggplot(data = for_plot, aes(x = n_binned, fill = Dataset))  +
   theme(legend.position = "bottom") + scale_fill_manual(values = c("#4450A2", "#E21E25"))
 dev.off()  
 
+binned_cluster_counts <- for_plot %>%
+  count(n_binned, Dataset, name = "cluster_count") %>%
+  arrange(n_binned, Dataset)
+binned_cluster_counts %>% write_csv(paste0(base_folder, "/figure_source_data_files/Figure_2g.csv")) 
 
 top_hits %<>% inner_join(cell_type_sizes %>% select(`Study_ID|Celltype_1` = cell.type, cell_count_celltype_1 = n))
 top_hits %<>% inner_join(cell_type_sizes %>% select(`Study_ID|Celltype_2` = cell.type, cell_count_celltype_2 = n))
@@ -246,3 +253,5 @@ ggplot(top_hits %>% filter(Match_type == "Reciprocal_top_hit"), aes(y=log10(cell
            vjust = 1
   ) + scale_x_continuous(labels = convert_ticks) + scale_y_continuous(labels = convert_ticks)
 dev.off()
+
+top_hits %>% select(-Mean_AUROC, -Match_type, -`...1`) %>% write_csv(paste0(base_folder, "/figure_source_data_files/Figure_2h.csv"))

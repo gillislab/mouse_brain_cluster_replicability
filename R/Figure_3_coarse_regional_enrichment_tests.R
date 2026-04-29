@@ -87,3 +87,4 @@ ggplot(data=joined_region_counts %>% filter(!is.na(region_remap)), aes(x=region_
   theme(axis.text.x = element_text(angle = 45, hjust = 1))
 dev.off()
 
+joined_region_counts %>%  write_csv(paste0(base_folder, "/figure_source_data_files/Figure_3f.csv"))

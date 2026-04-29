@@ -9,8 +9,12 @@ studies = c('Ma_human', 'Franjic_human', 'Sepp_human', 'Ma_chimp', 'Ma_rhesus', 
 
 
 # load summary of mapping to Macosko/Zeng atlases
-df1 = read.delim('cross_species_studies_mapping_summary_Macosko.csv', sep = ',')
-df2 = read.delim('cross_species_studies_mapping_summary_Zeng.csv', sep = ',')
+
+df1 = read.delim(here('results/cross_species_studies/cross_species_studies_mapping_summary_Macosko.csv'), sep = ',')
+df2 = read.delim(here('results/cross_species_studies/cross_species_studies_mapping_summary_Zeng.csv'), sep = ',')
+
+# df1 = read.delim('cross_species_studies_mapping_summary_Macosko.csv', sep = ',')
+# df2 = read.delim('cross_species_studies_mapping_summary_Zeng.csv', sep = ',')
 
 # get average AUROC per study x whole mouse brain atlas
 t1 = df1 %>% group_by(target_study, species) %>% reframe(count = mean(AUROC))
@@ -45,3 +49,5 @@ scale_y_log10(breaks = c(0.03, 0.1, 0.3), labels = c("0.97", "0.9", "0.7")) +
 geom_text_repel() + theme_bw() + geom_abline(linetype = 'dashed', col = '#666666') + 
 theme(text = element_text(size = 14)) + xlab('Phylo time (MYA)') + ylab('Avg AUROC') 
 dev.off()
+
+t4 %>%  write_csv(paste0(base_folder, "/figure_source_data_files/Figure_5f.csv"))

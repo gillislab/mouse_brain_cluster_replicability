@@ -110,6 +110,7 @@ all_joined_centroids %<>% mutate(source = factor(source, levels = c("972_pairs",
 #remove for simplicity
 all_joined_centroids %<>% filter(source != "612_pairs")
 
+
 pdf(paste0(base_folder, "spatial_centroid_distances.pdf"), width=6, height = 4)
 ggplot(data = all_joined_centroids, aes(fill = source, x = distance)) + 
   geom_density() + theme_bw() + xlab("Distance between centroids of the pairs") + facet_wrap(. ~ source, nrow=2) +
@@ -117,7 +118,7 @@ ggplot(data = all_joined_centroids, aes(fill = source, x = distance)) +
   scale_x_continuous(limits = c(0, NA), expand = c(0, 0))
 dev.off()
 
-
+all_joined_centroids %>%  write_csv(paste0(base_folder, "/figure_source_data_files/Figure_3g.csv"))
 
 one_vs_one_AUROCs <- read_csv(paste0(base_folder, "aurocs_1v1.csv.gz"), guess_max = 200000000)
 one_vs_one_AUROCs %<>% rename(target = "...1")

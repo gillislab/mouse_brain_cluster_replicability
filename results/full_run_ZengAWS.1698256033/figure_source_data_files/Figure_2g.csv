@@ -1,0 +1,13 @@
+study_id,n_binned,Dataset,cluster_count
+Zeng,9-20,Cells,156
+Macosko,9-20,Nuclei,159
+Zeng,21-50,Cells,842
+Macosko,21-50,Nuclei,1258
+Zeng,51-100,Cells,1280
+Macosko,51-100,Nuclei,1667
+Zeng,"101-1,000",Cells,2586
+Macosko,"101-1,000",Nuclei,1649
+Zeng,"1,001-10,000",Cells,405
+Macosko,"1,001-10,000",Nuclei,254
+Zeng,"10,001-1,000,000",Cells,53
+Macosko,"10,001-1,000,000",Nuclei,43

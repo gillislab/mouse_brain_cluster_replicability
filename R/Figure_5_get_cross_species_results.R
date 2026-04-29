@@ -1,18 +1,19 @@
+library(here)
 library(dplyr)
 
 # load summary of top hits from Macosko/Zeng pretained models
-df1 = read.delim('~/results/cross_species_studies/cross_species_studies_mapping_summary_Macosko.csv', sep = ',')
-df2 = read.delim('~/results/cross_species_studies/cross_species_studies_mapping_summary_Zeng.csv', sep = ',')
+df1 = read.delim(here('results/cross_species_studies/cross_species_studies_mapping_summary_Macosko.csv'), sep = ',')
+df2 = read.delim(here('results/cross_species_studies/cross_species_studies_mapping_summary_Zeng.csv'), sep = ',')
 
 df1$ref = 'Macosko'
 df2$ref = 'Zeng'
 
 # load table with broad cell type annotations for
 # 5k clusters in Zeng and Macosko atlases
-newdf = read.delim('~/results/cross_species_studies/Zeng_Macosko_broad_celltype_annotation.tsv', sep = '\t')
+newdf = read.delim(here('results/cross_species_studies/Zeng_Macosko_broad_celltype_annotation.tsv'), sep = '\t')
 
 # load table of broad cell type annotations across sampled species
-tab1 = read.delim('~/results/cross_species_studies/cross_species_cluster_annotations.csv', sep = ',')
+tab1 = read.delim(here('results/cross_species_studies/cross_species_cluster_annotations.csv'), sep = ',')
 
 
 # ... add broad cell type annotations to Zeng/Macosko top hits summaries ... #
@@ -75,7 +76,7 @@ mat2 = newdf2[!is.na(newdf2$ref_level3) & (newdf2$ref_level3==newdf2$target_leve
 
 # load table with Zeng and Macosko clusters and their reciprocal hit (or NA)
 # in the other study
-anno = read.delim('~/results/cross_species_studies/mouse_brain_cluster_map_summary.csv', sep = ',')
+anno = read.delim(here('results/cross_species_studies/mouse_brain_cluster_map_summary.csv'), sep = ',')
 
 
 
@@ -130,5 +131,5 @@ cols1 = c('target_study', 'species', 'target_celltype', 'target_size', 'target_l
           'ref_celltype', 'is_recip', 'Zeng_recip_celltype', 'AUROC', 'ref_level1', 'ref_level2', 'ref_level3',
           'Zeng_celltype', 'Zeng_recip', 'Zeng_AUROC', 'avg_AUROC', 'evo_category')
 
-write.table(combodf[,cols1], file = '~/results/cross_species_studies/cross_species_mapping_results.tsv', sep = '\t', row.names = F,
+write.table(combodf[,cols1], file = here('results/cross_species_studies/cross_species_mapping_results.tsv'), sep = '\t', row.names = F,
            col.names = T, quote = F)

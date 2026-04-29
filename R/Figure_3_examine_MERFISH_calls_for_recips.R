@@ -169,6 +169,8 @@ ggplot(data= for_line_plot, aes(x=slice_numeric, y=value, color = name)) +
   )  + scale_color_manual(values=c("#795695", "#f2ba88")) 
 dev.off()
 
+for_line_plot %>%  write_csv(paste0(base_folder, "/figure_source_data_files/Figure_3d.csv"))
+
 #split by the two datasets
 total_Zeng <- joined$Celltype_Zeng %>% unique() %>% length()
 total_Mac <- joined$Celltype_Macosko %>% unique() %>% length()
@@ -213,6 +215,7 @@ ggplot(data = slice_summary_extra_counts, aes(x = detected_cluster_difference, y
            vjust = 1
   )
 dev.off()
+slice_summary_extra_counts %>%  write_csv(paste0(base_folder, "/figure_source_data_files/Figure_3e.csv"))
 
 
 #it would be better if we had x y z for all cells - missing 394k that weren't mapped in Zeng

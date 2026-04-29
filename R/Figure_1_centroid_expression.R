@@ -78,7 +78,7 @@ ggplot(data=gene_means_joined, aes(x = mean_exp_single_cell, y = mean_exp_single
            vjust = 1
   ) 
 dev.off()
-
+gene_means_joined %>% select(-distance_from_identity, -directioned_distance) %>% write_csv(paste0(base_folder, "/figure_source_data_files/Figure_1f.csv"))
 #for testing
 #single_nuc_centroids_matrix_full <- single_nuc_centroids_matrix_full[1:300, 1:200]
 #single_cell_centroids_matrix_full<- single_cell_centroids_matrix_full[1:300, 1:300]
